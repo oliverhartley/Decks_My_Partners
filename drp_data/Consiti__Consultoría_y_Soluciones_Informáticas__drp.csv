@@ -1,0 +1,6 @@
+Pillar,Solution (Sales Play),Product,Tier 1 Profiles Count,Tier 2 Profiles Count,Total Tier 1 & 2 Profiles
+Application Modernization,"Migrate, Modernize and Build",Cloud Run,0,1,1
+Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,0,1,1
+Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,1,0,1
+Security,Agentic Defense with Google Security,Security Command Center,0,1,1
+Security,Secure Innovation with Google Cloud,Cloud Security,1,0,1

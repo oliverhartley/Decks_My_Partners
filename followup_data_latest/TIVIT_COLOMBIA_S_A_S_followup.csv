@@ -1,0 +1,9 @@
+Production Date Alert Legend (Workloads in Stage 0-2 or 3),,,,,,,,,,,,,,,,,
+Days Remaining (Production Date),Risk Level,Alert Criteria / Stage,,,,,,,,,,,,,,,
+0 to 14 days (or overdue),🔴 Critical,Production Date <= 14 days in Stage 0-2 or 3,,,,,,,,,,,,,,,
+15 to 30 days,🌸 High,Production Date 15-30 days in Stage 0-2 or 3,,,,,,,,,,,,,,,
+31 to 45 days,🟡 Medium,Production Date 31-45 days in Stage 0-2 or 3,,,,,,,,,,,,,,,
+> 45 days (or Stage >= 4),⚪ Normal,Standard Timeline / Delivery,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+Partner Name,Customer Account Name,Account Tier,Workload Name,Capacity Status (DRP Readiness),Opportunity Name,Expert Requests,Customer Sub Region,Customer Micro Region,Primary Workload Pillar,Sales Play,Workload Solution,Workload Progress,Begin Migration Date,Production Date,Annual Gross Revenue (ARR USD),Last Touch,Link
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001kxZPMQA2/view"", ""Tivit Chile Tercerizacion De Procesos, Servicios Y Tecnologia Spa"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001hgtNQQAY/view"", ""Masisa S.A"")",2,"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000009oTvHOAU/view"", ""[Masisa] - DM - SQL Server, MySQL, PostgreSQL Modernization to PaaS"")",🔴 Capacity Gap (0 DRP Profiles),"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Opportunity/006Kf00000KZPh1IAH/view"", ""[Masisa] - DM - SQL Server, MySQL, PostgreSQL Modernization to PaaS"")","ER-387963, ER-467909",MCO,Chile,Migrate and Modernize Databases,"Migrate, Modernize, and Build with Data Cloud (Databases)","Move to Managed Databases (Homogeneous - Cloud SQL, AlloyDB, Firestore)",3:  Proposal / Negotiation,2027-01-28,2027-06-30,"80,000.00",,

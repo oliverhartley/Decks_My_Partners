@@ -1,0 +1,16 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Scratch & Temporary request files
+temp_*.json
+
+# OS artifacts
+.DS_Store
+*.log

@@ -1,0 +1,26 @@
+Pillar,Solution (Sales Play),Product,Tier 1 Profiles Count,Tier 2 Profiles Count,Total Tier 1 & 2 Profiles
+Application Modernization,"Migrate, Modernize and Build",Cloud Run,6,2,8
+Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,5,2,7
+Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,6,2,8
+Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,6,2,8
+Artificial Intelligence,Scale AI Apps and Agents,AI Applications,4,2,6
+Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,6,2,8
+Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,6,2,8
+Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,11,1,12
+Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,11,2,13
+Data & Analytics,The AI Ready Data Cloud,BigQuery,11,1,12
+Data & Analytics,The AI Ready Data Cloud,Dataflow,11,2,13
+Data & Analytics,The AI Ready Data Cloud,Dataproc,1,0,1
+Data & Analytics,The AI Ready Data Cloud,Looker,6,0,6
+Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,0,2,2
+Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,4,6,10
+Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,0,2,2
+Databases,The AI Ready Data Cloud,Cloud SQL,4,6,10
+Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,0,1,1
+Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,2,8,10
+Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,12,1,13
+Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,12,0,12
+Security,Agentic Defense with Google Security,Security Command Center,8,3,11
+Security,Agentic Defense with Google Security,Security Operations,3,8,11
+Security,Secure Innovation with Google Cloud,Cloud Security,11,2,13
+Workspace,Agentic Workplace Transformation,Workspace,2,0,2

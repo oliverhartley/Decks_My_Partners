@@ -1,0 +1,45 @@
+{
+  "requests": [
+    {
+      "addConditionalFormatRule": {
+        "rule": {
+          "ranges": [
+            {
+              "sheetId": 0,
+              "startRowIndex": 1,
+              "endRowIndex": 2000,
+              "startColumnIndex": 14,
+              "endColumnIndex": 15
+            }
+          ],
+          "booleanRule": {
+            "condition": {
+              "type": "CUSTOM_FORMULA",
+              "values": [
+                {
+                  "userEnteredValue": "=AND(OR(LEFT($M2,3)=\"0-2\",LEFT($M2,2)=\"3:\"), $O2<>\"\", (IFERROR(DATEVALUE(TEXT($O2,\"yyyy-mm-dd\")),$O2)-TODAY())<=14)"
+                }
+              ]
+            },
+            "format": {
+              "backgroundColor": {
+                "red": 0.918,
+                "green": 0.263,
+                "blue": 0.208
+              },
+              "textFormat": {
+                "bold": true,
+                "foregroundColor": {
+                  "red": 1.0,
+                  "green": 1.0,
+                  "blue": 1.0
+                }
+              }
+            }
+          }
+        },
+        "index": 0
+      }
+    }
+  ]
+}

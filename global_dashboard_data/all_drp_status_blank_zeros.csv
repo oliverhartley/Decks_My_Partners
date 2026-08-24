@@ -1,0 +1,298 @@
+Partner Name,Pillar,Solution (Sales Play),Product,Tier 1 Profiles Count,Tier 2 Profiles Count,Total Tier 1 & 2 Profiles
+Comercializadora Zenta Group SPA,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,
+Comercializadora Zenta Group SPA,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,1,1
+Comercializadora Zenta Group SPA,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,1,1
+Comercializadora Zenta Group SPA,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,1,1,2
+Comercializadora Zenta Group SPA,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,1,1,2
+Comercializadora Zenta Group SPA,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,,,
+Comercializadora Zenta Group SPA,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,1,1,2
+Comercializadora Zenta Group SPA,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,
+Comercializadora Zenta Group SPA,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,1,1,2
+Comercializadora Zenta Group SPA,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,1,1,2
+Comercializadora Zenta Group SPA,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,
+Comercializadora Zenta Group SPA,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,,
+Comercializadora Zenta Group SPA,Data & Analytics,The AI Ready Data Cloud,BigQuery,,,
+Comercializadora Zenta Group SPA,Data & Analytics,The AI Ready Data Cloud,Dataflow,,,
+Comercializadora Zenta Group SPA,Data & Analytics,The AI Ready Data Cloud,Dataproc,,,
+Comercializadora Zenta Group SPA,Data & Analytics,The AI Ready Data Cloud,Looker,,,
+Comercializadora Zenta Group SPA,Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,,
+Comercializadora Zenta Group SPA,Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,,,
+Comercializadora Zenta Group SPA,Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,,,
+Comercializadora Zenta Group SPA,Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,,
+Comercializadora Zenta Group SPA,Databases,The AI Ready Data Cloud,Cloud SQL,,,
+Comercializadora Zenta Group SPA,Databases,The AI Ready Data Cloud,Spanner,,,
+Comercializadora Zenta Group SPA,Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,,
+Comercializadora Zenta Group SPA,Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,,
+Comercializadora Zenta Group SPA,Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,,
+Comercializadora Zenta Group SPA,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,,2,2
+Comercializadora Zenta Group SPA,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,1,1,2
+Comercializadora Zenta Group SPA,Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,
+Comercializadora Zenta Group SPA,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,
+Comercializadora Zenta Group SPA,Security,Agentic Defense with Google Security,Security Command Center,,,
+Comercializadora Zenta Group SPA,Security,Agentic Defense with Google Security,Security Operations,,,
+Comercializadora Zenta Group SPA,Security,Secure Innovation with Google Cloud,Cloud Security,,,
+Comercializadora Zenta Group SPA,Workspace,Agentic Workplace Transformation,Workspace,,,
+Tech Pulse SPA (Axmos),Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,
+Tech Pulse SPA (Axmos),Application Modernization,"Migrate, Modernize and Build",Cloud Run,1,2,3
+Tech Pulse SPA (Axmos),Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,1,5,6
+Tech Pulse SPA (Axmos),Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,1,2,3
+Tech Pulse SPA (Axmos),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,1,4,5
+Tech Pulse SPA (Axmos),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,,,
+Tech Pulse SPA (Axmos),Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,1,4,5
+Tech Pulse SPA (Axmos),Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,1,1
+Tech Pulse SPA (Axmos),Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,1,4,5
+Tech Pulse SPA (Axmos),Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,1,4,5
+Tech Pulse SPA (Axmos),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,2,5,7
+Tech Pulse SPA (Axmos),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,3,3,6
+Tech Pulse SPA (Axmos),Data & Analytics,The AI Ready Data Cloud,BigQuery,2,5,7
+Tech Pulse SPA (Axmos),Data & Analytics,The AI Ready Data Cloud,Dataflow,3,3,6
+Tech Pulse SPA (Axmos),Data & Analytics,The AI Ready Data Cloud,Dataproc,,,
+Tech Pulse SPA (Axmos),Data & Analytics,The AI Ready Data Cloud,Looker,,1,1
+Tech Pulse SPA (Axmos),Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,,
+Tech Pulse SPA (Axmos),Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,5,1,6
+Tech Pulse SPA (Axmos),Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,1,3,4
+Tech Pulse SPA (Axmos),Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,,
+Tech Pulse SPA (Axmos),Databases,The AI Ready Data Cloud,Cloud SQL,5,1,6
+Tech Pulse SPA (Axmos),Databases,The AI Ready Data Cloud,Spanner,1,3,4
+Tech Pulse SPA (Axmos),Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,3,3
+Tech Pulse SPA (Axmos),Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,,
+Tech Pulse SPA (Axmos),Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,3,4,7
+Tech Pulse SPA (Axmos),Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,8,6,14
+Tech Pulse SPA (Axmos),Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,10,4,14
+Tech Pulse SPA (Axmos),Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,
+Tech Pulse SPA (Axmos),Security,Agentic Defense with Google Security,Google Threat Intelligence,,,
+Tech Pulse SPA (Axmos),Security,Agentic Defense with Google Security,Security Command Center,3,4,7
+Tech Pulse SPA (Axmos),Security,Agentic Defense with Google Security,Security Operations,2,1,3
+Tech Pulse SPA (Axmos),Security,Secure Innovation with Google Cloud,Cloud Security,8,3,11
+Tech Pulse SPA (Axmos),Workspace,Agentic Workplace Transformation,Workspace,,2,2
+Devaid SPA,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,
+Devaid SPA,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,
+Devaid SPA,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,
+Devaid SPA,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,1,1,2
+Devaid SPA,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,1,1
+Devaid SPA,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,,,
+Devaid SPA,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,1,1
+Devaid SPA,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,
+Devaid SPA,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,1,1
+Devaid SPA,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,1,1
+Devaid SPA,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,8,3,11
+Devaid SPA,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,3,5,8
+Devaid SPA,Data & Analytics,The AI Ready Data Cloud,BigQuery,8,3,11
+Devaid SPA,Data & Analytics,The AI Ready Data Cloud,Dataflow,3,5,8
+Devaid SPA,Data & Analytics,The AI Ready Data Cloud,Dataproc,,,
+Devaid SPA,Data & Analytics,The AI Ready Data Cloud,Looker,1,1,2
+Devaid SPA,Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,,
+Devaid SPA,Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,,,
+Devaid SPA,Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,,,
+Devaid SPA,Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,,
+Devaid SPA,Databases,The AI Ready Data Cloud,Cloud SQL,,,
+Devaid SPA,Databases,The AI Ready Data Cloud,Spanner,,,
+Devaid SPA,Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,1,,1
+Devaid SPA,Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,,
+Devaid SPA,Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,,
+Devaid SPA,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,,,
+Devaid SPA,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,,,
+Devaid SPA,Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,
+Devaid SPA,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,
+Devaid SPA,Security,Agentic Defense with Google Security,Security Command Center,,,
+Devaid SPA,Security,Agentic Defense with Google Security,Security Operations,,,
+Devaid SPA,Security,Secure Innovation with Google Cloud,Cloud Security,,,
+Devaid SPA,Workspace,Agentic Workplace Transformation,Workspace,,,
+UCLOUD STORE COLOMBIA S A S,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,
+UCLOUD STORE COLOMBIA S A S,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,
+UCLOUD STORE COLOMBIA S A S,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,
+UCLOUD STORE COLOMBIA S A S,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,
+UCLOUD STORE COLOMBIA S A S,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,,
+UCLOUD STORE COLOMBIA S A S,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,,,
+UCLOUD STORE COLOMBIA S A S,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,,
+UCLOUD STORE COLOMBIA S A S,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,
+UCLOUD STORE COLOMBIA S A S,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,,
+UCLOUD STORE COLOMBIA S A S,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,,
+UCLOUD STORE COLOMBIA S A S,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,
+UCLOUD STORE COLOMBIA S A S,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,,
+UCLOUD STORE COLOMBIA S A S,Data & Analytics,The AI Ready Data Cloud,BigQuery,,,
+UCLOUD STORE COLOMBIA S A S,Data & Analytics,The AI Ready Data Cloud,Dataflow,,,
+UCLOUD STORE COLOMBIA S A S,Data & Analytics,The AI Ready Data Cloud,Dataproc,,,
+UCLOUD STORE COLOMBIA S A S,Data & Analytics,The AI Ready Data Cloud,Looker,,,
+UCLOUD STORE COLOMBIA S A S,Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,,
+UCLOUD STORE COLOMBIA S A S,Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,,,
+UCLOUD STORE COLOMBIA S A S,Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,,,
+UCLOUD STORE COLOMBIA S A S,Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,,
+UCLOUD STORE COLOMBIA S A S,Databases,The AI Ready Data Cloud,Cloud SQL,,,
+UCLOUD STORE COLOMBIA S A S,Databases,The AI Ready Data Cloud,Spanner,,,
+UCLOUD STORE COLOMBIA S A S,Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,,
+UCLOUD STORE COLOMBIA S A S,Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,,
+UCLOUD STORE COLOMBIA S A S,Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,,
+UCLOUD STORE COLOMBIA S A S,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,,,
+UCLOUD STORE COLOMBIA S A S,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,,,
+UCLOUD STORE COLOMBIA S A S,Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,
+UCLOUD STORE COLOMBIA S A S,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,
+UCLOUD STORE COLOMBIA S A S,Security,Agentic Defense with Google Security,Security Command Center,,,
+UCLOUD STORE COLOMBIA S A S,Security,Agentic Defense with Google Security,Security Operations,,,
+UCLOUD STORE COLOMBIA S A S,Security,Secure Innovation with Google Cloud,Cloud Security,,,
+UCLOUD STORE COLOMBIA S A S,Workspace,Agentic Workplace Transformation,Workspace,,,
+TIVIT COLOMBIA S A S,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,
+TIVIT COLOMBIA S A S,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,1,1
+TIVIT COLOMBIA S A S,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,
+TIVIT COLOMBIA S A S,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,
+TIVIT COLOMBIA S A S,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,1,1,2
+TIVIT COLOMBIA S A S,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,,,
+TIVIT COLOMBIA S A S,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,1,1,2
+TIVIT COLOMBIA S A S,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,
+TIVIT COLOMBIA S A S,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,1,1,2
+TIVIT COLOMBIA S A S,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,1,1,2
+TIVIT COLOMBIA S A S,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,1,4,5
+TIVIT COLOMBIA S A S,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,1,1
+TIVIT COLOMBIA S A S,Data & Analytics,The AI Ready Data Cloud,BigQuery,1,4,5
+TIVIT COLOMBIA S A S,Data & Analytics,The AI Ready Data Cloud,Dataflow,,1,1
+TIVIT COLOMBIA S A S,Data & Analytics,The AI Ready Data Cloud,Dataproc,,,
+TIVIT COLOMBIA S A S,Data & Analytics,The AI Ready Data Cloud,Looker,,,
+TIVIT COLOMBIA S A S,Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,,
+TIVIT COLOMBIA S A S,Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,,3,3
+TIVIT COLOMBIA S A S,Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,,,
+TIVIT COLOMBIA S A S,Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,,
+TIVIT COLOMBIA S A S,Databases,The AI Ready Data Cloud,Cloud SQL,,3,3
+TIVIT COLOMBIA S A S,Databases,The AI Ready Data Cloud,Spanner,,,
+TIVIT COLOMBIA S A S,Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,2,2
+TIVIT COLOMBIA S A S,Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,4,3,7
+TIVIT COLOMBIA S A S,Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,2,2
+TIVIT COLOMBIA S A S,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,6,,6
+TIVIT COLOMBIA S A S,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,6,1,7
+TIVIT COLOMBIA S A S,Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,
+TIVIT COLOMBIA S A S,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,
+TIVIT COLOMBIA S A S,Security,Agentic Defense with Google Security,Security Command Center,5,,5
+TIVIT COLOMBIA S A S,Security,Agentic Defense with Google Security,Security Operations,5,,5
+TIVIT COLOMBIA S A S,Security,Secure Innovation with Google Cloud,Cloud Security,5,1,6
+TIVIT COLOMBIA S A S,Workspace,Agentic Workplace Transformation,Workspace,,,
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Application Modernization,"Migrate, Modernize and Build",Cloud Run,1,1,2
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,4,1,5
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,1,1
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,,
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,,,
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,,
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,,
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,,
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,1,1
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,1,,1
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Data & Analytics,The AI Ready Data Cloud,BigQuery,,1,1
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Data & Analytics,The AI Ready Data Cloud,Dataflow,1,,1
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Data & Analytics,The AI Ready Data Cloud,Dataproc,,,
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Data & Analytics,The AI Ready Data Cloud,Looker,,,
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,,
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,1,2,3
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,,,
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,,
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Databases,The AI Ready Data Cloud,Cloud SQL,1,2,3
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Databases,The AI Ready Data Cloud,Spanner,,,
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,,
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,,
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,,
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,2,2,4
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,5,1,6
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Security,Agentic Defense with Google Security,Google Threat Intelligence,,,
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Security,Agentic Defense with Google Security,Security Command Center,2,,2
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Security,Agentic Defense with Google Security,Security Operations,3,1,4
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Security,Secure Innovation with Google Cloud,Cloud Security,,1,1
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Workspace,Agentic Workplace Transformation,Workspace,4,2,6
+MadeinWeb S/A,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,
+MadeinWeb S/A,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,
+MadeinWeb S/A,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,
+MadeinWeb S/A,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,1,1
+MadeinWeb S/A,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,4,,4
+MadeinWeb S/A,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,,,
+MadeinWeb S/A,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,4,,4
+MadeinWeb S/A,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,1,2,3
+MadeinWeb S/A,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,4,,4
+MadeinWeb S/A,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,4,,4
+MadeinWeb S/A,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,
+MadeinWeb S/A,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,,
+MadeinWeb S/A,Data & Analytics,The AI Ready Data Cloud,BigQuery,,,
+MadeinWeb S/A,Data & Analytics,The AI Ready Data Cloud,Dataflow,,,
+MadeinWeb S/A,Data & Analytics,The AI Ready Data Cloud,Dataproc,,,
+MadeinWeb S/A,Data & Analytics,The AI Ready Data Cloud,Looker,,,
+MadeinWeb S/A,Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,,
+MadeinWeb S/A,Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,,,
+MadeinWeb S/A,Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,,,
+MadeinWeb S/A,Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,,
+MadeinWeb S/A,Databases,The AI Ready Data Cloud,Cloud SQL,,,
+MadeinWeb S/A,Databases,The AI Ready Data Cloud,Spanner,,,
+MadeinWeb S/A,Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,,
+MadeinWeb S/A,Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,,
+MadeinWeb S/A,Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,,
+MadeinWeb S/A,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,,,
+MadeinWeb S/A,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,,,
+MadeinWeb S/A,Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,
+MadeinWeb S/A,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,
+MadeinWeb S/A,Security,Agentic Defense with Google Security,Security Command Center,,,
+MadeinWeb S/A,Security,Agentic Defense with Google Security,Security Operations,,,
+MadeinWeb S/A,Security,Secure Innovation with Google Cloud,Cloud Security,,,
+MadeinWeb S/A,Workspace,Agentic Workplace Transformation,Workspace,,,
+CU2 CLOUD TEC STORE SL,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,
+CU2 CLOUD TEC STORE SL,Application Modernization,"Migrate, Modernize and Build",Cloud Run,6,2,8
+CU2 CLOUD TEC STORE SL,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,5,2,7
+CU2 CLOUD TEC STORE SL,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,
+CU2 CLOUD TEC STORE SL,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,6,2,8
+CU2 CLOUD TEC STORE SL,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,,,
+CU2 CLOUD TEC STORE SL,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,6,2,8
+CU2 CLOUD TEC STORE SL,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,4,2,6
+CU2 CLOUD TEC STORE SL,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,6,2,8
+CU2 CLOUD TEC STORE SL,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,6,2,8
+CU2 CLOUD TEC STORE SL,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,11,1,12
+CU2 CLOUD TEC STORE SL,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,11,2,13
+CU2 CLOUD TEC STORE SL,Data & Analytics,The AI Ready Data Cloud,BigQuery,11,1,12
+CU2 CLOUD TEC STORE SL,Data & Analytics,The AI Ready Data Cloud,Dataflow,11,2,13
+CU2 CLOUD TEC STORE SL,Data & Analytics,The AI Ready Data Cloud,Dataproc,1,,1
+CU2 CLOUD TEC STORE SL,Data & Analytics,The AI Ready Data Cloud,Looker,6,,6
+CU2 CLOUD TEC STORE SL,Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,2,2
+CU2 CLOUD TEC STORE SL,Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,4,6,10
+CU2 CLOUD TEC STORE SL,Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,,,
+CU2 CLOUD TEC STORE SL,Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,2,2
+CU2 CLOUD TEC STORE SL,Databases,The AI Ready Data Cloud,Cloud SQL,4,6,10
+CU2 CLOUD TEC STORE SL,Databases,The AI Ready Data Cloud,Spanner,,,
+CU2 CLOUD TEC STORE SL,Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,,
+CU2 CLOUD TEC STORE SL,Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,1,1
+CU2 CLOUD TEC STORE SL,Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,2,8,10
+CU2 CLOUD TEC STORE SL,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,12,1,13
+CU2 CLOUD TEC STORE SL,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,12,,12
+CU2 CLOUD TEC STORE SL,Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,
+CU2 CLOUD TEC STORE SL,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,
+CU2 CLOUD TEC STORE SL,Security,Agentic Defense with Google Security,Security Command Center,8,3,11
+CU2 CLOUD TEC STORE SL,Security,Agentic Defense with Google Security,Security Operations,3,8,11
+CU2 CLOUD TEC STORE SL,Security,Secure Innovation with Google Cloud,Cloud Security,11,2,13
+CU2 CLOUD TEC STORE SL,Workspace,Agentic Workplace Transformation,Workspace,2,,2
+Consiti (Consultoría y Soluciones Informáticas),Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,
+Consiti (Consultoría y Soluciones Informáticas),Application Modernization,"Migrate, Modernize and Build",Cloud Run,,1,1
+Consiti (Consultoría y Soluciones Informáticas),Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,
+Consiti (Consultoría y Soluciones Informáticas),Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,
+Consiti (Consultoría y Soluciones Informáticas),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,,
+Consiti (Consultoría y Soluciones Informáticas),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,,,
+Consiti (Consultoría y Soluciones Informáticas),Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,,
+Consiti (Consultoría y Soluciones Informáticas),Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,
+Consiti (Consultoría y Soluciones Informáticas),Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,,
+Consiti (Consultoría y Soluciones Informáticas),Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,,
+Consiti (Consultoría y Soluciones Informáticas),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,
+Consiti (Consultoría y Soluciones Informáticas),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,,
+Consiti (Consultoría y Soluciones Informáticas),Data & Analytics,The AI Ready Data Cloud,BigQuery,,,
+Consiti (Consultoría y Soluciones Informáticas),Data & Analytics,The AI Ready Data Cloud,Dataflow,,,
+Consiti (Consultoría y Soluciones Informáticas),Data & Analytics,The AI Ready Data Cloud,Dataproc,,,
+Consiti (Consultoría y Soluciones Informáticas),Data & Analytics,The AI Ready Data Cloud,Looker,,,
+Consiti (Consultoría y Soluciones Informáticas),Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,,
+Consiti (Consultoría y Soluciones Informáticas),Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,,,
+Consiti (Consultoría y Soluciones Informáticas),Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,,,
+Consiti (Consultoría y Soluciones Informáticas),Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,,
+Consiti (Consultoría y Soluciones Informáticas),Databases,The AI Ready Data Cloud,Cloud SQL,,,
+Consiti (Consultoría y Soluciones Informáticas),Databases,The AI Ready Data Cloud,Spanner,,,
+Consiti (Consultoría y Soluciones Informáticas),Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,,
+Consiti (Consultoría y Soluciones Informáticas),Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,,
+Consiti (Consultoría y Soluciones Informáticas),Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,,
+Consiti (Consultoría y Soluciones Informáticas),Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,,1,1
+Consiti (Consultoría y Soluciones Informáticas),Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,1,,1
+Consiti (Consultoría y Soluciones Informáticas),Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,
+Consiti (Consultoría y Soluciones Informáticas),Security,Agentic Defense with Google Security,Google Threat Intelligence,,,
+Consiti (Consultoría y Soluciones Informáticas),Security,Agentic Defense with Google Security,Security Command Center,,1,1
+Consiti (Consultoría y Soluciones Informáticas),Security,Agentic Defense with Google Security,Security Operations,,,
+Consiti (Consultoría y Soluciones Informáticas),Security,Secure Innovation with Google Cloud,Cloud Security,1,,1
+Consiti (Consultoría y Soluciones Informáticas),Workspace,Agentic Workplace Transformation,Workspace,,,

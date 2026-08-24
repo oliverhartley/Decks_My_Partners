@@ -1,0 +1,20 @@
+Pillar,Solution (Sales Play),Product,Tier 1 Profiles Count,Tier 2 Profiles Count,Total Tier 1 & 2 Profiles
+Application Modernization,"Migrate, Modernize and Build",Cloud Run,0,1,1
+Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,1,1,2
+Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,1,1,2
+Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,1,1,2
+Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,1,1,2
+Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,1,4,5
+Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,0,1,1
+Data & Analytics,The AI Ready Data Cloud,BigQuery,1,4,5
+Data & Analytics,The AI Ready Data Cloud,Dataflow,0,1,1
+Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,0,3,3
+Databases,The AI Ready Data Cloud,Cloud SQL,0,3,3
+Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,0,2,2
+Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,4,3,7
+Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,0,2,2
+Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,6,0,6
+Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,6,1,7
+Security,Agentic Defense with Google Security,Security Command Center,5,0,5
+Security,Agentic Defense with Google Security,Security Operations,5,0,5
+Security,Secure Innovation with Google Cloud,Cloud Security,5,1,6

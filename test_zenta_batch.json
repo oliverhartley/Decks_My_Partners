@@ -1,0 +1,121 @@
+{
+  "requests": [
+    {
+      "deleteConditionalFormatRule": {
+        "sheetId": 0,
+        "index": 0
+      }
+    },
+    {
+      "deleteConditionalFormatRule": {
+        "sheetId": 0,
+        "index": 0
+      }
+    },
+    {
+      "deleteConditionalFormatRule": {
+        "sheetId": 0,
+        "index": 0
+      }
+    },
+    {
+      "addConditionalFormatRule": {
+        "rule": {
+          "ranges": [
+            {
+              "sheetId": 0,
+              "startRowIndex": 8,
+              "endRowIndex": 2000,
+              "startColumnIndex": 0,
+              "endColumnIndex": 18
+            }
+          ],
+          "booleanRule": {
+            "condition": {
+              "type": "CUSTOM_FORMULA",
+              "values": [
+                {
+                  "userEnteredValue": "=AND(OR(LEFT($M9,3)=\"0-2\",LEFT($M9,2)=\"3:\"), $O9<>\"\", ($O9-TODAY())<=14)"
+                }
+              ]
+            },
+            "format": {
+              "backgroundColor": {
+                "red": 0.949,
+                "green": 0.545,
+                "blue": 0.51
+              }
+            }
+          }
+        },
+        "index": 0
+      }
+    },
+    {
+      "addConditionalFormatRule": {
+        "rule": {
+          "ranges": [
+            {
+              "sheetId": 0,
+              "startRowIndex": 8,
+              "endRowIndex": 2000,
+              "startColumnIndex": 0,
+              "endColumnIndex": 18
+            }
+          ],
+          "booleanRule": {
+            "condition": {
+              "type": "CUSTOM_FORMULA",
+              "values": [
+                {
+                  "userEnteredValue": "=AND(OR(LEFT($M9,3)=\"0-2\",LEFT($M9,2)=\"3:\"), $O9<>\"\", ($O9-TODAY())>=15, ($O9-TODAY())<=30)"
+                }
+              ]
+            },
+            "format": {
+              "backgroundColor": {
+                "red": 0.988,
+                "green": 0.91,
+                "blue": 0.902
+              }
+            }
+          }
+        },
+        "index": 1
+      }
+    },
+    {
+      "addConditionalFormatRule": {
+        "rule": {
+          "ranges": [
+            {
+              "sheetId": 0,
+              "startRowIndex": 8,
+              "endRowIndex": 2000,
+              "startColumnIndex": 0,
+              "endColumnIndex": 18
+            }
+          ],
+          "booleanRule": {
+            "condition": {
+              "type": "CUSTOM_FORMULA",
+              "values": [
+                {
+                  "userEnteredValue": "=AND(OR(LEFT($M9,3)=\"0-2\",LEFT($M9,2)=\"3:\"), $O9<>\"\", ($O9-TODAY())>=31, ($O9-TODAY())<=45)"
+                }
+              ]
+            },
+            "format": {
+              "backgroundColor": {
+                "red": 1.0,
+                "green": 0.949,
+                "blue": 0.8
+              }
+            }
+          }
+        },
+        "index": 2
+      }
+    }
+  ]
+}

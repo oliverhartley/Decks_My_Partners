@@ -1,0 +1,34 @@
+Pillar,Solution (Sales Play),Product,Tier 1 Profiles Count,Tier 2 Profiles Count,Total Tier 1 & 2 Profiles
+Application Modernization,"Migrate, Modernize and Build",Apigee API Management,0,0,0
+Application Modernization,"Migrate, Modernize and Build",Cloud Run,0,1,1
+Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,0,1,1
+Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,1,1,2
+Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,1,1,2
+Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,0,0,0
+Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,1,1,2
+Artificial Intelligence,Scale AI Apps and Agents,AI Applications,0,0,0
+Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,1,1,2
+Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,1,1,2
+Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,0,0,0
+Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,0,0,0
+Data & Analytics,The AI Ready Data Cloud,BigQuery,0,0,0
+Data & Analytics,The AI Ready Data Cloud,Dataflow,0,0,0
+Data & Analytics,The AI Ready Data Cloud,Dataproc,0,0,0
+Data & Analytics,The AI Ready Data Cloud,Looker,0,0,0
+Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,0,0,0
+Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,0,0,0
+Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,0,0,0
+Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,0,0,0
+Databases,The AI Ready Data Cloud,Cloud SQL,0,0,0
+Databases,The AI Ready Data Cloud,Spanner,0,0,0
+Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,0,0,0
+Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,0,0,0
+Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,0,0,0
+Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,0,2,2
+Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,1,1,2
+Infrastructure Modernization,Sovereignty,Google Distributed Cloud,0,0,0
+Security,Agentic Defense with Google Security,Google Threat Intelligence,0,0,0
+Security,Agentic Defense with Google Security,Security Command Center,0,0,0
+Security,Agentic Defense with Google Security,Security Operations,0,0,0
+Security,Secure Innovation with Google Cloud,Cloud Security,0,0,0
+Workspace,Agentic Workplace Transformation,Workspace,0,0,0

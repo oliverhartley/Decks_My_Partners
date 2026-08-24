@@ -1,0 +1,34 @@
+Pillar,Solution (Sales Play),Product,Tier 1 Profiles Count,Tier 2 Profiles Count,Total Tier 1 & 2 Profiles,Capacity Status (DRP vs Workloads)
+Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,🔴 Gap (0 / 8 wkls)
+Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,🔴 Gap (0 / 8 wkls)
+Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,🔴 Gap (0 / 8 wkls)
+Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,1,1,🟡 Constrained (1 / 21 wkls)
+Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,4,,4,🟡 Constrained (4 / 21 wkls)
+Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,,,,🔴 Gap (0 / 21 wkls)
+Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,4,,4,🟡 Constrained (4 / 21 wkls)
+Artificial Intelligence,Scale AI Apps and Agents,AI Applications,1,2,3,🟡 Constrained (3 / 21 wkls)
+Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,4,,4,🟡 Constrained (4 / 21 wkls)
+Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,4,,4,🟡 Constrained (4 / 21 wkls)
+Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,,⚪ No Active Demand
+Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,,,⚪ No Active Demand
+Data & Analytics,The AI Ready Data Cloud,BigQuery,,,,⚪ No Active Demand
+Data & Analytics,The AI Ready Data Cloud,Dataflow,,,,⚪ No Active Demand
+Data & Analytics,The AI Ready Data Cloud,Dataproc,,,,⚪ No Active Demand
+Data & Analytics,The AI Ready Data Cloud,Looker,,,,⚪ No Active Demand
+Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,,,🔴 Gap (0 / 1 wkls)
+Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,,,,🔴 Gap (0 / 1 wkls)
+Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,,,,🔴 Gap (0 / 1 wkls)
+Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,,,🔴 Gap (0 / 1 wkls)
+Databases,The AI Ready Data Cloud,Cloud SQL,,,,🔴 Gap (0 / 1 wkls)
+Databases,The AI Ready Data Cloud,Spanner,,,,🔴 Gap (0 / 1 wkls)
+Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,,,🔴 Gap (0 / 8 wkls)
+Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,,,🔴 Gap (0 / 8 wkls)
+Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,,,🔴 Gap (0 / 8 wkls)
+Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,,,,🔴 Gap (0 / 8 wkls)
+Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,,,,🔴 Gap (0 / 8 wkls)
+Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,🔴 Gap (0 / 8 wkls)
+Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
+Security,Agentic Defense with Google Security,Security Command Center,,,,⚪ No Active Demand
+Security,Agentic Defense with Google Security,Security Operations,,,,⚪ No Active Demand
+Security,Secure Innovation with Google Cloud,Cloud Security,,,,⚪ No Active Demand
+Workspace,Agentic Workplace Transformation,Workspace,,,,⚪ No Active Demand
