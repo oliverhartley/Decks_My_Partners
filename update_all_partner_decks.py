@@ -16,133 +16,359 @@ DATE_FORMATTED = f"{now.day} - {now.strftime('%b')} {now.year}"
 
 PARTNERS = [
     {
-        "partner": "Comercializadora Zenta Group SPA",
-        "sheet_id": "1xG-27ye3Wk4ob9nr3N08KP2a1ufaPRCxAP4o93NKj1Q",
-        "partner_ids": ["0014M00001h39BLQAY", "0014M00001m9woLQAQ", "001Kf000012gqs3IAA"],
-        "cert_pids": ["0014M00001h39BLQAY", "0014M00001m9woLQAQ", "001Kf000012gqs3IAA"],
-        "drp_keys": ["P20220602109", "0014M00001h39BLQAY", "0014M00001m9woLQAQ"],
-        "default_pid": "0014M00001h39BLQAY",
+        "partner": "Admazing Cloud",
+        "pe": "Fernando Laguna",
+        "sheet_id": "1ofym1wCiQW6kz0z-vewGIh_XQ72GzuwoiTFmS0GLRB0",
+        "partner_ids": [
+            "0014M00002NlVN0QAN",
+            "0014M00002TEyhPQAT"
+        ],
+        "cert_pids": [
+            "0014M00002NlVN0QAN",
+            "0014M00002TEyhPQAT"
+        ],
+        "drp_keys": [
+            "P20240920001"
+        ],
+        "default_pid": "0014M00002NlVN0QAN",
+        "country": "Argentina / MCO",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "Algeiba Business Solutions",
+        "pe": "Fernando Laguna",
+        "sheet_id": "1cVqPG7f33IsKQ3702M_1YyzAMSm2UfjExFuRoHo9rRc",
+        "partner_ids": [
+            "0014M00001h31YIQAY",
+            "0014M00001jQcppQAC",
+            "0014M00001h32gOQAQ",
+            "001Kf000010diABIAY"
+        ],
+        "cert_pids": [
+            "0014M00001h31YIQAY",
+            "0014M00001jQcppQAC",
+            "0014M00001h32gOQAQ",
+            "001Kf000010diABIAY"
+        ],
+        "drp_keys": [
+            "P20220923016"
+        ],
+        "default_pid": "0014M00001h32gOQAQ",
+        "country": "Argentina / MCO",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "BFS Ingeniería Aplicada",
+        "pe": "Fernando Laguna",
+        "sheet_id": "1sZlGmDoTeKj7WSbZZybw7hGYPV7ELAnCeprQAzD1WgU",
+        "partner_ids": [
+            "0014M00001h35dDQAQ",
+            "0014M00001h37s3QAA"
+        ],
+        "cert_pids": [
+            "0014M00001h35dDQAQ",
+            "0014M00001h37s3QAA"
+        ],
+        "drp_keys": [
+            "0014M00001h35dDQAQ",
+            "0014M00001h37s3QAA"
+        ],
+        "default_pid": "0014M00001h35dDQAQ",
+        "country": "Mexico / MCO",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "Rubik",
+        "pe": "Fernando Laguna",
+        "sheet_id": "12tvcHWz0q48DgSPZcGqQsQtGd36MnAk_bhQRx4u5axs",
+        "partner_ids": [
+            "0014M00001h3Ay3QAE",
+            "0014M00001h35xNQAQ",
+            "0014M00002ROupzQAD",
+            "0014M00001h32BeQAI",
+            "0014M00002LU7SJQA1",
+            "0014M00002LM9DXQA1",
+            "0014M00002GH3xjQAD",
+            "0014M00001h35xxQAA",
+            "0014M00002RQXE7QAP",
+            "0014M00002RSBX5QAP",
+            "001Kf000019zlsUIAQ",
+            "0014M00001yTHnfQAG",
+            "0014M00001yRzGmQAK",
+            "0014M00001oXcWHQA0",
+            "0014M00001h38E4QAI"
+        ],
+        "cert_pids": [
+            "0014M00001h3Ay3QAE",
+            "0014M00001h35xNQAQ",
+            "0014M00002ROupzQAD",
+            "0014M00001h32BeQAI",
+            "0014M00002LU7SJQA1",
+            "0014M00002LM9DXQA1",
+            "0014M00002GH3xjQAD",
+            "0014M00001h35xxQAA",
+            "0014M00002RQXE7QAP",
+            "0014M00002RSBX5QAP",
+            "001Kf000019zlsUIAQ",
+            "0014M00001yTHnfQAG",
+            "0014M00001yRzGmQAK",
+            "0014M00001oXcWHQA0",
+            "0014M00001h38E4QAI"
+        ],
+        "drp_keys": [
+            "0014M00001h3Ay3QAE",
+            "0014M00001h35xNQAQ",
+            "0014M00002ROupzQAD"
+        ],
+        "default_pid": "0014M00002RSBX5QAP",
+        "country": "Chile / MCO",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "Super Software",
+        "pe": "Fernando Laguna",
+        "sheet_id": "1Z27kkt7CrAH_AnV1GYQ51MYQJIrKOutKPM2tHF-iYdQ",
+        "partner_ids": [
+            "0014M00001p45vjQAA"
+        ],
+        "cert_pids": [
+            "0014M00001p45vjQAA"
+        ],
+        "drp_keys": [
+            "0014M00001p45vjQAA"
+        ],
+        "default_pid": "0014M00001p45vjQAA",
         "country": "Chile",
         "tier_level": "Premier"
     },
     {
-        "partner": "Tech Pulse SPA (Axmos)",
-        "sheet_id": "1qWdLgRDmHG9wMGjiOZ1fJvj4AmHbfKwrBPpuV8r2uwI",
-        "partner_ids": ["0014M00002JmizDQAR", "001Kf00001G4DmBIAV", "001Kf0000149iw9IAA"],
-        "cert_pids": ["0014M00002JmizDQAR", "001Kf00001G4DmBIAV", "001Kf0000149iw9IAA"],
-        "drp_keys": ["P20260318001", "0014M00002JmizDQAR"],
-        "default_pid": "0014M00002JmizDQAR",
-        "country": "Chile",
+        "partner": "Tigabytes",
+        "pe": "Fernando Laguna",
+        "sheet_id": "1SkQLFoP2BQouGKutI5G14bxLiYZM4qsfM-Z30cj-unY",
+        "partner_ids": [
+            "0014M00001h39C2QAI",
+            "0014M00001h32CTQAY",
+            "0014M00001h38afQAA"
+        ],
+        "cert_pids": [
+            "0014M00001h39C2QAI",
+            "0014M00001h32CTQAY",
+            "0014M00001h38afQAA"
+        ],
+        "drp_keys": [
+            "P20220602092"
+        ],
+        "default_pid": "0014M00001h32CTQAY",
+        "country": "Chile / Regional",
         "tier_level": "Premier"
     },
     {
-        "partner": "Devaid SPA",
-        "sheet_id": "1UqYI0iTbxFL1f8ohC3e-uMQCD2we_8Ne3ODmDjnT8U8",
-        "partner_ids": ["0014M00001h38aiQAA", "0014M00001m9sVvQAI"],
-        "cert_pids": ["0014M00001h38aiQAA", "0014M00001m9sVvQAI"],
-        "drp_keys": ["P20220923084", "0014M00001h38aiQAA"],
-        "default_pid": "0014M00001h38aiQAA",
-        "country": "Chile",
-        "tier_level": "Premier"
-    },
-    {
-        "partner": "UCLOUD STORE COLOMBIA S A S",
-        "sheet_id": "1yOtNpVu8O8QQFeRx96s8TmgUtKcXAHYBdsoiZSmnSOI",
-        "partner_ids": ["0014M00002M7lcJQAR"],
-        "cert_pids": ["0014M00002M7lcJQAR"],
-        "drp_keys": ["0014M00002M7lcJQAR"],
-        "default_pid": "0014M00002M7lcJQAR",
-        "country": "Colombia",
-        "tier_level": "Premier"
-    },
-    {
-        "partner": "TIVIT COLOMBIA S A S",
-        "sheet_id": "1nUwpOaqhvpBmVoEb7i_M3C18jhmrJ7bQ1mrfwyXo02o",
-        "partner_ids": ["001Kf0000150rJ2IAI", "0014M00001kxZPMQA2", "0014M00001m9v8HQAQ"],
-        "cert_pids": ["0014M00001kxZPMQA2", "001Kf0000150rJ2IAI", "0014M00001m9v8HQAQ"],
-        "drp_keys": ["P20220923297", "0014M00001kxZPMQA2", "001Kf0000150rJ2IAI"],
-        "default_pid": "0014M00001kxZPMQA2",
-        "country": "Colombia / Regional",
-        "tier_level": "Premier"
-    },
-    {
-        "partner": "VPN Soluçoes em TI LTDA (Venha para Nuvem)",
-        "sheet_id": "1zcIQXnDbrR_WRhciVOD0XCN8RXK0_gHT0MUSExcqBbo",
-        "partner_ids": ["0014M00001uFlbSQAS", "0014M00002C1I0PQAV"],
-        "cert_pids": ["0014M00001uFlbSQAS", "0014M00002C1I0PQAV"],
-        "drp_keys": ["P20220602104", "0014M00001uFlbSQAS"],
-        "default_pid": "0014M00001uFlbSQAS",
-        "country": "Brazil",
-        "tier_level": "Premier"
-    },
-    {
-        "partner": "MadeinWeb S/A",
-        "sheet_id": "1K2_rFQ5tFMvvk_DnRNxbg3iJ9ZP-MkXtrrcuo04qTOI",
-        "partner_ids": ["0014M00002GGNRCQA5", "001Kf000013hWaOIAU"],
-        "cert_pids": ["0014M00002GGNRCQA5", "001Kf000013hWaOIAU"],
-        "drp_keys": ["P20231208017", "0014M00002GGNRCQA5"],
-        "default_pid": "0014M00002GGNRCQA5",
-        "country": "Brazil",
+        "partner": "Xertica",
+        "pe": "Fernando Laguna",
+        "sheet_id": "15t2IBgfMPcYUoQSXdRjjg8XCrM5jOu6qSgic5NzqUNs",
+        "partner_ids": [
+            "0014M00001h32ptQAA",
+            "001Kf00001HDYb8IAH",
+            "0014M00001h32DhQAI",
+            "0014M000029TjdHQAS",
+            "0014M000029WGRzQAO",
+            "0014M00001h3Aw8QAE",
+            "0014M00001h34zJQAQ",
+            "0014M00001reUJRQA2",
+            "0014M00001jjfBUQAY",
+            "0014M00001h36EIQAY",
+            "0014M00001h323oQAA",
+            "0014M00002OSpJ8QAL"
+        ],
+        "cert_pids": [
+            "0014M00001h32ptQAA",
+            "001Kf00001HDYb8IAH",
+            "0014M00001h32DhQAI",
+            "0014M000029TjdHQAS",
+            "0014M000029WGRzQAO",
+            "0014M00001h3Aw8QAE",
+            "0014M00001h34zJQAQ",
+            "0014M00001reUJRQA2",
+            "0014M00001jjfBUQAY",
+            "0014M00001h36EIQAY",
+            "0014M00001h323oQAA",
+            "0014M00002OSpJ8QAL"
+        ],
+        "drp_keys": [
+            "P20220428035"
+        ],
+        "default_pid": "0014M00001jjfBUQAY",
+        "country": "Regional / LATAM",
         "tier_level": "Premier"
     },
     {
         "partner": "CU2 CLOUD TEC STORE SL",
+        "pe": "Ignacio Rauda",
         "sheet_id": "1oPv0eexAbvaP_sGQx70X8gEiooR9dXCFuFv1QDFhUew",
-        "partner_ids": ["0014M00001h35nAQAQ", "0014M00001w6MZzQAM", "0014M00002M7ryLQAR", "001Kf000010ctuwIAA", "001Kf000010cw8CIAQ", "0014M00002N5mLOQAZ"],
-        "cert_pids": ["0014M00001h35nAQAQ", "0014M00001w6MZzQAM", "0014M00002M7ryLQAR", "001Kf000010ctuwIAA", "0014M00002N5mLOQAZ"],
-        "drp_keys": ["P20220923048", "0014M00001h35nAQAQ"],
+        "partner_ids": [
+            "0014M00001h35nAQAQ",
+            "0014M00001w6MZzQAM",
+            "0014M00002M7ryLQAR",
+            "001Kf000010ctuwIAA",
+            "001Kf000010cw8CIAQ",
+            "0014M00002N5mLOQAZ"
+        ],
+        "cert_pids": [
+            "0014M00001h35nAQAQ",
+            "0014M00001w6MZzQAM",
+            "0014M00002M7ryLQAR",
+            "001Kf000010ctuwIAA",
+            "0014M00002N5mLOQAZ"
+        ],
+        "drp_keys": [
+            "P20220923048",
+            "0014M00001h35nAQAQ"
+        ],
         "default_pid": "0014M00001h35nAQAQ",
         "country": "Regional / Spain & LATAM",
         "tier_level": "Premier"
     },
     {
-        "partner": "Consiti (Consultoría y Soluciones Informáticas)",
-        "sheet_id": "1jsiE3qCJxv5EnxnKJzBdoNFOENc1HA8TdlEXGgnUelo",
-        "partner_ids": ["001Kf000013fuVXIAY", "001Kf00001FoCy9IAF"],
-        "cert_pids": ["001Kf000013fuVXIAY", "001Kf00001FoCy9IAF"],
-        "drp_keys": ["001Kf000013fuVXIAY", "001Kf00001FoCy9IAF"],
-        "default_pid": "001Kf000013fuVXIAY",
-        "country": "El Salvador / Central America",
+        "partner": "Emergys Mexico",
+        "pe": "Ignacio Rauda",
+        "sheet_id": "1hikFFuQ0QpDgBY_FtnLcqHpUiASexgSGsPYrCZUNMY4",
+        "partner_ids": [
+            "0014M00001msBmRQAU"
+        ],
+        "cert_pids": [
+            "0014M00001msBmRQAU"
+        ],
+        "drp_keys": [
+            "P20220923099"
+        ],
+        "default_pid": "0014M00001msBmRQAU",
+        "country": "Mexico",
         "tier_level": "Premier"
     },
     {
-        "partner": "INFORMACIÓN LOCALIZADA SAS (Servinformación)",
-        "sheet_id": "1H3cgdClncDnQDK9kY8s6U59jnfK_w4UmbE-z8dWexbs",
+        "partner": "NXN Consultores",
+        "pe": "Ignacio Rauda",
+        "sheet_id": "1Tt1P5qe8P7Q3GETH1KOuGdCPsf-MBQKaMtDx3S20wIk",
         "partner_ids": [
-            "0014M00001h3AyDQAU",
-            "0014M00001h34A7QAI",
-            "0014M00002GHywFQAT",
-            "0014M00002GHyqCQAT",
-            "0014M00002TEROiQAP",
-            "0014M00001w6OZ3QAM",
-            "0014M00002NSRhUQAX",
-            "001Kf000012gXIzIAM",
-            "001Kf00001BCjQ0IAL",
-            "0014M00002GHyyuQAD",
-            "0014M00001jaT4bQAE",
-            "0014M00001khC4uQAE"
+            "0014M00001mrufoQAA",
+            "001Kf00001GDi2WIAT",
+            "0014M00001pbjpyQAA",
+            "001Kf00001F9DzjIAF",
+            "0014M00001h37J2QAI"
         ],
         "cert_pids": [
-            "0014M00001h3AyDQAU",
-            "0014M00001h34A7QAI",
-            "0014M00002GHywFQAT",
-            "0014M00002GHyqCQAT",
-            "0014M00002TEROiQAP",
-            "0014M00001w6OZ3QAM",
-            "0014M00002NSRhUQAX",
-            "001Kf000012gXIzIAM",
-            "001Kf00001BCjQ0IAL",
-            "0014M00002GHyyuQAD",
-            "0014M00001jaT4bQAE",
-            "0014M00001khC4uQAE"
+            "0014M00001mrufoQAA",
+            "001Kf00001GDi2WIAT",
+            "0014M00001pbjpyQAA",
+            "001Kf00001F9DzjIAF",
+            "0014M00001h37J2QAI"
         ],
-        "drp_keys": ["P20220602053", "0014M00001h3AyDQAU"],
-        "default_pid": "0014M00001h3AyDQAU",
-        "country": "Colombia / Regional LATAM",
+        "drp_keys": [
+            "P20230723037"
+        ],
+        "default_pid": "001Kf00001F9DzjIAF",
+        "country": "Mexico",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "Nubosoft Servicios",
+        "pe": "Ignacio Rauda",
+        "sheet_id": "17eQt0Swei42yKenenPJ6Dq9jLEZR839BdnZMzfUMTNo",
+        "partner_ids": [
+            "001Kf00001CPDomIAH",
+            "0014M00001h36arQAA",
+            "0014M00002GIV9FQAX",
+            "0014M00001uc5SvQAI"
+        ],
+        "cert_pids": [
+            "001Kf00001CPDomIAH",
+            "0014M00001h36arQAA",
+            "0014M00002GIV9FQAX",
+            "0014M00001uc5SvQAI"
+        ],
+        "drp_keys": [
+            "P20220816024"
+        ],
+        "default_pid": "0014M00001h36arQAA",
+        "country": "Mexico",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "U CLOUD STORE MÉXICO",
+        "pe": "Ignacio Rauda",
+        "sheet_id": "1nT3bjmJlDTCd1khZdzW1QRlL_f6aTFSw6z9yhfO2cls",
+        "partner_ids": [
+            "0014M00002JXkn6QAD"
+        ],
+        "cert_pids": [
+            "0014M00002JXkn6QAD"
+        ],
+        "drp_keys": [
+            "0014M00002JXkn6QAD"
+        ],
+        "default_pid": "0014M00002JXkn6QAD",
+        "country": "Mexico",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "UCLOUD STORE COLOMBIA S A S",
+        "pe": "Ignacio Rauda",
+        "sheet_id": "1yOtNpVu8O8QQFeRx96s8TmgUtKcXAHYBdsoiZSmnSOI",
+        "partner_ids": [
+            "0014M00002M7lcJQAR"
+        ],
+        "cert_pids": [
+            "0014M00002M7lcJQAR"
+        ],
+        "drp_keys": [
+            "0014M00002M7lcJQAR"
+        ],
+        "default_pid": "0014M00002M7lcJQAR",
+        "country": "Colombia",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "Growth Partner Network (GPN)",
+        "pe": "Ignacio Rauda, Fernando Laguna",
+        "sheet_id": "1STeEh2SntjsXd-Ddse4YyBthPbWLql_bHB4HXIzRb2w",
+        "partner_ids": [
+            "0014M00002TEKP9QAP",
+            "001Kf000012hAaiIAE",
+            "001Kf00001E75n9IAB",
+            "0014M00002NSez4QAD",
+            "0014M00001tTpJzQAK",
+            "001Kf00000wk9YCIAY",
+            "0014M00001h3CbeQAE",
+            "0014M00001h38bpQAA",
+            "001Kf000019jA3IIAU",
+            "0014M000020cUJuQAM",
+            "001Kf00001DhFzAIAV"
+        ],
+        "cert_pids": [
+            "0014M00002TEKP9QAP",
+            "001Kf000012hAaiIAE",
+            "001Kf00001E75n9IAB",
+            "0014M00002NSez4QAD",
+            "0014M00001tTpJzQAK",
+            "001Kf00000wk9YCIAY",
+            "0014M00001h3CbeQAE",
+            "0014M00001h38bpQAA",
+            "001Kf000019jA3IIAU",
+            "0014M000020cUJuQAM",
+            "001Kf00001DhFzAIAV"
+        ],
+        "drp_keys": [
+            "0014M00002TEKP9QAP",
+            "001Kf000012hAaiIAE",
+            "001Kf00001E75n9IAB"
+        ],
+        "default_pid": "001Kf00001E75n9IAB",
+        "country": "Mexico / Chile",
         "tier_level": "Premier"
     },
     {
         "partner": "Noventiq (Softline)",
+        "pe": "Jaquelyn Montañez",
         "sheet_id": "1Rq5L7d_n1a34cTQGb8J-jHDejLcSdmnC18WLohWjsdU",
         "partner_ids": [
             "0014M00001h39APQAY",
@@ -172,9 +398,676 @@ PARTNERS = [
             "0014M000026pzWLQAY",
             "0014M00001h355LQAQ"
         ],
-        "drp_keys": ["P20220923281", "0014M00001h39APQAY", "0014M00001jtbqFQAQ"],
+        "drp_keys": [
+            "P20220923281",
+            "0014M00001h39APQAY",
+            "0014M00001jtbqFQAQ"
+        ],
         "default_pid": "0014M00001h39APQAY",
         "country": "Chile / Regional LATAM",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "INFORMACIÓN LOCALIZADA SAS (Servinformación)",
+        "pe": "Jaquelyn Montañez, Fernando Laguna",
+        "sheet_id": "1H3cgdClncDnQDK9kY8s6U59jnfK_w4UmbE-z8dWexbs",
+        "partner_ids": [
+            "0014M00001h3AyDQAU",
+            "0014M00001h34A7QAI",
+            "0014M00002GHywFQAT",
+            "0014M00002GHyqCQAT",
+            "0014M00002TEROiQAP",
+            "0014M00001w6OZ3QAM",
+            "0014M00002NSRhUQAX",
+            "001Kf000012gXIzIAM",
+            "001Kf00001BCjQ0IAL",
+            "0014M00002GHyyuQAD",
+            "0014M00001jaT4bQAE",
+            "0014M00001khC4uQAE",
+            "0014M0000277PE9QAM"
+        ],
+        "cert_pids": [
+            "0014M00001h3AyDQAU",
+            "0014M00001h34A7QAI",
+            "0014M00002GHywFQAT",
+            "0014M00002GHyqCQAT",
+            "0014M00002TEROiQAP",
+            "0014M00001w6OZ3QAM",
+            "0014M00002NSRhUQAX",
+            "001Kf000012gXIzIAM",
+            "001Kf00001BCjQ0IAL",
+            "0014M00002GHyyuQAD",
+            "0014M00001jaT4bQAE",
+            "0014M00001khC4uQAE",
+            "0014M0000277PE9QAM"
+        ],
+        "drp_keys": [
+            "P20220602053",
+            "0014M00001h3AyDQAU"
+        ],
+        "default_pid": "0014M00001h3AyDQAU",
+        "country": "Colombia / Regional LATAM",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "Abacus Cambridge Partners",
+        "pe": "Luna Longo",
+        "sheet_id": "12MNfhjMKbal2luFR-gXwco1IlCfVjaCXO4YHlpPD8ms",
+        "partner_ids": [
+            "0014M00001mGcWKQA0",
+            "001Kf000010dL7TIAU",
+            "0014M00001h38C9QAI",
+            "0014M00001jugzxQAA",
+            "0014M00002QBWEPQA5",
+            "0014M00001yT1CLQA0",
+            "0014M00001pZodGQAS",
+            "001Kf000012gWnrIAE",
+            "0014M00001h30zAQAQ",
+            "0014M00001h330TQAQ",
+            "0014M00001p6fG1QAI",
+            "001Kf00001Fp3btIAB",
+            "0014M00001kwy81QAA",
+            "0014M00001h398tQAA",
+            "0014M00002JlwWeQAJ",
+            "0014M00002JoF6IQAV",
+            "0014M00001h39o5QAA",
+            "0014M000026qUI8QAM",
+            "0014M00002GGFn5QAH",
+            "001Kf00001HFSjeIAH",
+            "0014M00001sgH94QAE",
+            "0014M00001h3CXCQA2",
+            "0014M00001gwrpcQAA",
+            "0014M00001tLDSGQA4"
+        ],
+        "cert_pids": [
+            "0014M00001mGcWKQA0",
+            "001Kf000010dL7TIAU",
+            "0014M00001h38C9QAI",
+            "0014M00001jugzxQAA",
+            "0014M00002QBWEPQA5",
+            "0014M00001yT1CLQA0",
+            "0014M00001pZodGQAS",
+            "001Kf000012gWnrIAE",
+            "0014M00001h30zAQAQ",
+            "0014M00001h330TQAQ",
+            "0014M00001p6fG1QAI",
+            "001Kf00001Fp3btIAB",
+            "0014M00001kwy81QAA",
+            "0014M00001h398tQAA",
+            "0014M00002JlwWeQAJ",
+            "0014M00002JoF6IQAV",
+            "0014M00001h39o5QAA",
+            "0014M000026qUI8QAM",
+            "0014M00002GGFn5QAH",
+            "001Kf00001HFSjeIAH",
+            "0014M00001sgH94QAE",
+            "0014M00001h3CXCQA2",
+            "0014M00001gwrpcQAA",
+            "0014M00001tLDSGQA4"
+        ],
+        "drp_keys": [
+            "P20240324012",
+            "P20231019004"
+        ],
+        "default_pid": "0014M00002GGFn5QAH",
+        "country": "Regional / LATAM",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "Gentrop Cloud Brasil",
+        "pe": "Luna Longo",
+        "sheet_id": "1F9UbQ-kaBHELme9Feh4fQCdujXnC7hRhQX9tWzFD9WM",
+        "partner_ids": [
+            "001Kf00001FY2FRIA1",
+            "0014M00001h32coQAA",
+            "001Kf00001F93WNIAZ",
+            "0014M000028FCl3QAG"
+        ],
+        "cert_pids": [
+            "001Kf00001FY2FRIA1",
+            "0014M00001h32coQAA",
+            "001Kf00001F93WNIAZ",
+            "0014M000028FCl3QAG"
+        ],
+        "drp_keys": [
+            "P20220923132"
+        ],
+        "default_pid": "001Kf00001FY2FRIA1",
+        "country": "Brazil",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "QiNetwork",
+        "pe": "Luna Longo",
+        "sheet_id": "1rt85jLUA_r0KvNGO_wJD3qYfzPHA9nl5w2bw2sqOO8s",
+        "partner_ids": [
+            "0014M00001h3BemQAE",
+            "0014M00001h30rmQAA"
+        ],
+        "cert_pids": [
+            "0014M00001h3BemQAE",
+            "0014M00001h30rmQAA"
+        ],
+        "drp_keys": [
+            "P20220923242"
+        ],
+        "default_pid": "0014M00001h3BemQAE",
+        "country": "Brazil",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "Safetec Informática",
+        "pe": "Luna Longo",
+        "sheet_id": "1pfmHXAokv-KljvWUvHYL334NJpGpQK3jmPe9lxNzIng",
+        "partner_ids": [
+            "001Kf00001HWbTPIA1",
+            "0014M00001h327IQAQ",
+            "0014M00001qNF4FQAW"
+        ],
+        "cert_pids": [
+            "001Kf00001HWbTPIA1",
+            "0014M00001h327IQAQ",
+            "0014M00001qNF4FQAW"
+        ],
+        "drp_keys": [
+            "P20220923269"
+        ],
+        "default_pid": "0014M00001qNF4FQAW",
+        "country": "Brazil",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "VPN Soluçoes em TI LTDA (Venha para Nuvem)",
+        "pe": "Luna Longo",
+        "sheet_id": "1zcIQXnDbrR_WRhciVOD0XCN8RXK0_gHT0MUSExcqBbo",
+        "partner_ids": [
+            "0014M00001uFlbSQAS",
+            "0014M00002C1I0PQAV"
+        ],
+        "cert_pids": [
+            "0014M00001uFlbSQAS",
+            "0014M00002C1I0PQAV"
+        ],
+        "drp_keys": [
+            "P20220602104",
+            "0014M00001uFlbSQAS"
+        ],
+        "default_pid": "0014M00001uFlbSQAS",
+        "country": "Brazil",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "Comercializadora Zenta Group SPA",
+        "pe": "Oliver Hartley",
+        "sheet_id": "1xG-27ye3Wk4ob9nr3N08KP2a1ufaPRCxAP4o93NKj1Q",
+        "partner_ids": [
+            "0014M00001h39BLQAY",
+            "0014M00001m9woLQAQ",
+            "001Kf000012gqs3IAA"
+        ],
+        "cert_pids": [
+            "0014M00001h39BLQAY",
+            "0014M00001m9woLQAQ",
+            "001Kf000012gqs3IAA"
+        ],
+        "drp_keys": [
+            "P20220602109",
+            "0014M00001h39BLQAY",
+            "0014M00001m9woLQAQ"
+        ],
+        "default_pid": "0014M00001h39BLQAY",
+        "country": "Chile",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "Consiti (Consultoría y Soluciones Informáticas)",
+        "pe": "Oliver Hartley",
+        "sheet_id": "1jsiE3qCJxv5EnxnKJzBdoNFOENc1HA8TdlEXGgnUelo",
+        "partner_ids": [
+            "001Kf000013fuVXIAY",
+            "001Kf00001FoCy9IAF"
+        ],
+        "cert_pids": [
+            "001Kf000013fuVXIAY",
+            "001Kf00001FoCy9IAF"
+        ],
+        "drp_keys": [
+            "001Kf000013fuVXIAY",
+            "001Kf00001FoCy9IAF"
+        ],
+        "default_pid": "001Kf000013fuVXIAY",
+        "country": "El Salvador / Central America",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "Devaid SPA",
+        "pe": "Oliver Hartley",
+        "sheet_id": "1UqYI0iTbxFL1f8ohC3e-uMQCD2we_8Ne3ODmDjnT8U8",
+        "partner_ids": [
+            "0014M00001h38aiQAA",
+            "0014M00001m9sVvQAI"
+        ],
+        "cert_pids": [
+            "0014M00001h38aiQAA",
+            "0014M00001m9sVvQAI"
+        ],
+        "drp_keys": [
+            "P20220923084",
+            "0014M00001h38aiQAA"
+        ],
+        "default_pid": "0014M00001h38aiQAA",
+        "country": "Chile",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "MadeinWeb S/A",
+        "pe": "Oliver Hartley",
+        "sheet_id": "1K2_rFQ5tFMvvk_DnRNxbg3iJ9ZP-MkXtrrcuo04qTOI",
+        "partner_ids": [
+            "0014M00002GGNRCQA5",
+            "001Kf000013hWaOIAU"
+        ],
+        "cert_pids": [
+            "0014M00002GGNRCQA5",
+            "001Kf000013hWaOIAU"
+        ],
+        "drp_keys": [
+            "P20231208017",
+            "0014M00002GGNRCQA5"
+        ],
+        "default_pid": "0014M00002GGNRCQA5",
+        "country": "Brazil",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "TIVIT COLOMBIA S A S",
+        "pe": "Oliver Hartley",
+        "sheet_id": "1nUwpOaqhvpBmVoEb7i_M3C18jhmrJ7bQ1mrfwyXo02o",
+        "partner_ids": [
+            "001Kf0000150rJ2IAI",
+            "0014M00001kxZPMQA2",
+            "0014M00001m9v8HQAQ"
+        ],
+        "cert_pids": [
+            "0014M00001kxZPMQA2",
+            "001Kf0000150rJ2IAI",
+            "0014M00001m9v8HQAQ"
+        ],
+        "drp_keys": [
+            "P20220923297",
+            "0014M00001kxZPMQA2",
+            "001Kf0000150rJ2IAI"
+        ],
+        "default_pid": "0014M00001kxZPMQA2",
+        "country": "Colombia / Regional",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "Tech Pulse SPA (Axmos)",
+        "pe": "Oliver Hartley",
+        "sheet_id": "1qWdLgRDmHG9wMGjiOZ1fJvj4AmHbfKwrBPpuV8r2uwI",
+        "partner_ids": [
+            "0014M00002JmizDQAR",
+            "001Kf00001G4DmBIAV",
+            "001Kf0000149iw9IAA"
+        ],
+        "cert_pids": [
+            "0014M00002JmizDQAR",
+            "001Kf00001G4DmBIAV",
+            "001Kf0000149iw9IAA"
+        ],
+        "drp_keys": [
+            "P20260318001",
+            "0014M00002JmizDQAR"
+        ],
+        "default_pid": "0014M00002JmizDQAR",
+        "country": "Chile",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "IPNET (Telefônica Cloud)",
+        "pe": "Thiago da Ponte",
+        "sheet_id": "1EpquIz41xu7RZPl-Y4nd-jTRbEl3qdAd8hJ53xxpd4M",
+        "partner_ids": [
+            "0014M00002QBQ0KQAX",
+            "0014M00001w5vdTQAQ",
+            "0014M00001h38bpQAA",
+            "001Kf00000wjtGuIAI",
+            "001Kf00001FlqhtIAB",
+            "0014M00001h3BeiQAE",
+            "0014M00001jSgzAQAS",
+            "001Kf00001F7VMgIAN",
+            "0014M00001pQmCHQA0",
+            "001Kf000013fEbPIAU",
+            "0014M00001yStvdQAC",
+            "001Kf00001FlzzdIAB",
+            "0014M00001h36IMQAY",
+            "0014M00002C0zA3QAJ",
+            "0014M00001h31NNQAY",
+            "0014M000026rVKtQAM",
+            "0014M00001h30r8QAA",
+            "001Kf00001F8uDRIAZ",
+            "001Kf00001F9FEzIAN",
+            "0014M00002OSfuCQAT",
+            "001Kf00001FlqhUIAR",
+            "0014M00001jS0xGQAS",
+            "0014M00001xhos3QAA"
+        ],
+        "cert_pids": [
+            "0014M00002QBQ0KQAX",
+            "0014M00001w5vdTQAQ",
+            "0014M00001h38bpQAA",
+            "001Kf00000wjtGuIAI",
+            "001Kf00001FlqhtIAB",
+            "0014M00001h3BeiQAE",
+            "0014M00001jSgzAQAS",
+            "001Kf00001F7VMgIAN",
+            "0014M00001pQmCHQA0",
+            "001Kf000013fEbPIAU",
+            "0014M00001yStvdQAC",
+            "001Kf00001FlzzdIAB",
+            "0014M00001h36IMQAY",
+            "0014M00002C0zA3QAJ",
+            "0014M00001h31NNQAY",
+            "0014M000026rVKtQAM",
+            "0014M00001h30r8QAA",
+            "001Kf00001F8uDRIAZ",
+            "001Kf00001F9FEzIAN",
+            "0014M00002OSfuCQAT",
+            "001Kf00001FlqhUIAR",
+            "0014M00001jS0xGQAS",
+            "0014M00001xhos3QAA"
+        ],
+        "drp_keys": [
+            "0014M00002QBQ0KQAX",
+            "0014M00001w5vdTQAQ",
+            "0014M00001h38bpQAA"
+        ],
+        "default_pid": "0014M00002C0zA3QAJ",
+        "country": "Brazil",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "Kyndryl Brasil",
+        "pe": "Thiago da Ponte",
+        "sheet_id": "1wvMK5gSOkTNl-oRS6XbvQJmrHDdz73tqKcGpF6DCZ2I",
+        "partner_ids": [
+            "0014M000026phCZQAY",
+            "0014M00001pQ1mpQAC",
+            "0014M00002F5JiGQAV",
+            "001Kf00001HCncSIAT",
+            "0014M00002BTRuoQAH",
+            "001Kf00001FoCSrIAN",
+            "0014M00002N6J8FQAV",
+            "001Kf00001I6eFgIAJ",
+            "0014M00001yTraMQAS",
+            "001Kf00001I4lprIAB",
+            "0014M000026pjkGQAQ",
+            "001Kf00001HpoitIAB",
+            "0014M00002RQuEmQAL",
+            "0014M00002RQsxsQAD",
+            "0014M0000282WpAQAU",
+            "0014M00002BSo9qQAD",
+            "0014M0000281YiqQAE",
+            "0014M000026qh8oQAA",
+            "0014M00002LRtwaQAD",
+            "0014M00002BR5AuQAL",
+            "001Kf000010co7uIAA",
+            "001Kf00001I4b5qIAB",
+            "001Kf00001FWTPMIA5",
+            "0014M000026pffFQAQ",
+            "0014M0000281B4tQAE",
+            "0014M00002BT1J1QAL",
+            "0014M00002GH8F5QAL",
+            "0014M00002M9ldfQAB",
+            "0014M000026rFcfQAE",
+            "0014M00002KNyHbQAL",
+            "0014M00002PLp8IQAT",
+            "001Kf00001FpFXoIAN",
+            "001Kf00001FmIOoIAN",
+            "001Kf00001HqsIiIAJ",
+            "001Kf00001I6DseIAF",
+            "001Kf000010co8dIAA",
+            "001Kf00001Hpn6UIAR",
+            "0014M00002JnwanQAB",
+            "0014M000026pZzVQAU",
+            "0014M00002BSnwlQAD",
+            "001Kf00001FYn0eIAD",
+            "0014M00002Jmoh2QAB",
+            "0014M000026pgeHQAQ",
+            "0014M000026qa9PQAQ",
+            "0014M00002RSD9UQAX",
+            "0014M00002Jko6cQAB",
+            "0014M00002C1zxYQAR",
+            "0014M00002DKk7rQAD",
+            "0014M000026pZF7QAM",
+            "001Kf00001EyRZ8IAN",
+            "0014M00002BRVhgQAH",
+            "0014M00002803caQAA",
+            "0014M000027zF5oQAE",
+            "0014M000026pgkzQAA",
+            "0014M000026phE6QAI",
+            "001Kf00001HqyhkIAB",
+            "0014M00002BTXwyQAH",
+            "0014M00002BSnnDQAT",
+            "0014M00002BSnvOQAT",
+            "0014M00002C22r1QAB",
+            "0014M00002BSnw7QAD",
+            "001Kf00001I68KCIAZ",
+            "0014M00002GH3tSQAT",
+            "0014M00001yTakKQAS",
+            "0014M00002BSkwLQAT",
+            "0014M0000280G2vQAE",
+            "001Kf00001I4b5lIAB",
+            "0014M00001yTvhdQAC",
+            "0014M00002CcfpGQAR",
+            "001Kf00001HqYY4IAN",
+            "0014M0000282g5JQAQ",
+            "0014M00002NSHrCQAX",
+            "0014M00002ROzRIQA1",
+            "001Kf00001I6WPTIA3",
+            "0014M00002C1M0OQAV",
+            "0014M00002DKk5MQAT",
+            "0014M00002LTHm2QAH",
+            "0014M000025cA8GQAU",
+            "0014M00002C0Vd7QAF",
+            "0014M00002Byz9NQAR",
+            "0014M0000282mM5QAI",
+            "001Kf00001FXy1ZIAT",
+            "0014M00002SxAh2QAF",
+            "0014M00002BTsuJQAT",
+            "001Kf00001HqUH8IAN",
+            "001Kf00001H6eBgIAJ",
+            "0014M00002C0F8qQAF",
+            "001Kf00001H6pNHIAZ",
+            "001Kf00001GBWmgIAH",
+            "001Kf00001HqsIsIAJ",
+            "001Kf00001H6bVYIAZ",
+            "001Kf00000wiKmtIAE",
+            "0014M00002RSEryQAH",
+            "001Kf00001I75VaIAJ",
+            "0014M00002Hx2X7QAJ",
+            "0014M00002Bz6avQAB",
+            "0014M00002Jm26jQAB",
+            "0014M000026pwANQAY",
+            "0014M000026pgQFQAY",
+            "001Kf00001GCbmAIAT",
+            "0014M00002OTbyXQAT",
+            "0014M00001yUTa7QAG"
+        ],
+        "cert_pids": [
+            "0014M000026phCZQAY",
+            "0014M00001pQ1mpQAC",
+            "0014M00002F5JiGQAV",
+            "001Kf00001HCncSIAT",
+            "0014M00002BTRuoQAH",
+            "001Kf00001FoCSrIAN",
+            "0014M00002N6J8FQAV",
+            "001Kf00001I6eFgIAJ",
+            "0014M00001yTraMQAS",
+            "001Kf00001I4lprIAB",
+            "0014M000026pjkGQAQ",
+            "001Kf00001HpoitIAB",
+            "0014M00002RQuEmQAL",
+            "0014M00002RQsxsQAD",
+            "0014M0000282WpAQAU",
+            "0014M00002BSo9qQAD",
+            "0014M0000281YiqQAE",
+            "0014M000026qh8oQAA",
+            "0014M00002LRtwaQAD",
+            "0014M00002BR5AuQAL",
+            "001Kf000010co7uIAA",
+            "001Kf00001I4b5qIAB",
+            "001Kf00001FWTPMIA5",
+            "0014M000026pffFQAQ",
+            "0014M0000281B4tQAE",
+            "0014M00002BT1J1QAL",
+            "0014M00002GH8F5QAL",
+            "0014M00002M9ldfQAB",
+            "0014M000026rFcfQAE",
+            "0014M00002KNyHbQAL",
+            "0014M00002PLp8IQAT",
+            "001Kf00001FpFXoIAN",
+            "001Kf00001FmIOoIAN",
+            "001Kf00001HqsIiIAJ",
+            "001Kf00001I6DseIAF",
+            "001Kf000010co8dIAA",
+            "001Kf00001Hpn6UIAR",
+            "0014M00002JnwanQAB",
+            "0014M000026pZzVQAU",
+            "0014M00002BSnwlQAD",
+            "001Kf00001FYn0eIAD",
+            "0014M00002Jmoh2QAB",
+            "0014M000026pgeHQAQ",
+            "0014M000026qa9PQAQ",
+            "0014M00002RSD9UQAX",
+            "0014M00002Jko6cQAB",
+            "0014M00002C1zxYQAR",
+            "0014M00002DKk7rQAD",
+            "0014M000026pZF7QAM",
+            "001Kf00001EyRZ8IAN",
+            "0014M00002BRVhgQAH",
+            "0014M00002803caQAA",
+            "0014M000027zF5oQAE",
+            "0014M000026pgkzQAA",
+            "0014M000026phE6QAI",
+            "001Kf00001HqyhkIAB",
+            "0014M00002BTXwyQAH",
+            "0014M00002BSnnDQAT",
+            "0014M00002BSnvOQAT",
+            "0014M00002C22r1QAB",
+            "0014M00002BSnw7QAD",
+            "001Kf00001I68KCIAZ",
+            "0014M00002GH3tSQAT",
+            "0014M00001yTakKQAS",
+            "0014M00002BSkwLQAT",
+            "0014M0000280G2vQAE",
+            "001Kf00001I4b5lIAB",
+            "0014M00001yTvhdQAC",
+            "0014M00002CcfpGQAR",
+            "001Kf00001HqYY4IAN",
+            "0014M0000282g5JQAQ",
+            "0014M00002NSHrCQAX",
+            "0014M00002ROzRIQA1",
+            "001Kf00001I6WPTIA3",
+            "0014M00002C1M0OQAV",
+            "0014M00002DKk5MQAT",
+            "0014M00002LTHm2QAH",
+            "0014M000025cA8GQAU",
+            "0014M00002C0Vd7QAF",
+            "0014M00002Byz9NQAR",
+            "0014M0000282mM5QAI",
+            "001Kf00001FXy1ZIAT",
+            "0014M00002SxAh2QAF",
+            "0014M00002BTsuJQAT",
+            "001Kf00001HqUH8IAN",
+            "001Kf00001H6eBgIAJ",
+            "0014M00002C0F8qQAF",
+            "001Kf00001H6pNHIAZ",
+            "001Kf00001GBWmgIAH",
+            "001Kf00001HqsIsIAJ",
+            "001Kf00001H6bVYIAZ",
+            "001Kf00000wiKmtIAE",
+            "0014M00002RSEryQAH",
+            "001Kf00001I75VaIAJ",
+            "0014M00002Hx2X7QAJ",
+            "0014M00002Bz6avQAB",
+            "0014M00002Jm26jQAB",
+            "0014M000026pwANQAY",
+            "0014M000026pgQFQAY",
+            "001Kf00001GCbmAIAT",
+            "0014M00002OTbyXQAT",
+            "0014M00001yUTa7QAG"
+        ],
+        "drp_keys": [
+            "P20220428047"
+        ],
+        "default_pid": "0014M00002LRtwaQAD",
+        "country": "Brazil",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "SantoDigital",
+        "pe": "Thiago da Ponte",
+        "sheet_id": "1F5uhnmaF-eEeWYGQRsoI8mU7brFRQjVye5gD7R8D50E",
+        "partner_ids": [
+            "0014M00001h328CQAQ",
+            "0014M00001nkxtzQAA",
+            "0014M00001rbdrUQAQ"
+        ],
+        "cert_pids": [
+            "0014M00001h328CQAQ",
+            "0014M00001nkxtzQAA",
+            "0014M00001rbdrUQAQ"
+        ],
+        "drp_keys": [
+            "P20220602085"
+        ],
+        "default_pid": "0014M00001h328CQAQ",
+        "country": "Brazil",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "Sauter Tecnologia",
+        "pe": "Thiago da Ponte",
+        "sheet_id": "1NKjJTPPOkss7UZIyE5G7LNdZydpICP20lfs0b4mS0LU",
+        "partner_ids": [
+            "0014M00002N6mbcQAB",
+            "001Kf00001HrCZkIAN",
+            "001Kf00001FXILGIA5",
+            "001Kf00001GCHFEIA5",
+            "001Kf00001GCCp4IAH",
+            "001Kf00001HpumDIAR",
+            "001Kf00001F9mHVIAZ",
+            "001Kf00001HC49SIAT",
+            "0014M00001mnmgxQAA",
+            "001Kf00001HrFWAIA3",
+            "001Kf00001F9ex4IAB",
+            "001Kf000017JCwfIAG",
+            "001Kf00001GCHRKIA5",
+            "001Kf00001FotF1IAJ"
+        ],
+        "cert_pids": [
+            "0014M00002N6mbcQAB",
+            "001Kf00001HrCZkIAN",
+            "001Kf00001FXILGIA5",
+            "001Kf00001GCHFEIA5",
+            "001Kf00001GCCp4IAH",
+            "001Kf00001HpumDIAR",
+            "001Kf00001F9mHVIAZ",
+            "001Kf00001HC49SIAT",
+            "0014M00001mnmgxQAA",
+            "001Kf00001HrFWAIA3",
+            "001Kf00001F9ex4IAB",
+            "001Kf000017JCwfIAG",
+            "001Kf00001GCHRKIA5",
+            "001Kf00001FotF1IAJ"
+        ],
+        "drp_keys": [
+            "P20220602086"
+        ],
+        "default_pid": "0014M00002N6mbcQAB",
+        "country": "Brazil",
         "tier_level": "Premier"
     }
 ]
@@ -224,47 +1117,49 @@ PARTNER_COL_WIDTHS = {
 
 # 19 Columns for Global Master Dashboard (preserves "Partner Name", includes "Workload Owner", "Workload Progress" to the right of "Workload Owner")
 GLOBAL_FOLLOWUP_HEADERS = [
-    "Partner Name",                     # Col 0 (A)
-    "Customer Account Name",            # Col 1 (B)
-    "Account Tier",                     # Col 2 (C)
-    "Workload Name",                    # Col 3 (D)
-    "Workload Owner",                   # Col 4 (E)
-    "Workload Progress",                # Col 5 (F)  <-- moved to right of Workload Owner
-    "Capacity Status (DRP Readiness)",  # Col 6 (G)
-    "Opportunity Name",                 # Col 7 (H)
-    "Expert Requests",                  # Col 8 (I)
-    "Customer Sub Region",              # Col 9 (J)
-    "Customer Micro Region",            # Col 10 (K)
-    "Primary Workload Pillar",          # Col 11 (L)
-    "Sales Play",                       # Col 12 (M)
-    "Workload Solution",                # Col 13 (N)
-    "Begin Migration Date",             # Col 14 (O)
-    "Production Date",                  # Col 15 (P)
-    "Annual Gross Revenue (ARR USD)",   # Col 16 (Q)
-    "Last Touch",                       # Col 17 (R)
-    "Link"                              # Col 18 (S)
+    "Partner Engineer (PE)",            # Col 0 (A)  <-- FIRST COLUMN
+    "Partner Name",                     # Col 1 (B)
+    "Customer Account Name",            # Col 2 (C)
+    "Account Tier",                     # Col 3 (D)
+    "Workload Name",                    # Col 4 (E)
+    "Workload Owner",                   # Col 5 (F)
+    "Workload Progress",                # Col 6 (G)
+    "Capacity Status (DRP Readiness)",  # Col 7 (H)
+    "Opportunity Name",                 # Col 8 (I)
+    "Expert Requests",                  # Col 9 (J)
+    "Customer Sub Region",              # Col 10 (K)
+    "Customer Micro Region",            # Col 11 (L)
+    "Primary Workload Pillar",          # Col 12 (M)
+    "Sales Play",                       # Col 13 (N)
+    "Workload Solution",                # Col 14 (O)
+    "Begin Migration Date",             # Col 15 (P)
+    "Production Date",                  # Col 16 (Q)
+    "Annual Gross Revenue (ARR USD)",   # Col 17 (R)
+    "Last Touch",                       # Col 18 (S)
+    "Link"                              # Col 19 (T)
 ]
 
 GLOBAL_COL_WIDTHS = {
-    0: 260,  # Partner Name
-    1: 280,  # Customer Account Name
-    2: 90,   # Account Tier
-    3: 240,  # Workload Name
-    4: 180,  # Workload Owner
-    5: 170,  # Workload Progress
-    6: 200,  # Capacity Status
-    7: 260,  # Opportunity Name
-    8: 180,  # Expert Requests
-    9: 120,  # Customer Sub Region
-    10: 130, # Customer Micro Region
-    11: 180, # Primary Workload Pillar
-    12: 220, # Sales Play
-    13: 220, # Workload Solution
-    14: 130, # Begin Migration Date
-    15: 130, # Production Date
-    16: 150, # ARR USD
-    17: 160, # Last Touch
-    18: 160  # Link
+    0: 160,  # Partner Engineer (PE)
+    1: 250,  # Partner Name
+    2: 280,  # Customer Account Name
+    3: 90,   # Account Tier
+    4: 240,  # Workload Name
+    5: 180,  # Workload Owner
+    6: 170,  # Workload Progress
+    7: 200,  # Capacity Status
+    8: 260,  # Opportunity Name
+    9: 180,  # Expert Requests
+    10: 120, # Customer Sub Region
+    11: 130, # Customer Micro Region
+    12: 180, # Primary Workload Pillar
+    13: 220, # Sales Play
+    14: 220, # Workload Solution
+    15: 130, # Begin Migration Date
+    16: 130, # Production Date
+    17: 150, # ARR USD
+    18: 160, # Last Touch
+    19: 160  # Link
 }
 
 DRP_HEADERS = [
@@ -515,6 +1410,7 @@ summary_stats = []
 
 for cfg in PARTNERS:
     pname = cfg["partner"]
+    pe_name = cfg.get("pe", "")
     ssid = cfg["sheet_id"]
     pids = ", ".join([f"'{x}'" for x in cfg["partner_ids"]])
     cert_pids_str = ", ".join([f"'{x}'" for x in cfg["cert_pids"]])
@@ -523,7 +1419,7 @@ for cfg in PARTNERS:
     safe_name = pname.replace(" ", "_").replace("(", "_").replace(")", "_").replace("/", "_").replace("&", "_")
     
     print(f"\n========================================================")
-    print(f"Processing Partner: {pname}")
+    print(f"Processing Partner: {pname} (PE: {pe_name})")
     print(f"Spreadsheet ID: {ssid}")
     print(f"========================================================")
     
@@ -724,27 +1620,28 @@ for cfg in PARTNERS:
         ]
         partner_workload_rows.append(row_followup)
         
-        # Global table row: 19 columns (includes partner column, includes Workload Owner at col 4, Workload Progress at col 5)
+        # Global table row: 20 columns (PE is Col 0, Partner Name is Col 1, followed by all 18 workload fields)
         global_row = [
-            p_linked,               # 0: Partner Name
-            acc_linked,             # 1: Customer Account Name
-            tier,                   # 2: Account Tier
-            wkl_linked,             # 3: Workload Name
-            owner_linked,           # 4: Workload Owner
-            progress,               # 5: Workload Progress
-            wkl_capacity_status,    # 6: Capacity Status
-            opp_linked,             # 7: Opportunity Name
-            er_linked,              # 8: Expert Requests
-            sub_region,             # 9: Sub Region
-            micro_region,           # 10: Micro Region
-            pillar,                 # 11: Pillar
-            sales_play,             # 12: Sales Play
-            workload_solution,      # 13: Workload Solution
-            begin_migration_date,   # 14: Begin Migration Date
-            production_date,        # 15: Production Date
-            arr_formatted,          # 16: ARR USD
-            lt_preserved,           # 17: Last Touch
-            link_preserved          # 18: Link
+            pe_name,                # 0: Partner Engineer (PE)
+            p_linked,               # 1: Partner Name
+            acc_linked,             # 2: Customer Account Name
+            tier,                   # 3: Account Tier
+            wkl_linked,             # 4: Workload Name
+            owner_linked,           # 5: Workload Owner
+            progress,               # 6: Workload Progress
+            wkl_capacity_status,    # 7: Capacity Status
+            opp_linked,             # 8: Opportunity Name
+            er_linked,              # 9: Expert Requests
+            sub_region,             # 10: Sub Region
+            micro_region,           # 11: Micro Region
+            pillar,                 # 12: Pillar
+            sales_play,             # 13: Sales Play
+            workload_solution,      # 14: Workload Solution
+            begin_migration_date,   # 15: Begin Migration Date
+            production_date,        # 16: Production Date
+            arr_formatted,          # 17: ARR USD
+            lt_preserved,           # 18: Last Touch
+            link_preserved          # 19: Link
         ]
         all_global_workload_rows.append(global_row)
         
@@ -1034,6 +1931,7 @@ for cfg in PARTNERS:
     subprocess.run([GSHEETS, "mutate", "import-csv", ssid, accred_csv, "--sheet", tab_accred], capture_output=True)
     
     summary_stats.append({
+        "pe": pe_name,
         "partner": pname,
         "country": cfg["country"],
         "track": cfg["tier_level"],
@@ -1054,8 +1952,9 @@ print("UPDATING GLOBAL PARTNER MANAGEMENT DASHBOARD")
 print(f"Spreadsheet ID: {GLOBAL_SSID}")
 print("========================================================")
 
-# 1. Executive_Summary
+# 1. Executive_Summary (9 columns: PE as Col 0)
 summary_headers = [
+    "Partner Engineer (PE)",
     "Partner Name",
     "Country / Headquarters",
     "Partner Advantage Track",
@@ -1077,6 +1976,7 @@ for s in summary_stats:
     tracker_url = f"https://docs.google.com/spreadsheets/d/{s['sheet_id']}/edit#gid=0"
     tracker_link = make_hyperlink(tracker_url, "Open Partner Tracker ↗")
     summary_rows.append([
+        s["pe"],
         p_link,
         s["country"],
         s["track"],
@@ -1089,6 +1989,7 @@ for s in summary_stats:
 
 summary_rows.append([
     f"TOTAL (All {len(PARTNERS)} Partners)",
+    "-",
     "-",
     "-",
     str(tot_all_wkls),
@@ -1113,7 +2014,7 @@ if sid_exec is not None:
         GSHEETS, "mutate", "format", GLOBAL_SSID,
         "--sheet-id", str(sid_exec),
         "--start-row", "0", "--end-row", "1",
-        "--start-col", "0", "--end-col", "8",
+        "--start-col", "0", "--end-col", "9",
         "--bold",
         "--bg-color", "#1A73E8",
         "--align", "CENTER",
@@ -1123,7 +2024,7 @@ if sid_exec is not None:
         GSHEETS, "mutate", "format", GLOBAL_SSID,
         "--sheet-id", str(sid_exec),
         "--start-row", str(len(summary_rows)-1), "--end-row", str(len(summary_rows)),
-        "--start-col", "0", "--end-col", "8",
+        "--start-col", "0", "--end-col", "9",
         "--bold",
         "--bg-color", "#E8F0FE"
     ], capture_output=True)
@@ -1131,33 +2032,33 @@ if sid_exec is not None:
         GSHEETS, "mutate", "format", GLOBAL_SSID,
         "--sheet-id", str(sid_exec),
         "--start-row", "1", "--end-row", str(len(summary_rows)),
-        "--start-col", "3", "--end-col", "7",
+        "--start-col", "4", "--end-col", "8",
         "--align", "CENTER"
     ], capture_output=True)
-    subprocess.run([GSHEETS, "mutate", "autosize", GLOBAL_SSID, "--sheet-id", str(sid_exec), "--start-col", "0", "--end-col", "8"], capture_output=True)
+    subprocess.run([GSHEETS, "mutate", "autosize", GLOBAL_SSID, "--sheet-id", str(sid_exec), "--start-col", "0", "--end-col", "9"], capture_output=True)
 print("✓ Updated Global Executive_Summary")
 
-# 2. All_Workloads_Follow_up (19 cols, Global Top Block)
+# 2. All_Workloads_Follow_up (20 cols, Global Top Block with PE as Col 0)
 global_manual_entries = fetch_existing_manual_entries(GLOBAL_SSID, "All_Workloads_Follow_up")
 for r in all_global_workload_rows:
-    # r[3] is wkl_linked
-    w_name_plain = r[3]
+    # r[4] is wkl_linked (Workload Name)
+    w_name_plain = r[4]
     if '","' in w_name_plain:
         try:
             w_name_plain = w_name_plain.split('","')[1].rstrip('")')
         except:
             pass
     if w_name_plain in global_manual_entries:
-        if not r[17]:
-            r[17] = global_manual_entries[w_name_plain].get("last_touch", "")
         if not r[18]:
-            r[18] = global_manual_entries[w_name_plain].get("link", "")
+            r[18] = global_manual_entries[w_name_plain].get("last_touch", "")
+        if not r[19]:
+            r[19] = global_manual_entries[w_name_plain].get("link", "")
 
 global_top_block = [
-    ["Partner:", "All 9 Partners (Global Management Dashboard)", "", "", "Last Update:", DATE_FORMATTED] + [""] * 13,
-    [""] * 19,
-    ["Alert Criteria:", "Target Go-Live risk for active pipeline (Stages 0-2 & 3)", "", "🔴 Critical (≤14d / Overdue)", "🌸 High (15-30d)", "🟡 Medium (31-45d)", "", "⚪ Normal (>45d / Stage 4+)"] + [""] * 11,
-    [""] * 19,
+    ["Partner:", f"All {len(PARTNERS)} Partners (Global Management Dashboard)", "", "", "", "Last Update:", DATE_FORMATTED] + [""] * 13,
+    [""] * 20,
+    ["Alert Criteria:", "Target Go-Live risk for active pipeline (Stages 0-2 & 3)", "", "🔴 Critical (≤14d / Overdue)", "🌸 High (15-30d)", "🟡 Medium (31-45d)", "", "⚪ Normal (>45d / Stage 4+)"] + [""] * 12,
+    [""] * 20,
     GLOBAL_FOLLOWUP_HEADERS
 ]
 all_global_followup_rows = global_top_block + all_global_workload_rows
@@ -1172,7 +2073,7 @@ subprocess.run([GSHEETS, "mutate", "delete-rows", GLOBAL_SSID, "--range", "'All_
 subprocess.run([GSHEETS, "mutate", "import-csv", GLOBAL_SSID, global_followup_csv, "--sheet", "All_Workloads_Follow_up"], capture_output=True)
 
 grid_info_g = get_grid_info(GLOBAL_SSID)
-gw_info = grid_info_g.get("All_Workloads_Follow_up", {"sheetId": sid_gwkl, "rowCount": len(all_global_followup_rows), "columnCount": 19})
+gw_info = grid_info_g.get("All_Workloads_Follow_up", {"sheetId": sid_gwkl, "rowCount": len(all_global_followup_rows), "columnCount": 20})
 sid_gwkl = gw_info["sheetId"]
 gw_rows = gw_info["rowCount"]
 
@@ -1181,18 +2082,18 @@ subprocess.run([GSHEETS, "mutate", "freeze", GLOBAL_SSID, "--sheet-id", str(sid_
 batch_req_g = {
   "requests": [
     # Reset
-    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 0, "endRowIndex": gw_rows, "startColumnIndex": 0, "endColumnIndex": 19}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 1.0, "green": 1.0, "blue": 1.0}, "textFormat": {"foregroundColor": {"red": 0.125, "green": 0.129, "blue": 0.141}, "fontSize": 10, "bold": False, "fontFamily": "Arial"}, "verticalAlignment": "MIDDLE", "wrapStrategy": "OVERFLOW_CELL"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,verticalAlignment,wrapStrategy)"}},
-    {"unmergeCells": {"range": {"sheetId": sid_gwkl, "startRowIndex": 0, "endRowIndex": min(10, gw_rows), "startColumnIndex": 0, "endColumnIndex": 19}}},
-    {"mergeCells": {"range": {"sheetId": sid_gwkl, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 1, "endColumnIndex": 4}, "mergeType": "MERGE_ALL"}},
+    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 0, "endRowIndex": gw_rows, "startColumnIndex": 0, "endColumnIndex": 20}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 1.0, "green": 1.0, "blue": 1.0}, "textFormat": {"foregroundColor": {"red": 0.125, "green": 0.129, "blue": 0.141}, "fontSize": 10, "bold": False, "fontFamily": "Arial"}, "verticalAlignment": "MIDDLE", "wrapStrategy": "OVERFLOW_CELL"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,verticalAlignment,wrapStrategy)"}},
+    {"unmergeCells": {"range": {"sheetId": sid_gwkl, "startRowIndex": 0, "endRowIndex": min(10, gw_rows), "startColumnIndex": 0, "endColumnIndex": 20}}},
+    {"mergeCells": {"range": {"sheetId": sid_gwkl, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 1, "endColumnIndex": 5}, "mergeType": "MERGE_ALL"}},
     {"mergeCells": {"range": {"sheetId": sid_gwkl, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 1, "endColumnIndex": 3}, "mergeType": "MERGE_ALL"}},
     {"mergeCells": {"range": {"sheetId": sid_gwkl, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 5, "endColumnIndex": 7}, "mergeType": "MERGE_ALL"}},
     {"mergeCells": {"range": {"sheetId": sid_gwkl, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 7, "endColumnIndex": 9}, "mergeType": "MERGE_ALL"}},
     
     # Row 1
     {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 0, "endColumnIndex": 1}, "cell": {"userEnteredFormat": {"textFormat": {"bold": True, "foregroundColor": {"red": 0.37, "green": 0.39, "blue": 0.41}}, "horizontalAlignment": "RIGHT"}}, "fields": "userEnteredFormat(textFormat,horizontalAlignment)"}},
-    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 1, "endColumnIndex": 4}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.91, "green": 0.94, "blue": 1.0}, "textFormat": {"bold": True, "fontSize": 11, "foregroundColor": {"red": 0.10, "green": 0.45, "blue": 0.91}}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
-    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 4, "endColumnIndex": 5}, "cell": {"userEnteredFormat": {"textFormat": {"bold": True, "foregroundColor": {"red": 0.37, "green": 0.39, "blue": 0.41}}, "horizontalAlignment": "RIGHT"}}, "fields": "userEnteredFormat(textFormat,horizontalAlignment)"}},
-    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 5, "endColumnIndex": 6}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.90, "green": 0.96, "blue": 0.92}, "textFormat": {"bold": True, "foregroundColor": {"red": 0.07, "green": 0.45, "blue": 0.20}}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
+    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 1, "endColumnIndex": 5}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.91, "green": 0.94, "blue": 1.0}, "textFormat": {"bold": True, "fontSize": 11, "foregroundColor": {"red": 0.10, "green": 0.45, "blue": 0.91}}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
+    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 5, "endColumnIndex": 6}, "cell": {"userEnteredFormat": {"textFormat": {"bold": True, "foregroundColor": {"red": 0.37, "green": 0.39, "blue": 0.41}}, "horizontalAlignment": "RIGHT"}}, "fields": "userEnteredFormat(textFormat,horizontalAlignment)"}},
+    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 6, "endColumnIndex": 7}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.90, "green": 0.96, "blue": 0.92}, "textFormat": {"bold": True, "foregroundColor": {"red": 0.07, "green": 0.45, "blue": 0.20}}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
 
     # Row 3
     {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 0, "endColumnIndex": 1}, "cell": {"userEnteredFormat": {"textFormat": {"bold": True, "fontSize": 9, "foregroundColor": {"red": 0.37, "green": 0.39, "blue": 0.41}}, "horizontalAlignment": "RIGHT"}}, "fields": "userEnteredFormat(textFormat,horizontalAlignment)"}},
@@ -1203,31 +2104,31 @@ batch_req_g = {
     {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 7, "endColumnIndex": 9}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.945, "green": 0.953, "blue": 0.957}, "textFormat": {"bold": True, "fontSize": 9, "foregroundColor": {"red": 0.37, "green": 0.39, "blue": 0.41}}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
 
     # Row 5 Main Header
-    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 4, "endRowIndex": 5, "startColumnIndex": 0, "endColumnIndex": 17}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.102, "green": 0.451, "blue": 0.910}, "textFormat": {"bold": True, "fontSize": 10, "foregroundColor": {"red": 1.0, "green": 1.0, "blue": 1.0}}, "horizontalAlignment": "CENTER", "verticalAlignment": "MIDDLE", "wrapStrategy": "WRAP"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment,verticalAlignment,wrapStrategy)"}},
-    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 4, "endRowIndex": 5, "startColumnIndex": 17, "endColumnIndex": 19}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.075, "green": 0.451, "blue": 0.200}, "textFormat": {"bold": True, "fontSize": 10, "foregroundColor": {"red": 1.0, "green": 1.0, "blue": 1.0}}, "horizontalAlignment": "CENTER", "verticalAlignment": "MIDDLE", "wrapStrategy": "WRAP"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment,verticalAlignment,wrapStrategy)"}},
+    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 4, "endRowIndex": 5, "startColumnIndex": 0, "endColumnIndex": 18}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.102, "green": 0.451, "blue": 0.910}, "textFormat": {"bold": True, "fontSize": 10, "foregroundColor": {"red": 1.0, "green": 1.0, "blue": 1.0}}, "horizontalAlignment": "CENTER", "verticalAlignment": "MIDDLE", "wrapStrategy": "WRAP"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment,verticalAlignment,wrapStrategy)"}},
+    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 4, "endRowIndex": 5, "startColumnIndex": 18, "endColumnIndex": 20}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.075, "green": 0.451, "blue": 0.200}, "textFormat": {"bold": True, "fontSize": 10, "foregroundColor": {"red": 1.0, "green": 1.0, "blue": 1.0}}, "horizontalAlignment": "CENTER", "verticalAlignment": "MIDDLE", "wrapStrategy": "WRAP"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment,verticalAlignment,wrapStrategy)"}},
 
     # Data Rows Formatting
-    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 0, "endColumnIndex": 2}, "cell": {"userEnteredFormat": {"horizontalAlignment": "LEFT"}}, "fields": "userEnteredFormat(horizontalAlignment)"}},
-    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 3, "endColumnIndex": 6}, "cell": {"userEnteredFormat": {"horizontalAlignment": "LEFT"}}, "fields": "userEnteredFormat(horizontalAlignment)"}},
-    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 7, "endColumnIndex": 14}, "cell": {"userEnteredFormat": {"horizontalAlignment": "LEFT"}}, "fields": "userEnteredFormat(horizontalAlignment)"}},
-    # Centered columns: Tier (Col 2), Capacity (Col 6), Dates (Cols 14-15)
-    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 2, "endColumnIndex": 3}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(horizontalAlignment)"}},
-    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 6, "endColumnIndex": 7}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(horizontalAlignment)"}},
-    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 14, "endColumnIndex": 16}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(horizontalAlignment)"}},
-    # ARR Currency (Col 16)
-    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 16, "endColumnIndex": 17}, "cell": {"userEnteredFormat": {"horizontalAlignment": "RIGHT", "numberFormat": {"type": "CURRENCY", "pattern": "$#,##0.00"}}}, "fields": "userEnteredFormat(horizontalAlignment,numberFormat)"}},
-    # Manual Note Columns (Cols 17-18)
-    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 17, "endColumnIndex": 19}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.945, "green": 0.980, "blue": 0.957}, "horizontalAlignment": "LEFT"}}, "fields": "userEnteredFormat(backgroundColor,horizontalAlignment)"}},
+    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 0, "endColumnIndex": 3}, "cell": {"userEnteredFormat": {"horizontalAlignment": "LEFT"}}, "fields": "userEnteredFormat(horizontalAlignment)"}},
+    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 4, "endColumnIndex": 7}, "cell": {"userEnteredFormat": {"horizontalAlignment": "LEFT"}}, "fields": "userEnteredFormat(horizontalAlignment)"}},
+    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 8, "endColumnIndex": 15}, "cell": {"userEnteredFormat": {"horizontalAlignment": "LEFT"}}, "fields": "userEnteredFormat(horizontalAlignment)"}},
+    # Centered columns: Tier (Col 3), Capacity (Col 7), Dates (Cols 15-16)
+    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 3, "endColumnIndex": 4}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(horizontalAlignment)"}},
+    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 7, "endColumnIndex": 8}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(horizontalAlignment)"}},
+    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 15, "endColumnIndex": 17}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(horizontalAlignment)"}},
+    # ARR Currency (Col 17)
+    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 17, "endColumnIndex": 18}, "cell": {"userEnteredFormat": {"horizontalAlignment": "RIGHT", "numberFormat": {"type": "CURRENCY", "pattern": "$#,##0.00"}}}, "fields": "userEnteredFormat(horizontalAlignment,numberFormat)"}},
+    # Manual Note Columns (Cols 18-19)
+    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 18, "endColumnIndex": 20}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.945, "green": 0.980, "blue": 0.957}, "horizontalAlignment": "LEFT"}}, "fields": "userEnteredFormat(backgroundColor,horizontalAlignment)"}},
 
-    # Hyperlinks (Cols 0, 1, 3, 4, 7)
-    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 0, "endColumnIndex": 2}, "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}}, "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"}},
-    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 3, "endColumnIndex": 5}, "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}}, "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"}},
-    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 7, "endColumnIndex": 8}, "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}}, "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"}},
+    # Hyperlinks (Cols 1, 2, 4, 5, 8)
+    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 1, "endColumnIndex": 3}, "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}}, "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"}},
+    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 4, "endColumnIndex": 6}, "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}}, "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"}},
+    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 8, "endColumnIndex": 9}, "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}}, "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"}},
 
     # Borders
     {
       "updateBorders": {
-        "range": {"sheetId": sid_gwkl, "startRowIndex": 4, "endRowIndex": gw_rows, "startColumnIndex": 0, "endColumnIndex": 19},
+        "range": {"sheetId": sid_gwkl, "startRowIndex": 4, "endRowIndex": gw_rows, "startColumnIndex": 0, "endColumnIndex": 20},
         "top": {"style": "SOLID", "color": {"red": 0.8, "green": 0.8, "blue": 0.8}},
         "bottom": {"style": "SOLID", "color": {"red": 0.8, "green": 0.8, "blue": 0.8}},
         "left": {"style": "SOLID", "color": {"red": 0.8, "green": 0.8, "blue": 0.8}},
@@ -1238,12 +2139,12 @@ batch_req_g = {
     },
     # Basic Filter
     {"clearBasicFilter": {"sheetId": sid_gwkl}},
-    {"setBasicFilter": {"filter": {"range": {"sheetId": sid_gwkl, "startRowIndex": 4, "endRowIndex": gw_rows, "startColumnIndex": 0, "endColumnIndex": 19}}}},
+    {"setBasicFilter": {"filter": {"range": {"sheetId": sid_gwkl, "startRowIndex": 4, "endRowIndex": gw_rows, "startColumnIndex": 0, "endColumnIndex": 20}}}},
 
-    # Conditional Formatting Rules (Progress is Col F [$F6], Production Date is Col P [$P6])
-    {"addConditionalFormatRule": {"rule": {"ranges": [{"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 0, "endColumnIndex": 19}], "booleanRule": {"condition": {"type": "CUSTOM_FORMULA", "values": [{"userEnteredValue": "=AND(OR(LEFT($F6,3)=\"0-2\",LEFT($F6,2)=\"3:\"), $P6<>\"\", ($P6-TODAY())<=14)"}]}, "format": {"backgroundColor": {"red": 0.988, "green": 0.910, "blue": 0.902}}}}, "index": 0}},
-    {"addConditionalFormatRule": {"rule": {"ranges": [{"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 0, "endColumnIndex": 19}], "booleanRule": {"condition": {"type": "CUSTOM_FORMULA", "values": [{"userEnteredValue": "=AND(OR(LEFT($F6,3)=\"0-2\",LEFT($F6,2)=\"3:\"), $P6<>\"\", ($P6-TODAY())>=15, ($P6-TODAY())<=30)"}]}, "format": {"backgroundColor": {"red": 0.996, "green": 0.969, "blue": 0.878}}}}, "index": 1}},
-    {"addConditionalFormatRule": {"rule": {"ranges": [{"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 0, "endColumnIndex": 19}], "booleanRule": {"condition": {"type": "CUSTOM_FORMULA", "values": [{"userEnteredValue": "=AND(OR(LEFT($F6,3)=\"0-2\",LEFT($F6,2)=\"3:\"), $P6<>\"\", ($P6-TODAY())>=31, ($P6-TODAY())<=45)"}]}, "format": {"backgroundColor": {"red": 1.0, "green": 0.976, "blue": 0.859}}}}, "index": 2}},
+    # Conditional Formatting Rules (Progress is Col G [$G6], Production Date is Col Q [$Q6])
+    {"addConditionalFormatRule": {"rule": {"ranges": [{"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 0, "endColumnIndex": 20}], "booleanRule": {"condition": {"type": "CUSTOM_FORMULA", "values": [{"userEnteredValue": "=AND(OR(LEFT($G6,3)=\"0-2\",LEFT($G6,2)=\"3:\"), $Q6<>\"\", ($Q6-TODAY())<=14)"}]}, "format": {"backgroundColor": {"red": 0.988, "green": 0.910, "blue": 0.902}}}}, "index": 0}},
+    {"addConditionalFormatRule": {"rule": {"ranges": [{"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 0, "endColumnIndex": 20}], "booleanRule": {"condition": {"type": "CUSTOM_FORMULA", "values": [{"userEnteredValue": "=AND(OR(LEFT($G6,3)=\"0-2\",LEFT($G6,2)=\"3:\"), $Q6<>\"\", ($Q6-TODAY())>=15, ($Q6-TODAY())<=30)"}]}, "format": {"backgroundColor": {"red": 0.996, "green": 0.969, "blue": 0.878}}}}, "index": 1}},
+    {"addConditionalFormatRule": {"rule": {"ranges": [{"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 0, "endColumnIndex": 20}], "booleanRule": {"condition": {"type": "CUSTOM_FORMULA", "values": [{"userEnteredValue": "=AND(OR(LEFT($G6,3)=\"0-2\",LEFT($G6,2)=\"3:\"), $Q6<>\"\", ($Q6-TODAY())>=31, ($Q6-TODAY())<=45)"}]}, "format": {"backgroundColor": {"red": 1.0, "green": 0.976, "blue": 0.859}}}}, "index": 2}},
 
     # Row heights
     {"updateDimensionProperties": {"range": {"sheetId": sid_gwkl, "dimension": "ROWS", "startIndex": 0, "endIndex": 1}, "properties": {"pixelSize": 30}, "fields": "pixelSize"}},
@@ -1260,7 +2161,7 @@ for r_idx in range(5, gw_rows):
     if r_idx % 2 == 1:
         batch_req_g["requests"].append({
             "repeatCell": {
-                "range": {"sheetId": sid_gwkl, "startRowIndex": r_idx, "endRowIndex": r_idx + 1, "startColumnIndex": 0, "endColumnIndex": 17},
+                "range": {"sheetId": sid_gwkl, "startRowIndex": r_idx, "endRowIndex": r_idx + 1, "startColumnIndex": 0, "endColumnIndex": 18},
                 "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.973, "green": 0.976, "blue": 0.980}}},
                 "fields": "userEnteredFormat(backgroundColor)"
             }
@@ -1279,11 +2180,11 @@ for col_idx, width in GLOBAL_COL_WIDTHS.items():
 # Format ER column if has links
 for r_idx in range(5, gw_rows):
     if r_idx < len(all_global_followup_rows):
-        val = all_global_followup_rows[r_idx][8]
+        val = all_global_followup_rows[r_idx][9]
         if "ER-" in val and ("HYPERLINK" in val or "http" in val):
             batch_req_g["requests"].append({
                 "repeatCell": {
-                    "range": {"sheetId": sid_gwkl, "startRowIndex": r_idx, "endRowIndex": r_idx + 1, "startColumnIndex": 8, "endColumnIndex": 9},
+                    "range": {"sheetId": sid_gwkl, "startRowIndex": r_idx, "endRowIndex": r_idx + 1, "startColumnIndex": 9, "endColumnIndex": 10},
                     "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}},
                     "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"
                 }

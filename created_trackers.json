@@ -1,90 +1,597 @@
 [
   {
-    "partner": "Comercializadora Zenta Group SPA",
-    "provided_id": "0014M00001h39BLQAY",
-    "verified_id": "0014M00001h39BLQAY",
-    "title": "Comercializadora Zenta Group SPA action tracker",
-    "sheet_id": "1xG-27ye3Wk4ob9nr3N08KP2a1ufaPRCxAP4o93NKj1Q",
-    "sheet_url": "https://docs.google.com/spreadsheets/d/1xG-27ye3Wk4ob9nr3N08KP2a1ufaPRCxAP4o93NKj1Q/edit"
+    "partner": "Admazing Cloud",
+    "pe": "Fernando Laguna",
+    "sheet_id": "1ofym1wCiQW6kz0z-vewGIh_XQ72GzuwoiTFmS0GLRB0",
+    "url": "https://docs.google.com/spreadsheets/d/1ofym1wCiQW6kz0z-vewGIh_XQ72GzuwoiTFmS0GLRB0/edit",
+    "partner_ids": [
+      "0014M00002NlVN0QAN",
+      "0014M00002TEyhPQAT"
+    ],
+    "country": "Argentina / MCO",
+    "tier_level": "Premier"
   },
   {
-    "partner": "Tech Pulse SPA (Axmos)",
-    "provided_id": "0014M00002JmizDQAR",
-    "verified_id": "0014M00002JmizDQAR",
-    "title": "Tech Pulse SPA (Axmos) action tracker",
-    "sheet_id": "1qWdLgRDmHG9wMGjiOZ1fJvj4AmHbfKwrBPpuV8r2uwI",
-    "sheet_url": "https://docs.google.com/spreadsheets/d/1qWdLgRDmHG9wMGjiOZ1fJvj4AmHbfKwrBPpuV8r2uwI/edit"
+    "partner": "Algeiba Business Solutions",
+    "pe": "Fernando Laguna",
+    "sheet_id": "1cVqPG7f33IsKQ3702M_1YyzAMSm2UfjExFuRoHo9rRc",
+    "url": "https://docs.google.com/spreadsheets/d/1cVqPG7f33IsKQ3702M_1YyzAMSm2UfjExFuRoHo9rRc/edit",
+    "partner_ids": [
+      "0014M00001h31YIQAY",
+      "0014M00001jQcppQAC",
+      "0014M00001h32gOQAQ",
+      "001Kf000010diABIAY"
+    ],
+    "country": "Argentina / MCO",
+    "tier_level": "Premier"
   },
   {
-    "partner": "Devaid SPA",
-    "provided_id": "0014M00001h38aiQAA",
-    "verified_id": "0014M00001h38aiQAA",
-    "title": "Devaid SPA action tracker",
-    "sheet_id": "1UqYI0iTbxFL1f8ohC3e-uMQCD2we_8Ne3ODmDjnT8U8",
-    "sheet_url": "https://docs.google.com/spreadsheets/d/1UqYI0iTbxFL1f8ohC3e-uMQCD2we_8Ne3ODmDjnT8U8/edit"
+    "partner": "BFS Ingeniería Aplicada",
+    "pe": "Fernando Laguna",
+    "sheet_id": "1sZlGmDoTeKj7WSbZZybw7hGYPV7ELAnCeprQAzD1WgU",
+    "url": "https://docs.google.com/spreadsheets/d/1sZlGmDoTeKj7WSbZZybw7hGYPV7ELAnCeprQAzD1WgU/edit",
+    "partner_ids": [
+      "0014M00001h35dDQAQ",
+      "0014M00001h37s3QAA"
+    ],
+    "country": "Mexico / MCO",
+    "tier_level": "Premier"
   },
   {
-    "partner": "UCLOUD STORE COLOMBIA S A S",
-    "provided_id": "0014M00002M7lcJQAR",
-    "verified_id": "0014M00002M7lcJQAR",
-    "title": "UCLOUD STORE COLOMBIA S A S action tracker",
-    "sheet_id": "1yOtNpVu8O8QQFeRx96s8TmgUtKcXAHYBdsoiZSmnSOI",
-    "sheet_url": "https://docs.google.com/spreadsheets/d/1yOtNpVu8O8QQFeRx96s8TmgUtKcXAHYBdsoiZSmnSOI/edit"
+    "partner": "Rubik",
+    "pe": "Fernando Laguna",
+    "sheet_id": "12tvcHWz0q48DgSPZcGqQsQtGd36MnAk_bhQRx4u5axs",
+    "url": "https://docs.google.com/spreadsheets/d/12tvcHWz0q48DgSPZcGqQsQtGd36MnAk_bhQRx4u5axs/edit",
+    "partner_ids": [
+      "0014M00001h3Ay3QAE",
+      "0014M00001h35xNQAQ",
+      "0014M00002ROupzQAD",
+      "0014M00001h32BeQAI",
+      "0014M00002LU7SJQA1",
+      "0014M00002LM9DXQA1",
+      "0014M00002GH3xjQAD",
+      "0014M00001h35xxQAA",
+      "0014M00002RQXE7QAP",
+      "0014M00002RSBX5QAP",
+      "001Kf000019zlsUIAQ",
+      "0014M00001yTHnfQAG",
+      "0014M00001yRzGmQAK",
+      "0014M00001oXcWHQA0",
+      "0014M00001h38E4QAI"
+    ],
+    "country": "Chile / MCO",
+    "tier_level": "Premier"
   },
   {
-    "partner": "TIVIT COLOMBIA S A S",
-    "provided_id": "001Kf0000150rJ2IAI",
-    "verified_id": "0014M00001kxZPMQA2",
-    "title": "TIVIT COLOMBIA S A S action tracker",
-    "sheet_id": "1nUwpOaqhvpBmVoEb7i_M3C18jhmrJ7bQ1mrfwyXo02o",
-    "sheet_url": "https://docs.google.com/spreadsheets/d/1nUwpOaqhvpBmVoEb7i_M3C18jhmrJ7bQ1mrfwyXo02o/edit"
+    "partner": "Super Software",
+    "pe": "Fernando Laguna",
+    "sheet_id": "1Z27kkt7CrAH_AnV1GYQ51MYQJIrKOutKPM2tHF-iYdQ",
+    "url": "https://docs.google.com/spreadsheets/d/1Z27kkt7CrAH_AnV1GYQ51MYQJIrKOutKPM2tHF-iYdQ/edit",
+    "partner_ids": [
+      "0014M00001p45vjQAA"
+    ],
+    "country": "Chile",
+    "tier_level": "Premier"
   },
   {
-    "partner": "VPN Solu\u00e7oes em TI LTDA (Venha para Nuvem)",
-    "provided_id": "0014M00001uFlbSQAS",
-    "verified_id": "0014M00001uFlbSQAS",
-    "title": "VPN Solu\u00e7oes em TI LTDA (Venha para Nuvem) action tracker",
-    "sheet_id": "1zcIQXnDbrR_WRhciVOD0XCN8RXK0_gHT0MUSExcqBbo",
-    "sheet_url": "https://docs.google.com/spreadsheets/d/1zcIQXnDbrR_WRhciVOD0XCN8RXK0_gHT0MUSExcqBbo/edit"
+    "partner": "Tigabytes",
+    "pe": "Fernando Laguna",
+    "sheet_id": "1SkQLFoP2BQouGKutI5G14bxLiYZM4qsfM-Z30cj-unY",
+    "url": "https://docs.google.com/spreadsheets/d/1SkQLFoP2BQouGKutI5G14bxLiYZM4qsfM-Z30cj-unY/edit",
+    "partner_ids": [
+      "0014M00001h39C2QAI",
+      "0014M00001h32CTQAY",
+      "0014M00001h38afQAA"
+    ],
+    "country": "Chile / Regional",
+    "tier_level": "Premier"
   },
   {
-    "partner": "MadeinWeb S/A",
-    "provided_id": "0014M00002GGNRCQA5",
-    "verified_id": "0014M00002GGNRCQA5",
-    "title": "MadeinWeb S/A action tracker",
-    "sheet_id": "1K2_rFQ5tFMvvk_DnRNxbg3iJ9ZP-MkXtrrcuo04qTOI",
-    "sheet_url": "https://docs.google.com/spreadsheets/d/1K2_rFQ5tFMvvk_DnRNxbg3iJ9ZP-MkXtrrcuo04qTOI/edit"
+    "partner": "Xertica",
+    "pe": "Fernando Laguna",
+    "sheet_id": "15t2IBgfMPcYUoQSXdRjjg8XCrM5jOu6qSgic5NzqUNs",
+    "url": "https://docs.google.com/spreadsheets/d/15t2IBgfMPcYUoQSXdRjjg8XCrM5jOu6qSgic5NzqUNs/edit",
+    "partner_ids": [
+      "0014M00001h32ptQAA",
+      "001Kf00001HDYb8IAH",
+      "0014M00001h32DhQAI",
+      "0014M000029TjdHQAS",
+      "0014M000029WGRzQAO",
+      "0014M00001h3Aw8QAE",
+      "0014M00001h34zJQAQ",
+      "0014M00001reUJRQA2",
+      "0014M00001jjfBUQAY",
+      "0014M00001h36EIQAY",
+      "0014M00001h323oQAA",
+      "0014M00002OSpJ8QAL"
+    ],
+    "country": "Regional / LATAM",
+    "tier_level": "Premier"
   },
   {
     "partner": "CU2 CLOUD TEC STORE SL",
-    "provided_id": "0014M00001h35nAQAQ",
-    "verified_id": "0014M00001h35nAQAQ",
-    "title": "CU2 CLOUD TEC STORE SL action tracker",
+    "pe": "Ignacio Rauda",
     "sheet_id": "1oPv0eexAbvaP_sGQx70X8gEiooR9dXCFuFv1QDFhUew",
-    "sheet_url": "https://docs.google.com/spreadsheets/d/1oPv0eexAbvaP_sGQx70X8gEiooR9dXCFuFv1QDFhUew/edit"
+    "url": "https://docs.google.com/spreadsheets/d/1oPv0eexAbvaP_sGQx70X8gEiooR9dXCFuFv1QDFhUew/edit",
+    "partner_ids": [
+      "0014M00001h35nAQAQ",
+      "0014M00001w6MZzQAM",
+      "0014M00002M7ryLQAR",
+      "001Kf000010ctuwIAA",
+      "001Kf000010cw8CIAQ",
+      "0014M00002N5mLOQAZ"
+    ],
+    "country": "Regional / Spain & LATAM",
+    "tier_level": "Premier"
   },
   {
-    "partner": "Consiti (Consultor\u00eda y Soluciones Inform\u00e1ticas)",
-    "provided_id": "0014M00001jus6LQAQ",
-    "verified_id": "001Kf000013fuVXIAY",
-    "title": "Consiti (Consultor\u00eda y Soluciones Inform\u00e1ticas) action tracker",
-    "sheet_id": "1jsiE3qCJxv5EnxnKJzBdoNFOENc1HA8TdlEXGgnUelo",
-    "sheet_url": "https://docs.google.com/spreadsheets/d/1jsiE3qCJxv5EnxnKJzBdoNFOENc1HA8TdlEXGgnUelo/edit"
+    "partner": "Emergys Mexico",
+    "pe": "Ignacio Rauda",
+    "sheet_id": "1hikFFuQ0QpDgBY_FtnLcqHpUiASexgSGsPYrCZUNMY4",
+    "url": "https://docs.google.com/spreadsheets/d/1hikFFuQ0QpDgBY_FtnLcqHpUiASexgSGsPYrCZUNMY4/edit",
+    "partner_ids": [
+      "0014M00001msBmRQAU"
+    ],
+    "country": "Mexico",
+    "tier_level": "Premier"
   },
   {
-    "partner": "INFORMACIÓN LOCALIZADA SAS (Servinformación)",
-    "provided_id": "0014M00001h3AyDQAU",
-    "verified_id": "0014M00001h3AyDQAU",
-    "title": "INFORMACIÓN LOCALIZADA SAS (Servinformación) action tracker",
-    "sheet_id": "1H3cgdClncDnQDK9kY8s6U59jnfK_w4UmbE-z8dWexbs",
-    "sheet_url": "https://docs.google.com/spreadsheets/d/1H3cgdClncDnQDK9kY8s6U59jnfK_w4UmbE-z8dWexbs/edit"
+    "partner": "NXN Consultores",
+    "pe": "Ignacio Rauda",
+    "sheet_id": "1Tt1P5qe8P7Q3GETH1KOuGdCPsf-MBQKaMtDx3S20wIk",
+    "url": "https://docs.google.com/spreadsheets/d/1Tt1P5qe8P7Q3GETH1KOuGdCPsf-MBQKaMtDx3S20wIk/edit",
+    "partner_ids": [
+      "0014M00001mrufoQAA",
+      "001Kf00001GDi2WIAT",
+      "0014M00001pbjpyQAA",
+      "001Kf00001F9DzjIAF",
+      "0014M00001h37J2QAI"
+    ],
+    "country": "Mexico",
+    "tier_level": "Premier"
+  },
+  {
+    "partner": "Nubosoft Servicios",
+    "pe": "Ignacio Rauda",
+    "sheet_id": "17eQt0Swei42yKenenPJ6Dq9jLEZR839BdnZMzfUMTNo",
+    "url": "https://docs.google.com/spreadsheets/d/17eQt0Swei42yKenenPJ6Dq9jLEZR839BdnZMzfUMTNo/edit",
+    "partner_ids": [
+      "001Kf00001CPDomIAH",
+      "0014M00001h36arQAA",
+      "0014M00002GIV9FQAX",
+      "0014M00001uc5SvQAI"
+    ],
+    "country": "Mexico",
+    "tier_level": "Premier"
+  },
+  {
+    "partner": "U CLOUD STORE MÉXICO",
+    "pe": "Ignacio Rauda",
+    "sheet_id": "1nT3bjmJlDTCd1khZdzW1QRlL_f6aTFSw6z9yhfO2cls",
+    "url": "https://docs.google.com/spreadsheets/d/1nT3bjmJlDTCd1khZdzW1QRlL_f6aTFSw6z9yhfO2cls/edit",
+    "partner_ids": [
+      "0014M00002JXkn6QAD"
+    ],
+    "country": "Mexico",
+    "tier_level": "Premier"
+  },
+  {
+    "partner": "UCLOUD STORE COLOMBIA S A S",
+    "pe": "Ignacio Rauda",
+    "sheet_id": "1yOtNpVu8O8QQFeRx96s8TmgUtKcXAHYBdsoiZSmnSOI",
+    "url": "https://docs.google.com/spreadsheets/d/1yOtNpVu8O8QQFeRx96s8TmgUtKcXAHYBdsoiZSmnSOI/edit",
+    "partner_ids": [
+      "0014M00002M7lcJQAR"
+    ],
+    "country": "Colombia",
+    "tier_level": "Premier"
+  },
+  {
+    "partner": "Growth Partner Network (GPN)",
+    "pe": "Ignacio Rauda, Fernando Laguna",
+    "sheet_id": "1STeEh2SntjsXd-Ddse4YyBthPbWLql_bHB4HXIzRb2w",
+    "url": "https://docs.google.com/spreadsheets/d/1STeEh2SntjsXd-Ddse4YyBthPbWLql_bHB4HXIzRb2w/edit",
+    "partner_ids": [
+      "0014M00002TEKP9QAP",
+      "001Kf000012hAaiIAE",
+      "001Kf00001E75n9IAB",
+      "0014M00002NSez4QAD",
+      "0014M00001tTpJzQAK",
+      "001Kf00000wk9YCIAY",
+      "0014M00001h3CbeQAE",
+      "0014M00001h38bpQAA",
+      "001Kf000019jA3IIAU",
+      "0014M000020cUJuQAM",
+      "001Kf00001DhFzAIAV"
+    ],
+    "country": "Mexico / Chile",
+    "tier_level": "Premier"
   },
   {
     "partner": "Noventiq (Softline)",
-    "provided_id": "0014M00001h39APQAY",
-    "verified_id": "0014M00001h39APQAY",
-    "title": "Noventiq (Softline) action tracker",
+    "pe": "Jaquelyn Montañez",
     "sheet_id": "1Rq5L7d_n1a34cTQGb8J-jHDejLcSdmnC18WLohWjsdU",
-    "sheet_url": "https://docs.google.com/spreadsheets/d/1Rq5L7d_n1a34cTQGb8J-jHDejLcSdmnC18WLohWjsdU/edit"
+    "url": "https://docs.google.com/spreadsheets/d/1Rq5L7d_n1a34cTQGb8J-jHDejLcSdmnC18WLohWjsdU/edit",
+    "partner_ids": [
+      "0014M00001h39APQAY",
+      "0014M00001jtbqFQAQ",
+      "0014M00001h34YXQAY",
+      "0014M00002RRf3HQAT",
+      "0014M00002RPO7QQAX",
+      "0014M00001h3ARZQA2",
+      "0014M00001h32gHQAQ",
+      "0014M00001h323yQAA",
+      "0014M00001h32p3QAA",
+      "0014M00001h34xFQAQ",
+      "0014M000026pzWLQAY",
+      "0014M00001h355LQAQ"
+    ],
+    "country": "Chile / Regional LATAM",
+    "tier_level": "Premier"
+  },
+  {
+    "partner": "INFORMACIÓN LOCALIZADA SAS (Servinformación)",
+    "pe": "Jaquelyn Montañez, Fernando Laguna",
+    "sheet_id": "1H3cgdClncDnQDK9kY8s6U59jnfK_w4UmbE-z8dWexbs",
+    "url": "https://docs.google.com/spreadsheets/d/1H3cgdClncDnQDK9kY8s6U59jnfK_w4UmbE-z8dWexbs/edit",
+    "partner_ids": [
+      "0014M00001h3AyDQAU",
+      "0014M00001h34A7QAI",
+      "0014M00002GHywFQAT",
+      "0014M00002GHyqCQAT",
+      "0014M00002TEROiQAP",
+      "0014M00001w6OZ3QAM",
+      "0014M00002NSRhUQAX",
+      "001Kf000012gXIzIAM",
+      "001Kf00001BCjQ0IAL",
+      "0014M00002GHyyuQAD",
+      "0014M00001jaT4bQAE",
+      "0014M00001khC4uQAE",
+      "0014M0000277PE9QAM"
+    ],
+    "country": "Colombia / Regional LATAM",
+    "tier_level": "Premier"
+  },
+  {
+    "partner": "Abacus Cambridge Partners",
+    "pe": "Luna Longo",
+    "sheet_id": "12MNfhjMKbal2luFR-gXwco1IlCfVjaCXO4YHlpPD8ms",
+    "url": "https://docs.google.com/spreadsheets/d/12MNfhjMKbal2luFR-gXwco1IlCfVjaCXO4YHlpPD8ms/edit",
+    "partner_ids": [
+      "0014M00001mGcWKQA0",
+      "001Kf000010dL7TIAU",
+      "0014M00001h38C9QAI",
+      "0014M00001jugzxQAA",
+      "0014M00002QBWEPQA5",
+      "0014M00001yT1CLQA0",
+      "0014M00001pZodGQAS",
+      "001Kf000012gWnrIAE",
+      "0014M00001h30zAQAQ",
+      "0014M00001h330TQAQ",
+      "0014M00001p6fG1QAI",
+      "001Kf00001Fp3btIAB",
+      "0014M00001kwy81QAA",
+      "0014M00001h398tQAA",
+      "0014M00002JlwWeQAJ",
+      "0014M00002JoF6IQAV",
+      "0014M00001h39o5QAA",
+      "0014M000026qUI8QAM",
+      "0014M00002GGFn5QAH",
+      "001Kf00001HFSjeIAH",
+      "0014M00001sgH94QAE",
+      "0014M00001h3CXCQA2",
+      "0014M00001gwrpcQAA",
+      "0014M00001tLDSGQA4"
+    ],
+    "country": "Regional / LATAM",
+    "tier_level": "Premier"
+  },
+  {
+    "partner": "Gentrop Cloud Brasil",
+    "pe": "Luna Longo",
+    "sheet_id": "1F9UbQ-kaBHELme9Feh4fQCdujXnC7hRhQX9tWzFD9WM",
+    "url": "https://docs.google.com/spreadsheets/d/1F9UbQ-kaBHELme9Feh4fQCdujXnC7hRhQX9tWzFD9WM/edit",
+    "partner_ids": [
+      "001Kf00001FY2FRIA1",
+      "0014M00001h32coQAA",
+      "001Kf00001F93WNIAZ",
+      "0014M000028FCl3QAG"
+    ],
+    "country": "Brazil",
+    "tier_level": "Premier"
+  },
+  {
+    "partner": "QiNetwork",
+    "pe": "Luna Longo",
+    "sheet_id": "1rt85jLUA_r0KvNGO_wJD3qYfzPHA9nl5w2bw2sqOO8s",
+    "url": "https://docs.google.com/spreadsheets/d/1rt85jLUA_r0KvNGO_wJD3qYfzPHA9nl5w2bw2sqOO8s/edit",
+    "partner_ids": [
+      "0014M00001h3BemQAE",
+      "0014M00001h30rmQAA"
+    ],
+    "country": "Brazil",
+    "tier_level": "Premier"
+  },
+  {
+    "partner": "Safetec Informática",
+    "pe": "Luna Longo",
+    "sheet_id": "1pfmHXAokv-KljvWUvHYL334NJpGpQK3jmPe9lxNzIng",
+    "url": "https://docs.google.com/spreadsheets/d/1pfmHXAokv-KljvWUvHYL334NJpGpQK3jmPe9lxNzIng/edit",
+    "partner_ids": [
+      "001Kf00001HWbTPIA1",
+      "0014M00001h327IQAQ",
+      "0014M00001qNF4FQAW"
+    ],
+    "country": "Brazil",
+    "tier_level": "Premier"
+  },
+  {
+    "partner": "VPN Soluçoes em TI LTDA (Venha para Nuvem)",
+    "pe": "Luna Longo",
+    "sheet_id": "1zcIQXnDbrR_WRhciVOD0XCN8RXK0_gHT0MUSExcqBbo",
+    "url": "https://docs.google.com/spreadsheets/d/1zcIQXnDbrR_WRhciVOD0XCN8RXK0_gHT0MUSExcqBbo/edit",
+    "partner_ids": [
+      "0014M00001uFlbSQAS",
+      "0014M00002C1I0PQAV"
+    ],
+    "country": "Brazil",
+    "tier_level": "Premier"
+  },
+  {
+    "partner": "Comercializadora Zenta Group SPA",
+    "pe": "Oliver Hartley",
+    "sheet_id": "1xG-27ye3Wk4ob9nr3N08KP2a1ufaPRCxAP4o93NKj1Q",
+    "url": "https://docs.google.com/spreadsheets/d/1xG-27ye3Wk4ob9nr3N08KP2a1ufaPRCxAP4o93NKj1Q/edit",
+    "partner_ids": [
+      "0014M00001h39BLQAY",
+      "0014M00001m9woLQAQ",
+      "001Kf000012gqs3IAA"
+    ],
+    "country": "Chile",
+    "tier_level": "Premier"
+  },
+  {
+    "partner": "Consiti (Consultoría y Soluciones Informáticas)",
+    "pe": "Oliver Hartley",
+    "sheet_id": "1jsiE3qCJxv5EnxnKJzBdoNFOENc1HA8TdlEXGgnUelo",
+    "url": "https://docs.google.com/spreadsheets/d/1jsiE3qCJxv5EnxnKJzBdoNFOENc1HA8TdlEXGgnUelo/edit",
+    "partner_ids": [
+      "001Kf000013fuVXIAY",
+      "001Kf00001FoCy9IAF"
+    ],
+    "country": "El Salvador / Central America",
+    "tier_level": "Premier"
+  },
+  {
+    "partner": "Devaid SPA",
+    "pe": "Oliver Hartley",
+    "sheet_id": "1UqYI0iTbxFL1f8ohC3e-uMQCD2we_8Ne3ODmDjnT8U8",
+    "url": "https://docs.google.com/spreadsheets/d/1UqYI0iTbxFL1f8ohC3e-uMQCD2we_8Ne3ODmDjnT8U8/edit",
+    "partner_ids": [
+      "0014M00001h38aiQAA",
+      "0014M00001m9sVvQAI"
+    ],
+    "country": "Chile",
+    "tier_level": "Premier"
+  },
+  {
+    "partner": "MadeinWeb S/A",
+    "pe": "Oliver Hartley",
+    "sheet_id": "1K2_rFQ5tFMvvk_DnRNxbg3iJ9ZP-MkXtrrcuo04qTOI",
+    "url": "https://docs.google.com/spreadsheets/d/1K2_rFQ5tFMvvk_DnRNxbg3iJ9ZP-MkXtrrcuo04qTOI/edit",
+    "partner_ids": [
+      "0014M00002GGNRCQA5",
+      "001Kf000013hWaOIAU"
+    ],
+    "country": "Brazil",
+    "tier_level": "Premier"
+  },
+  {
+    "partner": "TIVIT COLOMBIA S A S",
+    "pe": "Oliver Hartley",
+    "sheet_id": "1nUwpOaqhvpBmVoEb7i_M3C18jhmrJ7bQ1mrfwyXo02o",
+    "url": "https://docs.google.com/spreadsheets/d/1nUwpOaqhvpBmVoEb7i_M3C18jhmrJ7bQ1mrfwyXo02o/edit",
+    "partner_ids": [
+      "001Kf0000150rJ2IAI",
+      "0014M00001kxZPMQA2",
+      "0014M00001m9v8HQAQ"
+    ],
+    "country": "Colombia / Regional",
+    "tier_level": "Premier"
+  },
+  {
+    "partner": "Tech Pulse SPA (Axmos)",
+    "pe": "Oliver Hartley",
+    "sheet_id": "1qWdLgRDmHG9wMGjiOZ1fJvj4AmHbfKwrBPpuV8r2uwI",
+    "url": "https://docs.google.com/spreadsheets/d/1qWdLgRDmHG9wMGjiOZ1fJvj4AmHbfKwrBPpuV8r2uwI/edit",
+    "partner_ids": [
+      "0014M00002JmizDQAR",
+      "001Kf00001G4DmBIAV",
+      "001Kf0000149iw9IAA"
+    ],
+    "country": "Chile",
+    "tier_level": "Premier"
+  },
+  {
+    "partner": "IPNET (Telefônica Cloud)",
+    "pe": "Thiago da Ponte",
+    "sheet_id": "1EpquIz41xu7RZPl-Y4nd-jTRbEl3qdAd8hJ53xxpd4M",
+    "url": "https://docs.google.com/spreadsheets/d/1EpquIz41xu7RZPl-Y4nd-jTRbEl3qdAd8hJ53xxpd4M/edit",
+    "partner_ids": [
+      "0014M00002QBQ0KQAX",
+      "0014M00001w5vdTQAQ",
+      "0014M00001h38bpQAA",
+      "001Kf00000wjtGuIAI",
+      "001Kf00001FlqhtIAB",
+      "0014M00001h3BeiQAE",
+      "0014M00001jSgzAQAS",
+      "001Kf00001F7VMgIAN",
+      "0014M00001pQmCHQA0",
+      "001Kf000013fEbPIAU",
+      "0014M00001yStvdQAC",
+      "001Kf00001FlzzdIAB",
+      "0014M00001h36IMQAY",
+      "0014M00002C0zA3QAJ",
+      "0014M00001h31NNQAY",
+      "0014M000026rVKtQAM",
+      "0014M00001h30r8QAA",
+      "001Kf00001F8uDRIAZ",
+      "001Kf00001F9FEzIAN",
+      "0014M00002OSfuCQAT",
+      "001Kf00001FlqhUIAR",
+      "0014M00001jS0xGQAS",
+      "0014M00001xhos3QAA"
+    ],
+    "country": "Brazil",
+    "tier_level": "Premier"
+  },
+  {
+    "partner": "Kyndryl Brasil",
+    "pe": "Thiago da Ponte",
+    "sheet_id": "1wvMK5gSOkTNl-oRS6XbvQJmrHDdz73tqKcGpF6DCZ2I",
+    "url": "https://docs.google.com/spreadsheets/d/1wvMK5gSOkTNl-oRS6XbvQJmrHDdz73tqKcGpF6DCZ2I/edit",
+    "partner_ids": [
+      "0014M000026phCZQAY",
+      "0014M00001pQ1mpQAC",
+      "0014M00002F5JiGQAV",
+      "001Kf00001HCncSIAT",
+      "0014M00002BTRuoQAH",
+      "001Kf00001FoCSrIAN",
+      "0014M00002N6J8FQAV",
+      "001Kf00001I6eFgIAJ",
+      "0014M00001yTraMQAS",
+      "001Kf00001I4lprIAB",
+      "0014M000026pjkGQAQ",
+      "001Kf00001HpoitIAB",
+      "0014M00002RQuEmQAL",
+      "0014M00002RQsxsQAD",
+      "0014M0000282WpAQAU",
+      "0014M00002BSo9qQAD",
+      "0014M0000281YiqQAE",
+      "0014M000026qh8oQAA",
+      "0014M00002LRtwaQAD",
+      "0014M00002BR5AuQAL",
+      "001Kf000010co7uIAA",
+      "001Kf00001I4b5qIAB",
+      "001Kf00001FWTPMIA5",
+      "0014M000026pffFQAQ",
+      "0014M0000281B4tQAE",
+      "0014M00002BT1J1QAL",
+      "0014M00002GH8F5QAL",
+      "0014M00002M9ldfQAB",
+      "0014M000026rFcfQAE",
+      "0014M00002KNyHbQAL",
+      "0014M00002PLp8IQAT",
+      "001Kf00001FpFXoIAN",
+      "001Kf00001FmIOoIAN",
+      "001Kf00001HqsIiIAJ",
+      "001Kf00001I6DseIAF",
+      "001Kf000010co8dIAA",
+      "001Kf00001Hpn6UIAR",
+      "0014M00002JnwanQAB",
+      "0014M000026pZzVQAU",
+      "0014M00002BSnwlQAD",
+      "001Kf00001FYn0eIAD",
+      "0014M00002Jmoh2QAB",
+      "0014M000026pgeHQAQ",
+      "0014M000026qa9PQAQ",
+      "0014M00002RSD9UQAX",
+      "0014M00002Jko6cQAB",
+      "0014M00002C1zxYQAR",
+      "0014M00002DKk7rQAD",
+      "0014M000026pZF7QAM",
+      "001Kf00001EyRZ8IAN",
+      "0014M00002BRVhgQAH",
+      "0014M00002803caQAA",
+      "0014M000027zF5oQAE",
+      "0014M000026pgkzQAA",
+      "0014M000026phE6QAI",
+      "001Kf00001HqyhkIAB",
+      "0014M00002BTXwyQAH",
+      "0014M00002BSnnDQAT",
+      "0014M00002BSnvOQAT",
+      "0014M00002C22r1QAB",
+      "0014M00002BSnw7QAD",
+      "001Kf00001I68KCIAZ",
+      "0014M00002GH3tSQAT",
+      "0014M00001yTakKQAS",
+      "0014M00002BSkwLQAT",
+      "0014M0000280G2vQAE",
+      "001Kf00001I4b5lIAB",
+      "0014M00001yTvhdQAC",
+      "0014M00002CcfpGQAR",
+      "001Kf00001HqYY4IAN",
+      "0014M0000282g5JQAQ",
+      "0014M00002NSHrCQAX",
+      "0014M00002ROzRIQA1",
+      "001Kf00001I6WPTIA3",
+      "0014M00002C1M0OQAV",
+      "0014M00002DKk5MQAT",
+      "0014M00002LTHm2QAH",
+      "0014M000025cA8GQAU",
+      "0014M00002C0Vd7QAF",
+      "0014M00002Byz9NQAR",
+      "0014M0000282mM5QAI",
+      "001Kf00001FXy1ZIAT",
+      "0014M00002SxAh2QAF",
+      "0014M00002BTsuJQAT",
+      "001Kf00001HqUH8IAN",
+      "001Kf00001H6eBgIAJ",
+      "0014M00002C0F8qQAF",
+      "001Kf00001H6pNHIAZ",
+      "001Kf00001GBWmgIAH",
+      "001Kf00001HqsIsIAJ",
+      "001Kf00001H6bVYIAZ",
+      "001Kf00000wiKmtIAE",
+      "0014M00002RSEryQAH",
+      "001Kf00001I75VaIAJ",
+      "0014M00002Hx2X7QAJ",
+      "0014M00002Bz6avQAB",
+      "0014M00002Jm26jQAB",
+      "0014M000026pwANQAY",
+      "0014M000026pgQFQAY",
+      "001Kf00001GCbmAIAT",
+      "0014M00002OTbyXQAT",
+      "0014M00001yUTa7QAG"
+    ],
+    "country": "Brazil",
+    "tier_level": "Premier"
+  },
+  {
+    "partner": "SantoDigital",
+    "pe": "Thiago da Ponte",
+    "sheet_id": "1F5uhnmaF-eEeWYGQRsoI8mU7brFRQjVye5gD7R8D50E",
+    "url": "https://docs.google.com/spreadsheets/d/1F5uhnmaF-eEeWYGQRsoI8mU7brFRQjVye5gD7R8D50E/edit",
+    "partner_ids": [
+      "0014M00001h328CQAQ",
+      "0014M00001nkxtzQAA",
+      "0014M00001rbdrUQAQ"
+    ],
+    "country": "Brazil",
+    "tier_level": "Premier"
+  },
+  {
+    "partner": "Sauter Tecnologia",
+    "pe": "Thiago da Ponte",
+    "sheet_id": "1NKjJTPPOkss7UZIyE5G7LNdZydpICP20lfs0b4mS0LU",
+    "url": "https://docs.google.com/spreadsheets/d/1NKjJTPPOkss7UZIyE5G7LNdZydpICP20lfs0b4mS0LU/edit",
+    "partner_ids": [
+      "0014M00002N6mbcQAB",
+      "001Kf00001HrCZkIAN",
+      "001Kf00001FXILGIA5",
+      "001Kf00001GCHFEIA5",
+      "001Kf00001GCCp4IAH",
+      "001Kf00001HpumDIAR",
+      "001Kf00001F9mHVIAZ",
+      "001Kf00001HC49SIAT",
+      "0014M00001mnmgxQAA",
+      "001Kf00001HrFWAIA3",
+      "001Kf00001F9ex4IAB",
+      "001Kf000017JCwfIAG",
+      "001Kf00001GCHRKIA5",
+      "001Kf00001FotF1IAJ"
+    ],
+    "country": "Brazil",
+    "tier_level": "Premier"
   }
 ]
