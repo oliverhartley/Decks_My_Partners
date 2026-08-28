@@ -104,6 +104,78 @@ PARTNERS = [
         "default_pid": "001Kf000013fuVXIAY",
         "country": "El Salvador / Central America",
         "tier_level": "Premier"
+    },
+    {
+        "partner": "INFORMACIÓN LOCALIZADA SAS (Servinformación)",
+        "sheet_id": "1H3cgdClncDnQDK9kY8s6U59jnfK_w4UmbE-z8dWexbs",
+        "partner_ids": [
+            "0014M00001h3AyDQAU",
+            "0014M00001h34A7QAI",
+            "0014M00002GHywFQAT",
+            "0014M00002GHyqCQAT",
+            "0014M00002TEROiQAP",
+            "0014M00001w6OZ3QAM",
+            "0014M00002NSRhUQAX",
+            "001Kf000012gXIzIAM",
+            "001Kf00001BCjQ0IAL",
+            "0014M00002GHyyuQAD",
+            "0014M00001jaT4bQAE",
+            "0014M00001khC4uQAE"
+        ],
+        "cert_pids": [
+            "0014M00001h3AyDQAU",
+            "0014M00001h34A7QAI",
+            "0014M00002GHywFQAT",
+            "0014M00002GHyqCQAT",
+            "0014M00002TEROiQAP",
+            "0014M00001w6OZ3QAM",
+            "0014M00002NSRhUQAX",
+            "001Kf000012gXIzIAM",
+            "001Kf00001BCjQ0IAL",
+            "0014M00002GHyyuQAD",
+            "0014M00001jaT4bQAE",
+            "0014M00001khC4uQAE"
+        ],
+        "drp_keys": ["P20220602053", "0014M00001h3AyDQAU"],
+        "default_pid": "0014M00001h3AyDQAU",
+        "country": "Colombia / Regional LATAM",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "Noventiq (Softline)",
+        "sheet_id": "1Rq5L7d_n1a34cTQGb8J-jHDejLcSdmnC18WLohWjsdU",
+        "partner_ids": [
+            "0014M00001h39APQAY",
+            "0014M00001jtbqFQAQ",
+            "0014M00001h34YXQAY",
+            "0014M00002RRf3HQAT",
+            "0014M00002RPO7QQAX",
+            "0014M00001h3ARZQA2",
+            "0014M00001h32gHQAQ",
+            "0014M00001h323yQAA",
+            "0014M00001h32p3QAA",
+            "0014M00001h34xFQAQ",
+            "0014M000026pzWLQAY",
+            "0014M00001h355LQAQ"
+        ],
+        "cert_pids": [
+            "0014M00001h39APQAY",
+            "0014M00001jtbqFQAQ",
+            "0014M00001h34YXQAY",
+            "0014M00002RRf3HQAT",
+            "0014M00002RPO7QQAX",
+            "0014M00001h3ARZQA2",
+            "0014M00001h32gHQAQ",
+            "0014M00001h323yQAA",
+            "0014M00001h32p3QAA",
+            "0014M00001h34xFQAQ",
+            "0014M000026pzWLQAY",
+            "0014M00001h355LQAQ"
+        ],
+        "drp_keys": ["P20220923281", "0014M00001h39APQAY", "0014M00001jtbqFQAQ"],
+        "default_pid": "0014M00001h39APQAY",
+        "country": "Chile / Regional LATAM",
+        "tier_level": "Premier"
     }
 ]
 
@@ -1016,7 +1088,7 @@ for s in summary_stats:
     ])
 
 summary_rows.append([
-    "TOTAL (All 9 Partners)",
+    f"TOTAL (All {len(PARTNERS)} Partners)",
     "-",
     "-",
     str(tot_all_wkls),

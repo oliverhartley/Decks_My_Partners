@@ -4,6 +4,18 @@ import urllib.parse
 import time
 
 def get_token():
+    try:
+        import subprocess
+        raw = subprocess.check_output([
+            'stubby', 'call', 'blade:sso', 'corplogin.CorpLogin.Exchange',
+            'target: { scope: GAIA_USER name: "oliverhartley@google.com" } target_credential { type: OAUTH2_TOKEN oauth2_attributes { scope: "https://www.googleapis.com/auth/cloud-platform" } }'
+        ], stderr=subprocess.DEVNULL).decode('utf-8')
+        for line in raw.split('\n'):
+            if 'oauth2_token' in line:
+                return line.split('"')[1]
+    except Exception:
+        pass
+
     with open('/usr/local/google/home/oliverhartley/.config/gcloud/application_default_credentials.json') as f:
         creds = json.load(f)
     data = urllib.parse.urlencode({

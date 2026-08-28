@@ -296,3 +296,69 @@ Consiti (Consultoría y Soluciones Informáticas),Security,Agentic Defense with 
 Consiti (Consultoría y Soluciones Informáticas),Security,Agentic Defense with Google Security,Security Operations,,,,⚪ No Active Demand
 Consiti (Consultoría y Soluciones Informáticas),Security,Secure Innovation with Google Cloud,Cloud Security,1,,1,🟢 Ready (1 profiles)
 Consiti (Consultoría y Soluciones Informáticas),Workspace,Agentic Workplace Transformation,Workspace,,,,⚪ No Active Demand
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,1,1,🟢 Ready (1 profiles)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Application Modernization,"Migrate, Modernize and Build",Cloud Run,10,15,25,🟢 Ready (25 profiles)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,7,12,19,🟢 Ready (19 DRP / 7 wkls)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,3,3,🟡 Constrained (3 DRP / 29 wkls)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,20,16,36,🟢 Ready (36 DRP / 14 wkls)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,1,1,2,🟢 Ready (2 profiles)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,20,16,36,🟢 Ready (36 profiles)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Scale AI Apps and Agents,AI Applications,6,5,11,🟢 Ready (11 profiles)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,20,16,36,🟢 Ready (36 DRP / 29 wkls)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,20,16,36,🟢 Ready (36 DRP / 1 wkls)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,21,10,31,🟢 Ready (31 profiles)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,10,7,17,🟢 Ready (17 profiles)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Data & Analytics,The AI Ready Data Cloud,BigQuery,21,10,31,🟢 Ready (31 DRP / 18 wkls)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Data & Analytics,The AI Ready Data Cloud,Dataflow,10,7,17,🟢 Ready (17 DRP / 1 wkls)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Data & Analytics,The AI Ready Data Cloud,Dataproc,,,,⚪ No Active Demand
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Data & Analytics,The AI Ready Data Cloud,Looker,19,3,22,🟢 Ready (22 DRP / 1 wkls)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,,,⚪ No Active Demand
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,,4,4,🟢 Ready (4 profiles)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,,,,⚪ No Active Demand
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,,,🔴 Gap (0 DRP / 1 wkls)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Databases,The AI Ready Data Cloud,Cloud SQL,,4,4,🟢 Ready (4 DRP / 1 wkls)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Databases,The AI Ready Data Cloud,Spanner,,,,⚪ No Active Demand
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,,,⚪ No Active Demand
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,2,,2,🟢 Ready (2 profiles)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,3,8,11,🟢 Ready (11 profiles)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,4,16,20,🟢 Ready (20 profiles)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,71,19,90,🟢 Ready (90 profiles)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Security,Agentic Defense with Google Security,Google Threat Intelligence,1,2,3,🟢 Ready (3 profiles)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Security,Agentic Defense with Google Security,Security Command Center,13,2,15,🟢 Ready (15 profiles)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Security,Agentic Defense with Google Security,Security Operations,7,2,9,🟢 Ready (9 profiles)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Security,Secure Innovation with Google Cloud,Cloud Security,12,3,15,🟢 Ready (15 profiles)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Workspace,Agentic Workplace Transformation,Workspace,12,,12,🟢 Ready (12 profiles)
+Noventiq (Softline),Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
+Noventiq (Softline),Application Modernization,"Migrate, Modernize and Build",Cloud Run,1,6,7,🟢 Ready (7 profiles)
+Noventiq (Softline),Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,1,3,4,🟢 Ready (4 DRP / 2 wkls)
+Noventiq (Softline),Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,2,2,🟡 Constrained (2 DRP / 6 wkls)
+Noventiq (Softline),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,7,7,🟢 Ready (7 DRP / 5 wkls)
+Noventiq (Softline),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,,,,⚪ No Active Demand
+Noventiq (Softline),Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,7,7,🟢 Ready (7 DRP / 1 wkls)
+Noventiq (Softline),Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,⚪ No Active Demand
+Noventiq (Softline),Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,7,7,🟡 Constrained (7 DRP / 11 wkls)
+Noventiq (Softline),Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,7,7,🟢 Ready (7 DRP / 1 wkls)
+Noventiq (Softline),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,,⚪ No Active Demand
+Noventiq (Softline),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,,,⚪ No Active Demand
+Noventiq (Softline),Data & Analytics,The AI Ready Data Cloud,BigQuery,,,,🔴 Gap (0 DRP / 3 wkls)
+Noventiq (Softline),Data & Analytics,The AI Ready Data Cloud,Dataflow,,,,⚪ No Active Demand
+Noventiq (Softline),Data & Analytics,The AI Ready Data Cloud,Dataproc,,,,⚪ No Active Demand
+Noventiq (Softline),Data & Analytics,The AI Ready Data Cloud,Looker,,,,⚪ No Active Demand
+Noventiq (Softline),Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,,,⚪ No Active Demand
+Noventiq (Softline),Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,,,,⚪ No Active Demand
+Noventiq (Softline),Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,,,,⚪ No Active Demand
+Noventiq (Softline),Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,,,⚪ No Active Demand
+Noventiq (Softline),Databases,The AI Ready Data Cloud,Cloud SQL,,,,⚪ No Active Demand
+Noventiq (Softline),Databases,The AI Ready Data Cloud,Spanner,,,,⚪ No Active Demand
+Noventiq (Softline),Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,,,⚪ No Active Demand
+Noventiq (Softline),Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,,,⚪ No Active Demand
+Noventiq (Softline),Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,,,⚪ No Active Demand
+Noventiq (Softline),Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,,1,1,🟢 Ready (1 profiles)
+Noventiq (Softline),Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,9,3,12,🟢 Ready (12 profiles)
+Noventiq (Softline),Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
+Noventiq (Softline),Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
+Noventiq (Softline),Security,Agentic Defense with Google Security,Security Command Center,1,2,3,🟢 Ready (3 profiles)
+Noventiq (Softline),Security,Agentic Defense with Google Security,Security Operations,,,,⚪ No Active Demand
+Noventiq (Softline),Security,Secure Innovation with Google Cloud,Cloud Security,1,3,4,🟢 Ready (4 profiles)
+Noventiq (Softline),Workspace,Agentic Workplace Transformation,Workspace,9,2,11,🟢 Ready (11 profiles)

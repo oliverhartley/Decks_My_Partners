@@ -1,0 +1,100 @@
+{
+  "requests": [
+    {
+      "repeatCell": {
+        "range": {
+          "sheetId": 0,
+          "startRowIndex": 5,
+          "endRowIndex": 20,
+          "startColumnIndex": 0,
+          "endColumnIndex": 1
+        },
+        "cell": {
+          "userEnteredFormat": {
+            "textFormat": {
+              "underline": true,
+              "foregroundColor": {
+                "red": 0.0667,
+                "green": 0.3333,
+                "blue": 0.8
+              }
+            }
+          }
+        },
+        "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"
+      }
+    },
+    {
+      "repeatCell": {
+        "range": {
+          "sheetId": 0,
+          "startRowIndex": 5,
+          "endRowIndex": 20,
+          "startColumnIndex": 2,
+          "endColumnIndex": 3
+        },
+        "cell": {
+          "userEnteredFormat": {
+            "textFormat": {
+              "underline": true,
+              "foregroundColor": {
+                "red": 0.0667,
+                "green": 0.3333,
+                "blue": 0.8
+              }
+            }
+          }
+        },
+        "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"
+      }
+    },
+    {
+      "repeatCell": {
+        "range": {
+          "sheetId": 0,
+          "startRowIndex": 5,
+          "endRowIndex": 20,
+          "startColumnIndex": 4,
+          "endColumnIndex": 5
+        },
+        "cell": {
+          "userEnteredFormat": {
+            "textFormat": {
+              "underline": true,
+              "foregroundColor": {
+                "red": 0.0667,
+                "green": 0.3333,
+                "blue": 0.8
+              }
+            }
+          }
+        },
+        "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"
+      }
+    },
+    {
+      "repeatCell": {
+        "range": {
+          "sheetId": 0,
+          "startRowIndex": 15,
+          "endRowIndex": 16,
+          "startColumnIndex": 5,
+          "endColumnIndex": 6
+        },
+        "cell": {
+          "userEnteredFormat": {
+            "textFormat": {
+              "underline": true,
+              "foregroundColor": {
+                "red": 0.0667,
+                "green": 0.3333,
+                "blue": 0.8
+              }
+            }
+          }
+        },
+        "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"
+      }
+    }
+  ]
+}
