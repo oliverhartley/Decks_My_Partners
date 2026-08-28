@@ -6,8 +6,8 @@ Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,1,1,
 Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 4 wkls)
 Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,,,,⚪ No Active Demand
 Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
-Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,⚪ No Active Demand
-Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 10 wkls)
+Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,1,1,🟢 Ready (1 profiles)
+Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 21 wkls)
 Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 4 wkls)
 Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,1,1,🟢 Ready (1 profiles)
 Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,1,,1,🟢 Ready (1 profiles)
@@ -21,14 +21,14 @@ Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,,,,⚪ No Acti
 Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,,,🔴 Gap (0 DRP / 1 wkls)
 Databases,The AI Ready Data Cloud,Cloud SQL,1,2,3,🟢 Ready (3 profiles)
 Databases,The AI Ready Data Cloud,Spanner,,,,🔴 Gap (0 DRP / 1 wkls)
-Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,,,🔴 Gap (0 DRP / 1 wkls)
+Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,,,⚪ No Active Demand
 Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,,,⚪ No Active Demand
 Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,,,⚪ No Active Demand
 Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,2,2,4,🟢 Ready (4 profiles)
-Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,5,1,6,🟢 Ready (6 DRP / 3 wkls)
+Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,5,1,6,🟢 Ready (6 profiles)
 Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
 Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
 Security,Agentic Defense with Google Security,Security Command Center,2,,2,🟢 Ready (2 profiles)
 Security,Agentic Defense with Google Security,Security Operations,3,1,4,🟢 Ready (4 profiles)
-Security,Secure Innovation with Google Cloud,Cloud Security,,1,1,🟢 Ready (1 DRP / 1 wkls)
+Security,Secure Innovation with Google Cloud,Cloud Security,,1,1,🟢 Ready (1 profiles)
 Workspace,Agentic Workplace Transformation,Workspace,4,2,6,🟢 Ready (6 profiles)

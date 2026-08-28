@@ -2,12 +2,12 @@ Pillar,Solution (Sales Play),Product,Tier 1 Profiles Count,Tier 2 Profiles Count
 Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
 Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,⚪ No Active Demand
-Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,1,1,2,🟢 Ready (2 DRP / 2 wkls)
+Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,1,1,2,🟢 Ready (2 DRP / 1 wkls)
 Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,1,1,🟢 Ready (1 DRP / 1 wkls)
 Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,,,,⚪ No Active Demand
 Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,1,1,🟢 Ready (1 DRP / 1 wkls)
 Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,⚪ No Active Demand
-Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,1,1,🟡 Constrained (1 DRP / 5 wkls)
+Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,1,1,🟡 Constrained (1 DRP / 13 wkls)
 Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,1,1,🟡 Constrained (1 DRP / 3 wkls)
 Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,8,3,11,🟢 Ready (11 profiles)
 Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,3,5,8,🟢 Ready (8 profiles)
@@ -24,11 +24,11 @@ Databases,The AI Ready Data Cloud,Spanner,,,,⚪ No Active Demand
 Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,1,,1,🟢 Ready (1 profiles)
 Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,,,⚪ No Active Demand
 Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,,,⚪ No Active Demand
-Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,,,,🔴 Gap (0 DRP / 2 wkls)
-Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,,,,🔴 Gap (0 DRP / 1 wkls)
+Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,,,,⚪ No Active Demand
+Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,,,,⚪ No Active Demand
 Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
 Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
 Security,Agentic Defense with Google Security,Security Command Center,,,,⚪ No Active Demand
 Security,Agentic Defense with Google Security,Security Operations,,,,⚪ No Active Demand
-Security,Secure Innovation with Google Cloud,Cloud Security,,,,🔴 Gap (0 DRP / 1 wkls)
+Security,Secure Innovation with Google Cloud,Cloud Security,,,,⚪ No Active Demand
 Workspace,Agentic Workplace Transformation,Workspace,,,,⚪ No Active Demand

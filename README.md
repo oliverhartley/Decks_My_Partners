@@ -162,25 +162,28 @@ High-level operational scorecard aggregating partner performance:
 - Direct 1-Click Hyperlink to each partner's dedicated Action Tracker
 
 ### 2. `Follow_up` / `All_Workloads_Follow_up`
-A comprehensive 18-column pipeline tracking table:
-1. `Partner Name` *(Vector CRM Hyperlink)*
-2. `Customer Account Name` *(Vector CRM Hyperlink)*
-3. `Account Tier` *(Tier 2 Corporate or Tier 3 SMB)*
-4. `Workload Name` *(Vector CRM Hyperlink)*
-5. **`Capacity Status (DRP Readiness)`** *(🔴/🟡/🟢 Semáforo)*
-6. `Opportunity Name` *(Vector CRM Hyperlink)*
-7. `Expert Requests` *(Direct link to Navigate / ER ticket)*
-8. `Customer Sub Region` *(e.g., SOLA, NOLA, Brazil, Mexico)*
-9. `Customer Micro Region`
-10. `Primary Workload Pillar`
-11. `Sales Play`
-12. `Workload Solution`
-13. `Workload Progress` *(Stage 0 through 5)*
-14. `Begin Migration Date`
-15. `Production Date` *(Triggers visual alert conditional formatting)*
-16. `Annual Gross Revenue (ARR USD)`
-17. **`Last Touch`** *(Manual user note — strictly preserved across refreshes)*
-18. **`Link`** *(Manual user URL — strictly preserved across refreshes)*
+A comprehensive pipeline tracking table:
+- In Individual Partner Trackers (`Follow_up` - 18 Columns):
+  1. `Customer Account Name` *(Vector CRM Hyperlink)* [Col A]
+  2. `Account Tier` *(Tier 2 Corporate or Tier 3 SMB)* [Col B]
+  3. `Workload Name` *(Vector CRM Hyperlink)* [Col C]
+  4. **`Workload Owner`** *(Vector CRM Hyperlink)* [Col D]
+  5. **`Workload Progress`** *(Stage 0 through 5)* [Col E]
+  6. **`Capacity Status (DRP Readiness)`** *(🔴/🟡/🟢 Semáforo)* [Col F]
+  7. `Opportunity Name` *(Vector CRM Hyperlink)* [Col G]
+  8. `Expert Requests` *(Direct link to Navigate / ER ticket)* [Col H]
+  9. `Customer Sub Region` *(e.g., SOLA, NOLA, Brazil, Mexico)* [Col I]
+  10. `Customer Micro Region` [Col J]
+  11. `Primary Workload Pillar` [Col K]
+  12. `Sales Play` [Col L]
+  13. `Workload Solution` [Col M]
+  14. `Begin Migration Date` [Col N]
+  15. `Production Date` *(Triggers visual alert conditional formatting)* [Col O]
+  16. `Annual Gross Revenue (ARR USD)` [Col P]
+  17. **`Last Touch`** *(Manual user note — strictly preserved across refreshes)* [Col Q]
+  18. **`Link`** *(Manual user URL — strictly preserved across refreshes)* [Col R]
+- In Global Master Dashboard (`All_Workloads_Follow_up` - 19 Columns):
+  - Prepends `Partner Name` [Col A], followed by the 18 columns above (Cols B to S, with Workload Owner at Col E and Workload Progress at Col F).
 
 ### 3. `DRP_Status` / `All_DRP_Status`
 Complete 33-item capability matrix:
