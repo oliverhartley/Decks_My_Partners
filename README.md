@@ -167,7 +167,7 @@ A comprehensive pipeline tracking table:
   1. `Customer Account Name` *(Vector CRM Hyperlink)* [Col A]
   2. `Account Tier` *(Tier 2 Corporate or Tier 3 SMB)* [Col B]
   3. `Workload Name` *(Vector CRM Hyperlink)* [Col C]
-  4. **`Workload Owner`** *(Vector CRM Hyperlink)* [Col D]
+  4. **`Workload Owner`** *(Plain text)* [Col D]
   5. **`Workload Progress`** *(Stage 0 through 5)* [Col E]
   6. **`Capacity Status (DRP Readiness)`** *(🔴/🟡/🟢 Semáforo)* [Col F]
   7. `Opportunity Name` *(Vector CRM Hyperlink)* [Col G]

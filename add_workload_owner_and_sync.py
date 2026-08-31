@@ -1567,9 +1567,6 @@ for cfg in PARTNERS:
         wkl_url = f"https://vector.lightning.force.com/lightning/r/Workload__c/{workload_id}/view" if workload_id else ""
         wkl_linked = make_hyperlink(wkl_url, workload_name) if wkl_url else workload_name
         
-        owner_url = f"https://vector.lightning.force.com/lightning/r/User/{owner_id}/view" if owner_id else ""
-        owner_linked = make_hyperlink(owner_url, owner_name) if owner_url and owner_name else (owner_name or "")
-        
         opp_url = f"https://vector.lightning.force.com/lightning/r/Opportunity/{opportunity_id}/view" if opportunity_id else ""
         opp_linked = make_hyperlink(opp_url, opportunity_name) if opp_url else opportunity_name
         
@@ -1602,7 +1599,7 @@ for cfg in PARTNERS:
             acc_linked,             # 0: Customer Account Name
             tier,                   # 1: Account Tier
             wkl_linked,             # 2: Workload Name
-            owner_linked,           # 3: Workload Owner
+            owner_name or "",       # 3: Workload Owner (plain text)
             progress,               # 4: Workload Progress
             wkl_capacity_status,    # 5: Capacity Status
             opp_linked,             # 6: Opportunity Name
@@ -1627,7 +1624,7 @@ for cfg in PARTNERS:
             acc_linked,             # 2: Customer Account Name
             tier,                   # 3: Account Tier
             wkl_linked,             # 4: Workload Name
-            owner_linked,           # 5: Workload Owner
+            owner_name or "",       # 5: Workload Owner (plain text)
             progress,               # 6: Workload Progress
             wkl_capacity_status,    # 7: Capacity Status
             opp_linked,             # 8: Opportunity Name
@@ -1771,9 +1768,9 @@ for cfg in PARTNERS:
         # Manual Note Columns (Cols 16-17)
         {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 16, "endColumnIndex": 18}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.945, "green": 0.980, "blue": 0.957}, "horizontalAlignment": "LEFT"}}, "fields": "userEnteredFormat(backgroundColor,horizontalAlignment)"}},
 
-        # Hyperlinks (Cols 0, 2, 3, 6)
+        # Hyperlinks (Cols 0, 2, 6)
         {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 0, "endColumnIndex": 1}, "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}}, "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"}},
-        {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 2, "endColumnIndex": 4}, "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}}, "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"}},
+        {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 2, "endColumnIndex": 3}, "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}}, "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"}},
         {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 6, "endColumnIndex": 7}, "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}}, "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"}},
 
         # Borders
@@ -2120,9 +2117,9 @@ batch_req_g = {
     # Manual Note Columns (Cols 18-19)
     {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 18, "endColumnIndex": 20}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.945, "green": 0.980, "blue": 0.957}, "horizontalAlignment": "LEFT"}}, "fields": "userEnteredFormat(backgroundColor,horizontalAlignment)"}},
 
-    # Hyperlinks (Cols 1, 2, 4, 5, 8)
+    # Hyperlinks (Cols 1, 2, 4, 8)
     {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 1, "endColumnIndex": 3}, "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}}, "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"}},
-    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 4, "endColumnIndex": 6}, "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}}, "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"}},
+    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 4, "endColumnIndex": 5}, "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}}, "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"}},
     {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 8, "endColumnIndex": 9}, "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}}, "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"}},
 
     # Borders

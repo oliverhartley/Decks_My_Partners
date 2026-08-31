@@ -7,7 +7,7 @@ Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterpr
 Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,1,1,2,🟢 Ready (2 profiles)
 Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,20,16,36,🟢 Ready (36 profiles)
 Artificial Intelligence,Scale AI Apps and Agents,AI Applications,6,5,11,🟢 Ready (11 profiles)
-Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,20,16,36,🟢 Ready (36 DRP / 35 wkls)
+Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,20,16,36,🟡 Constrained (36 DRP / 37 wkls)
 Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,20,16,36,🟢 Ready (36 DRP / 3 wkls)
 Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,21,10,31,🟢 Ready (31 profiles)
 Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,10,7,17,🟢 Ready (17 profiles)
@@ -24,7 +24,7 @@ Databases,The AI Ready Data Cloud,Spanner,,,,⚪ No Active Demand
 Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,,,⚪ No Active Demand
 Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,2,,2,🟢 Ready (2 profiles)
 Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,3,8,11,🟢 Ready (11 profiles)
-Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,4,16,20,🟢 Ready (20 profiles)
+Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,4,15,19,🟢 Ready (19 profiles)
 Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,71,19,90,🟢 Ready (90 profiles)
 Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
 Security,Agentic Defense with Google Security,Google Threat Intelligence,1,2,3,🟢 Ready (3 profiles)
