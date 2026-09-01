@@ -2,16 +2,19 @@ Partner Name,Pillar,Solution (Sales Play),Product,Tier 1 Profiles Count,Tier 2 P
 Admazing Cloud,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 Admazing Cloud,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,1,1,🟢 Ready (1 profiles)
 Admazing Cloud,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,1,,1,🟢 Ready (1 profiles)
-Admazing Cloud,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,🔴 Gap (0 DRP / 2 wkls)
+Admazing Cloud,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,🔴 Gap (0 DRP / 1 wkls)
+Admazing Cloud,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
+Admazing Cloud,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
+Admazing Cloud,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
+Admazing Cloud,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
 Admazing Cloud,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 1 wkls)
-Admazing Cloud,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,,,,⚪ No Active Demand
 Admazing Cloud,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
 Admazing Cloud,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,⚪ No Active Demand
 Admazing Cloud,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
 Admazing Cloud,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
 Admazing Cloud,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,1,1,🟢 Ready (1 profiles)
 Admazing Cloud,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,1,1,🟢 Ready (1 profiles)
-Admazing Cloud,Data & Analytics,The AI Ready Data Cloud,BigQuery,,1,1,🟡 Constrained (1 DRP / 3 wkls)
+Admazing Cloud,Data & Analytics,The AI Ready Data Cloud,BigQuery,,1,1,🟡 Constrained (1 DRP / 2 wkls)
 Admazing Cloud,Data & Analytics,The AI Ready Data Cloud,Dataflow,,1,1,🟢 Ready (1 profiles)
 Admazing Cloud,Data & Analytics,The AI Ready Data Cloud,Dataproc,,,,⚪ No Active Demand
 Admazing Cloud,Data & Analytics,The AI Ready Data Cloud,Looker,,,,⚪ No Active Demand
@@ -36,8 +39,11 @@ Algeiba Business Solutions,Application Modernization,"Migrate, Modernize and Bui
 Algeiba Business Solutions,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
 Algeiba Business Solutions,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,🔴 Gap (0 DRP / 1 wkls)
 Algeiba Business Solutions,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,1,,1,🟢 Ready (1 DRP / 1 wkls)
+Algeiba Business Solutions,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
+Algeiba Business Solutions,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
+Algeiba Business Solutions,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
+Algeiba Business Solutions,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
 Algeiba Business Solutions,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
-Algeiba Business Solutions,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,,,,⚪ No Active Demand
 Algeiba Business Solutions,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
 Algeiba Business Solutions,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,⚪ No Active Demand
 Algeiba Business Solutions,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 6 wkls)
@@ -69,8 +75,11 @@ BFS Ingeniería Aplicada,Application Modernization,"Migrate, Modernize and Build
 BFS Ingeniería Aplicada,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
 BFS Ingeniería Aplicada,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,⚪ No Active Demand
 BFS Ingeniería Aplicada,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,⚪ No Active Demand
+BFS Ingeniería Aplicada,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
+BFS Ingeniería Aplicada,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
+BFS Ingeniería Aplicada,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
+BFS Ingeniería Aplicada,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
 BFS Ingeniería Aplicada,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
-BFS Ingeniería Aplicada,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,,,,⚪ No Active Demand
 BFS Ingeniería Aplicada,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
 BFS Ingeniería Aplicada,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,⚪ No Active Demand
 BFS Ingeniería Aplicada,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
@@ -101,9 +110,12 @@ BFS Ingeniería Aplicada,Workspace,Agentic Workplace Transformation,Workspace,,,
 Rubik,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 Rubik,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
 Rubik,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,⚪ No Active Demand
-Rubik,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,⚪ No Active Demand
+Rubik,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,🔴 Gap (0 DRP / 1 wkls)
+Rubik,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
+Rubik,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
+Rubik,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
+Rubik,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
 Rubik,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 2 wkls)
-Rubik,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,,,,⚪ No Active Demand
 Rubik,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
 Rubik,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,⚪ No Active Demand
 Rubik,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 1 wkls)
@@ -135,8 +147,11 @@ Super Software,Application Modernization,"Migrate, Modernize and Build",Apigee A
 Super Software,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
 Super Software,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,⚪ No Active Demand
 Super Software,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,🔴 Gap (0 DRP / 2 wkls)
+Super Software,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
+Super Software,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
+Super Software,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
+Super Software,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
 Super Software,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 1 wkls)
-Super Software,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,,,,⚪ No Active Demand
 Super Software,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
 Super Software,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,⚪ No Active Demand
 Super Software,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 4 wkls)
@@ -168,8 +183,11 @@ Tigabytes,Application Modernization,"Migrate, Modernize and Build",Apigee API Ma
 Tigabytes,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,2,2,🟢 Ready (2 profiles)
 Tigabytes,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,4,4,🟢 Ready (4 profiles)
 Tigabytes,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,5,6,11,🟢 Ready (11 profiles)
+Tigabytes,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,2,2,🟢 Ready (2 profiles)
+Tigabytes,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
+Tigabytes,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,1,1,🟢 Ready (1 profiles)
+Tigabytes,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
 Tigabytes,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,4,2,6,🟢 Ready (6 profiles)
-Tigabytes,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,2,4,6,🟢 Ready (6 profiles)
 Tigabytes,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,4,2,6,🟢 Ready (6 profiles)
 Tigabytes,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,⚪ No Active Demand
 Tigabytes,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,4,2,6,🟢 Ready (6 DRP / 1 wkls)
@@ -201,8 +219,11 @@ Xertica,Application Modernization,"Migrate, Modernize and Build",Apigee API Mana
 Xertica,Application Modernization,"Migrate, Modernize and Build",Cloud Run,3,4,7,🟢 Ready (7 profiles)
 Xertica,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,1,7,8,🟢 Ready (8 DRP / 2 wkls)
 Xertica,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,9,9,18,🟢 Ready (18 DRP / 16 wkls)
+Xertica,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,2,1,3,🟢 Ready (3 profiles)
+Xertica,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,1,1,2,🟢 Ready (2 profiles)
+Xertica,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
+Xertica,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,1,1,2,🟢 Ready (2 profiles)
 Xertica,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,18,17,35,🟢 Ready (35 DRP / 2 wkls)
-Xertica,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,3,3,6,🟢 Ready (6 profiles)
 Xertica,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,18,17,35,🟢 Ready (35 profiles)
 Xertica,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,9,14,23,🟢 Ready (23 profiles)
 Xertica,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,18,17,35,🟢 Ready (35 DRP / 11 wkls)
@@ -234,8 +255,11 @@ CU2 CLOUD TEC STORE SL,Application Modernization,"Migrate, Modernize and Build",
 CU2 CLOUD TEC STORE SL,Application Modernization,"Migrate, Modernize and Build",Cloud Run,6,2,8,🟢 Ready (8 profiles)
 CU2 CLOUD TEC STORE SL,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,5,2,7,🟢 Ready (7 profiles)
 CU2 CLOUD TEC STORE SL,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,⚪ No Active Demand
+CU2 CLOUD TEC STORE SL,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
+CU2 CLOUD TEC STORE SL,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
+CU2 CLOUD TEC STORE SL,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
+CU2 CLOUD TEC STORE SL,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
 CU2 CLOUD TEC STORE SL,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,6,2,8,🟢 Ready (8 profiles)
-CU2 CLOUD TEC STORE SL,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,,,,⚪ No Active Demand
 CU2 CLOUD TEC STORE SL,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,6,2,8,🟢 Ready (8 profiles)
 CU2 CLOUD TEC STORE SL,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,4,2,6,🟢 Ready (6 profiles)
 CU2 CLOUD TEC STORE SL,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,6,2,8,🟢 Ready (8 DRP / 2 wkls)
@@ -267,8 +291,11 @@ Emergys Mexico,Application Modernization,"Migrate, Modernize and Build",Apigee A
 Emergys Mexico,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
 Emergys Mexico,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,1,1,🟡 Constrained (1 DRP / 2 wkls)
 Emergys Mexico,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,1,1,🟢 Ready (1 DRP / 1 wkls)
+Emergys Mexico,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
+Emergys Mexico,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
+Emergys Mexico,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
+Emergys Mexico,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
 Emergys Mexico,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,2,2,🟡 Constrained (2 DRP / 3 wkls)
-Emergys Mexico,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,,1,1,🟢 Ready (1 profiles)
 Emergys Mexico,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,2,2,🟢 Ready (2 profiles)
 Emergys Mexico,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,⚪ No Active Demand
 Emergys Mexico,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,2,2,🟡 Constrained (2 DRP / 3 wkls)
@@ -300,8 +327,11 @@ NXN Consultores,Application Modernization,"Migrate, Modernize and Build",Apigee 
 NXN Consultores,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
 NXN Consultores,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,⚪ No Active Demand
 NXN Consultores,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,1,1,🟡 Constrained (1 DRP / 2 wkls)
+NXN Consultores,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
+NXN Consultores,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
+NXN Consultores,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
+NXN Consultores,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
 NXN Consultores,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 2 wkls)
-NXN Consultores,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,,,,⚪ No Active Demand
 NXN Consultores,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
 NXN Consultores,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,⚪ No Active Demand
 NXN Consultores,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 2 wkls)
@@ -333,8 +363,11 @@ Nubosoft Servicios,Application Modernization,"Migrate, Modernize and Build",Apig
 Nubosoft Servicios,Application Modernization,"Migrate, Modernize and Build",Cloud Run,10,5,15,🟢 Ready (15 profiles)
 Nubosoft Servicios,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,14,3,17,🟢 Ready (17 DRP / 6 wkls)
 Nubosoft Servicios,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,1,2,3,🟢 Ready (3 DRP / 1 wkls)
+Nubosoft Servicios,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
+Nubosoft Servicios,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
+Nubosoft Servicios,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
+Nubosoft Servicios,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
 Nubosoft Servicios,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 4 wkls)
-Nubosoft Servicios,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,,,,⚪ No Active Demand
 Nubosoft Servicios,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
 Nubosoft Servicios,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,1,1,🟢 Ready (1 profiles)
 Nubosoft Servicios,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 11 wkls)
@@ -366,8 +399,11 @@ U CLOUD STORE MÉXICO,Application Modernization,"Migrate, Modernize and Build",A
 U CLOUD STORE MÉXICO,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
 U CLOUD STORE MÉXICO,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,🔴 Gap (0 DRP / 2 wkls)
 U CLOUD STORE MÉXICO,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,🔴 Gap (0 DRP / 1 wkls)
+U CLOUD STORE MÉXICO,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
+U CLOUD STORE MÉXICO,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
+U CLOUD STORE MÉXICO,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
+U CLOUD STORE MÉXICO,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
 U CLOUD STORE MÉXICO,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 4 wkls)
-U CLOUD STORE MÉXICO,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,,,,⚪ No Active Demand
 U CLOUD STORE MÉXICO,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
 U CLOUD STORE MÉXICO,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,⚪ No Active Demand
 U CLOUD STORE MÉXICO,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 3 wkls)
@@ -399,8 +435,11 @@ UCLOUD STORE COLOMBIA S A S,Application Modernization,"Migrate, Modernize and Bu
 UCLOUD STORE COLOMBIA S A S,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
 UCLOUD STORE COLOMBIA S A S,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,🔴 Gap (0 DRP / 1 wkls)
 UCLOUD STORE COLOMBIA S A S,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,🔴 Gap (0 DRP / 1 wkls)
+UCLOUD STORE COLOMBIA S A S,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
+UCLOUD STORE COLOMBIA S A S,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
+UCLOUD STORE COLOMBIA S A S,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
+UCLOUD STORE COLOMBIA S A S,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
 UCLOUD STORE COLOMBIA S A S,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 1 wkls)
-UCLOUD STORE COLOMBIA S A S,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,,,,⚪ No Active Demand
 UCLOUD STORE COLOMBIA S A S,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
 UCLOUD STORE COLOMBIA S A S,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,⚪ No Active Demand
 UCLOUD STORE COLOMBIA S A S,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 3 wkls)
@@ -432,8 +471,11 @@ Growth Partner Network (GPN),Application Modernization,"Migrate, Modernize and B
 Growth Partner Network (GPN),Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
 Growth Partner Network (GPN),Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,🔴 Gap (0 DRP / 2 wkls)
 Growth Partner Network (GPN),Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,🔴 Gap (0 DRP / 1 wkls)
-Growth Partner Network (GPN),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 12 wkls)
-Growth Partner Network (GPN),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,,,,⚪ No Active Demand
+Growth Partner Network (GPN),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
+Growth Partner Network (GPN),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
+Growth Partner Network (GPN),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
+Growth Partner Network (GPN),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
+Growth Partner Network (GPN),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 10 wkls)
 Growth Partner Network (GPN),Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
 Growth Partner Network (GPN),Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,⚪ No Active Demand
 Growth Partner Network (GPN),Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 7 wkls)
@@ -465,15 +507,18 @@ Noventiq (Softline),Application Modernization,"Migrate, Modernize and Build",Api
 Noventiq (Softline),Application Modernization,"Migrate, Modernize and Build",Cloud Run,1,6,7,🟢 Ready (7 profiles)
 Noventiq (Softline),Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,1,3,4,🟢 Ready (4 DRP / 2 wkls)
 Noventiq (Softline),Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,2,2,🟡 Constrained (2 DRP / 6 wkls)
-Noventiq (Softline),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,7,7,🟢 Ready (7 DRP / 5 wkls)
-Noventiq (Softline),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,,,,⚪ No Active Demand
-Noventiq (Softline),Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,7,7,🟢 Ready (7 DRP / 1 wkls)
+Noventiq (Softline),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
+Noventiq (Softline),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
+Noventiq (Softline),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
+Noventiq (Softline),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
+Noventiq (Softline),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,8,8,🟢 Ready (8 DRP / 5 wkls)
+Noventiq (Softline),Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,8,8,🟢 Ready (8 DRP / 1 wkls)
 Noventiq (Softline),Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,⚪ No Active Demand
-Noventiq (Softline),Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,7,7,🟡 Constrained (7 DRP / 11 wkls)
-Noventiq (Softline),Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,7,7,🟢 Ready (7 DRP / 1 wkls)
+Noventiq (Softline),Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,8,8,🟡 Constrained (8 DRP / 9 wkls)
+Noventiq (Softline),Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,8,8,🟢 Ready (8 DRP / 1 wkls)
 Noventiq (Softline),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,,⚪ No Active Demand
 Noventiq (Softline),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,,,⚪ No Active Demand
-Noventiq (Softline),Data & Analytics,The AI Ready Data Cloud,BigQuery,,,,🔴 Gap (0 DRP / 3 wkls)
+Noventiq (Softline),Data & Analytics,The AI Ready Data Cloud,BigQuery,,,,🔴 Gap (0 DRP / 4 wkls)
 Noventiq (Softline),Data & Analytics,The AI Ready Data Cloud,Dataflow,,,,⚪ No Active Demand
 Noventiq (Softline),Data & Analytics,The AI Ready Data Cloud,Dataproc,,,,⚪ No Active Demand
 Noventiq (Softline),Data & Analytics,The AI Ready Data Cloud,Looker,,,,⚪ No Active Demand
@@ -487,7 +532,7 @@ Noventiq (Softline),Infrastructure Modernization,Enterprise Platform of Choice: 
 Noventiq (Softline),Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,,,⚪ No Active Demand
 Noventiq (Softline),Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,,,⚪ No Active Demand
 Noventiq (Softline),Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,,1,1,🟢 Ready (1 profiles)
-Noventiq (Softline),Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,9,3,12,🟢 Ready (12 profiles)
+Noventiq (Softline),Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,9,2,11,🟢 Ready (11 profiles)
 Noventiq (Softline),Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
 Noventiq (Softline),Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
 Noventiq (Softline),Security,Agentic Defense with Google Security,Security Command Center,1,2,3,🟢 Ready (3 profiles)
@@ -497,9 +542,12 @@ Noventiq (Softline),Workspace,Agentic Workplace Transformation,Workspace,9,2,11,
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,1,1,🟢 Ready (1 profiles)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Application Modernization,"Migrate, Modernize and Build",Cloud Run,10,15,25,🟢 Ready (25 profiles)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,7,12,19,🟢 Ready (19 DRP / 13 wkls)
-INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,3,3,🟡 Constrained (3 DRP / 31 wkls)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,3,3,🟡 Constrained (3 DRP / 29 wkls)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,1,1,🟢 Ready (1 profiles)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,1,1,🟢 Ready (1 profiles)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,1,1,🟢 Ready (1 profiles)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,20,16,36,🟢 Ready (36 DRP / 19 wkls)
-INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,1,1,2,🟢 Ready (2 profiles)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,20,16,36,🟢 Ready (36 profiles)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Scale AI Apps and Agents,AI Applications,6,5,11,🟢 Ready (11 profiles)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,20,16,36,🟡 Constrained (36 DRP / 37 wkls)
@@ -531,8 +579,11 @@ Abacus Cambridge Partners,Application Modernization,"Migrate, Modernize and Buil
 Abacus Cambridge Partners,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
 Abacus Cambridge Partners,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,3,1,4,🟢 Ready (4 DRP / 1 wkls)
 Abacus Cambridge Partners,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,2,2,🟢 Ready (2 DRP / 1 wkls)
+Abacus Cambridge Partners,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
+Abacus Cambridge Partners,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
+Abacus Cambridge Partners,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
+Abacus Cambridge Partners,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
 Abacus Cambridge Partners,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 3 wkls)
-Abacus Cambridge Partners,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,,,,⚪ No Active Demand
 Abacus Cambridge Partners,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
 Abacus Cambridge Partners,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,⚪ No Active Demand
 Abacus Cambridge Partners,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 3 wkls)
@@ -564,8 +615,11 @@ Gentrop Cloud Brasil,Application Modernization,"Migrate, Modernize and Build",Ap
 Gentrop Cloud Brasil,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
 Gentrop Cloud Brasil,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,⚪ No Active Demand
 Gentrop Cloud Brasil,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,1,1,🟡 Constrained (1 DRP / 5 wkls)
+Gentrop Cloud Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
+Gentrop Cloud Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
+Gentrop Cloud Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
+Gentrop Cloud Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
 Gentrop Cloud Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,2,2,🟢 Ready (2 DRP / 2 wkls)
-Gentrop Cloud Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,,,,⚪ No Active Demand
 Gentrop Cloud Brasil,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,2,2,🟢 Ready (2 profiles)
 Gentrop Cloud Brasil,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,⚪ No Active Demand
 Gentrop Cloud Brasil,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,2,2,🟡 Constrained (2 DRP / 8 wkls)
@@ -596,12 +650,15 @@ Gentrop Cloud Brasil,Workspace,Agentic Workplace Transformation,Workspace,23,9,3
 QiNetwork,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,1,1,🟢 Ready (1 profiles)
 QiNetwork,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,1,1,🟢 Ready (1 profiles)
 QiNetwork,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,2,2,🟡 Constrained (2 DRP / 4 wkls)
-QiNetwork,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,5,3,8,🟢 Ready (8 DRP / 8 wkls)
+QiNetwork,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,5,3,8,🟢 Ready (8 DRP / 7 wkls)
+QiNetwork,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
+QiNetwork,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
+QiNetwork,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
+QiNetwork,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
 QiNetwork,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,5,1,6,🟡 Constrained (6 DRP / 8 wkls)
-QiNetwork,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,,,,⚪ No Active Demand
 QiNetwork,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,5,1,6,🟢 Ready (6 profiles)
 QiNetwork,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,2,,2,🟢 Ready (2 profiles)
-QiNetwork,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,5,1,6,🟡 Constrained (6 DRP / 12 wkls)
+QiNetwork,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,5,1,6,🟡 Constrained (6 DRP / 13 wkls)
 QiNetwork,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,5,1,6,🟢 Ready (6 DRP / 2 wkls)
 QiNetwork,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,4,3,7,🟢 Ready (7 profiles)
 QiNetwork,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,1,1,🟢 Ready (1 profiles)
@@ -629,13 +686,16 @@ QiNetwork,Workspace,Agentic Workplace Transformation,Workspace,7,2,9,🟢 Ready 
 Safetec Informática,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 Safetec Informática,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
 Safetec Informática,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,2,2,🟢 Ready (2 profiles)
-Safetec Informática,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,6,6,🟢 Ready (6 DRP / 2 wkls)
-Safetec Informática,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,4,4,🟡 Constrained (4 DRP / 6 wkls)
-Safetec Informática,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,,,,⚪ No Active Demand
-Safetec Informática,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,4,4,🟢 Ready (4 profiles)
+Safetec Informática,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,2,5,7,🟢 Ready (7 DRP / 1 wkls)
+Safetec Informática,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
+Safetec Informática,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
+Safetec Informática,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
+Safetec Informática,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
+Safetec Informática,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,5,5,🟢 Ready (5 DRP / 5 wkls)
+Safetec Informática,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,5,5,🟢 Ready (5 profiles)
 Safetec Informática,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,⚪ No Active Demand
-Safetec Informática,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,4,4,🟢 Ready (4 DRP / 3 wkls)
-Safetec Informática,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,4,4,🟢 Ready (4 profiles)
+Safetec Informática,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,5,5,🟢 Ready (5 DRP / 3 wkls)
+Safetec Informática,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,5,5,🟢 Ready (5 profiles)
 Safetec Informática,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,,⚪ No Active Demand
 Safetec Informática,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,2,2,🟢 Ready (2 profiles)
 Safetec Informática,Data & Analytics,The AI Ready Data Cloud,BigQuery,,,,🔴 Gap (0 DRP / 1 wkls)
@@ -662,16 +722,19 @@ Safetec Informática,Workspace,Agentic Workplace Transformation,Workspace,12,,12
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Application Modernization,"Migrate, Modernize and Build",Cloud Run,1,1,2,🟢 Ready (2 profiles)
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,4,1,5,🟢 Ready (5 DRP / 3 wkls)
-VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,1,1,🟡 Constrained (1 DRP / 9 wkls)
-VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 4 wkls)
-VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,,,,⚪ No Active Demand
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,1,1,🟡 Constrained (1 DRP / 12 wkls)
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 3 wkls)
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,1,1,🟢 Ready (1 profiles)
-VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 21 wkls)
-VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 4 wkls)
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 16 wkls)
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 5 wkls)
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,1,1,🟢 Ready (1 profiles)
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,1,,1,🟢 Ready (1 profiles)
-VPN Soluçoes em TI LTDA (Venha para Nuvem),Data & Analytics,The AI Ready Data Cloud,BigQuery,,1,1,🟡 Constrained (1 DRP / 7 wkls)
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Data & Analytics,The AI Ready Data Cloud,BigQuery,,1,1,🟡 Constrained (1 DRP / 9 wkls)
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Data & Analytics,The AI Ready Data Cloud,Dataflow,1,,1,🟢 Ready (1 profiles)
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Data & Analytics,The AI Ready Data Cloud,Dataproc,,,,⚪ No Active Demand
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Data & Analytics,The AI Ready Data Cloud,Looker,,,,⚪ No Active Demand
@@ -695,12 +758,15 @@ VPN Soluçoes em TI LTDA (Venha para Nuvem),Workspace,Agentic Workplace Transfor
 Comercializadora Zenta Group SPA,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 Comercializadora Zenta Group SPA,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,1,1,🟢 Ready (1 profiles)
 Comercializadora Zenta Group SPA,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,1,1,🟡 Constrained (1 DRP / 4 wkls)
-Comercializadora Zenta Group SPA,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,2,2,🟡 Constrained (2 DRP / 3 wkls)
+Comercializadora Zenta Group SPA,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,2,2,🟡 Constrained (2 DRP / 4 wkls)
+Comercializadora Zenta Group SPA,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
+Comercializadora Zenta Group SPA,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
+Comercializadora Zenta Group SPA,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
+Comercializadora Zenta Group SPA,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
 Comercializadora Zenta Group SPA,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,3,3,🟢 Ready (3 profiles)
-Comercializadora Zenta Group SPA,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,,,,⚪ No Active Demand
 Comercializadora Zenta Group SPA,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,3,3,🟢 Ready (3 DRP / 1 wkls)
 Comercializadora Zenta Group SPA,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,⚪ No Active Demand
-Comercializadora Zenta Group SPA,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,3,3,🟡 Constrained (3 DRP / 8 wkls)
+Comercializadora Zenta Group SPA,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,3,3,🟡 Constrained (3 DRP / 6 wkls)
 Comercializadora Zenta Group SPA,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,3,3,🟢 Ready (3 profiles)
 Comercializadora Zenta Group SPA,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,,⚪ No Active Demand
 Comercializadora Zenta Group SPA,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,,,⚪ No Active Demand
@@ -729,8 +795,11 @@ Consiti (Consultoría y Soluciones Informáticas),Application Modernization,"Mig
 Consiti (Consultoría y Soluciones Informáticas),Application Modernization,"Migrate, Modernize and Build",Cloud Run,,1,1,🟢 Ready (1 profiles)
 Consiti (Consultoría y Soluciones Informáticas),Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,⚪ No Active Demand
 Consiti (Consultoría y Soluciones Informáticas),Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,⚪ No Active Demand
+Consiti (Consultoría y Soluciones Informáticas),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
+Consiti (Consultoría y Soluciones Informáticas),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
+Consiti (Consultoría y Soluciones Informáticas),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
+Consiti (Consultoría y Soluciones Informáticas),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
 Consiti (Consultoría y Soluciones Informáticas),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
-Consiti (Consultoría y Soluciones Informáticas),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,,,,⚪ No Active Demand
 Consiti (Consultoría y Soluciones Informáticas),Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
 Consiti (Consultoría y Soluciones Informáticas),Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,⚪ No Active Demand
 Consiti (Consultoría y Soluciones Informáticas),Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
@@ -762,8 +831,11 @@ Devaid SPA,Application Modernization,"Migrate, Modernize and Build",Apigee API M
 Devaid SPA,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
 Devaid SPA,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,⚪ No Active Demand
 Devaid SPA,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,1,1,2,🟢 Ready (2 DRP / 1 wkls)
+Devaid SPA,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
+Devaid SPA,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
+Devaid SPA,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
+Devaid SPA,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
 Devaid SPA,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,1,1,🟢 Ready (1 DRP / 1 wkls)
-Devaid SPA,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,,,,⚪ No Active Demand
 Devaid SPA,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,1,1,🟢 Ready (1 DRP / 1 wkls)
 Devaid SPA,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,⚪ No Active Demand
 Devaid SPA,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,1,1,🟡 Constrained (1 DRP / 13 wkls)
@@ -795,8 +867,11 @@ MadeinWeb S/A,Application Modernization,"Migrate, Modernize and Build",Apigee AP
 MadeinWeb S/A,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
 MadeinWeb S/A,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,🔴 Gap (0 DRP / 2 wkls)
 MadeinWeb S/A,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,2,2,🟡 Constrained (2 DRP / 8 wkls)
+MadeinWeb S/A,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
+MadeinWeb S/A,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
+MadeinWeb S/A,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
+MadeinWeb S/A,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
 MadeinWeb S/A,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,4,,4,🟡 Constrained (4 DRP / 7 wkls)
-MadeinWeb S/A,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,,,,⚪ No Active Demand
 MadeinWeb S/A,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,4,,4,🟢 Ready (4 profiles)
 MadeinWeb S/A,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,1,2,3,🟢 Ready (3 profiles)
 MadeinWeb S/A,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,4,,4,🟡 Constrained (4 DRP / 15 wkls)
@@ -828,8 +903,11 @@ TIVIT COLOMBIA S A S,Application Modernization,"Migrate, Modernize and Build",Ap
 TIVIT COLOMBIA S A S,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,1,1,🟢 Ready (1 profiles)
 TIVIT COLOMBIA S A S,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,⚪ No Active Demand
 TIVIT COLOMBIA S A S,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,⚪ No Active Demand
+TIVIT COLOMBIA S A S,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
+TIVIT COLOMBIA S A S,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
+TIVIT COLOMBIA S A S,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
+TIVIT COLOMBIA S A S,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
 TIVIT COLOMBIA S A S,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,1,1,2,🟢 Ready (2 profiles)
-TIVIT COLOMBIA S A S,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,,,,⚪ No Active Demand
 TIVIT COLOMBIA S A S,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,1,1,2,🟢 Ready (2 profiles)
 TIVIT COLOMBIA S A S,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,⚪ No Active Demand
 TIVIT COLOMBIA S A S,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,1,1,2,🟢 Ready (2 profiles)
@@ -861,8 +939,11 @@ Tech Pulse SPA (Axmos),Application Modernization,"Migrate, Modernize and Build",
 Tech Pulse SPA (Axmos),Application Modernization,"Migrate, Modernize and Build",Cloud Run,1,1,2,🟢 Ready (2 profiles)
 Tech Pulse SPA (Axmos),Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,1,4,5,🟢 Ready (5 profiles)
 Tech Pulse SPA (Axmos),Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,3,3,🟡 Constrained (3 DRP / 4 wkls)
+Tech Pulse SPA (Axmos),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
+Tech Pulse SPA (Axmos),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
+Tech Pulse SPA (Axmos),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
+Tech Pulse SPA (Axmos),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
 Tech Pulse SPA (Axmos),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,5,5,🟢 Ready (5 profiles)
-Tech Pulse SPA (Axmos),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,,,,⚪ No Active Demand
 Tech Pulse SPA (Axmos),Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,5,5,🟢 Ready (5 profiles)
 Tech Pulse SPA (Axmos),Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,1,1,🟢 Ready (1 profiles)
 Tech Pulse SPA (Axmos),Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,5,5,🟢 Ready (5 DRP / 5 wkls)
@@ -894,12 +975,15 @@ IPNET (Telefônica Cloud),Application Modernization,"Migrate, Modernize and Buil
 IPNET (Telefônica Cloud),Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
 IPNET (Telefônica Cloud),Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,🔴 Gap (0 DRP / 2 wkls)
 IPNET (Telefônica Cloud),Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,🔴 Gap (0 DRP / 6 wkls)
-IPNET (Telefônica Cloud),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 5 wkls)
-IPNET (Telefônica Cloud),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,,,,⚪ No Active Demand
+IPNET (Telefônica Cloud),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
+IPNET (Telefônica Cloud),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
+IPNET (Telefônica Cloud),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
+IPNET (Telefônica Cloud),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
+IPNET (Telefônica Cloud),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 3 wkls)
 IPNET (Telefônica Cloud),Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
 IPNET (Telefônica Cloud),Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,⚪ No Active Demand
 IPNET (Telefônica Cloud),Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 14 wkls)
-IPNET (Telefônica Cloud),Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 3 wkls)
+IPNET (Telefônica Cloud),Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 4 wkls)
 IPNET (Telefônica Cloud),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,,⚪ No Active Demand
 IPNET (Telefônica Cloud),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,,,⚪ No Active Demand
 IPNET (Telefônica Cloud),Data & Analytics,The AI Ready Data Cloud,BigQuery,,,,🔴 Gap (0 DRP / 4 wkls)
@@ -927,15 +1011,18 @@ Kyndryl Brasil,Application Modernization,"Migrate, Modernize and Build",Apigee A
 Kyndryl Brasil,Application Modernization,"Migrate, Modernize and Build",Cloud Run,6,5,11,🟢 Ready (11 profiles)
 Kyndryl Brasil,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,6,29,35,🟢 Ready (35 DRP / 2 wkls)
 Kyndryl Brasil,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,3,28,31,🟢 Ready (31 DRP / 1 wkls)
+Kyndryl Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,3,3,🟢 Ready (3 profiles)
+Kyndryl Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
+Kyndryl Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,1,1,🟢 Ready (1 profiles)
+Kyndryl Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
 Kyndryl Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,12,42,54,🟢 Ready (54 profiles)
-Kyndryl Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,1,11,12,🟢 Ready (12 profiles)
 Kyndryl Brasil,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,12,42,54,🟢 Ready (54 profiles)
 Kyndryl Brasil,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,3,11,14,🟢 Ready (14 profiles)
 Kyndryl Brasil,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,12,42,54,🟢 Ready (54 DRP / 2 wkls)
 Kyndryl Brasil,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,12,42,54,🟢 Ready (54 profiles)
-Kyndryl Brasil,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,4,20,24,🟢 Ready (24 profiles)
+Kyndryl Brasil,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,5,19,24,🟢 Ready (24 profiles)
 Kyndryl Brasil,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,2,10,12,🟢 Ready (12 profiles)
-Kyndryl Brasil,Data & Analytics,The AI Ready Data Cloud,BigQuery,4,20,24,🟢 Ready (24 DRP / 1 wkls)
+Kyndryl Brasil,Data & Analytics,The AI Ready Data Cloud,BigQuery,5,19,24,🟢 Ready (24 DRP / 1 wkls)
 Kyndryl Brasil,Data & Analytics,The AI Ready Data Cloud,Dataflow,2,10,12,🟢 Ready (12 profiles)
 Kyndryl Brasil,Data & Analytics,The AI Ready Data Cloud,Dataproc,,3,3,🟢 Ready (3 profiles)
 Kyndryl Brasil,Data & Analytics,The AI Ready Data Cloud,Looker,,5,5,🟢 Ready (5 profiles)
@@ -949,7 +1036,7 @@ Kyndryl Brasil,Infrastructure Modernization,Enterprise Platform of Choice: Oracl
 Kyndryl Brasil,Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,1,4,5,🟢 Ready (5 profiles)
 Kyndryl Brasil,Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,1,19,20,🟢 Ready (20 DRP / 1 wkls)
 Kyndryl Brasil,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,13,70,83,🟢 Ready (83 profiles)
-Kyndryl Brasil,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,59,116,175,🟢 Ready (175 profiles)
+Kyndryl Brasil,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,59,117,176,🟢 Ready (176 profiles)
 Kyndryl Brasil,Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,1,1,🟢 Ready (1 profiles)
 Kyndryl Brasil,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
 Kyndryl Brasil,Security,Agentic Defense with Google Security,Security Command Center,1,4,5,🟢 Ready (5 profiles)
@@ -960,11 +1047,14 @@ SantoDigital,Application Modernization,"Migrate, Modernize and Build",Apigee API
 SantoDigital,Application Modernization,"Migrate, Modernize and Build",Cloud Run,4,7,11,🟢 Ready (11 profiles)
 SantoDigital,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,4,9,13,🟢 Ready (13 DRP / 5 wkls)
 SantoDigital,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,4,17,21,🟢 Ready (21 DRP / 9 wkls)
+SantoDigital,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
+SantoDigital,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
+SantoDigital,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
+SantoDigital,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
 SantoDigital,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,12,23,35,🟢 Ready (35 DRP / 11 wkls)
-SantoDigital,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,,1,1,🟢 Ready (1 profiles)
 SantoDigital,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,12,23,35,🟢 Ready (35 DRP / 1 wkls)
 SantoDigital,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,1,6,7,🟢 Ready (7 profiles)
-SantoDigital,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,12,23,35,🟡 Constrained (35 DRP / 45 wkls)
+SantoDigital,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,12,23,35,🟡 Constrained (35 DRP / 44 wkls)
 SantoDigital,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,12,23,35,🟢 Ready (35 DRP / 7 wkls)
 SantoDigital,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,4,4,8,🟢 Ready (8 profiles)
 SantoDigital,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,1,4,5,🟢 Ready (5 profiles)
@@ -993,15 +1083,18 @@ Sauter Tecnologia,Application Modernization,"Migrate, Modernize and Build",Apige
 Sauter Tecnologia,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
 Sauter Tecnologia,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,8,7,15,🟢 Ready (15 DRP / 5 wkls)
 Sauter Tecnologia,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,🔴 Gap (0 DRP / 6 wkls)
+Sauter Tecnologia,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
+Sauter Tecnologia,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
+Sauter Tecnologia,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
+Sauter Tecnologia,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
 Sauter Tecnologia,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,1,1,🟡 Constrained (1 DRP / 3 wkls)
-Sauter Tecnologia,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise for Customer Experience,,1,1,🟢 Ready (1 profiles)
 Sauter Tecnologia,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,1,1,🟢 Ready (1 profiles)
 Sauter Tecnologia,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,⚪ No Active Demand
 Sauter Tecnologia,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,1,1,🟡 Constrained (1 DRP / 14 wkls)
 Sauter Tecnologia,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,1,1,🟡 Constrained (1 DRP / 2 wkls)
 Sauter Tecnologia,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,10,3,13,🟢 Ready (13 profiles)
 Sauter Tecnologia,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,4,5,9,🟢 Ready (9 profiles)
-Sauter Tecnologia,Data & Analytics,The AI Ready Data Cloud,BigQuery,10,3,13,🟢 Ready (13 DRP / 4 wkls)
+Sauter Tecnologia,Data & Analytics,The AI Ready Data Cloud,BigQuery,10,3,13,🟢 Ready (13 DRP / 5 wkls)
 Sauter Tecnologia,Data & Analytics,The AI Ready Data Cloud,Dataflow,4,5,9,🟢 Ready (9 profiles)
 Sauter Tecnologia,Data & Analytics,The AI Ready Data Cloud,Dataproc,,,,⚪ No Active Demand
 Sauter Tecnologia,Data & Analytics,The AI Ready Data Cloud,Looker,3,5,8,🟢 Ready (8 profiles)
