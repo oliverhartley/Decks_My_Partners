@@ -37,21 +37,21 @@ IPNET (Telefônica Cloud),Security,Secure Innovation with Google Cloud,Cloud Sec
 IPNET (Telefônica Cloud),Workspace,Agentic Workplace Transformation,Workspace,,,,⚪ No Active Demand
 Kyndryl Brasil,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,1,1,🟢 Ready (1 profiles)
 Kyndryl Brasil,Application Modernization,"Migrate, Modernize and Build",Cloud Run,6,5,11,🟢 Ready (11 profiles)
-Kyndryl Brasil,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,6,29,35,🟢 Ready (35 DRP / 2 wkls)
-Kyndryl Brasil,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,3,28,31,🟢 Ready (31 DRP / 1 wkls)
+Kyndryl Brasil,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,5,29,34,🟢 Ready (34 DRP / 2 wkls)
+Kyndryl Brasil,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,3,27,30,🟢 Ready (30 DRP / 1 wkls)
 Kyndryl Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,3,3,🟢 Ready (3 profiles)
 Kyndryl Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 Kyndryl Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,1,1,🟢 Ready (1 profiles)
 Kyndryl Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
-Kyndryl Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,12,42,54,🟢 Ready (54 profiles)
-Kyndryl Brasil,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,12,42,54,🟢 Ready (54 profiles)
+Kyndryl Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,11,43,54,🟢 Ready (54 profiles)
+Kyndryl Brasil,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,11,43,54,🟢 Ready (54 profiles)
 Kyndryl Brasil,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,3,11,14,🟢 Ready (14 profiles)
-Kyndryl Brasil,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,12,42,54,🟢 Ready (54 DRP / 2 wkls)
-Kyndryl Brasil,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,12,42,54,🟢 Ready (54 profiles)
-Kyndryl Brasil,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,5,19,24,🟢 Ready (24 profiles)
-Kyndryl Brasil,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,2,10,12,🟢 Ready (12 profiles)
-Kyndryl Brasil,Data & Analytics,The AI Ready Data Cloud,BigQuery,5,19,24,🟢 Ready (24 DRP / 1 wkls)
-Kyndryl Brasil,Data & Analytics,The AI Ready Data Cloud,Dataflow,2,10,12,🟢 Ready (12 profiles)
+Kyndryl Brasil,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,11,43,54,🟢 Ready (54 DRP / 2 wkls)
+Kyndryl Brasil,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,11,43,54,🟢 Ready (54 profiles)
+Kyndryl Brasil,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,4,19,23,🟢 Ready (23 profiles)
+Kyndryl Brasil,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,1,11,12,🟢 Ready (12 profiles)
+Kyndryl Brasil,Data & Analytics,The AI Ready Data Cloud,BigQuery,4,19,23,🟢 Ready (23 DRP / 1 wkls)
+Kyndryl Brasil,Data & Analytics,The AI Ready Data Cloud,Dataflow,1,11,12,🟢 Ready (12 profiles)
 Kyndryl Brasil,Data & Analytics,The AI Ready Data Cloud,Dataproc,,3,3,🟢 Ready (3 profiles)
 Kyndryl Brasil,Data & Analytics,The AI Ready Data Cloud,Looker,,5,5,🟢 Ready (5 profiles)
 Kyndryl Brasil,Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,1,1,🟢 Ready (1 profiles)
@@ -64,7 +64,7 @@ Kyndryl Brasil,Infrastructure Modernization,Enterprise Platform of Choice: Oracl
 Kyndryl Brasil,Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,1,4,5,🟢 Ready (5 profiles)
 Kyndryl Brasil,Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,1,19,20,🟢 Ready (20 DRP / 1 wkls)
 Kyndryl Brasil,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,13,70,83,🟢 Ready (83 profiles)
-Kyndryl Brasil,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,59,117,176,🟢 Ready (176 profiles)
+Kyndryl Brasil,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,59,114,173,🟢 Ready (173 profiles)
 Kyndryl Brasil,Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,1,1,🟢 Ready (1 profiles)
 Kyndryl Brasil,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
 Kyndryl Brasil,Security,Agentic Defense with Google Security,Security Command Center,1,4,5,🟢 Ready (5 profiles)
@@ -110,7 +110,7 @@ SantoDigital,Workspace,Agentic Workplace Transformation,Workspace,4,5,9,🟢 Rea
 Sauter Tecnologia,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 Sauter Tecnologia,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
 Sauter Tecnologia,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,8,7,15,🟢 Ready (15 DRP / 5 wkls)
-Sauter Tecnologia,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,🔴 Gap (0 DRP / 6 wkls)
+Sauter Tecnologia,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,🔴 Gap (0 DRP / 7 wkls)
 Sauter Tecnologia,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 Sauter Tecnologia,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 Sauter Tecnologia,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand

@@ -43,7 +43,7 @@ Emergys Mexico,Artificial Intelligence,Gemini Enterprise for Customer Experience
 Emergys Mexico,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 Emergys Mexico,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
 Emergys Mexico,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
-Emergys Mexico,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,2,2,🟡 Constrained (2 DRP / 3 wkls)
+Emergys Mexico,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,2,2,🟡 Constrained (2 DRP / 4 wkls)
 Emergys Mexico,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,2,2,🟢 Ready (2 profiles)
 Emergys Mexico,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,⚪ No Active Demand
 Emergys Mexico,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,2,2,🟡 Constrained (2 DRP / 3 wkls)
@@ -107,8 +107,8 @@ NXN Consultores,Security,Agentic Defense with Google Security,Security Command C
 NXN Consultores,Security,Agentic Defense with Google Security,Security Operations,,,,⚪ No Active Demand
 NXN Consultores,Security,Secure Innovation with Google Cloud,Cloud Security,,,,⚪ No Active Demand
 NXN Consultores,Workspace,Agentic Workplace Transformation,Workspace,,,,⚪ No Active Demand
-Nubosoft Servicios,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,2,2,4,🟢 Ready (4 profiles)
-Nubosoft Servicios,Application Modernization,"Migrate, Modernize and Build",Cloud Run,10,5,15,🟢 Ready (15 profiles)
+Nubosoft Servicios,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,2,1,3,🟢 Ready (3 profiles)
+Nubosoft Servicios,Application Modernization,"Migrate, Modernize and Build",Cloud Run,9,6,15,🟢 Ready (15 profiles)
 Nubosoft Servicios,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,14,3,17,🟢 Ready (17 DRP / 6 wkls)
 Nubosoft Servicios,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,1,2,3,🟢 Ready (3 DRP / 1 wkls)
 Nubosoft Servicios,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
@@ -133,7 +133,7 @@ Nubosoft Servicios,Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,1,,1
 Nubosoft Servicios,Databases,The AI Ready Data Cloud,Cloud SQL,10,3,13,🟢 Ready (13 profiles)
 Nubosoft Servicios,Databases,The AI Ready Data Cloud,Spanner,,,,⚪ No Active Demand
 Nubosoft Servicios,Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,,,⚪ No Active Demand
-Nubosoft Servicios,Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,3,3,🟢 Ready (3 profiles)
+Nubosoft Servicios,Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,2,2,🟢 Ready (2 profiles)
 Nubosoft Servicios,Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,,,⚪ No Active Demand
 Nubosoft Servicios,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,13,3,16,🟢 Ready (16 profiles)
 Nubosoft Servicios,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,18,2,20,🟢 Ready (20 profiles)

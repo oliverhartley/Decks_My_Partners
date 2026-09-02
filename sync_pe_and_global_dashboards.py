@@ -23,17 +23,18 @@ GLOBAL_FOLLOWUP_HEADERS = [
     "Workload Progress",                # Col 6 (G)
     "Capacity Status (DRP Readiness)",  # Col 7 (H)
     "Opportunity Name",                 # Col 8 (I)
-    "Expert Requests",                  # Col 9 (J)
-    "Customer Sub Region",              # Col 10 (K)
-    "Customer Micro Region",            # Col 11 (L)
-    "Primary Workload Pillar",          # Col 12 (M)
-    "Sales Play",                       # Col 13 (N)
-    "Workload Solution",                # Col 14 (O)
-    "Begin Migration Date",             # Col 15 (P)
-    "Production Date",                  # Col 16 (Q)
-    "Annual Gross Revenue (ARR USD)",   # Col 17 (R)
-    "Last Touch",                       # Col 18 (S)
-    "Link"                              # Col 19 (T)
+    "Next Steps",                       # Col 9 (J)
+    "Expert Requests",                  # Col 10 (K)
+    "Customer Sub Region",              # Col 11 (L)
+    "Customer Micro Region",            # Col 12 (M)
+    "Primary Workload Pillar",          # Col 13 (N)
+    "Sales Play",                       # Col 14 (O)
+    "Workload Solution",                # Col 15 (P)
+    "Begin Migration Date",             # Col 16 (Q)
+    "Production Date",                  # Col 17 (R)
+    "Annual Gross Revenue (ARR USD)",   # Col 18 (S)
+    "Last Touch",                       # Col 19 (T)
+    "Link"                              # Col 20 (U)
 ]
 
 GLOBAL_COL_WIDTHS = {
@@ -46,17 +47,18 @@ GLOBAL_COL_WIDTHS = {
     6: 170,  # Workload Progress
     7: 200,  # Capacity Status
     8: 260,  # Opportunity Name
-    9: 180,  # Expert Requests
-    10: 120, # Customer Sub Region
-    11: 130, # Customer Micro Region
-    12: 180, # Primary Workload Pillar
-    13: 220, # Sales Play
-    14: 220, # Workload Solution
-    15: 130, # Begin Migration Date
-    16: 130, # Production Date
-    17: 150, # ARR USD
-    18: 160, # Last Touch
-    19: 160  # Link
+    9: 350,  # Next Steps
+    10: 180, # Expert Requests
+    11: 120, # Customer Sub Region
+    12: 130, # Customer Micro Region
+    13: 180, # Primary Workload Pillar
+    14: 220, # Sales Play
+    15: 220, # Workload Solution
+    16: 130, # Begin Migration Date
+    17: 130, # Production Date
+    18: 150, # ARR USD
+    19: 160, # Last Touch
+    20: 160  # Link
 }
 
 GLOBAL_DRP_HEADERS = [
@@ -191,18 +193,37 @@ def format_executive_summary(ssid, sid_exec, total_rows):
 
 def format_all_workloads_followup(ssid, sid_gwkl, total_rows, all_followup_rows, title_label):
     grid_info = get_grid_info(ssid)
-    gw_info = grid_info.get("All_Workloads_Follow_up", {"sheetId": sid_gwkl, "rowCount": total_rows, "columnCount": 20})
+    gw_info = grid_info.get("All_Workloads_Follow_up", {"sheetId": sid_gwkl, "rowCount": total_rows, "columnCount": 21})
     sid = gw_info["sheetId"]
     gw_rows = max(total_rows, gw_info["rowCount"])
     has_data = total_rows > 5
     
     subprocess.run([GSHEETS, "mutate", "freeze", ssid, "--sheet-id", str(sid), "--rows", "5"], capture_output=True)
+
+    # Delete existing conditional formatting rules to prevent accumulation
+    try:
+        res_info = subprocess.run([GSHEETS, "readonly", "info", ssid, "--json"], capture_output=True, text=True)
+        if res_info.returncode == 0 and res_info.stdout.strip():
+            info_data = json.loads(res_info.stdout)
+            for s_item in info_data.get("sheets", []):
+                if s_item.get("properties", {}).get("sheetId") == sid:
+                    cfs = s_item.get("conditionalFormats", [])
+                    if cfs:
+                        del_reqs = [{"deleteConditionalFormatRule": {"sheetId": sid, "index": i}} for i in reversed(range(len(cfs)))]
+                        tmp_cf = f"temp_del_cf_{ssid}.json"
+                        with open(tmp_cf, "w") as df:
+                            json.dump({"requests": del_reqs}, df)
+                        subprocess.run([GSHEETS, "mutate", "raw-batch", ssid, "-f", tmp_cf], capture_output=True)
+                        if os.path.exists(tmp_cf):
+                            os.remove(tmp_cf)
+    except Exception as e:
+        print(f"Warning clearing conditional formats for {title_label}: {e}")
     
     batch_req = {
       "requests": [
         # Reset top & table area
-        {"repeatCell": {"range": {"sheetId": sid, "startRowIndex": 0, "endRowIndex": gw_rows, "startColumnIndex": 0, "endColumnIndex": 20}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 1.0, "green": 1.0, "blue": 1.0}, "textFormat": {"foregroundColor": {"red": 0.125, "green": 0.129, "blue": 0.141}, "fontSize": 10, "bold": False, "fontFamily": "Arial"}, "verticalAlignment": "MIDDLE", "wrapStrategy": "OVERFLOW_CELL"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,verticalAlignment,wrapStrategy)"}},
-        {"unmergeCells": {"range": {"sheetId": sid, "startRowIndex": 0, "endRowIndex": min(10, gw_rows), "startColumnIndex": 0, "endColumnIndex": 20}}},
+        {"repeatCell": {"range": {"sheetId": sid, "startRowIndex": 0, "endRowIndex": gw_rows, "startColumnIndex": 0, "endColumnIndex": 21}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 1.0, "green": 1.0, "blue": 1.0}, "textFormat": {"foregroundColor": {"red": 0.125, "green": 0.129, "blue": 0.141}, "fontSize": 10, "bold": False, "fontFamily": "Arial"}, "verticalAlignment": "MIDDLE", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,verticalAlignment,wrapStrategy)"}},
+        {"unmergeCells": {"range": {"sheetId": sid, "startRowIndex": 0, "endRowIndex": min(10, gw_rows), "startColumnIndex": 0, "endColumnIndex": 21}}},
         {"mergeCells": {"range": {"sheetId": sid, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 1, "endColumnIndex": 5}, "mergeType": "MERGE_ALL"}},
         {"mergeCells": {"range": {"sheetId": sid, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 1, "endColumnIndex": 3}, "mergeType": "MERGE_ALL"}},
         {"mergeCells": {"range": {"sheetId": sid, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 5, "endColumnIndex": 7}, "mergeType": "MERGE_ALL"}},
@@ -222,14 +243,14 @@ def format_all_workloads_followup(ssid, sid_gwkl, total_rows, all_followup_rows,
         {"repeatCell": {"range": {"sheetId": sid, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 5, "endColumnIndex": 7}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 1.0, "green": 0.961, "blue": 0.616}, "textFormat": {"bold": True, "fontSize": 9, "foregroundColor": {"red": 0.45, "green": 0.30, "blue": 0.0}}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
         {"repeatCell": {"range": {"sheetId": sid, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 7, "endColumnIndex": 9}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.945, "green": 0.953, "blue": 0.957}, "textFormat": {"bold": True, "fontSize": 9, "foregroundColor": {"red": 0.37, "green": 0.39, "blue": 0.41}}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
 
-        # Row 5 (Main Header)
-        {"repeatCell": {"range": {"sheetId": sid, "startRowIndex": 4, "endRowIndex": 5, "startColumnIndex": 0, "endColumnIndex": 18}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.102, "green": 0.451, "blue": 0.910}, "textFormat": {"bold": True, "fontSize": 10, "foregroundColor": {"red": 1.0, "green": 1.0, "blue": 1.0}}, "horizontalAlignment": "CENTER", "verticalAlignment": "MIDDLE", "wrapStrategy": "WRAP"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment,verticalAlignment,wrapStrategy)"}},
-        {"repeatCell": {"range": {"sheetId": sid, "startRowIndex": 4, "endRowIndex": 5, "startColumnIndex": 18, "endColumnIndex": 20}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.075, "green": 0.451, "blue": 0.200}, "textFormat": {"bold": True, "fontSize": 10, "foregroundColor": {"red": 1.0, "green": 1.0, "blue": 1.0}}, "horizontalAlignment": "CENTER", "verticalAlignment": "MIDDLE", "wrapStrategy": "WRAP"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment,verticalAlignment,wrapStrategy)"}},
+        # Row 5 (Main Header: Cols 0-18 Blue, Cols 19-20 Green)
+        {"repeatCell": {"range": {"sheetId": sid, "startRowIndex": 4, "endRowIndex": 5, "startColumnIndex": 0, "endColumnIndex": 19}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.102, "green": 0.451, "blue": 0.910}, "textFormat": {"bold": True, "fontSize": 10, "foregroundColor": {"red": 1.0, "green": 1.0, "blue": 1.0}}, "horizontalAlignment": "CENTER", "verticalAlignment": "MIDDLE", "wrapStrategy": "WRAP"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment,verticalAlignment,wrapStrategy)"}},
+        {"repeatCell": {"range": {"sheetId": sid, "startRowIndex": 4, "endRowIndex": 5, "startColumnIndex": 19, "endColumnIndex": 21}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.075, "green": 0.451, "blue": 0.200}, "textFormat": {"bold": True, "fontSize": 10, "foregroundColor": {"red": 1.0, "green": 1.0, "blue": 1.0}}, "horizontalAlignment": "CENTER", "verticalAlignment": "MIDDLE", "wrapStrategy": "WRAP"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment,verticalAlignment,wrapStrategy)"}},
 
         # Borders
         {
           "updateBorders": {
-            "range": {"sheetId": sid, "startRowIndex": 4, "endRowIndex": gw_rows, "startColumnIndex": 0, "endColumnIndex": 20},
+            "range": {"sheetId": sid, "startRowIndex": 4, "endRowIndex": gw_rows, "startColumnIndex": 0, "endColumnIndex": 21},
             "top": {"style": "SOLID", "color": {"red": 0.8, "green": 0.8, "blue": 0.8}},
             "bottom": {"style": "SOLID", "color": {"red": 0.8, "green": 0.8, "blue": 0.8}},
             "left": {"style": "SOLID", "color": {"red": 0.8, "green": 0.8, "blue": 0.8}},
@@ -240,7 +261,7 @@ def format_all_workloads_followup(ssid, sid_gwkl, total_rows, all_followup_rows,
         },
         # Basic Filter
         {"clearBasicFilter": {"sheetId": sid}},
-        {"setBasicFilter": {"filter": {"range": {"sheetId": sid, "startRowIndex": 4, "endRowIndex": gw_rows, "startColumnIndex": 0, "endColumnIndex": 20}}}},
+        {"setBasicFilter": {"filter": {"range": {"sheetId": sid, "startRowIndex": 4, "endRowIndex": gw_rows, "startColumnIndex": 0, "endColumnIndex": 21}}}},
 
         # Row heights
         {"updateDimensionProperties": {"range": {"sheetId": sid, "dimension": "ROWS", "startIndex": 0, "endIndex": 1}, "properties": {"pixelSize": 30}, "fields": "pixelSize"}},
@@ -253,27 +274,27 @@ def format_all_workloads_followup(ssid, sid_gwkl, total_rows, all_followup_rows,
 
     if has_data:
         batch_req["requests"].extend([
-            {"repeatCell": {"range": {"sheetId": sid, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 0, "endColumnIndex": 3}, "cell": {"userEnteredFormat": {"horizontalAlignment": "LEFT"}}, "fields": "userEnteredFormat(horizontalAlignment)"}},
-            {"repeatCell": {"range": {"sheetId": sid, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 4, "endColumnIndex": 7}, "cell": {"userEnteredFormat": {"horizontalAlignment": "LEFT"}}, "fields": "userEnteredFormat(horizontalAlignment)"}},
-            {"repeatCell": {"range": {"sheetId": sid, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 8, "endColumnIndex": 15}, "cell": {"userEnteredFormat": {"horizontalAlignment": "LEFT"}}, "fields": "userEnteredFormat(horizontalAlignment)"}},
-            # Centered: Tier (Col 3), Capacity (Col 7), Dates (Cols 15-16)
-            {"repeatCell": {"range": {"sheetId": sid, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 3, "endColumnIndex": 4}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(horizontalAlignment)"}},
-            {"repeatCell": {"range": {"sheetId": sid, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 7, "endColumnIndex": 8}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(horizontalAlignment)"}},
-            {"repeatCell": {"range": {"sheetId": sid, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 15, "endColumnIndex": 17}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(horizontalAlignment)"}},
-            # ARR Currency (Col 17)
-            {"repeatCell": {"range": {"sheetId": sid, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 17, "endColumnIndex": 18}, "cell": {"userEnteredFormat": {"horizontalAlignment": "RIGHT", "numberFormat": {"type": "CURRENCY", "pattern": "$#,##0.00"}}}, "fields": "userEnteredFormat(horizontalAlignment,numberFormat)"}},
-            # Manual Note Columns (Cols 18-19)
-            {"repeatCell": {"range": {"sheetId": sid, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 18, "endColumnIndex": 20}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.945, "green": 0.980, "blue": 0.957}, "horizontalAlignment": "LEFT"}}, "fields": "userEnteredFormat(backgroundColor,horizontalAlignment)"}},
+            {"repeatCell": {"range": {"sheetId": sid, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 0, "endColumnIndex": 3}, "cell": {"userEnteredFormat": {"horizontalAlignment": "LEFT", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
+            {"repeatCell": {"range": {"sheetId": sid, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 4, "endColumnIndex": 7}, "cell": {"userEnteredFormat": {"horizontalAlignment": "LEFT", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
+            {"repeatCell": {"range": {"sheetId": sid, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 8, "endColumnIndex": 16}, "cell": {"userEnteredFormat": {"horizontalAlignment": "LEFT", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
+            # Centered: Tier (Col 3), Capacity (Col 7), Dates (Cols 16-17)
+            {"repeatCell": {"range": {"sheetId": sid, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 3, "endColumnIndex": 4}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
+            {"repeatCell": {"range": {"sheetId": sid, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 7, "endColumnIndex": 8}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
+            {"repeatCell": {"range": {"sheetId": sid, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 16, "endColumnIndex": 18}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
+            # ARR Currency (Col 18)
+            {"repeatCell": {"range": {"sheetId": sid, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 18, "endColumnIndex": 19}, "cell": {"userEnteredFormat": {"horizontalAlignment": "RIGHT", "wrapStrategy": "CLIP", "numberFormat": {"type": "CURRENCY", "pattern": "$#,##0.00"}}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy,numberFormat)"}},
+            # Manual Note Columns (Cols 19-20)
+            {"repeatCell": {"range": {"sheetId": sid, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 19, "endColumnIndex": 21}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.945, "green": 0.980, "blue": 0.957}, "horizontalAlignment": "LEFT", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(backgroundColor,horizontalAlignment,wrapStrategy)"}},
 
             # Hyperlinks (Cols 1, 2, 4, 8)
             {"repeatCell": {"range": {"sheetId": sid, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 1, "endColumnIndex": 3}, "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}}, "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"}},
             {"repeatCell": {"range": {"sheetId": sid, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 4, "endColumnIndex": 5}, "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}}, "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"}},
             {"repeatCell": {"range": {"sheetId": sid, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 8, "endColumnIndex": 9}, "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}}, "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"}},
 
-            # Conditional Formatting Rules (Progress is Col G [$G6], Production Date is Col Q [$Q6])
-            {"addConditionalFormatRule": {"rule": {"ranges": [{"sheetId": sid, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 0, "endColumnIndex": 20}], "booleanRule": {"condition": {"type": "CUSTOM_FORMULA", "values": [{"userEnteredValue": "=AND(OR(LEFT($G6,3)=\"0-2\",LEFT($G6,2)=\"3:\"), $Q6<>\"\", ($Q6-TODAY())<=14)"}]}, "format": {"backgroundColor": {"red": 0.949, "green": 0.545, "blue": 0.510}}}}, "index": 0}},
-            {"addConditionalFormatRule": {"rule": {"ranges": [{"sheetId": sid, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 0, "endColumnIndex": 20}], "booleanRule": {"condition": {"type": "CUSTOM_FORMULA", "values": [{"userEnteredValue": "=AND(OR(LEFT($G6,3)=\"0-2\",LEFT($G6,2)=\"3:\"), $Q6<>\"\", ($Q6-TODAY())>=15, ($Q6-TODAY())<=30)"}]}, "format": {"backgroundColor": {"red": 1.0, "green": 0.718, "blue": 0.302}}}}, "index": 1}},
-            {"addConditionalFormatRule": {"rule": {"ranges": [{"sheetId": sid, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 0, "endColumnIndex": 20}], "booleanRule": {"condition": {"type": "CUSTOM_FORMULA", "values": [{"userEnteredValue": "=AND(OR(LEFT($G6,3)=\"0-2\",LEFT($G6,2)=\"3:\"), $Q6<>\"\", ($Q6-TODAY())>=31, ($Q6-TODAY())<=45)"}]}, "format": {"backgroundColor": {"red": 1.0, "green": 0.961, "blue": 0.616}}}}, "index": 2}},
+            # Conditional Formatting Rules (Progress is Col G [$G6], Production Date is Col R [$R6])
+            {"addConditionalFormatRule": {"rule": {"ranges": [{"sheetId": sid, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 0, "endColumnIndex": 21}], "booleanRule": {"condition": {"type": "CUSTOM_FORMULA", "values": [{"userEnteredValue": "=AND(OR(LEFT($G6,3)=\"0-2\",LEFT($G6,2)=\"3:\"), $R6<>\"\", ($R6-TODAY())<=14)"}]}, "format": {"backgroundColor": {"red": 0.949, "green": 0.545, "blue": 0.510}}}}, "index": 0}},
+            {"addConditionalFormatRule": {"rule": {"ranges": [{"sheetId": sid, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 0, "endColumnIndex": 21}], "booleanRule": {"condition": {"type": "CUSTOM_FORMULA", "values": [{"userEnteredValue": "=AND(OR(LEFT($G6,3)=\"0-2\",LEFT($G6,2)=\"3:\"), $R6<>\"\", ($R6-TODAY())>=15, ($R6-TODAY())<=30)"}]}, "format": {"backgroundColor": {"red": 1.0, "green": 0.718, "blue": 0.302}}}}, "index": 1}},
+            {"addConditionalFormatRule": {"rule": {"ranges": [{"sheetId": sid, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 0, "endColumnIndex": 21}], "booleanRule": {"condition": {"type": "CUSTOM_FORMULA", "values": [{"userEnteredValue": "=AND(OR(LEFT($G6,3)=\"0-2\",LEFT($G6,2)=\"3:\"), $R6<>\"\", ($R6-TODAY())>=31, ($R6-TODAY())<=45)"}]}, "format": {"backgroundColor": {"red": 1.0, "green": 0.961, "blue": 0.616}}}}, "index": 2}},
 
             {"updateDimensionProperties": {"range": {"sheetId": sid, "dimension": "ROWS", "startIndex": 5, "endIndex": gw_rows}, "properties": {"pixelSize": 26}, "fields": "pixelSize"}}
         ])
@@ -283,7 +304,7 @@ def format_all_workloads_followup(ssid, sid_gwkl, total_rows, all_followup_rows,
             if r_idx % 2 == 1:
                 batch_req["requests"].append({
                     "repeatCell": {
-                        "range": {"sheetId": sid, "startRowIndex": r_idx, "endRowIndex": r_idx + 1, "startColumnIndex": 0, "endColumnIndex": 18},
+                        "range": {"sheetId": sid, "startRowIndex": r_idx, "endRowIndex": r_idx + 1, "startColumnIndex": 0, "endColumnIndex": 19},
                         "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.973, "green": 0.976, "blue": 0.980}}},
                         "fields": "userEnteredFormat(backgroundColor)"
                     }
@@ -292,11 +313,11 @@ def format_all_workloads_followup(ssid, sid_gwkl, total_rows, all_followup_rows,
         # ER links
         for r_idx in range(5, gw_rows):
             if r_idx < len(all_followup_rows):
-                val = all_followup_rows[r_idx][9]
+                val = all_followup_rows[r_idx][10]
                 if "ER-" in val and ("HYPERLINK" in val or "http" in val):
                     batch_req["requests"].append({
                         "repeatCell": {
-                            "range": {"sheetId": sid, "startRowIndex": r_idx, "endRowIndex": r_idx + 1, "startColumnIndex": 9, "endColumnIndex": 10},
+                            "range": {"sheetId": sid, "startRowIndex": r_idx, "endRowIndex": r_idx + 1, "startColumnIndex": 10, "endColumnIndex": 11},
                             "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}},
                             "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"
                         }
@@ -426,21 +447,21 @@ for r in wkl_data_rows:
     
     if np in manual_lookup and nw in manual_lookup[np]:
         entry = manual_lookup[np][nw]
-        r[18] = entry.get("last_touch", "")
-        r[19] = entry.get("link", "")
+        r[19] = entry.get("last_touch", "")
+        r[20] = entry.get("link", "")
         synced_global_count += 1
     else:
-        r[18] = ""
         r[19] = ""
+        r[20] = ""
 
 print(f"Total workload rows updated with partner notes: {synced_global_count} (out of {len(wkl_data_rows)} rows)")
 
 # Re-write global followup CSV
 global_top_block = [
-    ["Partner:", f"All {len(trackers)} Partners (Global Management Dashboard)", "", "", "", "Last Update:", DATE_FORMATTED] + [""] * 13,
-    [""] * 20,
-    ["Alert Criteria:", "Target Go-Live risk for active pipeline (Stages 0-2 & 3)", "", "🔴 Critical (≤14d / Overdue)", "🌸 High (15-30d)", "🟡 Medium (31-45d)", "", "⚪ Normal (>45d / Stage 4+)"] + [""] * 12,
-    [""] * 20,
+    ["Partner:", f"All {len(trackers)} Partners (Global Management Dashboard)", "", "", "", "Last Update:", DATE_FORMATTED] + [""] * 14,
+    [""] * 21,
+    ["Alert Criteria:", "Target Go-Live risk for active pipeline (Stages 0-2 & 3)", "", "🔴 Critical (≤14d / Overdue)", "🌸 High (15-30d)", "🟡 Medium (31-45d)", "", "⚪ Normal (>45d / Stage 4+)"] + [""] * 13,
+    [""] * 21,
     GLOBAL_FOLLOWUP_HEADERS
 ]
 all_global_followup_rows = global_top_block + wkl_data_rows
@@ -533,10 +554,10 @@ for pe, d in pe_dashboards.items():
     print("-> Populating All_Workloads_Follow_up...")
     pe_wkl_data = [r for r in wkl_data_rows if norm_str(extract_hyperlink_label(r[1])) in pe_norm_set]
     pe_top_block = [
-        ["Partner:", f"{pe} Partners (Partner Management Dashboard)", "", "", "", "Last Update:", DATE_FORMATTED] + [""] * 13,
-        [""] * 20,
-        ["Alert Criteria:", "Target Go-Live risk for active pipeline (Stages 0-2 & 3)", "", "🔴 Critical (≤14d / Overdue)", "🌸 High (15-30d)", "🟡 Medium (31-45d)", "", "⚪ Normal (>45d / Stage 4+)"] + [""] * 12,
-        [""] * 20,
+        ["Partner:", f"{pe} Partners (Partner Management Dashboard)", "", "", "", "Last Update:", DATE_FORMATTED] + [""] * 14,
+        [""] * 21,
+        ["Alert Criteria:", "Target Go-Live risk for active pipeline (Stages 0-2 & 3)", "", "🔴 Critical (≤14d / Overdue)", "🌸 High (15-30d)", "🟡 Medium (31-45d)", "", "⚪ Normal (>45d / Stage 4+)"] + [""] * 13,
+        [""] * 21,
         GLOBAL_FOLLOWUP_HEADERS
     ]
     all_pe_followup_rows = pe_top_block + pe_wkl_data

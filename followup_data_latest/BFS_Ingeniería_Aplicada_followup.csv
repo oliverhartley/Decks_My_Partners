@@ -1,5 +1,5 @@
-Partner:,BFS Ingeniería Aplicada,,,Last Update:,2 - Sep 2026,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,
-Alert Criteria:,Target Go-Live risk for active pipeline (Stages 0-2 & 3),,🔴 Critical (≤14d / Overdue),🌸 High (15-30d),🟡 Medium (31-45d),,⚪ Normal (>45d / Stage 4+),,,,,,,,,,
-,,,,,,,,,,,,,,,,,
-Customer Account Name,Account Tier,Workload Name,Workload Owner,Workload Progress,Capacity Status (DRP Readiness),Opportunity Name,Expert Requests,Customer Sub Region,Customer Micro Region,Primary Workload Pillar,Sales Play,Workload Solution,Begin Migration Date,Production Date,Annual Gross Revenue (ARR USD),Last Touch,Link
+Partner:,BFS Ingeniería Aplicada,,,Last Update:,2 - Sep 2026,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+Alert Criteria:,Target Go-Live risk for active pipeline (Stages 0-2 & 3),,🔴 Critical (≤14d / Overdue),🌸 High (15-30d),🟡 Medium (31-45d),,⚪ Normal (>45d / Stage 4+),,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+Customer Account Name,Account Tier,Workload Name,Workload Owner,Workload Progress,Capacity Status (DRP Readiness),Opportunity Name,Next Steps,Expert Requests,Customer Sub Region,Customer Micro Region,Primary Workload Pillar,Sales Play,Workload Solution,Begin Migration Date,Production Date,Annual Gross Revenue (ARR USD),Last Touch,Link

@@ -74,7 +74,7 @@ Gentrop Cloud Brasil,Workspace,Agentic Workplace Transformation,Workspace,23,9,3
 QiNetwork,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,1,1,🟢 Ready (1 profiles)
 QiNetwork,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,1,1,🟢 Ready (1 profiles)
 QiNetwork,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,2,2,🟡 Constrained (2 DRP / 4 wkls)
-QiNetwork,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,5,3,8,🟢 Ready (8 DRP / 7 wkls)
+QiNetwork,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,5,3,8,🟡 Constrained (8 DRP / 9 wkls)
 QiNetwork,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 QiNetwork,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 QiNetwork,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
@@ -144,8 +144,8 @@ Safetec Informática,Security,Agentic Defense with Google Security,Security Oper
 Safetec Informática,Security,Secure Innovation with Google Cloud,Cloud Security,1,1,2,🟢 Ready (2 profiles)
 Safetec Informática,Workspace,Agentic Workplace Transformation,Workspace,12,,12,🟢 Ready (12 profiles)
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
-VPN Soluçoes em TI LTDA (Venha para Nuvem),Application Modernization,"Migrate, Modernize and Build",Cloud Run,1,1,2,🟢 Ready (2 profiles)
-VPN Soluçoes em TI LTDA (Venha para Nuvem),Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,4,1,5,🟢 Ready (5 DRP / 3 wkls)
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Application Modernization,"Migrate, Modernize and Build",Cloud Run,1,,1,🟢 Ready (1 profiles)
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,2,3,5,🟢 Ready (5 DRP / 3 wkls)
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,1,1,🟡 Constrained (1 DRP / 12 wkls)
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
@@ -154,28 +154,28 @@ VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Gemini Enter
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 3 wkls)
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,1,1,🟢 Ready (1 profiles)
-VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 16 wkls)
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 17 wkls)
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 5 wkls)
-VPN Soluçoes em TI LTDA (Venha para Nuvem),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,1,1,🟢 Ready (1 profiles)
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,,⚪ No Active Demand
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,1,,1,🟢 Ready (1 profiles)
-VPN Soluçoes em TI LTDA (Venha para Nuvem),Data & Analytics,The AI Ready Data Cloud,BigQuery,,1,1,🟡 Constrained (1 DRP / 9 wkls)
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Data & Analytics,The AI Ready Data Cloud,BigQuery,,,,🔴 Gap (0 DRP / 9 wkls)
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Data & Analytics,The AI Ready Data Cloud,Dataflow,1,,1,🟢 Ready (1 profiles)
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Data & Analytics,The AI Ready Data Cloud,Dataproc,,,,⚪ No Active Demand
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Data & Analytics,The AI Ready Data Cloud,Looker,,,,⚪ No Active Demand
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,,,⚪ No Active Demand
-VPN Soluçoes em TI LTDA (Venha para Nuvem),Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,1,2,3,🟢 Ready (3 profiles)
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,1,1,2,🟢 Ready (2 profiles)
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,,,,⚪ No Active Demand
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,,,🔴 Gap (0 DRP / 1 wkls)
-VPN Soluçoes em TI LTDA (Venha para Nuvem),Databases,The AI Ready Data Cloud,Cloud SQL,1,2,3,🟢 Ready (3 profiles)
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Databases,The AI Ready Data Cloud,Cloud SQL,1,1,2,🟢 Ready (2 profiles)
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Databases,The AI Ready Data Cloud,Spanner,,,,🔴 Gap (0 DRP / 1 wkls)
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,,,⚪ No Active Demand
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,,,⚪ No Active Demand
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,,,⚪ No Active Demand
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,2,2,4,🟢 Ready (4 profiles)
-VPN Soluçoes em TI LTDA (Venha para Nuvem),Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,5,1,6,🟢 Ready (6 profiles)
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,5,,5,🟢 Ready (5 profiles)
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Security,Agentic Defense with Google Security,Security Command Center,2,,2,🟢 Ready (2 profiles)
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Security,Agentic Defense with Google Security,Security Operations,3,1,4,🟢 Ready (4 profiles)
-VPN Soluçoes em TI LTDA (Venha para Nuvem),Security,Secure Innovation with Google Cloud,Cloud Security,,1,1,🟢 Ready (1 profiles)
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Security,Secure Innovation with Google Cloud,Cloud Security,,,,⚪ No Active Demand
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Workspace,Agentic Workplace Transformation,Workspace,4,2,6,🟢 Ready (6 profiles)

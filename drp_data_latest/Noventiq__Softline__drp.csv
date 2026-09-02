@@ -2,12 +2,12 @@ Pillar,Solution (Sales Play),Product,Tier 1 Profiles Count,Tier 2 Profiles Count
 Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 Application Modernization,"Migrate, Modernize and Build",Cloud Run,1,6,7,🟢 Ready (7 profiles)
 Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,1,3,4,🟢 Ready (4 DRP / 2 wkls)
-Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,2,2,🟡 Constrained (2 DRP / 6 wkls)
+Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,2,2,🟡 Constrained (2 DRP / 7 wkls)
 Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
 Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
-Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,8,8,🟢 Ready (8 DRP / 5 wkls)
+Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,8,8,🟢 Ready (8 DRP / 6 wkls)
 Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,8,8,🟢 Ready (8 DRP / 1 wkls)
 Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,⚪ No Active Demand
 Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,8,8,🟡 Constrained (8 DRP / 9 wkls)

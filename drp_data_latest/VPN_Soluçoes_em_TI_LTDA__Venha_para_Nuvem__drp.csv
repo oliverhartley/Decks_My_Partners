@@ -1,7 +1,7 @@
 Pillar,Solution (Sales Play),Product,Tier 1 Profiles Count,Tier 2 Profiles Count,Total Tier 1 & 2 Profiles,Capacity Status (DRP vs Workloads)
 Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
-Application Modernization,"Migrate, Modernize and Build",Cloud Run,1,1,2,🟢 Ready (2 profiles)
-Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,4,1,5,🟢 Ready (5 DRP / 3 wkls)
+Application Modernization,"Migrate, Modernize and Build",Cloud Run,1,,1,🟢 Ready (1 profiles)
+Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,2,3,5,🟢 Ready (5 DRP / 3 wkls)
 Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,1,1,🟡 Constrained (1 DRP / 12 wkls)
 Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
@@ -10,28 +10,28 @@ Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insi
 Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 3 wkls)
 Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
 Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,1,1,🟢 Ready (1 profiles)
-Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 16 wkls)
+Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 17 wkls)
 Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 5 wkls)
-Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,1,1,🟢 Ready (1 profiles)
+Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,,⚪ No Active Demand
 Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,1,,1,🟢 Ready (1 profiles)
-Data & Analytics,The AI Ready Data Cloud,BigQuery,,1,1,🟡 Constrained (1 DRP / 9 wkls)
+Data & Analytics,The AI Ready Data Cloud,BigQuery,,,,🔴 Gap (0 DRP / 9 wkls)
 Data & Analytics,The AI Ready Data Cloud,Dataflow,1,,1,🟢 Ready (1 profiles)
 Data & Analytics,The AI Ready Data Cloud,Dataproc,,,,⚪ No Active Demand
 Data & Analytics,The AI Ready Data Cloud,Looker,,,,⚪ No Active Demand
 Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,,,⚪ No Active Demand
-Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,1,2,3,🟢 Ready (3 profiles)
+Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,1,1,2,🟢 Ready (2 profiles)
 Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,,,,⚪ No Active Demand
 Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,,,🔴 Gap (0 DRP / 1 wkls)
-Databases,The AI Ready Data Cloud,Cloud SQL,1,2,3,🟢 Ready (3 profiles)
+Databases,The AI Ready Data Cloud,Cloud SQL,1,1,2,🟢 Ready (2 profiles)
 Databases,The AI Ready Data Cloud,Spanner,,,,🔴 Gap (0 DRP / 1 wkls)
 Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,,,⚪ No Active Demand
 Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,,,⚪ No Active Demand
 Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,,,⚪ No Active Demand
 Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,2,2,4,🟢 Ready (4 profiles)
-Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,5,1,6,🟢 Ready (6 profiles)
+Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,5,,5,🟢 Ready (5 profiles)
 Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
 Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
 Security,Agentic Defense with Google Security,Security Command Center,2,,2,🟢 Ready (2 profiles)
 Security,Agentic Defense with Google Security,Security Operations,3,1,4,🟢 Ready (4 profiles)
-Security,Secure Innovation with Google Cloud,Cloud Security,,1,1,🟢 Ready (1 profiles)
+Security,Secure Innovation with Google Cloud,Cloud Security,,,,⚪ No Active Demand
 Workspace,Agentic Workplace Transformation,Workspace,4,2,6,🟢 Ready (6 profiles)
