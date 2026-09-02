@@ -1,6 +1,6 @@
 Pillar,Solution (Sales Play),Product,Tier 1 Profiles Count,Tier 2 Profiles Count,Total Tier 1 & 2 Profiles,Capacity Status (DRP vs Workloads)
-Application Modernization,"Migrate, Modernize and Build",Apigee API Management,2,2,4,🟢 Ready (4 profiles)
-Application Modernization,"Migrate, Modernize and Build",Cloud Run,10,5,15,🟢 Ready (15 profiles)
+Application Modernization,"Migrate, Modernize and Build",Apigee API Management,2,1,3,🟢 Ready (3 profiles)
+Application Modernization,"Migrate, Modernize and Build",Cloud Run,9,6,15,🟢 Ready (15 profiles)
 Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,14,3,17,🟢 Ready (17 DRP / 6 wkls)
 Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,1,2,3,🟢 Ready (3 DRP / 1 wkls)
 Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
@@ -25,7 +25,7 @@ Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,1,,1,🟢 Ready (1 DRP 
 Databases,The AI Ready Data Cloud,Cloud SQL,10,3,13,🟢 Ready (13 profiles)
 Databases,The AI Ready Data Cloud,Spanner,,,,⚪ No Active Demand
 Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,,,⚪ No Active Demand
-Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,3,3,🟢 Ready (3 profiles)
+Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,2,2,🟢 Ready (2 profiles)
 Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,,,⚪ No Active Demand
 Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,13,3,16,🟢 Ready (16 profiles)
 Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,18,2,20,🟢 Ready (20 profiles)
