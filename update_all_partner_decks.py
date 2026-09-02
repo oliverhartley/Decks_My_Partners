@@ -1323,6 +1323,32 @@ def ensure_sheet_tab(ssid, tab_title):
             pass
     return None
 
+def ensure_followup_tab(ssid):
+    res = subprocess.run([GSHEETS, "readonly", "list-sheets", ssid, "--json"], capture_output=True, text=True)
+    if res.returncode == 0 and res.stdout.strip():
+        try:
+            sheets = json.loads(res.stdout)
+            for s in sheets:
+                if s.get("title") == "Follow_up":
+                    return s.get("id")
+            for s in sheets:
+                if s.get("title") == "Sheet1":
+                    subprocess.run([GSHEETS, "mutate", "rename-sheet", ssid, "--sheet-id", str(s.get("id")), "--title", "Follow_up"], capture_output=True)
+                    return s.get("id")
+        except:
+            pass
+    subprocess.run([GSHEETS, "mutate", "add-sheet", ssid, "--title", "Follow_up"], capture_output=True, text=True)
+    res2 = subprocess.run([GSHEETS, "readonly", "list-sheets", ssid, "--json"], capture_output=True, text=True)
+    if res2.returncode == 0 and res2.stdout.strip():
+        try:
+            sheets = json.loads(res2.stdout)
+            for s in sheets:
+                if s.get("title") == "Follow_up":
+                    return s.get("id")
+        except:
+            pass
+    return 0
+
 def match_exact_drp(w_pillar, w_sales_play, w_solution, w_prods):
     w_pil_clean = (w_pillar or "").strip().lower()
     w_play_clean = (w_sales_play or "").strip().lower()
@@ -1478,6 +1504,7 @@ for cfg in PARTNERS:
         partner_total_drp_capacity += tot
         
     # B. WORKLOADS QUERY
+    ensure_followup_tab(ssid)
     manual_entries = fetch_existing_manual_entries(ssid, "Follow_up")
     sql_wkl = f"""
     SELECT 
@@ -1657,13 +1684,14 @@ for cfg in PARTNERS:
         writer.writerows(followup_rows)
         
     # Overwrite Tab 1: Follow_up
+    sid_followup = ensure_followup_tab(ssid)
     subprocess.run([GSHEETS, "mutate", "clear", ssid, "'Follow_up'!A1:Z2000"], capture_output=True)
     subprocess.run([GSHEETS, "mutate", "delete-rows", ssid, "--range", "'Follow_up'!2:2000"], capture_output=True)
     subprocess.run([GSHEETS, "mutate", "import-csv", ssid, followup_csv, "--sheet", "Follow_up"], capture_output=True)
     
     # Get exact grid info
     grid_info = get_grid_info(ssid)
-    f_info = grid_info.get("Follow_up", {"sheetId": 0, "rowCount": len(followup_rows), "columnCount": 18})
+    f_info = grid_info.get("Follow_up", {"sheetId": sid_followup, "rowCount": len(followup_rows), "columnCount": 18})
     sid_followup = f_info["sheetId"]
     f_rows = f_info["rowCount"]
     
