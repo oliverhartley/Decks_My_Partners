@@ -1,0 +1,253 @@
+Partner Name,Pillar,Solution (Sales Play),Product,Tier 1 Profiles Count,Tier 2 Profiles Count,Total Tier 1 & 2 Profiles,Capacity Status (DRP vs Workloads)
+CU2 CLOUD TEC STORE SL,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
+CU2 CLOUD TEC STORE SL,Application Modernization,"Migrate, Modernize and Build",Cloud Run,6,2,8,🟢 Ready (8 profiles)
+CU2 CLOUD TEC STORE SL,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,5,2,7,🟢 Ready (7 profiles)
+CU2 CLOUD TEC STORE SL,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,⚪ No Active Demand
+CU2 CLOUD TEC STORE SL,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
+CU2 CLOUD TEC STORE SL,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
+CU2 CLOUD TEC STORE SL,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
+CU2 CLOUD TEC STORE SL,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
+CU2 CLOUD TEC STORE SL,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,6,2,8,🟢 Ready (8 profiles)
+CU2 CLOUD TEC STORE SL,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,6,2,8,🟢 Ready (8 profiles)
+CU2 CLOUD TEC STORE SL,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,4,2,6,🟢 Ready (6 profiles)
+CU2 CLOUD TEC STORE SL,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,6,2,8,🟢 Ready (8 DRP / 2 wkls)
+CU2 CLOUD TEC STORE SL,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,6,2,8,🟢 Ready (8 DRP / 1 wkls)
+CU2 CLOUD TEC STORE SL,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,11,1,12,🟢 Ready (12 profiles)
+CU2 CLOUD TEC STORE SL,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,11,2,13,🟢 Ready (13 profiles)
+CU2 CLOUD TEC STORE SL,Data & Analytics,The AI Ready Data Cloud,BigQuery,11,1,12,🟢 Ready (12 DRP / 4 wkls)
+CU2 CLOUD TEC STORE SL,Data & Analytics,The AI Ready Data Cloud,Dataflow,11,2,13,🟢 Ready (13 profiles)
+CU2 CLOUD TEC STORE SL,Data & Analytics,The AI Ready Data Cloud,Dataproc,1,,1,🟢 Ready (1 profiles)
+CU2 CLOUD TEC STORE SL,Data & Analytics,The AI Ready Data Cloud,Looker,6,,6,🟢 Ready (6 profiles)
+CU2 CLOUD TEC STORE SL,Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,2,2,🟢 Ready (2 profiles)
+CU2 CLOUD TEC STORE SL,Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,4,6,10,🟢 Ready (10 profiles)
+CU2 CLOUD TEC STORE SL,Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,,,,⚪ No Active Demand
+CU2 CLOUD TEC STORE SL,Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,2,2,🟢 Ready (2 DRP / 1 wkls)
+CU2 CLOUD TEC STORE SL,Databases,The AI Ready Data Cloud,Cloud SQL,4,6,10,🟢 Ready (10 profiles)
+CU2 CLOUD TEC STORE SL,Databases,The AI Ready Data Cloud,Spanner,,,,⚪ No Active Demand
+CU2 CLOUD TEC STORE SL,Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,,,⚪ No Active Demand
+CU2 CLOUD TEC STORE SL,Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,1,1,🟢 Ready (1 profiles)
+CU2 CLOUD TEC STORE SL,Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,2,8,10,🟢 Ready (10 profiles)
+CU2 CLOUD TEC STORE SL,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,12,1,13,🟢 Ready (13 profiles)
+CU2 CLOUD TEC STORE SL,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,12,,12,🟢 Ready (12 profiles)
+CU2 CLOUD TEC STORE SL,Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
+CU2 CLOUD TEC STORE SL,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
+CU2 CLOUD TEC STORE SL,Security,Agentic Defense with Google Security,Security Command Center,8,3,11,🟢 Ready (11 profiles)
+CU2 CLOUD TEC STORE SL,Security,Agentic Defense with Google Security,Security Operations,3,8,11,🟢 Ready (11 profiles)
+CU2 CLOUD TEC STORE SL,Security,Secure Innovation with Google Cloud,Cloud Security,11,2,13,🟢 Ready (13 profiles)
+CU2 CLOUD TEC STORE SL,Workspace,Agentic Workplace Transformation,Workspace,2,,2,🟢 Ready (2 profiles)
+Emergys Mexico,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
+Emergys Mexico,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
+Emergys Mexico,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,1,1,🟡 Constrained (1 DRP / 2 wkls)
+Emergys Mexico,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,1,1,🟢 Ready (1 DRP / 1 wkls)
+Emergys Mexico,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
+Emergys Mexico,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
+Emergys Mexico,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
+Emergys Mexico,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
+Emergys Mexico,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,2,2,🟡 Constrained (2 DRP / 3 wkls)
+Emergys Mexico,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,2,2,🟢 Ready (2 profiles)
+Emergys Mexico,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,⚪ No Active Demand
+Emergys Mexico,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,2,2,🟡 Constrained (2 DRP / 3 wkls)
+Emergys Mexico,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,2,2,🟢 Ready (2 profiles)
+Emergys Mexico,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,1,,1,🟢 Ready (1 profiles)
+Emergys Mexico,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,1,1,🟢 Ready (1 profiles)
+Emergys Mexico,Data & Analytics,The AI Ready Data Cloud,BigQuery,1,,1,🟡 Constrained (1 DRP / 3 wkls)
+Emergys Mexico,Data & Analytics,The AI Ready Data Cloud,Dataflow,,1,1,🟢 Ready (1 profiles)
+Emergys Mexico,Data & Analytics,The AI Ready Data Cloud,Dataproc,,,,⚪ No Active Demand
+Emergys Mexico,Data & Analytics,The AI Ready Data Cloud,Looker,,,,⚪ No Active Demand
+Emergys Mexico,Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,,,⚪ No Active Demand
+Emergys Mexico,Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,,,,⚪ No Active Demand
+Emergys Mexico,Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,,,,⚪ No Active Demand
+Emergys Mexico,Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,,,⚪ No Active Demand
+Emergys Mexico,Databases,The AI Ready Data Cloud,Cloud SQL,,,,🔴 Gap (0 DRP / 1 wkls)
+Emergys Mexico,Databases,The AI Ready Data Cloud,Spanner,,,,⚪ No Active Demand
+Emergys Mexico,Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,,,⚪ No Active Demand
+Emergys Mexico,Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,,,⚪ No Active Demand
+Emergys Mexico,Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,,,🔴 Gap (0 DRP / 1 wkls)
+Emergys Mexico,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,,,,⚪ No Active Demand
+Emergys Mexico,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,,1,1,🟢 Ready (1 profiles)
+Emergys Mexico,Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
+Emergys Mexico,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
+Emergys Mexico,Security,Agentic Defense with Google Security,Security Command Center,,,,⚪ No Active Demand
+Emergys Mexico,Security,Agentic Defense with Google Security,Security Operations,,,,⚪ No Active Demand
+Emergys Mexico,Security,Secure Innovation with Google Cloud,Cloud Security,,,,⚪ No Active Demand
+Emergys Mexico,Workspace,Agentic Workplace Transformation,Workspace,,,,⚪ No Active Demand
+NXN Consultores,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
+NXN Consultores,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
+NXN Consultores,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,⚪ No Active Demand
+NXN Consultores,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,1,1,🟡 Constrained (1 DRP / 2 wkls)
+NXN Consultores,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
+NXN Consultores,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
+NXN Consultores,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
+NXN Consultores,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
+NXN Consultores,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 2 wkls)
+NXN Consultores,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
+NXN Consultores,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,⚪ No Active Demand
+NXN Consultores,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 2 wkls)
+NXN Consultores,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
+NXN Consultores,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,1,,1,🟢 Ready (1 profiles)
+NXN Consultores,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,,,⚪ No Active Demand
+NXN Consultores,Data & Analytics,The AI Ready Data Cloud,BigQuery,1,,1,🟡 Constrained (1 DRP / 4 wkls)
+NXN Consultores,Data & Analytics,The AI Ready Data Cloud,Dataflow,,,,⚪ No Active Demand
+NXN Consultores,Data & Analytics,The AI Ready Data Cloud,Dataproc,,,,⚪ No Active Demand
+NXN Consultores,Data & Analytics,The AI Ready Data Cloud,Looker,,1,1,🟢 Ready (1 profiles)
+NXN Consultores,Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,,,⚪ No Active Demand
+NXN Consultores,Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,,,,⚪ No Active Demand
+NXN Consultores,Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,,,,⚪ No Active Demand
+NXN Consultores,Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,,,🔴 Gap (0 DRP / 3 wkls)
+NXN Consultores,Databases,The AI Ready Data Cloud,Cloud SQL,,,,⚪ No Active Demand
+NXN Consultores,Databases,The AI Ready Data Cloud,Spanner,,,,⚪ No Active Demand
+NXN Consultores,Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,,,⚪ No Active Demand
+NXN Consultores,Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,,,⚪ No Active Demand
+NXN Consultores,Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,,,⚪ No Active Demand
+NXN Consultores,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,,1,1,🟢 Ready (1 profiles)
+NXN Consultores,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,,1,1,🟢 Ready (1 profiles)
+NXN Consultores,Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
+NXN Consultores,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
+NXN Consultores,Security,Agentic Defense with Google Security,Security Command Center,,,,⚪ No Active Demand
+NXN Consultores,Security,Agentic Defense with Google Security,Security Operations,,,,⚪ No Active Demand
+NXN Consultores,Security,Secure Innovation with Google Cloud,Cloud Security,,,,⚪ No Active Demand
+NXN Consultores,Workspace,Agentic Workplace Transformation,Workspace,,,,⚪ No Active Demand
+Nubosoft Servicios,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,2,2,4,🟢 Ready (4 profiles)
+Nubosoft Servicios,Application Modernization,"Migrate, Modernize and Build",Cloud Run,10,5,15,🟢 Ready (15 profiles)
+Nubosoft Servicios,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,14,3,17,🟢 Ready (17 DRP / 6 wkls)
+Nubosoft Servicios,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,1,2,3,🟢 Ready (3 DRP / 1 wkls)
+Nubosoft Servicios,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
+Nubosoft Servicios,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
+Nubosoft Servicios,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
+Nubosoft Servicios,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
+Nubosoft Servicios,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 4 wkls)
+Nubosoft Servicios,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
+Nubosoft Servicios,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,1,1,🟢 Ready (1 profiles)
+Nubosoft Servicios,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 11 wkls)
+Nubosoft Servicios,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
+Nubosoft Servicios,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,6,4,10,🟢 Ready (10 profiles)
+Nubosoft Servicios,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,6,2,8,🟢 Ready (8 profiles)
+Nubosoft Servicios,Data & Analytics,The AI Ready Data Cloud,BigQuery,6,4,10,🟢 Ready (10 DRP / 6 wkls)
+Nubosoft Servicios,Data & Analytics,The AI Ready Data Cloud,Dataflow,6,2,8,🟢 Ready (8 profiles)
+Nubosoft Servicios,Data & Analytics,The AI Ready Data Cloud,Dataproc,,,,⚪ No Active Demand
+Nubosoft Servicios,Data & Analytics,The AI Ready Data Cloud,Looker,7,2,9,🟢 Ready (9 DRP / 1 wkls)
+Nubosoft Servicios,Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,1,,1,🟢 Ready (1 profiles)
+Nubosoft Servicios,Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,10,3,13,🟢 Ready (13 profiles)
+Nubosoft Servicios,Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,,,,⚪ No Active Demand
+Nubosoft Servicios,Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,1,,1,🟢 Ready (1 DRP / 1 wkls)
+Nubosoft Servicios,Databases,The AI Ready Data Cloud,Cloud SQL,10,3,13,🟢 Ready (13 profiles)
+Nubosoft Servicios,Databases,The AI Ready Data Cloud,Spanner,,,,⚪ No Active Demand
+Nubosoft Servicios,Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,,,⚪ No Active Demand
+Nubosoft Servicios,Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,3,3,🟢 Ready (3 profiles)
+Nubosoft Servicios,Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,,,⚪ No Active Demand
+Nubosoft Servicios,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,13,3,16,🟢 Ready (16 profiles)
+Nubosoft Servicios,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,18,2,20,🟢 Ready (20 profiles)
+Nubosoft Servicios,Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
+Nubosoft Servicios,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
+Nubosoft Servicios,Security,Agentic Defense with Google Security,Security Command Center,1,3,4,🟢 Ready (4 profiles)
+Nubosoft Servicios,Security,Agentic Defense with Google Security,Security Operations,1,2,3,🟢 Ready (3 profiles)
+Nubosoft Servicios,Security,Secure Innovation with Google Cloud,Cloud Security,5,3,8,🟢 Ready (8 profiles)
+Nubosoft Servicios,Workspace,Agentic Workplace Transformation,Workspace,18,4,22,🟢 Ready (22 profiles)
+U CLOUD STORE MÉXICO,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
+U CLOUD STORE MÉXICO,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
+U CLOUD STORE MÉXICO,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,🔴 Gap (0 DRP / 2 wkls)
+U CLOUD STORE MÉXICO,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,🔴 Gap (0 DRP / 1 wkls)
+U CLOUD STORE MÉXICO,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
+U CLOUD STORE MÉXICO,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
+U CLOUD STORE MÉXICO,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
+U CLOUD STORE MÉXICO,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
+U CLOUD STORE MÉXICO,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 4 wkls)
+U CLOUD STORE MÉXICO,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
+U CLOUD STORE MÉXICO,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,⚪ No Active Demand
+U CLOUD STORE MÉXICO,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 3 wkls)
+U CLOUD STORE MÉXICO,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
+U CLOUD STORE MÉXICO,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,,⚪ No Active Demand
+U CLOUD STORE MÉXICO,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,,,⚪ No Active Demand
+U CLOUD STORE MÉXICO,Data & Analytics,The AI Ready Data Cloud,BigQuery,,,,🔴 Gap (0 DRP / 3 wkls)
+U CLOUD STORE MÉXICO,Data & Analytics,The AI Ready Data Cloud,Dataflow,,,,⚪ No Active Demand
+U CLOUD STORE MÉXICO,Data & Analytics,The AI Ready Data Cloud,Dataproc,,,,⚪ No Active Demand
+U CLOUD STORE MÉXICO,Data & Analytics,The AI Ready Data Cloud,Looker,,,,🔴 Gap (0 DRP / 1 wkls)
+U CLOUD STORE MÉXICO,Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,,,⚪ No Active Demand
+U CLOUD STORE MÉXICO,Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,,,,⚪ No Active Demand
+U CLOUD STORE MÉXICO,Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,,,,⚪ No Active Demand
+U CLOUD STORE MÉXICO,Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,,,⚪ No Active Demand
+U CLOUD STORE MÉXICO,Databases,The AI Ready Data Cloud,Cloud SQL,,,,⚪ No Active Demand
+U CLOUD STORE MÉXICO,Databases,The AI Ready Data Cloud,Spanner,,,,⚪ No Active Demand
+U CLOUD STORE MÉXICO,Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,,,⚪ No Active Demand
+U CLOUD STORE MÉXICO,Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,,,⚪ No Active Demand
+U CLOUD STORE MÉXICO,Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,,,⚪ No Active Demand
+U CLOUD STORE MÉXICO,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,,,,⚪ No Active Demand
+U CLOUD STORE MÉXICO,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,,,,⚪ No Active Demand
+U CLOUD STORE MÉXICO,Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
+U CLOUD STORE MÉXICO,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
+U CLOUD STORE MÉXICO,Security,Agentic Defense with Google Security,Security Command Center,,,,⚪ No Active Demand
+U CLOUD STORE MÉXICO,Security,Agentic Defense with Google Security,Security Operations,,,,⚪ No Active Demand
+U CLOUD STORE MÉXICO,Security,Secure Innovation with Google Cloud,Cloud Security,,,,⚪ No Active Demand
+U CLOUD STORE MÉXICO,Workspace,Agentic Workplace Transformation,Workspace,,,,⚪ No Active Demand
+UCLOUD STORE COLOMBIA S A S,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
+UCLOUD STORE COLOMBIA S A S,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
+UCLOUD STORE COLOMBIA S A S,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,🔴 Gap (0 DRP / 1 wkls)
+UCLOUD STORE COLOMBIA S A S,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,🔴 Gap (0 DRP / 1 wkls)
+UCLOUD STORE COLOMBIA S A S,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
+UCLOUD STORE COLOMBIA S A S,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
+UCLOUD STORE COLOMBIA S A S,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
+UCLOUD STORE COLOMBIA S A S,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
+UCLOUD STORE COLOMBIA S A S,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 1 wkls)
+UCLOUD STORE COLOMBIA S A S,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
+UCLOUD STORE COLOMBIA S A S,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,⚪ No Active Demand
+UCLOUD STORE COLOMBIA S A S,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 3 wkls)
+UCLOUD STORE COLOMBIA S A S,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
+UCLOUD STORE COLOMBIA S A S,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,,⚪ No Active Demand
+UCLOUD STORE COLOMBIA S A S,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,,,⚪ No Active Demand
+UCLOUD STORE COLOMBIA S A S,Data & Analytics,The AI Ready Data Cloud,BigQuery,,,,🔴 Gap (0 DRP / 3 wkls)
+UCLOUD STORE COLOMBIA S A S,Data & Analytics,The AI Ready Data Cloud,Dataflow,,,,⚪ No Active Demand
+UCLOUD STORE COLOMBIA S A S,Data & Analytics,The AI Ready Data Cloud,Dataproc,,,,⚪ No Active Demand
+UCLOUD STORE COLOMBIA S A S,Data & Analytics,The AI Ready Data Cloud,Looker,,,,⚪ No Active Demand
+UCLOUD STORE COLOMBIA S A S,Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,,,⚪ No Active Demand
+UCLOUD STORE COLOMBIA S A S,Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,,,,⚪ No Active Demand
+UCLOUD STORE COLOMBIA S A S,Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,,,,⚪ No Active Demand
+UCLOUD STORE COLOMBIA S A S,Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,,,🔴 Gap (0 DRP / 1 wkls)
+UCLOUD STORE COLOMBIA S A S,Databases,The AI Ready Data Cloud,Cloud SQL,,,,🔴 Gap (0 DRP / 1 wkls)
+UCLOUD STORE COLOMBIA S A S,Databases,The AI Ready Data Cloud,Spanner,,,,⚪ No Active Demand
+UCLOUD STORE COLOMBIA S A S,Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,,,⚪ No Active Demand
+UCLOUD STORE COLOMBIA S A S,Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,,,⚪ No Active Demand
+UCLOUD STORE COLOMBIA S A S,Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,,,⚪ No Active Demand
+UCLOUD STORE COLOMBIA S A S,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,,,,⚪ No Active Demand
+UCLOUD STORE COLOMBIA S A S,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,,,,⚪ No Active Demand
+UCLOUD STORE COLOMBIA S A S,Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
+UCLOUD STORE COLOMBIA S A S,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
+UCLOUD STORE COLOMBIA S A S,Security,Agentic Defense with Google Security,Security Command Center,,,,⚪ No Active Demand
+UCLOUD STORE COLOMBIA S A S,Security,Agentic Defense with Google Security,Security Operations,,,,⚪ No Active Demand
+UCLOUD STORE COLOMBIA S A S,Security,Secure Innovation with Google Cloud,Cloud Security,,,,⚪ No Active Demand
+UCLOUD STORE COLOMBIA S A S,Workspace,Agentic Workplace Transformation,Workspace,,,,⚪ No Active Demand
+Growth Partner Network (GPN),Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,🔴 Gap (0 DRP / 1 wkls)
+Growth Partner Network (GPN),Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
+Growth Partner Network (GPN),Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,🔴 Gap (0 DRP / 2 wkls)
+Growth Partner Network (GPN),Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,🔴 Gap (0 DRP / 1 wkls)
+Growth Partner Network (GPN),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
+Growth Partner Network (GPN),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
+Growth Partner Network (GPN),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
+Growth Partner Network (GPN),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
+Growth Partner Network (GPN),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 10 wkls)
+Growth Partner Network (GPN),Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
+Growth Partner Network (GPN),Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,⚪ No Active Demand
+Growth Partner Network (GPN),Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 7 wkls)
+Growth Partner Network (GPN),Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 1 wkls)
+Growth Partner Network (GPN),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,,⚪ No Active Demand
+Growth Partner Network (GPN),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,,,⚪ No Active Demand
+Growth Partner Network (GPN),Data & Analytics,The AI Ready Data Cloud,BigQuery,,,,🔴 Gap (0 DRP / 5 wkls)
+Growth Partner Network (GPN),Data & Analytics,The AI Ready Data Cloud,Dataflow,,,,⚪ No Active Demand
+Growth Partner Network (GPN),Data & Analytics,The AI Ready Data Cloud,Dataproc,,,,⚪ No Active Demand
+Growth Partner Network (GPN),Data & Analytics,The AI Ready Data Cloud,Looker,,,,⚪ No Active Demand
+Growth Partner Network (GPN),Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,,,⚪ No Active Demand
+Growth Partner Network (GPN),Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,,,,⚪ No Active Demand
+Growth Partner Network (GPN),Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,,,,⚪ No Active Demand
+Growth Partner Network (GPN),Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,,,🔴 Gap (0 DRP / 1 wkls)
+Growth Partner Network (GPN),Databases,The AI Ready Data Cloud,Cloud SQL,,,,⚪ No Active Demand
+Growth Partner Network (GPN),Databases,The AI Ready Data Cloud,Spanner,,,,⚪ No Active Demand
+Growth Partner Network (GPN),Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,,,⚪ No Active Demand
+Growth Partner Network (GPN),Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,,,⚪ No Active Demand
+Growth Partner Network (GPN),Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,,,🔴 Gap (0 DRP / 2 wkls)
+Growth Partner Network (GPN),Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,,,,⚪ No Active Demand
+Growth Partner Network (GPN),Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,,,,⚪ No Active Demand
+Growth Partner Network (GPN),Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
+Growth Partner Network (GPN),Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
+Growth Partner Network (GPN),Security,Agentic Defense with Google Security,Security Command Center,,,,⚪ No Active Demand
+Growth Partner Network (GPN),Security,Agentic Defense with Google Security,Security Operations,,,,⚪ No Active Demand
+Growth Partner Network (GPN),Security,Secure Innovation with Google Cloud,Cloud Security,,,,⚪ No Active Demand
+Growth Partner Network (GPN),Workspace,Agentic Workplace Transformation,Workspace,,,,⚪ No Active Demand

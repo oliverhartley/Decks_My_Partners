@@ -1,0 +1,181 @@
+Partner Name,Pillar,Solution (Sales Play),Product,Tier 1 Profiles Count,Tier 2 Profiles Count,Total Tier 1 & 2 Profiles,Capacity Status (DRP vs Workloads)
+Abacus Cambridge Partners,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
+Abacus Cambridge Partners,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
+Abacus Cambridge Partners,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,3,1,4,🟢 Ready (4 DRP / 1 wkls)
+Abacus Cambridge Partners,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,2,2,🟢 Ready (2 DRP / 1 wkls)
+Abacus Cambridge Partners,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
+Abacus Cambridge Partners,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
+Abacus Cambridge Partners,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
+Abacus Cambridge Partners,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
+Abacus Cambridge Partners,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 3 wkls)
+Abacus Cambridge Partners,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
+Abacus Cambridge Partners,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,⚪ No Active Demand
+Abacus Cambridge Partners,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 3 wkls)
+Abacus Cambridge Partners,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
+Abacus Cambridge Partners,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,,⚪ No Active Demand
+Abacus Cambridge Partners,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,,,⚪ No Active Demand
+Abacus Cambridge Partners,Data & Analytics,The AI Ready Data Cloud,BigQuery,,,,🔴 Gap (0 DRP / 2 wkls)
+Abacus Cambridge Partners,Data & Analytics,The AI Ready Data Cloud,Dataflow,,,,⚪ No Active Demand
+Abacus Cambridge Partners,Data & Analytics,The AI Ready Data Cloud,Dataproc,,,,⚪ No Active Demand
+Abacus Cambridge Partners,Data & Analytics,The AI Ready Data Cloud,Looker,,,,⚪ No Active Demand
+Abacus Cambridge Partners,Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,,,⚪ No Active Demand
+Abacus Cambridge Partners,Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,,,,⚪ No Active Demand
+Abacus Cambridge Partners,Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,,,,⚪ No Active Demand
+Abacus Cambridge Partners,Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,,,⚪ No Active Demand
+Abacus Cambridge Partners,Databases,The AI Ready Data Cloud,Cloud SQL,,,,⚪ No Active Demand
+Abacus Cambridge Partners,Databases,The AI Ready Data Cloud,Spanner,,,,⚪ No Active Demand
+Abacus Cambridge Partners,Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,,,⚪ No Active Demand
+Abacus Cambridge Partners,Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,,,⚪ No Active Demand
+Abacus Cambridge Partners,Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,,,⚪ No Active Demand
+Abacus Cambridge Partners,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,,1,1,🟢 Ready (1 profiles)
+Abacus Cambridge Partners,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,,1,1,🟢 Ready (1 profiles)
+Abacus Cambridge Partners,Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
+Abacus Cambridge Partners,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
+Abacus Cambridge Partners,Security,Agentic Defense with Google Security,Security Command Center,,,,⚪ No Active Demand
+Abacus Cambridge Partners,Security,Agentic Defense with Google Security,Security Operations,,,,⚪ No Active Demand
+Abacus Cambridge Partners,Security,Secure Innovation with Google Cloud,Cloud Security,,,,⚪ No Active Demand
+Abacus Cambridge Partners,Workspace,Agentic Workplace Transformation,Workspace,,,,⚪ No Active Demand
+Gentrop Cloud Brasil,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
+Gentrop Cloud Brasil,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
+Gentrop Cloud Brasil,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,⚪ No Active Demand
+Gentrop Cloud Brasil,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,1,1,🟡 Constrained (1 DRP / 4 wkls)
+Gentrop Cloud Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
+Gentrop Cloud Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
+Gentrop Cloud Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
+Gentrop Cloud Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
+Gentrop Cloud Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,2,2,🟢 Ready (2 DRP / 2 wkls)
+Gentrop Cloud Brasil,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,2,2,🟢 Ready (2 profiles)
+Gentrop Cloud Brasil,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,⚪ No Active Demand
+Gentrop Cloud Brasil,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,2,2,🟡 Constrained (2 DRP / 8 wkls)
+Gentrop Cloud Brasil,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,2,2,🟢 Ready (2 profiles)
+Gentrop Cloud Brasil,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,,⚪ No Active Demand
+Gentrop Cloud Brasil,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,,,⚪ No Active Demand
+Gentrop Cloud Brasil,Data & Analytics,The AI Ready Data Cloud,BigQuery,,,,⚪ No Active Demand
+Gentrop Cloud Brasil,Data & Analytics,The AI Ready Data Cloud,Dataflow,,,,⚪ No Active Demand
+Gentrop Cloud Brasil,Data & Analytics,The AI Ready Data Cloud,Dataproc,,,,⚪ No Active Demand
+Gentrop Cloud Brasil,Data & Analytics,The AI Ready Data Cloud,Looker,,,,⚪ No Active Demand
+Gentrop Cloud Brasil,Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,,,⚪ No Active Demand
+Gentrop Cloud Brasil,Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,,,,⚪ No Active Demand
+Gentrop Cloud Brasil,Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,,,,⚪ No Active Demand
+Gentrop Cloud Brasil,Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,,,⚪ No Active Demand
+Gentrop Cloud Brasil,Databases,The AI Ready Data Cloud,Cloud SQL,,,,⚪ No Active Demand
+Gentrop Cloud Brasil,Databases,The AI Ready Data Cloud,Spanner,,,,⚪ No Active Demand
+Gentrop Cloud Brasil,Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,,,⚪ No Active Demand
+Gentrop Cloud Brasil,Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,,,⚪ No Active Demand
+Gentrop Cloud Brasil,Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,,,⚪ No Active Demand
+Gentrop Cloud Brasil,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,,1,1,🟢 Ready (1 profiles)
+Gentrop Cloud Brasil,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,,,,⚪ No Active Demand
+Gentrop Cloud Brasil,Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
+Gentrop Cloud Brasil,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
+Gentrop Cloud Brasil,Security,Agentic Defense with Google Security,Security Command Center,,,,⚪ No Active Demand
+Gentrop Cloud Brasil,Security,Agentic Defense with Google Security,Security Operations,,,,⚪ No Active Demand
+Gentrop Cloud Brasil,Security,Secure Innovation with Google Cloud,Cloud Security,,,,⚪ No Active Demand
+Gentrop Cloud Brasil,Workspace,Agentic Workplace Transformation,Workspace,23,9,32,🟢 Ready (32 profiles)
+QiNetwork,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,1,1,🟢 Ready (1 profiles)
+QiNetwork,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,1,1,🟢 Ready (1 profiles)
+QiNetwork,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,2,2,🟡 Constrained (2 DRP / 4 wkls)
+QiNetwork,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,5,3,8,🟢 Ready (8 DRP / 7 wkls)
+QiNetwork,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
+QiNetwork,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
+QiNetwork,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
+QiNetwork,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
+QiNetwork,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,5,1,6,🟡 Constrained (6 DRP / 8 wkls)
+QiNetwork,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,5,1,6,🟢 Ready (6 profiles)
+QiNetwork,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,2,,2,🟢 Ready (2 profiles)
+QiNetwork,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,5,1,6,🟡 Constrained (6 DRP / 13 wkls)
+QiNetwork,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,5,1,6,🟢 Ready (6 DRP / 2 wkls)
+QiNetwork,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,4,3,7,🟢 Ready (7 profiles)
+QiNetwork,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,1,1,🟢 Ready (1 profiles)
+QiNetwork,Data & Analytics,The AI Ready Data Cloud,BigQuery,4,3,7,🟢 Ready (7 DRP / 7 wkls)
+QiNetwork,Data & Analytics,The AI Ready Data Cloud,Dataflow,,1,1,🟢 Ready (1 profiles)
+QiNetwork,Data & Analytics,The AI Ready Data Cloud,Dataproc,,,,⚪ No Active Demand
+QiNetwork,Data & Analytics,The AI Ready Data Cloud,Looker,,1,1,🟢 Ready (1 profiles)
+QiNetwork,Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,,,⚪ No Active Demand
+QiNetwork,Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,,4,4,🟢 Ready (4 profiles)
+QiNetwork,Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,,,,⚪ No Active Demand
+QiNetwork,Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,,,⚪ No Active Demand
+QiNetwork,Databases,The AI Ready Data Cloud,Cloud SQL,,4,4,🟢 Ready (4 profiles)
+QiNetwork,Databases,The AI Ready Data Cloud,Spanner,,,,🔴 Gap (0 DRP / 1 wkls)
+QiNetwork,Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,,,⚪ No Active Demand
+QiNetwork,Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,,,⚪ No Active Demand
+QiNetwork,Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,1,1,2,🟢 Ready (2 profiles)
+QiNetwork,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,8,1,9,🟢 Ready (9 profiles)
+QiNetwork,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,8,2,10,🟢 Ready (10 profiles)
+QiNetwork,Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
+QiNetwork,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
+QiNetwork,Security,Agentic Defense with Google Security,Security Command Center,,1,1,🟢 Ready (1 profiles)
+QiNetwork,Security,Agentic Defense with Google Security,Security Operations,,1,1,🟢 Ready (1 profiles)
+QiNetwork,Security,Secure Innovation with Google Cloud,Cloud Security,1,2,3,🟢 Ready (3 profiles)
+QiNetwork,Workspace,Agentic Workplace Transformation,Workspace,7,2,9,🟢 Ready (9 profiles)
+Safetec Informática,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
+Safetec Informática,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
+Safetec Informática,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,2,2,🟢 Ready (2 profiles)
+Safetec Informática,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,2,5,7,🟢 Ready (7 DRP / 1 wkls)
+Safetec Informática,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
+Safetec Informática,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
+Safetec Informática,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
+Safetec Informática,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
+Safetec Informática,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,5,5,🟢 Ready (5 DRP / 5 wkls)
+Safetec Informática,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,5,5,🟢 Ready (5 profiles)
+Safetec Informática,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,⚪ No Active Demand
+Safetec Informática,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,5,5,🟢 Ready (5 DRP / 3 wkls)
+Safetec Informática,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,5,5,🟢 Ready (5 profiles)
+Safetec Informática,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,,⚪ No Active Demand
+Safetec Informática,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,2,2,🟢 Ready (2 profiles)
+Safetec Informática,Data & Analytics,The AI Ready Data Cloud,BigQuery,,,,🔴 Gap (0 DRP / 1 wkls)
+Safetec Informática,Data & Analytics,The AI Ready Data Cloud,Dataflow,,2,2,🟢 Ready (2 profiles)
+Safetec Informática,Data & Analytics,The AI Ready Data Cloud,Dataproc,,,,⚪ No Active Demand
+Safetec Informática,Data & Analytics,The AI Ready Data Cloud,Looker,,,,⚪ No Active Demand
+Safetec Informática,Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,,,⚪ No Active Demand
+Safetec Informática,Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,,,,⚪ No Active Demand
+Safetec Informática,Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,,,,⚪ No Active Demand
+Safetec Informática,Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,,,⚪ No Active Demand
+Safetec Informática,Databases,The AI Ready Data Cloud,Cloud SQL,,,,⚪ No Active Demand
+Safetec Informática,Databases,The AI Ready Data Cloud,Spanner,,,,⚪ No Active Demand
+Safetec Informática,Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,,,⚪ No Active Demand
+Safetec Informática,Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,,,⚪ No Active Demand
+Safetec Informática,Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,,,⚪ No Active Demand
+Safetec Informática,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,,,,⚪ No Active Demand
+Safetec Informática,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,,,,⚪ No Active Demand
+Safetec Informática,Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
+Safetec Informática,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
+Safetec Informática,Security,Agentic Defense with Google Security,Security Command Center,1,1,2,🟢 Ready (2 profiles)
+Safetec Informática,Security,Agentic Defense with Google Security,Security Operations,,,,⚪ No Active Demand
+Safetec Informática,Security,Secure Innovation with Google Cloud,Cloud Security,1,1,2,🟢 Ready (2 profiles)
+Safetec Informática,Workspace,Agentic Workplace Transformation,Workspace,12,,12,🟢 Ready (12 profiles)
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Application Modernization,"Migrate, Modernize and Build",Cloud Run,1,1,2,🟢 Ready (2 profiles)
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,4,1,5,🟢 Ready (5 DRP / 3 wkls)
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,1,1,🟡 Constrained (1 DRP / 12 wkls)
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 3 wkls)
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,1,1,🟢 Ready (1 profiles)
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 16 wkls)
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 5 wkls)
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,1,1,🟢 Ready (1 profiles)
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,1,,1,🟢 Ready (1 profiles)
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Data & Analytics,The AI Ready Data Cloud,BigQuery,,1,1,🟡 Constrained (1 DRP / 9 wkls)
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Data & Analytics,The AI Ready Data Cloud,Dataflow,1,,1,🟢 Ready (1 profiles)
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Data & Analytics,The AI Ready Data Cloud,Dataproc,,,,⚪ No Active Demand
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Data & Analytics,The AI Ready Data Cloud,Looker,,,,⚪ No Active Demand
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,,,⚪ No Active Demand
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,1,2,3,🟢 Ready (3 profiles)
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,,,,⚪ No Active Demand
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,,,🔴 Gap (0 DRP / 1 wkls)
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Databases,The AI Ready Data Cloud,Cloud SQL,1,2,3,🟢 Ready (3 profiles)
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Databases,The AI Ready Data Cloud,Spanner,,,,🔴 Gap (0 DRP / 1 wkls)
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,,,⚪ No Active Demand
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,,,⚪ No Active Demand
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,,,⚪ No Active Demand
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,2,2,4,🟢 Ready (4 profiles)
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,5,1,6,🟢 Ready (6 profiles)
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Security,Agentic Defense with Google Security,Security Command Center,2,,2,🟢 Ready (2 profiles)
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Security,Agentic Defense with Google Security,Security Operations,3,1,4,🟢 Ready (4 profiles)
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Security,Secure Innovation with Google Cloud,Cloud Security,,1,1,🟢 Ready (1 profiles)
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Workspace,Agentic Workplace Transformation,Workspace,4,2,6,🟢 Ready (6 profiles)
