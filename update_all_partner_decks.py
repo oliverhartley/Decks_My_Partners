@@ -599,7 +599,7 @@ PARTNERS = [
     {
         "partner": "Comercializadora Zenta Group SPA",
         "pe": "Oliver Hartley",
-        "sheet_id": "1xG-27ye3Wk4ob9nr3N08KP2a1ufaPRCxAP4o93NKj1Q",
+        "sheet_id": "1fkfQ5BFGu9tPyPUlxgWAK_NeA2gGiAn1TChTYP1R0d0",
         "partner_ids": [
             "0014M00001h39BLQAY",
             "0014M00001m9woLQAQ",
@@ -622,7 +622,7 @@ PARTNERS = [
     {
         "partner": "Consiti (Consultoría y Soluciones Informáticas)",
         "pe": "Oliver Hartley",
-        "sheet_id": "1jsiE3qCJxv5EnxnKJzBdoNFOENc1HA8TdlEXGgnUelo",
+        "sheet_id": "19dmL5AnjuOaDTb3GhJKeMIMKvXiVfD46TEKPNnf-yUg",
         "partner_ids": [
             "001Kf000013fuVXIAY",
             "001Kf00001FoCy9IAF"
@@ -642,7 +642,7 @@ PARTNERS = [
     {
         "partner": "Devaid SPA",
         "pe": "Oliver Hartley",
-        "sheet_id": "1UqYI0iTbxFL1f8ohC3e-uMQCD2we_8Ne3ODmDjnT8U8",
+        "sheet_id": "1vd2wXMdXDfkR9Z0aWZo_OTNheduXQCza3bbeC8DPcc0",
         "partner_ids": [
             "0014M00001h38aiQAA",
             "0014M00001m9sVvQAI"
@@ -662,7 +662,7 @@ PARTNERS = [
     {
         "partner": "MadeinWeb S/A",
         "pe": "Oliver Hartley",
-        "sheet_id": "1K2_rFQ5tFMvvk_DnRNxbg3iJ9ZP-MkXtrrcuo04qTOI",
+        "sheet_id": "1PabQ-umTOYTkMg6n4__kP1VeFRc6SMxz_A0Yft3vrtw",
         "partner_ids": [
             "0014M00002GGNRCQA5",
             "001Kf000013hWaOIAU"
@@ -682,7 +682,7 @@ PARTNERS = [
     {
         "partner": "TIVIT COLOMBIA S A S",
         "pe": "Oliver Hartley",
-        "sheet_id": "1nUwpOaqhvpBmVoEb7i_M3C18jhmrJ7bQ1mrfwyXo02o",
+        "sheet_id": "1Hq0wi-6oC7qgOoP4KEZsgQiXLkxxteJ4OIaiAqw5a8U",
         "partner_ids": [
             "001Kf0000150rJ2IAI",
             "0014M00001kxZPMQA2",
@@ -705,7 +705,7 @@ PARTNERS = [
     {
         "partner": "Tech Pulse SPA (Axmos)",
         "pe": "Oliver Hartley",
-        "sheet_id": "1qWdLgRDmHG9wMGjiOZ1fJvj4AmHbfKwrBPpuV8r2uwI",
+        "sheet_id": "1HW8oZj-tJvI4RL3QrHrS614BSUFkVe4db_Gu50OEObw",
         "partner_ids": [
             "0014M00002JmizDQAR",
             "001Kf00001G4DmBIAV",
