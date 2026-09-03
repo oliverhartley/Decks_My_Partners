@@ -1,7 +1,7 @@
 Pillar,Solution (Sales Play),Product,Tier 1 Profiles Count,Tier 2 Profiles Count,Total Tier 1 & 2 Profiles,Capacity Status (DRP vs Workloads)
 Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
-Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,⚪ No Active Demand
+Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,🔴 Gap (0 DRP / 2 wkls)
 Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,1,1,🟡 Constrained (1 DRP / 2 wkls)
 Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
@@ -14,8 +14,8 @@ Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platfor
 Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
 Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,1,,1,🟢 Ready (1 profiles)
 Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,,,⚪ No Active Demand
-Data & Analytics,The AI Ready Data Cloud,BigQuery,1,,1,🟡 Constrained (1 DRP / 4 wkls)
-Data & Analytics,The AI Ready Data Cloud,Dataflow,,,,⚪ No Active Demand
+Data & Analytics,The AI Ready Data Cloud,BigQuery,1,,1,🟡 Constrained (1 DRP / 8 wkls)
+Data & Analytics,The AI Ready Data Cloud,Dataflow,,,,🔴 Gap (0 DRP / 1 wkls)
 Data & Analytics,The AI Ready Data Cloud,Dataproc,,,,⚪ No Active Demand
 Data & Analytics,The AI Ready Data Cloud,Looker,,1,1,🟢 Ready (1 profiles)
 Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,,,⚪ No Active Demand

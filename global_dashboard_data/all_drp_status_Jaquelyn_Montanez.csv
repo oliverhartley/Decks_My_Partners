@@ -1,8 +1,8 @@
 Partner Name,Pillar,Solution (Sales Play),Product,Tier 1 Profiles Count,Tier 2 Profiles Count,Total Tier 1 & 2 Profiles,Capacity Status (DRP vs Workloads)
 Noventiq (Softline),Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 Noventiq (Softline),Application Modernization,"Migrate, Modernize and Build",Cloud Run,1,6,7,🟢 Ready (7 profiles)
-Noventiq (Softline),Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,1,3,4,🟢 Ready (4 DRP / 2 wkls)
-Noventiq (Softline),Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,2,2,🟡 Constrained (2 DRP / 7 wkls)
+Noventiq (Softline),Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,1,3,4,🟢 Ready (4 DRP / 4 wkls)
+Noventiq (Softline),Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,2,2,🟡 Constrained (2 DRP / 9 wkls)
 Noventiq (Softline),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 Noventiq (Softline),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 Noventiq (Softline),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
@@ -14,7 +14,7 @@ Noventiq (Softline),Artificial Intelligence,Scale AI Apps and Agents,Gemini Ente
 Noventiq (Softline),Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,8,8,🟢 Ready (8 DRP / 1 wkls)
 Noventiq (Softline),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,,⚪ No Active Demand
 Noventiq (Softline),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,,,⚪ No Active Demand
-Noventiq (Softline),Data & Analytics,The AI Ready Data Cloud,BigQuery,,,,🔴 Gap (0 DRP / 4 wkls)
+Noventiq (Softline),Data & Analytics,The AI Ready Data Cloud,BigQuery,,,,🔴 Gap (0 DRP / 5 wkls)
 Noventiq (Softline),Data & Analytics,The AI Ready Data Cloud,Dataflow,,,,⚪ No Active Demand
 Noventiq (Softline),Data & Analytics,The AI Ready Data Cloud,Dataproc,,,,⚪ No Active Demand
 Noventiq (Softline),Data & Analytics,The AI Ready Data Cloud,Looker,,,,⚪ No Active Demand
@@ -35,31 +35,31 @@ Noventiq (Softline),Security,Agentic Defense with Google Security,Security Comma
 Noventiq (Softline),Security,Agentic Defense with Google Security,Security Operations,,,,⚪ No Active Demand
 Noventiq (Softline),Security,Secure Innovation with Google Cloud,Cloud Security,1,3,4,🟢 Ready (4 profiles)
 Noventiq (Softline),Workspace,Agentic Workplace Transformation,Workspace,9,2,11,🟢 Ready (11 profiles)
-INFORMACIÓN LOCALIZADA SAS (Servinformación),Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,1,1,🟢 Ready (1 profiles)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,1,1,🟢 Ready (1 DRP / 1 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Application Modernization,"Migrate, Modernize and Build",Cloud Run,10,15,25,🟢 Ready (25 profiles)
-INFORMACIÓN LOCALIZADA SAS (Servinformación),Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,7,12,19,🟢 Ready (19 DRP / 13 wkls)
-INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,3,3,🟡 Constrained (3 DRP / 30 wkls)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,7,12,19,🟡 Constrained (19 DRP / 20 wkls)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,3,3,🟡 Constrained (3 DRP / 50 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,1,1,🟢 Ready (1 profiles)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,1,1,🟢 Ready (1 profiles)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,1,1,🟢 Ready (1 profiles)
-INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,20,15,35,🟢 Ready (35 DRP / 19 wkls)
-INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,20,15,35,🟢 Ready (35 profiles)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,20,15,35,🟢 Ready (35 DRP / 32 wkls)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,20,15,35,🟢 Ready (35 DRP / 1 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Scale AI Apps and Agents,AI Applications,6,5,11,🟢 Ready (11 profiles)
-INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,20,15,35,🟡 Constrained (35 DRP / 38 wkls)
-INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,20,15,35,🟢 Ready (35 DRP / 3 wkls)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,20,15,35,🟡 Constrained (35 DRP / 70 wkls)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,20,15,35,🟢 Ready (35 DRP / 5 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,20,11,31,🟢 Ready (31 profiles)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,9,8,17,🟢 Ready (17 profiles)
-INFORMACIÓN LOCALIZADA SAS (Servinformación),Data & Analytics,The AI Ready Data Cloud,BigQuery,20,11,31,🟢 Ready (31 DRP / 23 wkls)
-INFORMACIÓN LOCALIZADA SAS (Servinformación),Data & Analytics,The AI Ready Data Cloud,Dataflow,9,8,17,🟢 Ready (17 DRP / 1 wkls)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Data & Analytics,The AI Ready Data Cloud,BigQuery,20,11,31,🟡 Constrained (31 DRP / 53 wkls)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Data & Analytics,The AI Ready Data Cloud,Dataflow,9,8,17,🟢 Ready (17 DRP / 2 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Data & Analytics,The AI Ready Data Cloud,Dataproc,,,,⚪ No Active Demand
-INFORMACIÓN LOCALIZADA SAS (Servinformación),Data & Analytics,The AI Ready Data Cloud,Looker,18,3,21,🟢 Ready (21 DRP / 1 wkls)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Data & Analytics,The AI Ready Data Cloud,Looker,18,3,21,🟢 Ready (21 DRP / 2 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,,,⚪ No Active Demand
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,,4,4,🟢 Ready (4 profiles)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,,,,⚪ No Active Demand
-INFORMACIÓN LOCALIZADA SAS (Servinformación),Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,,,🔴 Gap (0 DRP / 1 wkls)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,,,🔴 Gap (0 DRP / 3 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Databases,The AI Ready Data Cloud,Cloud SQL,,4,4,🟢 Ready (4 DRP / 1 wkls)
-INFORMACIÓN LOCALIZADA SAS (Servinformación),Databases,The AI Ready Data Cloud,Spanner,,,,⚪ No Active Demand
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Databases,The AI Ready Data Cloud,Spanner,,,,🔴 Gap (0 DRP / 1 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,,,⚪ No Active Demand
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,2,,2,🟢 Ready (2 profiles)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,3,7,10,🟢 Ready (10 profiles)

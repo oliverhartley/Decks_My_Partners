@@ -1603,7 +1603,6 @@ for cfg in PARTNERS:
                LOWER(w.workload_details.workload_progress) NOT LIKE "%closed%"
                AND w.workload_details.workload_progress NOT LIKE "5.%"
             ))
-        AND COALESCE(w.customer.segment, o.segment) != "Enterprise"
         AND IFNULL(o.is_commit, FALSE) = FALSE 
         AND IFNULL(o.forecast_category_name, "") != "Commit"
       )
@@ -2081,7 +2080,7 @@ summary_headers = [
     "Partner Name",
     "Country / Headquarters",
     "Partner Advantage Track",
-    "Uncommitted Tier 2 & 3 Workloads (#)",
+    "Uncommitted Workloads (#)",
     "Total Pipeline ARR ($ USD)",
     "DRP Profile Capacities (#)",
     "Active Accreditations / Certs (#)",
