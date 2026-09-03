@@ -4,6 +4,7 @@ import subprocess
 import os
 import sys
 import datetime
+import re
 
 sys.path.append("/usr/local/google/home/oliverhartley/jetski-workspace/Decks_My_Partners")
 from query_bq import run_query
@@ -1248,16 +1249,41 @@ def parse_expert_requests(er_raw):
     else:
         return ", ".join([e[0] for e in er_entries])
 
-def get_account_tier(segment_val):
+def norm_str(s):
+    return re.sub(r"[^a-z0-9]", "", str(s).lower())
+
+TIER_MAPPING_FILE = os.path.join(os.path.dirname(__file__), "pe_account_tier_mapping.json")
+PE_WKL_TIER_MAP = {}
+PE_ACC_ID_TIER_MAP = {}
+PE_ACC_NAME_TIER_MAP = {}
+PE_ACC_NAME_NORM_MAP = {}
+
+if os.path.exists(TIER_MAPPING_FILE):
+    with open(TIER_MAPPING_FILE, "r", encoding="utf-8") as f:
+        tier_data = json.load(f)
+        PE_WKL_TIER_MAP = tier_data.get("workload_to_tier", {})
+        PE_ACC_ID_TIER_MAP = tier_data.get("account_id_to_tier", {})
+        PE_ACC_NAME_TIER_MAP = tier_data.get("account_name_to_tier", {})
+        PE_ACC_NAME_NORM_MAP = {norm_str(k): v for k, v in PE_ACC_NAME_TIER_MAP.items()}
+
+def get_account_tier(wid, aid, aname, segment_val):
+    if wid and wid in PE_WKL_TIER_MAP:
+        return PE_WKL_TIER_MAP[wid]
+    if aid and aid in PE_ACC_ID_TIER_MAP:
+        return PE_ACC_ID_TIER_MAP[aid]
+    if aname and aname in PE_ACC_NAME_TIER_MAP:
+        return PE_ACC_NAME_TIER_MAP[aname]
+    if aname and norm_str(aname) in PE_ACC_NAME_NORM_MAP:
+        return PE_ACC_NAME_NORM_MAP[norm_str(aname)]
     if not segment_val:
-        return "3"
+        return "Tier 3"
     s = str(segment_val).strip().lower()
     if "enterprise" in s or s == "1":
-        return "1"
+        return "Tier 1"
     elif "corporate" in s or s == "2":
-        return "2"
+        return "Tier 2"
     else:
-        return "3"
+        return "Tier 3"
 
 def fetch_existing_manual_entries(ssid, tab_title="Follow_up"):
     manual_entries = {}
@@ -1667,7 +1693,7 @@ for cfg in PARTNERS:
         opp_linked = make_hyperlink(opp_url, opportunity_name) if opp_url else opportunity_name
         
         er_linked = parse_expert_requests(er_raw)
-        tier = get_account_tier(segment)
+        tier = get_account_tier(workload_id, account_id, account_name, segment)
         
         matched_drp = match_exact_drp(pillar, sales_play, workload_solution, key_prods)
         for m_item in matched_drp:
