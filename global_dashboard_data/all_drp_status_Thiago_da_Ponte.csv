@@ -2,15 +2,15 @@ Partner Name,Pillar,Solution (Sales Play),Product,Tier 1 Profiles Count,Tier 2 P
 IPNET (Telefônica Cloud),Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,🔴 Gap (0 DRP / 3 wkls)
 IPNET (Telefônica Cloud),Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
 IPNET (Telefônica Cloud),Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,🔴 Gap (0 DRP / 5 wkls)
-IPNET (Telefônica Cloud),Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,🔴 Gap (0 DRP / 19 wkls)
+IPNET (Telefônica Cloud),Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,🔴 Gap (0 DRP / 20 wkls)
 IPNET (Telefônica Cloud),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 IPNET (Telefônica Cloud),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 IPNET (Telefônica Cloud),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
 IPNET (Telefônica Cloud),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
-IPNET (Telefônica Cloud),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 9 wkls)
+IPNET (Telefônica Cloud),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 10 wkls)
 IPNET (Telefônica Cloud),Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
 IPNET (Telefônica Cloud),Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,⚪ No Active Demand
-IPNET (Telefônica Cloud),Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 32 wkls)
+IPNET (Telefônica Cloud),Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 33 wkls)
 IPNET (Telefônica Cloud),Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 8 wkls)
 IPNET (Telefônica Cloud),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,,⚪ No Active Demand
 IPNET (Telefônica Cloud),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,,,⚪ No Active Demand
@@ -38,7 +38,7 @@ IPNET (Telefônica Cloud),Workspace,Agentic Workplace Transformation,Workspace,,
 Kyndryl Brasil,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,1,1,🟢 Ready (1 profiles)
 Kyndryl Brasil,Application Modernization,"Migrate, Modernize and Build",Cloud Run,6,5,11,🟢 Ready (11 profiles)
 Kyndryl Brasil,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,5,29,34,🟢 Ready (34 DRP / 5 wkls)
-Kyndryl Brasil,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,3,27,30,🟢 Ready (30 DRP / 2 wkls)
+Kyndryl Brasil,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,3,27,30,🟢 Ready (30 DRP / 3 wkls)
 Kyndryl Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,3,3,🟢 Ready (3 profiles)
 Kyndryl Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 Kyndryl Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,1,1,🟢 Ready (1 profiles)
@@ -74,12 +74,12 @@ Kyndryl Brasil,Workspace,Agentic Workplace Transformation,Workspace,,,,⚪ No Ac
 SantoDigital,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,1,2,3,🟢 Ready (3 profiles)
 SantoDigital,Application Modernization,"Migrate, Modernize and Build",Cloud Run,4,7,11,🟢 Ready (11 profiles)
 SantoDigital,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,4,9,13,🟢 Ready (13 DRP / 8 wkls)
-SantoDigital,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,4,17,21,🟢 Ready (21 DRP / 11 wkls)
+SantoDigital,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,4,17,21,🟢 Ready (21 DRP / 12 wkls)
 SantoDigital,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 SantoDigital,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 SantoDigital,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
 SantoDigital,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
-SantoDigital,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,12,24,36,🟢 Ready (36 DRP / 14 wkls)
+SantoDigital,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,12,24,36,🟢 Ready (36 DRP / 15 wkls)
 SantoDigital,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,12,24,36,🟢 Ready (36 DRP / 1 wkls)
 SantoDigital,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,1,6,7,🟢 Ready (7 profiles)
 SantoDigital,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,12,24,36,🟡 Constrained (36 DRP / 55 wkls)

@@ -2,7 +2,7 @@ Partner Name,Pillar,Solution (Sales Play),Product,Tier 1 Profiles Count,Tier 2 P
 Comercializadora Zenta Group SPA,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 Comercializadora Zenta Group SPA,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
 Comercializadora Zenta Group SPA,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,1,1,🟡 Constrained (1 DRP / 4 wkls)
-Comercializadora Zenta Group SPA,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,2,2,🟡 Constrained (2 DRP / 6 wkls)
+Comercializadora Zenta Group SPA,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,2,2,🟡 Constrained (2 DRP / 7 wkls)
 Comercializadora Zenta Group SPA,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 Comercializadora Zenta Group SPA,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 Comercializadora Zenta Group SPA,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
@@ -21,8 +21,8 @@ Comercializadora Zenta Group SPA,Data & Analytics,The AI Ready Data Cloud,Looker
 Comercializadora Zenta Group SPA,Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,,,⚪ No Active Demand
 Comercializadora Zenta Group SPA,Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,,,,⚪ No Active Demand
 Comercializadora Zenta Group SPA,Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,,,,⚪ No Active Demand
-Comercializadora Zenta Group SPA,Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,,,🔴 Gap (0 DRP / 2 wkls)
-Comercializadora Zenta Group SPA,Databases,The AI Ready Data Cloud,Cloud SQL,,,,🔴 Gap (0 DRP / 1 wkls)
+Comercializadora Zenta Group SPA,Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,,,🔴 Gap (0 DRP / 3 wkls)
+Comercializadora Zenta Group SPA,Databases,The AI Ready Data Cloud,Cloud SQL,,,,⚪ No Active Demand
 Comercializadora Zenta Group SPA,Databases,The AI Ready Data Cloud,Spanner,,,,⚪ No Active Demand
 Comercializadora Zenta Group SPA,Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,,,⚪ No Active Demand
 Comercializadora Zenta Group SPA,Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,,,⚪ No Active Demand
@@ -38,15 +38,15 @@ Comercializadora Zenta Group SPA,Workspace,Agentic Workplace Transformation,Work
 Consiti (Consultoría y Soluciones Informáticas),Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 Consiti (Consultoría y Soluciones Informáticas),Application Modernization,"Migrate, Modernize and Build",Cloud Run,,1,1,🟢 Ready (1 profiles)
 Consiti (Consultoría y Soluciones Informáticas),Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,⚪ No Active Demand
-Consiti (Consultoría y Soluciones Informáticas),Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,🔴 Gap (0 DRP / 3 wkls)
+Consiti (Consultoría y Soluciones Informáticas),Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,🔴 Gap (0 DRP / 5 wkls)
 Consiti (Consultoría y Soluciones Informáticas),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 Consiti (Consultoría y Soluciones Informáticas),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 Consiti (Consultoría y Soluciones Informáticas),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
 Consiti (Consultoría y Soluciones Informáticas),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
-Consiti (Consultoría y Soluciones Informáticas),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 2 wkls)
+Consiti (Consultoría y Soluciones Informáticas),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
 Consiti (Consultoría y Soluciones Informáticas),Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
 Consiti (Consultoría y Soluciones Informáticas),Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,⚪ No Active Demand
-Consiti (Consultoría y Soluciones Informáticas),Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 2 wkls)
+Consiti (Consultoría y Soluciones Informáticas),Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 1 wkls)
 Consiti (Consultoría y Soluciones Informáticas),Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
 Consiti (Consultoría y Soluciones Informáticas),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,,⚪ No Active Demand
 Consiti (Consultoría y Soluciones Informáticas),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,,,⚪ No Active Demand
@@ -110,7 +110,7 @@ Devaid SPA,Workspace,Agentic Workplace Transformation,Workspace,,,,⚪ No Active
 MadeinWeb S/A,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 MadeinWeb S/A,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
 MadeinWeb S/A,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,🔴 Gap (0 DRP / 2 wkls)
-MadeinWeb S/A,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,2,2,🟡 Constrained (2 DRP / 8 wkls)
+MadeinWeb S/A,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,2,2,🟡 Constrained (2 DRP / 9 wkls)
 MadeinWeb S/A,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 MadeinWeb S/A,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 MadeinWeb S/A,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
@@ -118,7 +118,7 @@ MadeinWeb S/A,Artificial Intelligence,Gemini Enterprise for Customer Experience,
 MadeinWeb S/A,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,4,,4,🟡 Constrained (4 DRP / 8 wkls)
 MadeinWeb S/A,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,4,,4,🟢 Ready (4 profiles)
 MadeinWeb S/A,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,1,2,3,🟢 Ready (3 profiles)
-MadeinWeb S/A,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,4,,4,🟡 Constrained (4 DRP / 16 wkls)
+MadeinWeb S/A,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,4,,4,🟡 Constrained (4 DRP / 17 wkls)
 MadeinWeb S/A,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,4,,4,🟢 Ready (4 DRP / 1 wkls)
 MadeinWeb S/A,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,,⚪ No Active Demand
 MadeinWeb S/A,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,,,⚪ No Active Demand
