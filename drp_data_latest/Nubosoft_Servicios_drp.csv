@@ -25,7 +25,7 @@ Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,1,,1,🟢 Ready (1 DRP 
 Databases,The AI Ready Data Cloud,Cloud SQL,10,3,13,🟢 Ready (13 DRP / 2 wkls)
 Databases,The AI Ready Data Cloud,Spanner,,,,⚪ No Active Demand
 Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,,,⚪ No Active Demand
-Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,2,2,🟢 Ready (2 profiles)
+Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,1,1,🟢 Ready (1 profiles)
 Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,,,⚪ No Active Demand
 Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,13,3,16,🟢 Ready (16 profiles)
 Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,18,2,20,🟢 Ready (20 profiles)
