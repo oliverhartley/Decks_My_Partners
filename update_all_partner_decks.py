@@ -2134,7 +2134,7 @@ def main():
             if res_info.returncode == 0 and res_info.stdout.strip():
                 info_data = json.loads(res_info.stdout)
                 for s_item in info_data.get("sheets", []):
-                    if s_item.get("properties", {}).get("sheetId") == sid_followup:
+                    if s_item.get("properties", {}).get("sheetId", 0) == sid_followup:
                         cfs = s_item.get("conditionalFormats", [])
                         if cfs:
                             del_reqs = [{"deleteConditionalFormatRule": {"sheetId": sid_followup, "index": i}} for i in reversed(range(len(cfs)))]
@@ -2564,7 +2564,7 @@ def main():
             if res_info.returncode == 0 and res_info.stdout.strip():
                 info_data = json.loads(res_info.stdout)
                 for s_item in info_data.get("sheets", []):
-                    if s_item.get("properties", {}).get("sheetId") == sid_gwkl:
+                    if s_item.get("properties", {}).get("sheetId", 0) == sid_gwkl:
                         cfs = s_item.get("conditionalFormats", [])
                         if cfs:
                             del_reqs = [{"deleteConditionalFormatRule": {"sheetId": sid_gwkl, "index": i}} for i in reversed(range(len(cfs)))]
@@ -2836,7 +2836,7 @@ def main():
                 if res_info.returncode == 0 and res_info.stdout.strip():
                     info_data = json.loads(res_info.stdout)
                     for s_item in info_data.get("sheets", []):
-                        if s_item.get("properties", {}).get("sheetId") == sid_pe_wkl:
+                        if s_item.get("properties", {}).get("sheetId", 0) == sid_pe_wkl:
                             cfs = s_item.get("conditionalFormats", [])
                             if cfs:
                                 del_reqs = [{"deleteConditionalFormatRule": {"sheetId": sid_pe_wkl, "index": i}} for i in reversed(range(len(cfs)))]
