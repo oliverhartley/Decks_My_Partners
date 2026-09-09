@@ -1,8 +1,8 @@
 Partner Name,Pillar,Solution (Sales Play),Product,Tier 1 Profiles Count,Tier 2 Profiles Count,Total Tier 1 & 2 Profiles,Capacity Status (DRP vs Workloads)
 Comercializadora Zenta Group SPA,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
-Comercializadora Zenta Group SPA,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
+Comercializadora Zenta Group SPA,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,1,1,🟢 Ready (1 profiles)
 Comercializadora Zenta Group SPA,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,1,1,🟡 Constrained (1 DRP / 4 wkls)
-Comercializadora Zenta Group SPA,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,2,2,🟡 Constrained (2 DRP / 7 wkls)
+Comercializadora Zenta Group SPA,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,3,3,🟡 Constrained (3 DRP / 7 wkls)
 Comercializadora Zenta Group SPA,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 Comercializadora Zenta Group SPA,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 Comercializadora Zenta Group SPA,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
@@ -28,7 +28,7 @@ Comercializadora Zenta Group SPA,Infrastructure Modernization,Enterprise Platfor
 Comercializadora Zenta Group SPA,Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,,,⚪ No Active Demand
 Comercializadora Zenta Group SPA,Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,,,🔴 Gap (0 DRP / 1 wkls)
 Comercializadora Zenta Group SPA,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,,2,2,🟢 Ready (2 profiles)
-Comercializadora Zenta Group SPA,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,,2,2,🟢 Ready (2 profiles)
+Comercializadora Zenta Group SPA,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,1,1,2,🟢 Ready (2 profiles)
 Comercializadora Zenta Group SPA,Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
 Comercializadora Zenta Group SPA,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
 Comercializadora Zenta Group SPA,Security,Agentic Defense with Google Security,Security Command Center,,,,⚪ No Active Demand
@@ -118,7 +118,7 @@ MadeinWeb S/A,Artificial Intelligence,Gemini Enterprise for Customer Experience,
 MadeinWeb S/A,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,4,,4,🟡 Constrained (4 DRP / 9 wkls)
 MadeinWeb S/A,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,4,,4,🟢 Ready (4 profiles)
 MadeinWeb S/A,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,1,2,3,🟢 Ready (3 profiles)
-MadeinWeb S/A,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,4,,4,🟡 Constrained (4 DRP / 17 wkls)
+MadeinWeb S/A,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,4,,4,🟡 Constrained (4 DRP / 16 wkls)
 MadeinWeb S/A,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,4,,4,🟢 Ready (4 DRP / 1 wkls)
 MadeinWeb S/A,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,,⚪ No Active Demand
 MadeinWeb S/A,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,,,⚪ No Active Demand
@@ -146,7 +146,7 @@ MadeinWeb S/A,Workspace,Agentic Workplace Transformation,Workspace,,,,⚪ No Act
 TIVIT COLOMBIA S A S,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 TIVIT COLOMBIA S A S,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,1,1,🟢 Ready (1 profiles)
 TIVIT COLOMBIA S A S,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,⚪ No Active Demand
-TIVIT COLOMBIA S A S,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,🔴 Gap (0 DRP / 1 wkls)
+TIVIT COLOMBIA S A S,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,🔴 Gap (0 DRP / 2 wkls)
 TIVIT COLOMBIA S A S,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 TIVIT COLOMBIA S A S,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 TIVIT COLOMBIA S A S,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
