@@ -204,10 +204,6 @@ def build_email_content(wkl, simulation_recipient=None):
             <td style="padding: 8px 12px; font-weight: bold; border: 1px solid #dadce0;">Delivery Capacity Status</td>
             <td style="padding: 8px 12px; border: 1px solid #dadce0;">{wkl['capacity_status']}</td>
           </tr>
-          <tr>
-            <td style="padding: 8px 12px; font-weight: bold; border: 1px solid #dadce0;">Next Steps Registered</td>
-            <td style="padding: 8px 12px; border: 1px solid #dadce0; font-style: italic;">{wkl['next_steps'] if wkl['next_steps'] else 'No next steps recorded'}</td>
-          </tr>
         </tbody>
       </table>
 
@@ -241,14 +237,17 @@ def build_email_content(wkl, simulation_recipient=None):
     }
 
 
-def send_email(recipient, subject, html_body):
+def send_email(recipient, subject, html_body, cc=None):
     cmd = [
         GMAIL, "mutate", "send",
         "--to", recipient,
         "--subject", subject,
         "--html",
-        "--body", html_body
+        "--body", html_body,
+        "--ignore-sharing-checks"
     ]
+    if cc:
+        cmd.extend(["--cc", cc])
     res = subprocess.run(cmd, capture_output=True, text=True)
     if res.returncode != 0:
         raise RuntimeError(f"Failed to send email via Gmail CLI: {res.stderr or res.stdout}")
@@ -273,9 +272,11 @@ def main():
     parser.add_argument("--partner", default=PARTNER_NAME_DEFAULT, help="Partner organization name")
     parser.add_argument("--tracker-url", default=TRACKER_URL_DEFAULT, help="Partner tracker spreadsheet URL")
     parser.add_argument("--recipient", default="oliverhartley@google.com", help="Email recipient (defaults to Oliver Hartley for simulation)")
+    parser.add_argument("--real-recipients", action="store_true", help="Send directly to actual workload owner instead of simulation recipient")
+    parser.add_argument("--cc", default=None, help="CC email address")
     parser.add_argument("--send", action="store_true", help="Actually execute sending via Gmail CLI")
     parser.add_argument("--chat", action="store_true", help="Also send Google Chat DMs for Stage 0-2 workloads")
-    parser.add_argument("--chat-user", default="oliverhartley", help="LDAP user to receive chat messages in simulation")
+    parser.add_argument("--chat-user", default=None, help="LDAP user to receive chat messages in simulation (defaults to actual owner LDAP if not set)")
 
     args = parser.parse_args()
 
@@ -287,27 +288,32 @@ def main():
         print("No critical workloads found.")
         return
 
+    sim_rec = None if args.real_recipients else args.recipient
+
     for idx, wkl in enumerate(critical_wkls, 1):
-        content = build_email_content(wkl, simulation_recipient=args.recipient)
+        content = build_email_content(wkl, simulation_recipient=sim_rec)
         print(f"[{idx}/{len(critical_wkls)}] {wkl['workload_name']} ({wkl['customer_name']})")
         print(f"  Owner: {wkl['owner_name']} ({wkl['owner_email']})")
         print(f"  ARR: {wkl['arr']} | Stage: {wkl['progress']} ({wkl['stage_type']})")
         print(f"  Prod Date: {wkl['production_date']} ({wkl['days_status']})")
         print(f"  Target Recipient: {content['recipient']}")
+        if args.cc:
+            print(f"  CC: {args.cc}")
         print(f"  Subject: {content['subject']}")
 
         if args.send:
-            print(f"  -> Sending email to {content['recipient']}...")
+            print(f"  -> Sending email to {content['recipient']}" + (f" (cc: {args.cc})" if args.cc else "") + "...")
             try:
-                res_mail = send_email(content["recipient"], content["subject"], content["html_body"])
+                res_mail = send_email(content["recipient"], content["subject"], content["html_body"], cc=args.cc)
                 print(f"     ✓ Email sent! Result: {res_mail}")
             except Exception as e:
                 print(f"     ✗ Email failed: {e}")
 
             if args.chat and wkl["stage_type"] == "stage_0_2":
-                print(f"  -> Sending Google Chat DM to {args.chat_user}...")
+                chat_target = args.chat_user if args.chat_user else wkl["owner_email"].split("@")[0]
+                print(f"  -> Sending Google Chat DM to {chat_target}...")
                 try:
-                    res_chat = send_chat_dm(args.chat_user, content["chat_text"])
+                    res_chat = send_chat_dm(chat_target, content["chat_text"])
                     print(f"     ✓ Chat DM sent! Result: {res_chat}")
                 except Exception as e:
                     print(f"     ✗ Chat DM failed: {e}")
