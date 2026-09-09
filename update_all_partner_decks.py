@@ -18,21 +18,13 @@ DATE_FORMATTED = f"{now.day} - {now.strftime('%b')} {now.year}"
 PARTNERS = [
     {
         "partner": "Admazing Cloud",
-        "pe": "Fernando Laguna",
-        "sheet_id": "1ofym1wCiQW6kz0z-vewGIh_XQ72GzuwoiTFmS0GLRB0",
-        "partner_ids": [
-            "0014M00002NlVN0QAN",
-            "0014M00002TEyhPQAT"
-        ],
-        "cert_pids": [
-            "0014M00002NlVN0QAN",
-            "0014M00002TEyhPQAT"
-        ],
-        "drp_keys": [
-            "P20240920001"
-        ],
-        "default_pid": "0014M00002NlVN0QAN",
-        "country": "Argentina / MCO",
+        "pe": "Wanda Flores",
+        "sheet_id": "1tgD20PVyBZu0xo73GmVLBYOlqg42rSE6FqWLWbNatqQ",
+        "partner_ids": ["0014M00002TEyhPQAT", "0014M00002NlVN0QAN"],
+        "cert_pids": ["0014M00002TEyhPQAT", "0014M00002NlVN0QAN"],
+        "drp_keys": ["P20240920001"],
+        "default_pid": "0014M00002TEyhPQAT",
+        "country": "Argentina / US / Regional",
         "tier_level": "Premier"
     },
     {
@@ -1070,7 +1062,282 @@ PARTNERS = [
         "default_pid": "0014M00002N6mbcQAB",
         "country": "Brazil",
         "tier_level": "Premier"
-    }
+    },
+    {
+        "partner": "Davinci Technologies S.A.S.",
+        "pe": "Wanda Flores",
+        "sheet_id": "1k4unxePXkKLUnPgps0rXwyAaUhw8pdo0tQTYeS5PXjY",
+        "partner_ids": ["0014M00001h3APgQAM", "0014M00001h33K1QAI"],
+        "cert_pids": ["0014M00001h3APgQAM", "0014M00001h33K1QAI"],
+        "drp_keys": ["P20220609043"],
+        "default_pid": "0014M00001h3APgQAM",
+        "country": "Colombia / LATAM",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "Apiux Tecnologia SPA",
+        "pe": "Wanda Flores",
+        "sheet_id": "1DiKDGNgZacovQSViI6DApQ1maUjGN3yGQAM9A6xem0c",
+        "partner_ids": ["0014M00001oXKepQAG", "0014M00002MSpCeQAL"],
+        "cert_pids": ["0014M00001oXKepQAG", "0014M00002MSpCeQAL"],
+        "drp_keys": ["P20221229001"],
+        "default_pid": "0014M00001oXKepQAG",
+        "country": "Chile / Colombia",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "Multiedro Servi\u00e7os de TI Ltda.",
+        "pe": "Wanda Flores",
+        "sheet_id": "15XufkdmnBJYyg_6F_HCjMqYk7jBVneBGtXWwBKc9sCU",
+        "partner_ids": ["0014M00001h33BxQAI", "0014M000026r2t4QAA"],
+        "cert_pids": ["0014M00001h33BxQAI", "0014M000026r2t4QAA"],
+        "drp_keys": ["P20220923207"],
+        "default_pid": "0014M00001h33BxQAI",
+        "country": "Brazil",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "DATALAKERS TECNOLOGIA LTDA",
+        "pe": "Wanda Flores",
+        "sheet_id": "1Fjv5esoG30AUu_VC4n_xwYWhEInT_6M64vwKFboCH3M",
+        "partner_ids": ["0014M00001h3BebQAE"],
+        "cert_pids": ["0014M00001h3BebQAE"],
+        "drp_keys": ["P20221110096"],
+        "default_pid": "0014M00001h3BebQAE",
+        "country": "Brazil",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "DIGITAL INC TECNOLOGIA E MARKETING LTDA (DP6)",
+        "pe": "Wanda Flores",
+        "sheet_id": "1Bcwbr6fTMal-rrVUFhMb2eYz8OX85dCTPhCr9_NdekM",
+        "partner_ids": ["0014M00001h33ClQAI"],
+        "cert_pids": ["0014M00001h33ClQAI"],
+        "drp_keys": ["P20231019014"],
+        "default_pid": "0014M00001h33ClQAI",
+        "country": "Brazil",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "SoftwareOne",
+        "pe": "Wanda Flores",
+        "sheet_id": "1auK4hL1iWJy9RRLEVyKx95zW8B88mNgeZcC-8eTBvYw",
+        "partner_ids": ["0014M0000200G6AQAU", "0014M00001h38itQAA", "0014M00001n7lYtQAI", "0014M00001h36IgQAI"],
+        "cert_pids": ["0014M0000200G6AQAU", "0014M00001h38itQAA", "0014M00001n7lYtQAI", "0014M00001h36IgQAI"],
+        "drp_keys": ["P20220602058"],
+        "default_pid": "0014M0000200G6AQAU",
+        "country": "Colombia / Regional MCO",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "SoftwareOne Brasil",
+        "pe": "Wanda Flores",
+        "sheet_id": "1PWmFIaxKeD7O6qvdB8KtNNPBs4SeCEhDY-D-PZ1lwmM",
+        "partner_ids": ["0014M00001h3AerQAE"],
+        "cert_pids": ["0014M00001h3AerQAE"],
+        "drp_keys": ["P20220602058"],
+        "default_pid": "0014M00001h3AerQAE",
+        "country": "Brazil",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "Rubik Cloud",
+        "pe": "Wanda Flores",
+        "sheet_id": "1Bd_YxWtCOiGodF7NqvbqgpoFQwFDdKDJtk98Z46yvEk",
+        "partner_ids": ["001Kf000019zlsUIAQ", "0014M00002GH3xjQAD", "0014M00001h3Ay3QAE", "0014M00001h35xNQAQ", "0014M00002ROupzQAD", "0014M00001h32BeQAI", "0014M00002LU7SJQA1", "0014M00002LM9DXQA1", "0014M00001h35xxQAA", "0014M00002RQXE7QAP", "0014M00002RSBX5QAP", "0014M00001yTHnfQAG", "0014M00001yRzGmQAK", "0014M00001oXcWHQA0", "0014M00001h38E4QAI"],
+        "cert_pids": ["001Kf000019zlsUIAQ", "0014M00002GH3xjQAD", "0014M00001h3Ay3QAE", "0014M00001h35xNQAQ", "0014M00002ROupzQAD", "0014M00001h32BeQAI", "0014M00002LU7SJQA1", "0014M00002LM9DXQA1", "0014M00001h35xxQAA", "0014M00002RQXE7QAP", "0014M00002RSBX5QAP", "0014M00001yTHnfQAG", "0014M00001yRzGmQAK", "0014M00001oXcWHQA0", "0014M00001h38E4QAI"],
+        "drp_keys": ["001Kf000019zlsUIAQ"],
+        "default_pid": "001Kf000019zlsUIAQ",
+        "country": "Argentina / Chile / Regional",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "Gtec Software",
+        "pe": "Wanda Flores",
+        "sheet_id": "1EZnt1WcCok5cJrJEWveOFlzeYl2O8RBeuIirSLAF-wY",
+        "partner_ids": ["0014M00001nUI9kQAG", "0014M00002MA4DfQAL"],
+        "cert_pids": ["0014M00001nUI9kQAG", "0014M00002MA4DfQAL"],
+        "drp_keys": ["P20221110356"],
+        "default_pid": "0014M00001nUI9kQAG",
+        "country": "Mexico",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "MERITI SRL",
+        "pe": "Wanda Flores",
+        "sheet_id": "1XWCiR3lXhXaWg5PeKe_FiafR3UJcVkhncH6dfwu9zmI",
+        "partner_ids": ["0014M00001h32hhQAA", "0014M00001h3BJuQAM"],
+        "cert_pids": ["0014M00001h32hhQAA", "0014M00001h3BJuQAM"],
+        "drp_keys": ["P20221110228"],
+        "default_pid": "0014M00001h32hhQAA",
+        "country": "Argentina / Uruguay",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "CLOUDMASTERS",
+        "pe": "Wanda Flores",
+        "sheet_id": "1GuPSV0ez4dSjkMhqedfC--6fJhZ_QjFTdPq8xZdKqwE",
+        "partner_ids": ["0014M00001h3BK7QAM", "0014M00002GG2X4QAL"],
+        "cert_pids": ["0014M00001h3BK7QAM", "0014M00002GG2X4QAL"],
+        "drp_keys": ["P20230908028"],
+        "default_pid": "0014M00001h3BK7QAM",
+        "country": "Uruguay / Paraguay",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "Aleon Inteligencia de Dados Ltda",
+        "pe": "Wanda Flores",
+        "sheet_id": "1ZI3wRYGMoIUzwzencOzFHocsjs1ol_RHWQ2CY3NYOec",
+        "partner_ids": ["001Kf00001Foc0xIAB", "001Kf00001FoDl1IAF", "001Kf00001I4EyBIAV"],
+        "cert_pids": ["001Kf00001Foc0xIAB", "001Kf00001FoDl1IAF", "001Kf00001I4EyBIAV"],
+        "drp_keys": ["001Kf00001I4EyBIAV"],
+        "default_pid": "001Kf00001Foc0xIAB",
+        "country": "Brazil",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "IEBT (Inst. Desenv. Empresas Base Tecnol\u00f3gica)",
+        "pe": "Wanda Flores",
+        "sheet_id": "1CiiS80JshMfmKxH0cGsU62esFizrWzVHutoGevYiCnI",
+        "partner_ids": ["001Kf0000149odXIAQ", "001Kf00001I4EyCIAV"],
+        "cert_pids": ["001Kf0000149odXIAQ", "001Kf00001I4EyCIAV"],
+        "drp_keys": ["001Kf00001I4EyCIAV"],
+        "default_pid": "001Kf0000149odXIAQ",
+        "country": "Brazil",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "El Ultimo Geek S.A. de C.V. (Edvolution)",
+        "pe": "Wanda Flores",
+        "sheet_id": "10nnUakdAQeJlJbl5Js1i42T1ZE5yeEIILC6RbWwh_MY",
+        "partner_ids": ["0014M00001h36alQAA", "001Kf00001F9b8UIAR", "0014M00001ySp0gQAC"],
+        "cert_pids": ["0014M00001h36alQAA", "001Kf00001F9b8UIAR", "0014M00001ySp0gQAC"],
+        "drp_keys": ["0014M00001h36alQAA"],
+        "default_pid": "0014M00001h36alQAA",
+        "country": "Mexico / Colombia",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "Fluentcore, LLC (Fluent Data)",
+        "pe": "Wanda Flores",
+        "sheet_id": "1LuDS9RncWUJr9J3W3jU12xWl91a7l8LyvW8_lepOCXE",
+        "partner_ids": ["0014M00002OTvKOQA1", "001Kf00001FohRDIAZ", "001Kf00001Fp6ZwIAJ"],
+        "cert_pids": ["0014M00002OTvKOQA1", "001Kf00001FohRDIAZ", "001Kf00001Fp6ZwIAJ"],
+        "drp_keys": ["P20231023005"],
+        "default_pid": "0014M00002OTvKOQA1",
+        "country": "US / LATAM",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "Ideen Tecnologia LTDA",
+        "pe": "Wanda Flores",
+        "sheet_id": "1CnCAB-HdwTDYsloqp6jS0TMYbpzh25amMii464K9JYg",
+        "partner_ids": ["0014M00002BySblQAF", "0014M00002MB1MYQA1"],
+        "cert_pids": ["0014M00002BySblQAF", "0014M00002MB1MYQA1"],
+        "drp_keys": ["P20240324006"],
+        "default_pid": "0014M00002BySblQAF",
+        "country": "Brazil",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "Intelig\u00eancia de Neg\u00f3cios (NowVertical)",
+        "pe": "Wanda Flores",
+        "sheet_id": "1f2ogioAjCrG0pgT8LllJ8eyjHKjVZEiB5oo744BMThY",
+        "partner_ids": ["0014M00001h3BgpQAE", "001Kf000013gA4HIAU"],
+        "cert_pids": ["0014M00001h3BgpQAE", "001Kf000013gA4HIAU"],
+        "drp_keys": ["0014M00001h3BgpQAE"],
+        "default_pid": "0014M00001h3BgpQAE",
+        "country": "Brazil",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "InventCloud Tecnologia Ltda",
+        "pe": "Wanda Flores",
+        "sheet_id": "1Kpw20SV3_xC4lxjHrUj-PLCjbX40vSIbP_jFlPK841c",
+        "partner_ids": ["0014M00001n6BJiQAM", "0014M00002LSfH3QAL", "0014M00001iolthQAA"],
+        "cert_pids": ["0014M00001n6BJiQAM", "0014M00002LSfH3QAL", "0014M00001iolthQAA"],
+        "drp_keys": ["P20240507005"],
+        "default_pid": "0014M00001n6BJiQAM",
+        "country": "Brazil",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "Incubeta M\u00e9xico",
+        "pe": "Wanda Flores",
+        "sheet_id": "11XPWWAin2WzNKXkVGX3SZjU71zHGLxQAn0SM9z8pk8Y",
+        "partner_ids": ["0014M00001h36YTQAY", "0014M00002M8WgbQAF", "001Kf00001I6iLJIAZ"],
+        "cert_pids": ["0014M00001h36YTQAY", "0014M00002M8WgbQAF", "001Kf00001I6iLJIAZ"],
+        "drp_keys": ["P20231226006"],
+        "default_pid": "0014M00001h36YTQAY",
+        "country": "Mexico / Regional",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "Innovaworx Cloud, S de RL de CV",
+        "pe": "Wanda Flores",
+        "sheet_id": "1eLJw56hHYZ3nXfYkbVQsXmhG7Tl8_GxaLSyTsOEU4D8",
+        "partner_ids": ["0014M00002M9oGEQAZ", "0014M00002RS0RUQA1"],
+        "cert_pids": ["0014M00002M9oGEQAZ", "0014M00002RS0RUQA1"],
+        "drp_keys": ["P20231211011"],
+        "default_pid": "0014M00002M9oGEQAZ",
+        "country": "Mexico",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "POP Media Technology",
+        "pe": "Wanda Flores",
+        "sheet_id": "17zGD57-jgP_ixLsp36hU2XMVcXNy2yupKUkjd6tYTSs",
+        "partner_ids": ["0014M00001h364NQAQ"],
+        "cert_pids": ["0014M00001h364NQAQ"],
+        "drp_keys": ["0014M00001h364NQAQ"],
+        "default_pid": "0014M00001h364NQAQ",
+        "country": "Mexico",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "Applaudo Studios SA de CV",
+        "pe": "Wanda Flores",
+        "sheet_id": "1Kh7DIzSHetB4Tw8XmDvrZtSJoKUWm4thCFBKOtjWvFE",
+        "partner_ids": ["001Kf000015r2CqIAI", "001Kf000014B0KAIA0", "0014M00001rJ0SJQA0"],
+        "cert_pids": ["001Kf000015r2CqIAI", "001Kf000014B0KAIA0", "0014M00001rJ0SJQA0"],
+        "drp_keys": ["001Kf000015r2CqIAI"],
+        "default_pid": "001Kf000015r2CqIAI",
+        "country": "El Salvador / Regional",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "UMA SALUD (DEKSIA S.A.)",
+        "pe": "Wanda Flores",
+        "sheet_id": "1rehj42c2tZY8S4G_kFBcDcz5Yz4ai-VFhWZGDTRi4Dw",
+        "partner_ids": ["0014M00002OSgGDQA1", "001Kf00001COE2rIAH"],
+        "cert_pids": ["0014M00002OSgGDQA1", "001Kf00001COE2rIAH"],
+        "drp_keys": ["0014M00002OSgGDQA1"],
+        "default_pid": "0014M00002OSgGDQA1",
+        "country": "Mexico / Uruguay",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "Valle Group Solu\u00e7\u00f5es e Entrenimento Eirelle Me",
+        "pe": "Wanda Flores",
+        "sheet_id": "1zgAocYdjjHQRepCSjeINOvnBM9BnvGgOUPlBTN6IvUs",
+        "partner_ids": ["001Kf000012duhIIAQ"],
+        "cert_pids": ["001Kf000012duhIIAQ"],
+        "drp_keys": ["P20250706066"],
+        "default_pid": "001Kf000012duhIIAQ",
+        "country": "Brazil",
+        "tier_level": "Premier"
+    },
+    {
+        "partner": "Autenticare Consultoria e Desenvolvimento de Software Ltda.",
+        "pe": "Wanda Flores",
+        "sheet_id": "1_vVSBOmGRlTplSfAQ4CQTsc8eeASM4KwnFa2duwT0mg",
+        "partner_ids": ["0014M00002N6nCYQAZ"],
+        "cert_pids": ["0014M00002N6nCYQAZ"],
+        "drp_keys": ["P20231030001"],
+        "default_pid": "0014M00002N6nCYQAZ",
+        "country": "Brazil",
+        "tier_level": "Premier"
+    },
 ]
 
 # 20 Columns for Partner Trackers (eliminates "Partner Name", includes "Workload Owner", "Workload Progress", "Next Steps" between Opportunity Name and Expert Requests, and "Steff Priority" at the end)
@@ -1213,6 +1480,18 @@ GLOBAL_ACCRED_HEADERS = [
     "Issued Date",
     "Expiration Date",
     "Partner Legal Entity"
+]
+
+summary_headers = [
+    "Partner Engineer (PE)",
+    "Partner Name",
+    "Country / Headquarters",
+    "Partner Advantage Track",
+    "Uncommitted Workloads (#)",
+    "Total Pipeline ARR ($ USD)",
+    "DRP Profile Capacities (#)",
+    "Active Accreditations / Certs (#)",
+    "Partner Action Tracker Spreadsheet"
 ]
 
 def make_hyperlink(url, label):
@@ -1370,7 +1649,7 @@ def ensure_followup_tab(ssid):
                 if s.get("title") == "Follow_up":
                     return s.get("id")
             for s in sheets:
-                if s.get("title") == "Sheet1":
+                if s.get("title") in ["Sheet1", "Hoja 1"]:
                     subprocess.run([GSHEETS, "mutate", "rename-sheet", ssid, "--sheet-id", str(s.get("id")), "--title", "Follow_up"], capture_output=True)
                     return s.get("id")
         except:
@@ -1386,6 +1665,38 @@ def ensure_followup_tab(ssid):
         except:
             pass
     return 0
+
+def norm_str(s):
+    return re.sub(r"[^a-z0-9]", "", str(s).lower())
+
+def extract_hyperlink_label(val):
+    if not val:
+        return ""
+    val_str = str(val).strip()
+    if '","' in val_str:
+        try:
+            return val_str.split('","')[1].rstrip('")').strip()
+        except:
+            pass
+    if '", "' in val_str:
+        try:
+            return val_str.split('", "')[1].rstrip('")').strip()
+        except:
+            pass
+    return val_str
+
+def cleanup_default_sheets(ssid):
+    res = subprocess.run([GSHEETS, "readonly", "list-sheets", ssid, "--json"], capture_output=True, text=True)
+    if res.returncode == 0 and res.stdout.strip():
+        try:
+            sheets = json.loads(res.stdout)
+            if len(sheets) > 1:
+                for s in sheets:
+                    if s.get("title") in ["Sheet1", "Hoja 1"]:
+                        subprocess.run([GSHEETS, "mutate", "delete-sheet", ssid, "--sheet-id", str(s["id"])], capture_output=True)
+        except:
+            pass
+
 
 def match_exact_drp(w_pillar, w_sales_play, w_solution, w_prods):
     w_pil_clean = (w_pillar or "").strip().lower()
@@ -1445,1195 +1756,1210 @@ def match_exact_drp(w_pillar, w_sales_play, w_solution, w_prods):
 
     return [("Artificial Intelligence", "Scale AI Apps and Agents", "Gemini Enterprise Agent Platform")]
 
-# 1. Fetch DRP Catalog
-print("\n>>> Fetching full DRP Catalog from BigQuery...")
-sql_catalog = """
-SELECT DISTINCT
-  pillar,
-  sol as solution,
-  COALESCE(p.scored_product, 'All Products') as product
-FROM `concord-prod.service_partnercoe_general.view_delivery_capacity_dri_profile` p
-CROSS JOIN UNNEST(p.parent_pillar) pillar
-CROSS JOIN UNNEST(p.sales_play) sol
-WHERE pillar IS NOT NULL AND sol IS NOT NULL
-ORDER BY pillar, solution, product
-"""
-_, rows_cat = run_query(sql_catalog)
-drp_catalog = [(r["f"][0].get("v"), r["f"][1].get("v"), r["f"][2].get("v")) for r in rows_cat]
-print(f"Loaded {len(drp_catalog)} catalog products/solutions.")
-
-os.makedirs("followup_data_latest", exist_ok=True)
-os.makedirs("drp_data_latest", exist_ok=True)
-os.makedirs("accred_data_latest", exist_ok=True)
-os.makedirs("global_dashboard_data", exist_ok=True)
-
-all_global_workload_rows = []
-all_global_drp_rows = []
-all_global_accred_rows = []
-summary_stats = []
-
-# Map priority workloads to partners
-PRIORITY_FILE = os.path.join(os.path.dirname(__file__), "steff_priority_workloads.json")
-ALL_PRIORITY_WIDS = set()
-PARTNER_TO_PRIORITY_WIDS = {p["partner"]: [] for p in PARTNERS}
-
-if os.path.exists(PRIORITY_FILE):
-    with open(PRIORITY_FILE, "r", encoding="utf-8") as pf:
-        pe_priority_map = json.load(pf)
-        for pe_wids in pe_priority_map.values():
-            for wid in pe_wids:
-                ALL_PRIORITY_WIDS.add(wid.strip())
-
-    all_wids_quoted = ", ".join([f"'{x}'" for x in ALL_PRIORITY_WIDS])
-    sql_priorities = f"""
-    SELECT w.workload_id, w.workload_details.partner_id
-    FROM `concord-prod.service_cloudbi.workloads` w
-    WHERE w.workload_id IN ({all_wids_quoted})
+def main():
+    # 1. Fetch DRP Catalog
+    print("\n>>> Fetching full DRP Catalog from BigQuery...")
+    sql_catalog = """
+    SELECT DISTINCT
+      pillar,
+      sol as solution,
+      COALESCE(p.scored_product, 'All Products') as product
+    FROM `concord-prod.service_partnercoe_general.view_delivery_capacity_dri_profile` p
+    CROSS JOIN UNNEST(p.parent_pillar) pillar
+    CROSS JOIN UNNEST(p.sales_play) sol
+    WHERE pillar IS NOT NULL AND sol IS NOT NULL
+    ORDER BY pillar, solution, product
     """
-    try:
-        _, p_bq_rows = run_query(sql_priorities)
-        pid_to_pname = {}
-        for p in PARTNERS:
-            for pid in p["partner_ids"]:
-                pid_to_pname[pid] = p["partner"]
-        
-        for r in p_bq_rows:
-            wid = r["f"][0].get("v")
-            pid = r["f"][1].get("v")
-            if wid == "aBJKf000009oRYkOAM":
-                PARTNER_TO_PRIORITY_WIDS["MadeinWeb S/A"].append(wid)
-            elif pid in pid_to_pname:
-                pname = pid_to_pname[pid]
-                PARTNER_TO_PRIORITY_WIDS[pname].append(wid)
-            else:
-                print(f"Warning: priority wid {wid} with partner_id {pid} unmapped!")
-        print(f"Successfully mapped: {sum(len(v) for v in PARTNER_TO_PRIORITY_WIDS.values())} priority workloads across {len([k for k, v in PARTNER_TO_PRIORITY_WIDS.items() if v])} partners.")
-    except Exception as e:
-        print(f"Error mapping priority workloads: {e}")
+    _, rows_cat = run_query(sql_catalog)
+    drp_catalog = [(r["f"][0].get("v"), r["f"][1].get("v"), r["f"][2].get("v")) for r in rows_cat]
+    print(f"Loaded {len(drp_catalog)} catalog products/solutions.")
 
-for cfg in PARTNERS:
-    pname = cfg["partner"]
-    pe_name = cfg.get("pe", "")
-    ssid = cfg["sheet_id"]
-    pids = ", ".join([f"'{x}'" for x in cfg["partner_ids"]])
-    cert_pids_str = ", ".join([f"'{x}'" for x in cfg["cert_pids"]])
-    drp_keys_str = ", ".join([f"'{x}'" for x in cfg["drp_keys"]])
-    default_pid = cfg["default_pid"]
-    safe_name = pname.replace(" ", "_").replace("(", "_").replace(")", "_").replace("/", "_").replace("&", "_")
-    
-    print(f"\n========================================================")
-    print(f"Processing Partner: {pname} (PE: {pe_name})")
-    print(f"Spreadsheet ID: {ssid}")
-    print(f"========================================================")
-    
-    # A. DRP PROFILES QUERY
-    sql_drp = f"""
-    WITH Catalog AS (
-      SELECT DISTINCT
-        pillar,
-        sol as solution,
-        COALESCE(p.scored_product, 'All Products') as product
-      FROM `concord-prod.service_partnercoe_general.view_delivery_capacity_dri_profile` p
-      CROSS JOIN UNNEST(p.parent_pillar) pillar
-      CROSS JOIN UNNEST(p.sales_play) sol
-      WHERE pillar IS NOT NULL AND sol IS NOT NULL
-    ),
-    PartnerProfiles AS (
-      SELECT 
-        p.consolidated_partner_id,
-        pillar,
-        sol as solution,
-        COALESCE(p.scored_product, 'All Products') as product,
-        COUNT(DISTINCT IF(p.tier_category = 'Tier 1', p.profile_id, NULL)) as tier1_count,
-        COUNT(DISTINCT IF(p.tier_category = 'Tier 2', p.profile_id, NULL)) as tier2_count,
-        COUNT(DISTINCT IF(p.tier_category IN ('Tier 1', 'Tier 2'), p.profile_id, NULL)) as total_tier1_tier2
-      FROM `concord-prod.service_partnercoe_general.view_delivery_capacity_dri_profile` p
-      CROSS JOIN UNNEST(p.parent_pillar) pillar
-      CROSS JOIN UNNEST(p.sales_play) sol
-      WHERE p.consolidated_partner_id IN ({drp_keys_str})
-      GROUP BY 1, 2, 3, 4
-    )
-    SELECT 
-      c.pillar,
-      c.solution,
-      c.product,
-      COALESCE(pp.tier1_count, 0) as tier1_count,
-      COALESCE(pp.tier2_count, 0) as tier2_count,
-      COALESCE(pp.total_tier1_tier2, 0) as total_tier1_tier2
-    FROM Catalog c
-    LEFT JOIN PartnerProfiles pp
-      ON c.pillar = pp.pillar
-      AND c.solution = pp.solution
-      AND c.product = pp.product
-    ORDER BY c.pillar, c.solution, c.product
-    """
-    _, drp_bq_rows = run_query(sql_drp)
-    partner_drp_map = {}
-    partner_total_drp_capacity = 0
-    for r in drp_bq_rows:
-        pil = r["f"][0].get("v")
-        sol = r["f"][1].get("v")
-        prd = r["f"][2].get("v")
-        t1 = int(r["f"][3].get("v") or 0)
-        t2 = int(r["f"][4].get("v") or 0)
-        tot = int(r["f"][5].get("v") or 0)
-        partner_drp_map[(pil, sol, prd)] = {"t1": t1, "t2": t2, "tot": tot}
-        partner_total_drp_capacity += tot
-        
-    # B. WORKLOADS QUERY
-    ensure_followup_tab(ssid)
-    manual_entries = fetch_existing_manual_entries(ssid, "Follow_up")
-    p_priority_wids = PARTNER_TO_PRIORITY_WIDS.get(pname, [])
-    if p_priority_wids:
-        p_wids_str = ", ".join([f"'{x}'" for x in p_priority_wids])
-        priority_clause = f"(w.workload_id IN ({p_wids_str})) OR "
-        order_clause = f"IF(w.workload_id IN ({p_wids_str}), 0, 1), "
-    else:
-        priority_clause = ""
-        order_clause = ""
+    os.makedirs("followup_data_latest", exist_ok=True)
+    os.makedirs("drp_data_latest", exist_ok=True)
+    os.makedirs("accred_data_latest", exist_ok=True)
+    os.makedirs("global_dashboard_data", exist_ok=True)
 
-    sql_wkl = f"""
-    SELECT 
-      w.workload_id,
-      w.workload_name,
-      w.opportunity_id,
-      o.opportunity_name,
-      COALESCE(w.sfdc_account_id, o.sfdc_account_id) AS sfdc_account_id,
-      COALESCE(w.customer.account_name, o.account_name) AS account_name,
-      COALESCE(w.customer.segment, o.segment) AS segment,
-      COALESCE(w.customer.sub_region, o.sub_region) AS sub_region,
-      COALESCE(w.customer.micro_region, o.micro_region) AS micro_region,
-      w.workload_details.primary_workload_pillar,
-      w.workload_details.sales_play,
-      w.workload_details.workload_solutions,
-      w.workload_details.workload_progress,
-      CAST(w.workload_details.begin_migration_date AS STRING) AS begin_migration_date,
-      CAST(w.workload_details.production_date AS STRING) AS production_date,
-      w.metrics.annual_gross_revenue,
-      w.expert_request,
-      w.workload_details.partner_id,
-      w.workload_details.partner_name,
-      CAST(w.workload_details.sfdc_created_date AS STRING) AS sfdc_created_date,
-      w.workload_details.key_workload_products,
-      w.owner_details.owner_id,
-      w.owner_details.owner_name,
-      w.workload_details.next_steps
-    FROM `concord-prod.service_cloudbi.workloads` w
-    LEFT JOIN `concord-prod.service_cloudbi.opportunities` o
-      ON w.opportunity_id = o.opportunity_id
-    WHERE (
-      {priority_clause}(
-        w.workload_details.partner_id IN ({pids})
-        AND EXTRACT(YEAR FROM w.workload_details.sfdc_created_date) >= 2025
-        AND (w.workload_details.workload_progress IS NULL OR (
-               LOWER(w.workload_details.workload_progress) NOT LIKE "%closed%"
-               AND w.workload_details.workload_progress NOT LIKE "5.%"
-            ))
-        AND IFNULL(o.is_commit, FALSE) = FALSE 
-        AND IFNULL(o.forecast_category_name, "") != "Commit"
-      )
-    )
-    ORDER BY {order_clause}w.workload_details.sfdc_created_date DESC, w.metrics.annual_gross_revenue DESC
-    """
-    _, wkl_bq_rows = run_query(sql_wkl)
-    print(f"-> Uncommitted Workloads found: {len(wkl_bq_rows)}")
-    
-    drp_workload_demand = {(pil, sol, prd): 0 for (pil, sol, prd) in drp_catalog}
-    partner_total_arr = 0.0
-    
-    partner_workload_rows = []
-    for r in wkl_bq_rows:
-        cells = r["f"]
-        workload_id = cells[0].get("v") or ""
-        workload_name = cells[1].get("v") or ""
-        opportunity_id = cells[2].get("v") or ""
-        opportunity_name = cells[3].get("v") or ""
-        account_id = cells[4].get("v") or ""
-        account_name = cells[5].get("v") or ""
-        segment = cells[6].get("v") or ""
-        sub_region = cells[7].get("v") or ""
-        micro_region = cells[8].get("v") or ""
-        pillar = cells[9].get("v") or ""
-        sales_play = cells[10].get("v") or ""
-        workload_solution = cells[11].get("v") or ""
-        progress = cells[12].get("v") or ""
-        begin_migration_date = cells[13].get("v") or ""
-        production_date = cells[14].get("v") or ""
-        arr_val = cells[15].get("v") or "0"
-        er_raw = cells[16].get("v")
-        row_partner_id = cells[17].get("v") or default_pid
-        row_partner_name = cells[18].get("v") or pname
-        key_prods_raw = cells[20].get("v") if len(cells) > 20 else []
-        key_prods = [x.get("v") for x in key_prods_raw] if isinstance(key_prods_raw, list) else []
-        owner_id = cells[21].get("v") if len(cells) > 21 else ""
-        owner_name = cells[22].get("v") if len(cells) > 22 else ""
-        next_steps = cells[23].get("v") if len(cells) > 23 else ""
-        if next_steps:
-            next_steps = str(next_steps).replace("\r\n", " ").replace("\n", " ").strip()
-        else:
-            next_steps = ""
-        
+    all_global_workload_rows = []
+    all_global_drp_rows = []
+    all_global_accred_rows = []
+    summary_stats = []
+
+    # Map priority workloads to partners
+    PRIORITY_FILE = os.path.join(os.path.dirname(__file__), "steff_priority_workloads.json")
+    ALL_PRIORITY_WIDS = set()
+    PARTNER_TO_PRIORITY_WIDS = {p["partner"]: [] for p in PARTNERS}
+
+    if os.path.exists(PRIORITY_FILE):
+        with open(PRIORITY_FILE, "r", encoding="utf-8") as pf:
+            pe_priority_map = json.load(pf)
+            for pe_wids in pe_priority_map.values():
+                for wid in pe_wids:
+                    ALL_PRIORITY_WIDS.add(wid.strip())
+
+        all_wids_quoted = ", ".join([f"'{x}'" for x in ALL_PRIORITY_WIDS])
+        sql_priorities = f"""
+        SELECT w.workload_id, w.workload_details.partner_id
+        FROM `concord-prod.service_cloudbi.workloads` w
+        WHERE w.workload_id IN ({all_wids_quoted})
+        """
         try:
-            arr_float = float(arr_val)
-            partner_total_arr += arr_float
-            arr_formatted = f"${arr_float:,.2f}"
-        except:
-            arr_formatted = "$0.00"
-            
-        p_url = f"https://vector.lightning.force.com/lightning/r/Account/{row_partner_id}/view" if row_partner_id else ""
-        p_linked = make_hyperlink(p_url, row_partner_name) if p_url else row_partner_name
-        
-        acc_url = f"https://vector.lightning.force.com/lightning/r/Account/{account_id}/view" if account_id else ""
-        acc_linked = make_hyperlink(acc_url, account_name) if acc_url else account_name
-        
-        wkl_url = f"https://vector.lightning.force.com/lightning/r/Workload__c/{workload_id}/view" if workload_id else ""
-        wkl_linked = make_hyperlink(wkl_url, workload_name) if wkl_url else workload_name
-        
-        opp_url = f"https://vector.lightning.force.com/lightning/r/Opportunity/{opportunity_id}/view" if opportunity_id else ""
-        opp_linked = make_hyperlink(opp_url, opportunity_name) if opp_url else opportunity_name
-        
-        er_linked = parse_expert_requests(er_raw)
-        tier = get_account_tier(workload_id, account_id, account_name, segment)
-        
-        matched_drp = match_exact_drp(pillar, sales_play, workload_solution, key_prods)
-        for m_item in matched_drp:
-            drp_workload_demand[m_item] = drp_workload_demand.get(m_item, 0) + 1
-            
-        total_drp_for_wkl = 0
-        if matched_drp:
-            total_drp_for_wkl = max([partner_drp_map.get(m, {}).get("tot", 0) for m in matched_drp])
-            
-        if total_drp_for_wkl == 0:
-            wkl_capacity_status = "🔴 Capacity Gap (0 DRP Profiles)"
-        elif total_drp_for_wkl == 1:
-            wkl_capacity_status = "🟡 Constrained (1 DRP Profile)"
+            _, p_bq_rows = run_query(sql_priorities)
+            pid_to_pname = {}
+            for p in PARTNERS:
+                for pid in p["partner_ids"]:
+                    pid_to_pname[pid] = p["partner"]
+
+            for r in p_bq_rows:
+                wid = r["f"][0].get("v")
+                pid = r["f"][1].get("v")
+                if wid == "aBJKf000009oRYkOAM":
+                    PARTNER_TO_PRIORITY_WIDS["MadeinWeb S/A"].append(wid)
+                elif pid in pid_to_pname:
+                    pname = pid_to_pname[pid]
+                    PARTNER_TO_PRIORITY_WIDS[pname].append(wid)
+                else:
+                    print(f"Warning: priority wid {wid} with partner_id {pid} unmapped!")
+            print(f"Successfully mapped: {sum(len(v) for v in PARTNER_TO_PRIORITY_WIDS.values())} priority workloads across {len([k for k, v in PARTNER_TO_PRIORITY_WIDS.items() if v])} partners.")
+        except Exception as e:
+            print(f"Error mapping priority workloads: {e}")
+
+    import argparse
+    parser = argparse.ArgumentParser(description="Update Partner Decks and Dashboards")
+    parser.add_argument("--pe", type=str, default=None, help="Filter by Partner Engineer name")
+    parser.add_argument("--partner", type=str, default=None, help="Filter by Partner name")
+    args, _ = parser.parse_known_args()
+
+    target_pe = args.pe
+    target_partner = args.partner
+
+    partners_to_process = PARTNERS
+    if target_pe:
+        partners_to_process = [p for p in partners_to_process if target_pe.lower() in p.get("pe", "").lower()]
+    if target_partner:
+        partners_to_process = [p for p in partners_to_process if target_partner.lower() in p.get("partner", "").lower()]
+
+    print(f"Total partners to process: {len(partners_to_process)}")
+
+    for cfg in partners_to_process:
+        pname = cfg["partner"]
+        pe_name = cfg.get("pe", "")
+        ssid = cfg["sheet_id"]
+        pids = ", ".join([f"'{x}'" for x in cfg["partner_ids"]])
+        cert_pids_str = ", ".join([f"'{x}'" for x in cfg["cert_pids"]])
+        drp_keys_str = ", ".join([f"'{x}'" for x in cfg["drp_keys"]])
+        default_pid = cfg["default_pid"]
+        safe_name = pname.replace(" ", "_").replace("(", "_").replace(")", "_").replace("/", "_").replace("&", "_")
+
+        print(f"\n========================================================")
+        print(f"Processing Partner: {pname} (PE: {pe_name})")
+        print(f"Spreadsheet ID: {ssid}")
+        print(f"========================================================")
+
+        # A. DRP PROFILES QUERY
+        sql_drp = f"""
+        WITH Catalog AS (
+          SELECT DISTINCT
+            pillar,
+            sol as solution,
+            COALESCE(p.scored_product, 'All Products') as product
+          FROM `concord-prod.service_partnercoe_general.view_delivery_capacity_dri_profile` p
+          CROSS JOIN UNNEST(p.parent_pillar) pillar
+          CROSS JOIN UNNEST(p.sales_play) sol
+          WHERE pillar IS NOT NULL AND sol IS NOT NULL
+        ),
+        PartnerProfiles AS (
+          SELECT 
+            p.consolidated_partner_id,
+            pillar,
+            sol as solution,
+            COALESCE(p.scored_product, 'All Products') as product,
+            COUNT(DISTINCT IF(p.tier_category = 'Tier 1', p.profile_id, NULL)) as tier1_count,
+            COUNT(DISTINCT IF(p.tier_category = 'Tier 2', p.profile_id, NULL)) as tier2_count,
+            COUNT(DISTINCT IF(p.tier_category IN ('Tier 1', 'Tier 2'), p.profile_id, NULL)) as total_tier1_tier2
+          FROM `concord-prod.service_partnercoe_general.view_delivery_capacity_dri_profile` p
+          CROSS JOIN UNNEST(p.parent_pillar) pillar
+          CROSS JOIN UNNEST(p.sales_play) sol
+          WHERE p.consolidated_partner_id IN ({drp_keys_str})
+          GROUP BY 1, 2, 3, 4
+        )
+        SELECT 
+          c.pillar,
+          c.solution,
+          c.product,
+          COALESCE(pp.tier1_count, 0) as tier1_count,
+          COALESCE(pp.tier2_count, 0) as tier2_count,
+          COALESCE(pp.total_tier1_tier2, 0) as total_tier1_tier2
+        FROM Catalog c
+        LEFT JOIN PartnerProfiles pp
+          ON c.pillar = pp.pillar
+          AND c.solution = pp.solution
+          AND c.product = pp.product
+        ORDER BY c.pillar, c.solution, c.product
+        """
+        _, drp_bq_rows = run_query(sql_drp)
+        partner_drp_map = {}
+        partner_total_drp_capacity = 0
+        for r in drp_bq_rows:
+            pil = r["f"][0].get("v")
+            sol = r["f"][1].get("v")
+            prd = r["f"][2].get("v")
+            t1 = int(r["f"][3].get("v") or 0)
+            t2 = int(r["f"][4].get("v") or 0)
+            tot = int(r["f"][5].get("v") or 0)
+            partner_drp_map[(pil, sol, prd)] = {"t1": t1, "t2": t2, "tot": tot}
+            partner_total_drp_capacity += tot
+
+        # B. WORKLOADS QUERY
+        ensure_followup_tab(ssid)
+        manual_entries = fetch_existing_manual_entries(ssid, "Follow_up")
+        p_priority_wids = PARTNER_TO_PRIORITY_WIDS.get(pname, [])
+        if p_priority_wids:
+            p_wids_str = ", ".join([f"'{x}'" for x in p_priority_wids])
+            priority_clause = f"(w.workload_id IN ({p_wids_str})) OR "
+            order_clause = f"IF(w.workload_id IN ({p_wids_str}), 0, 1), "
         else:
-            wkl_capacity_status = f"🟢 Ready ({total_drp_for_wkl} DRP Profiles)"
-            
-        lt_preserved = ""
-        link_preserved = ""
-        if workload_name in manual_entries:
-            lt_preserved = manual_entries[workload_name].get("last_touch", "")
-            link_preserved = manual_entries[workload_name].get("link", "")
+            priority_clause = ""
+            order_clause = ""
 
-        steff_priority_val = "Priority" if workload_id in ALL_PRIORITY_WIDS else ""
-            
-        # Partner table row: 20 columns (no partner column, includes Workload Owner at col 3, Workload Progress at col 4, Next Steps at col 7, Steff Priority at col 19)
-        row_followup = [
-            acc_linked,             # 0: Customer Account Name
-            tier,                   # 1: Account Tier
-            wkl_linked,             # 2: Workload Name
-            owner_name or "",       # 3: Workload Owner (plain text)
-            progress,               # 4: Workload Progress
-            wkl_capacity_status,    # 5: Capacity Status
-            opp_linked,             # 6: Opportunity Name
-            next_steps,             # 7: Next Steps
-            er_linked,              # 8: Expert Requests
-            sub_region,             # 9: Sub Region
-            micro_region,           # 10: Micro Region
-            pillar,                 # 11: Pillar
-            sales_play,             # 12: Sales Play
-            workload_solution,      # 13: Workload Solution
-            begin_migration_date,   # 14: Begin Migration Date
-            production_date,        # 15: Production Date
-            arr_formatted,          # 16: ARR USD
-            lt_preserved,           # 17: Last Touch
-            link_preserved,         # 18: Link
-            steff_priority_val      # 19: Steff Priority
-        ]
-        partner_workload_rows.append(row_followup)
-        
-        # Global table row: 22 columns (PE is Col 0, Partner Name is Col 1, followed by all 19 workload fields + Steff Priority)
-        global_row = [
-            pe_name,                # 0: Partner Engineer (PE)
-            p_linked,               # 1: Partner Name
-            acc_linked,             # 2: Customer Account Name
-            tier,                   # 3: Account Tier
-            wkl_linked,             # 4: Workload Name
-            owner_name or "",       # 5: Workload Owner (plain text)
-            progress,               # 6: Workload Progress
-            wkl_capacity_status,    # 7: Capacity Status
-            opp_linked,             # 8: Opportunity Name
-            next_steps,             # 9: Next Steps
-            er_linked,              # 10: Expert Requests
-            sub_region,             # 11: Sub Region
-            micro_region,           # 12: Micro Region
-            pillar,                 # 13: Pillar
-            sales_play,             # 14: Sales Play
-            workload_solution,      # 15: Workload Solution
-            begin_migration_date,   # 16: Begin Migration Date
-            production_date,        # 17: Production Date
-            arr_formatted,          # 18: ARR USD
-            lt_preserved,           # 19: Last Touch
-            link_preserved,         # 20: Link
-            steff_priority_val      # 21: Steff Priority
-        ]
-        all_global_workload_rows.append(global_row)
-        
-    # Top 5-row structured block for partner sheet (20 cols)
-    partner_top_block = [
-        ["Partner:", pname, "", "", "Last Update:", DATE_FORMATTED] + [""] * 14,
-        [""] * 20,
-        ["Alert Criteria:", "Target Go-Live risk for active pipeline (Stages 0-2 & 3)", "", "🔴 Critical (≤14d / Overdue)", "🌸 High (15-30d)", "🟡 Medium (31-45d)", "", "⚪ Normal (>45d / Stage 4+)"] + [""] * 12,
-        [""] * 20,
-        PARTNER_FOLLOWUP_HEADERS
-    ]
-    followup_rows = partner_top_block + partner_workload_rows
-    followup_csv = os.path.join("followup_data_latest", f"{safe_name}_followup.csv")
-    with open(followup_csv, "w", newline="", encoding="utf-8") as f:
-        writer = csv.writer(f)
-        writer.writerows(followup_rows)
-        
-    # Overwrite Tab 1: Follow_up
-    sid_followup = ensure_followup_tab(ssid)
-    subprocess.run([GSHEETS, "mutate", "clear", ssid, "'Follow_up'!A1:Z2000"], capture_output=True)
-    subprocess.run([GSHEETS, "mutate", "delete-rows", ssid, "--range", "'Follow_up'!2:2000"], capture_output=True)
-    subprocess.run([GSHEETS, "mutate", "import-csv", ssid, followup_csv, "--sheet", "Follow_up"], capture_output=True)
-    
-    # Get exact grid info
-    grid_info = get_grid_info(ssid)
-    f_info = grid_info.get("Follow_up", {"sheetId": sid_followup, "rowCount": len(followup_rows), "columnCount": 20})
-    sid_followup = f_info["sheetId"]
-    f_rows = f_info["rowCount"]
-    
-    # Freeze row 5 (header)
-    subprocess.run([GSHEETS, "mutate", "freeze", ssid, "--sheet-id", str(sid_followup), "--rows", "5"], capture_output=True)
+        sql_wkl = f"""
+        SELECT 
+          w.workload_id,
+          w.workload_name,
+          w.opportunity_id,
+          o.opportunity_name,
+          COALESCE(w.sfdc_account_id, o.sfdc_account_id) AS sfdc_account_id,
+          COALESCE(w.customer.account_name, o.account_name) AS account_name,
+          COALESCE(w.customer.segment, o.segment) AS segment,
+          COALESCE(w.customer.sub_region, o.sub_region) AS sub_region,
+          COALESCE(w.customer.micro_region, o.micro_region) AS micro_region,
+          w.workload_details.primary_workload_pillar,
+          w.workload_details.sales_play,
+          w.workload_details.workload_solutions,
+          w.workload_details.workload_progress,
+          CAST(w.workload_details.begin_migration_date AS STRING) AS begin_migration_date,
+          CAST(w.workload_details.production_date AS STRING) AS production_date,
+          w.metrics.annual_gross_revenue,
+          w.expert_request,
+          w.workload_details.partner_id,
+          w.workload_details.partner_name,
+          CAST(w.workload_details.sfdc_created_date AS STRING) AS sfdc_created_date,
+          w.workload_details.key_workload_products,
+          w.owner_details.owner_id,
+          w.owner_details.owner_name,
+          w.workload_details.next_steps
+        FROM `concord-prod.service_cloudbi.workloads` w
+        LEFT JOIN `concord-prod.service_cloudbi.opportunities` o
+          ON w.opportunity_id = o.opportunity_id
+        WHERE (
+          {priority_clause}(
+            w.workload_details.partner_id IN ({pids})
+            AND EXTRACT(YEAR FROM w.workload_details.sfdc_created_date) >= 2025
+            AND (w.workload_details.workload_progress IS NULL OR (
+                   LOWER(w.workload_details.workload_progress) NOT LIKE "%closed%"
+                   AND w.workload_details.workload_progress NOT LIKE "5.%"
+                ))
+            AND IFNULL(o.is_commit, FALSE) = FALSE 
+            AND IFNULL(o.forecast_category_name, "") != "Commit"
+          )
+        )
+        ORDER BY {order_clause}w.workload_details.sfdc_created_date DESC, w.metrics.annual_gross_revenue DESC
+        """
+        _, wkl_bq_rows = run_query(sql_wkl)
+        print(f"-> Uncommitted Workloads found: {len(wkl_bq_rows)}")
 
-    # Delete existing conditional formatting rules to prevent accumulation
-    try:
-        res_info = subprocess.run([GSHEETS, "readonly", "info", ssid, "--json"], capture_output=True, text=True)
-        if res_info.returncode == 0 and res_info.stdout.strip():
-            info_data = json.loads(res_info.stdout)
-            for s_item in info_data.get("sheets", []):
-                if s_item.get("properties", {}).get("sheetId") == sid_followup:
-                    cfs = s_item.get("conditionalFormats", [])
-                    if cfs:
-                        del_reqs = [{"deleteConditionalFormatRule": {"sheetId": sid_followup, "index": i}} for i in reversed(range(len(cfs)))]
-                        tmp_cf = f"temp_del_cf_{ssid}.json"
-                        with open(tmp_cf, "w") as df:
-                            json.dump({"requests": del_reqs}, df)
-                        subprocess.run([GSHEETS, "mutate", "raw-batch", ssid, "-f", tmp_cf], capture_output=True)
-                        if os.path.exists(tmp_cf):
-                            os.remove(tmp_cf)
-    except Exception as e:
-        print(f"Warning clearing conditional formats for {ssid}: {e}")
-    
-    # Batch formatting for Follow_up
-    batch_req = {
-      "requests": [
-        # Reset formatting with wrapStrategy CLIP
-        {
-          "repeatCell": {
-            "range": {"sheetId": sid_followup, "startRowIndex": 0, "endRowIndex": f_rows, "startColumnIndex": 0, "endColumnIndex": 20},
-            "cell": {
-              "userEnteredFormat": {
-                "backgroundColor": {"red": 1.0, "green": 1.0, "blue": 1.0},
-                "textFormat": {"foregroundColor": {"red": 0.125, "green": 0.129, "blue": 0.141}, "fontSize": 10, "bold": False, "fontFamily": "Arial"},
-                "verticalAlignment": "MIDDLE",
-                "wrapStrategy": "CLIP"
+        drp_workload_demand = {(pil, sol, prd): 0 for (pil, sol, prd) in drp_catalog}
+        partner_total_arr = 0.0
+
+        partner_workload_rows = []
+        for r in wkl_bq_rows:
+            cells = r["f"]
+            workload_id = cells[0].get("v") or ""
+            workload_name = cells[1].get("v") or ""
+            opportunity_id = cells[2].get("v") or ""
+            opportunity_name = cells[3].get("v") or ""
+            account_id = cells[4].get("v") or ""
+            account_name = cells[5].get("v") or ""
+            segment = cells[6].get("v") or ""
+            sub_region = cells[7].get("v") or ""
+            micro_region = cells[8].get("v") or ""
+            pillar = cells[9].get("v") or ""
+            sales_play = cells[10].get("v") or ""
+            workload_solution = cells[11].get("v") or ""
+            progress = cells[12].get("v") or ""
+            begin_migration_date = cells[13].get("v") or ""
+            production_date = cells[14].get("v") or ""
+            arr_val = cells[15].get("v") or "0"
+            er_raw = cells[16].get("v")
+            row_partner_id = cells[17].get("v") or default_pid
+            row_partner_name = cells[18].get("v") or pname
+            key_prods_raw = cells[20].get("v") if len(cells) > 20 else []
+            key_prods = [x.get("v") for x in key_prods_raw] if isinstance(key_prods_raw, list) else []
+            owner_id = cells[21].get("v") if len(cells) > 21 else ""
+            owner_name = cells[22].get("v") if len(cells) > 22 else ""
+            next_steps = cells[23].get("v") if len(cells) > 23 else ""
+            if next_steps:
+                next_steps = str(next_steps).replace("\r\n", " ").replace("\n", " ").strip()
+            else:
+                next_steps = ""
+
+            try:
+                arr_float = float(arr_val)
+                partner_total_arr += arr_float
+                arr_formatted = f"${arr_float:,.2f}"
+            except:
+                arr_formatted = "$0.00"
+
+            p_url = f"https://vector.lightning.force.com/lightning/r/Account/{row_partner_id}/view" if row_partner_id else ""
+            p_linked = make_hyperlink(p_url, row_partner_name) if p_url else row_partner_name
+
+            acc_url = f"https://vector.lightning.force.com/lightning/r/Account/{account_id}/view" if account_id else ""
+            acc_linked = make_hyperlink(acc_url, account_name) if acc_url else account_name
+
+            wkl_url = f"https://vector.lightning.force.com/lightning/r/Workload__c/{workload_id}/view" if workload_id else ""
+            wkl_linked = make_hyperlink(wkl_url, workload_name) if wkl_url else workload_name
+
+            opp_url = f"https://vector.lightning.force.com/lightning/r/Opportunity/{opportunity_id}/view" if opportunity_id else ""
+            opp_linked = make_hyperlink(opp_url, opportunity_name) if opp_url else opportunity_name
+
+            er_linked = parse_expert_requests(er_raw)
+            tier = get_account_tier(workload_id, account_id, account_name, segment)
+
+            matched_drp = match_exact_drp(pillar, sales_play, workload_solution, key_prods)
+            for m_item in matched_drp:
+                drp_workload_demand[m_item] = drp_workload_demand.get(m_item, 0) + 1
+
+            total_drp_for_wkl = 0
+            if matched_drp:
+                total_drp_for_wkl = max([partner_drp_map.get(m, {}).get("tot", 0) for m in matched_drp])
+
+            if total_drp_for_wkl == 0:
+                wkl_capacity_status = "🔴 Capacity Gap (0 DRP Profiles)"
+            elif total_drp_for_wkl == 1:
+                wkl_capacity_status = "🟡 Constrained (1 DRP Profile)"
+            else:
+                wkl_capacity_status = f"🟢 Ready ({total_drp_for_wkl} DRP Profiles)"
+
+            lt_preserved = ""
+            link_preserved = ""
+            if workload_name in manual_entries:
+                lt_preserved = manual_entries[workload_name].get("last_touch", "")
+                link_preserved = manual_entries[workload_name].get("link", "")
+
+            steff_priority_val = "Priority" if workload_id in ALL_PRIORITY_WIDS else ""
+
+            # Partner table row: 20 columns (no partner column, includes Workload Owner at col 3, Workload Progress at col 4, Next Steps at col 7, Steff Priority at col 19)
+            row_followup = [
+                acc_linked,             # 0: Customer Account Name
+                tier,                   # 1: Account Tier
+                wkl_linked,             # 2: Workload Name
+                owner_name or "",       # 3: Workload Owner (plain text)
+                progress,               # 4: Workload Progress
+                wkl_capacity_status,    # 5: Capacity Status
+                opp_linked,             # 6: Opportunity Name
+                next_steps,             # 7: Next Steps
+                er_linked,              # 8: Expert Requests
+                sub_region,             # 9: Sub Region
+                micro_region,           # 10: Micro Region
+                pillar,                 # 11: Pillar
+                sales_play,             # 12: Sales Play
+                workload_solution,      # 13: Workload Solution
+                begin_migration_date,   # 14: Begin Migration Date
+                production_date,        # 15: Production Date
+                arr_formatted,          # 16: ARR USD
+                lt_preserved,           # 17: Last Touch
+                link_preserved,         # 18: Link
+                steff_priority_val      # 19: Steff Priority
+            ]
+            partner_workload_rows.append(row_followup)
+
+            # Global table row: 22 columns (PE is Col 0, Partner Name is Col 1, followed by all 19 workload fields + Steff Priority)
+            global_row = [
+                pe_name,                # 0: Partner Engineer (PE)
+                p_linked,               # 1: Partner Name
+                acc_linked,             # 2: Customer Account Name
+                tier,                   # 3: Account Tier
+                wkl_linked,             # 4: Workload Name
+                owner_name or "",       # 5: Workload Owner (plain text)
+                progress,               # 6: Workload Progress
+                wkl_capacity_status,    # 7: Capacity Status
+                opp_linked,             # 8: Opportunity Name
+                next_steps,             # 9: Next Steps
+                er_linked,              # 10: Expert Requests
+                sub_region,             # 11: Sub Region
+                micro_region,           # 12: Micro Region
+                pillar,                 # 13: Pillar
+                sales_play,             # 14: Sales Play
+                workload_solution,      # 15: Workload Solution
+                begin_migration_date,   # 16: Begin Migration Date
+                production_date,        # 17: Production Date
+                arr_formatted,          # 18: ARR USD
+                lt_preserved,           # 19: Last Touch
+                link_preserved,         # 20: Link
+                steff_priority_val      # 21: Steff Priority
+            ]
+            all_global_workload_rows.append(global_row)
+
+        # Top 5-row structured block for partner sheet (20 cols)
+        partner_top_block = [
+            ["Partner:", pname, "", "", "Last Update:", DATE_FORMATTED] + [""] * 14,
+            [""] * 20,
+            ["Alert Criteria:", "Target Go-Live risk for active pipeline (Stages 0-2 & 3)", "", "🔴 Critical (≤14d / Overdue)", "🌸 High (15-30d)", "🟡 Medium (31-45d)", "", "⚪ Normal (>45d / Stage 4+)"] + [""] * 12,
+            [""] * 20,
+            PARTNER_FOLLOWUP_HEADERS
+        ]
+        followup_rows = partner_top_block + partner_workload_rows
+        followup_csv = os.path.join("followup_data_latest", f"{safe_name}_followup.csv")
+        with open(followup_csv, "w", newline="", encoding="utf-8") as f:
+            writer = csv.writer(f)
+            writer.writerows(followup_rows)
+
+        # Overwrite Tab 1: Follow_up
+        sid_followup = ensure_followup_tab(ssid)
+        subprocess.run([GSHEETS, "mutate", "clear", ssid, "'Follow_up'!A1:Z2000"], capture_output=True)
+        subprocess.run([GSHEETS, "mutate", "delete-rows", ssid, "--range", "'Follow_up'!2:2000"], capture_output=True)
+        subprocess.run([GSHEETS, "mutate", "import-csv", ssid, followup_csv, "--sheet", "Follow_up"], capture_output=True)
+
+        # Get exact grid info
+        grid_info = get_grid_info(ssid)
+        f_info = grid_info.get("Follow_up", {"sheetId": sid_followup, "rowCount": len(followup_rows), "columnCount": 20})
+        sid_followup = f_info["sheetId"]
+        f_rows = f_info["rowCount"]
+
+        # Freeze row 5 (header)
+        subprocess.run([GSHEETS, "mutate", "freeze", ssid, "--sheet-id", str(sid_followup), "--rows", "5"], capture_output=True)
+
+        # Delete existing conditional formatting rules to prevent accumulation
+        try:
+            res_info = subprocess.run([GSHEETS, "readonly", "info", ssid, "--json"], capture_output=True, text=True)
+            if res_info.returncode == 0 and res_info.stdout.strip():
+                info_data = json.loads(res_info.stdout)
+                for s_item in info_data.get("sheets", []):
+                    if s_item.get("properties", {}).get("sheetId") == sid_followup:
+                        cfs = s_item.get("conditionalFormats", [])
+                        if cfs:
+                            del_reqs = [{"deleteConditionalFormatRule": {"sheetId": sid_followup, "index": i}} for i in reversed(range(len(cfs)))]
+                            tmp_cf = f"temp_del_cf_{ssid}.json"
+                            with open(tmp_cf, "w") as df:
+                                json.dump({"requests": del_reqs}, df)
+                            subprocess.run([GSHEETS, "mutate", "raw-batch", ssid, "-f", tmp_cf], capture_output=True)
+                            if os.path.exists(tmp_cf):
+                                os.remove(tmp_cf)
+        except Exception as e:
+            print(f"Warning clearing conditional formats for {ssid}: {e}")
+
+        # Batch formatting for Follow_up
+        batch_req = {
+          "requests": [
+            # Reset formatting with wrapStrategy CLIP
+            {
+              "repeatCell": {
+                "range": {"sheetId": sid_followup, "startRowIndex": 0, "endRowIndex": f_rows, "startColumnIndex": 0, "endColumnIndex": 20},
+                "cell": {
+                  "userEnteredFormat": {
+                    "backgroundColor": {"red": 1.0, "green": 1.0, "blue": 1.0},
+                    "textFormat": {"foregroundColor": {"red": 0.125, "green": 0.129, "blue": 0.141}, "fontSize": 10, "bold": False, "fontFamily": "Arial"},
+                    "verticalAlignment": "MIDDLE",
+                    "wrapStrategy": "CLIP"
+                  }
+                },
+                "fields": "userEnteredFormat(backgroundColor,textFormat,verticalAlignment,wrapStrategy)"
               }
             },
-            "fields": "userEnteredFormat(backgroundColor,textFormat,verticalAlignment,wrapStrategy)"
-          }
-        },
-        # Unmerge top rows
-        {
-          "unmergeCells": {
-            "range": {"sheetId": sid_followup, "startRowIndex": 0, "endRowIndex": min(10, f_rows), "startColumnIndex": 0, "endColumnIndex": 20}
-          }
-        },
-        # Merges
-        {"mergeCells": {"range": {"sheetId": sid_followup, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 1, "endColumnIndex": 4}, "mergeType": "MERGE_ALL"}},
-        {"mergeCells": {"range": {"sheetId": sid_followup, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 1, "endColumnIndex": 3}, "mergeType": "MERGE_ALL"}},
-        {"mergeCells": {"range": {"sheetId": sid_followup, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 5, "endColumnIndex": 7}, "mergeType": "MERGE_ALL"}},
-        {"mergeCells": {"range": {"sheetId": sid_followup, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 7, "endColumnIndex": 9}, "mergeType": "MERGE_ALL"}},
-        
-        # Row 1 Format
-        {
-          "repeatCell": {
-            "range": {"sheetId": sid_followup, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 0, "endColumnIndex": 1},
-            "cell": {"userEnteredFormat": {"textFormat": {"bold": True, "foregroundColor": {"red": 0.37, "green": 0.39, "blue": 0.41}}, "horizontalAlignment": "RIGHT"}},
-            "fields": "userEnteredFormat(textFormat,horizontalAlignment)"
-          }
-        },
-        {
-          "repeatCell": {
-            "range": {"sheetId": sid_followup, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 1, "endColumnIndex": 4},
-            "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.91, "green": 0.94, "blue": 1.0}, "textFormat": {"bold": True, "fontSize": 11, "foregroundColor": {"red": 0.10, "green": 0.45, "blue": 0.91}}, "horizontalAlignment": "CENTER"}},
-            "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"
-          }
-        },
-        {
-          "repeatCell": {
-            "range": {"sheetId": sid_followup, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 4, "endColumnIndex": 5},
-            "cell": {"userEnteredFormat": {"textFormat": {"bold": True, "foregroundColor": {"red": 0.37, "green": 0.39, "blue": 0.41}}, "horizontalAlignment": "RIGHT"}},
-            "fields": "userEnteredFormat(textFormat,horizontalAlignment)"
-          }
-        },
-        {
-          "repeatCell": {
-            "range": {"sheetId": sid_followup, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 5, "endColumnIndex": 6},
-            "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.90, "green": 0.96, "blue": 0.92}, "textFormat": {"bold": True, "foregroundColor": {"red": 0.07, "green": 0.45, "blue": 0.20}}, "horizontalAlignment": "CENTER"}},
-            "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"
-          }
-        },
+            # Unmerge top rows
+            {
+              "unmergeCells": {
+                "range": {"sheetId": sid_followup, "startRowIndex": 0, "endRowIndex": min(10, f_rows), "startColumnIndex": 0, "endColumnIndex": 20}
+              }
+            },
+            # Merges
+            {"mergeCells": {"range": {"sheetId": sid_followup, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 1, "endColumnIndex": 4}, "mergeType": "MERGE_ALL"}},
+            {"mergeCells": {"range": {"sheetId": sid_followup, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 1, "endColumnIndex": 3}, "mergeType": "MERGE_ALL"}},
+            {"mergeCells": {"range": {"sheetId": sid_followup, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 5, "endColumnIndex": 7}, "mergeType": "MERGE_ALL"}},
+            {"mergeCells": {"range": {"sheetId": sid_followup, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 7, "endColumnIndex": 9}, "mergeType": "MERGE_ALL"}},
 
-        # Row 3 Format (Light Purple for Alert Criteria)
-        {
-          "repeatCell": {
-            "range": {"sheetId": sid_followup, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 0, "endColumnIndex": 1},
-            "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.953, "green": 0.910, "blue": 0.992}, "textFormat": {"bold": True, "fontSize": 9, "foregroundColor": {"red": 0.408, "green": 0.114, "blue": 0.659}}, "horizontalAlignment": "RIGHT"}},
-            "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"
-          }
-        },
-        {
-          "repeatCell": {
-            "range": {"sheetId": sid_followup, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 1, "endColumnIndex": 3},
-            "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.953, "green": 0.910, "blue": 0.992}, "textFormat": {"italic": True, "fontSize": 9, "foregroundColor": {"red": 0.408, "green": 0.114, "blue": 0.659}}, "horizontalAlignment": "LEFT"}},
-            "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"
-          }
-        },
-        {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 3, "endColumnIndex": 4}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.949, "green": 0.545, "blue": 0.510}, "textFormat": {"bold": True, "fontSize": 9, "foregroundColor": {"red": 0.40, "green": 0.05, "blue": 0.05}}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
-        {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 4, "endColumnIndex": 5}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 1.0, "green": 0.718, "blue": 0.302}, "textFormat": {"bold": True, "fontSize": 9, "foregroundColor": {"red": 0.45, "green": 0.15, "blue": 0.0}}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
-        {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 5, "endColumnIndex": 7}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 1.0, "green": 0.961, "blue": 0.616}, "textFormat": {"bold": True, "fontSize": 9, "foregroundColor": {"red": 0.45, "green": 0.30, "blue": 0.0}}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
-        {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 7, "endColumnIndex": 9}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.945, "green": 0.953, "blue": 0.957}, "textFormat": {"bold": True, "fontSize": 9, "foregroundColor": {"red": 0.37, "green": 0.39, "blue": 0.41}}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
+            # Row 1 Format
+            {
+              "repeatCell": {
+                "range": {"sheetId": sid_followup, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 0, "endColumnIndex": 1},
+                "cell": {"userEnteredFormat": {"textFormat": {"bold": True, "foregroundColor": {"red": 0.37, "green": 0.39, "blue": 0.41}}, "horizontalAlignment": "RIGHT"}},
+                "fields": "userEnteredFormat(textFormat,horizontalAlignment)"
+              }
+            },
+            {
+              "repeatCell": {
+                "range": {"sheetId": sid_followup, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 1, "endColumnIndex": 4},
+                "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.91, "green": 0.94, "blue": 1.0}, "textFormat": {"bold": True, "fontSize": 11, "foregroundColor": {"red": 0.10, "green": 0.45, "blue": 0.91}}, "horizontalAlignment": "CENTER"}},
+                "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"
+              }
+            },
+            {
+              "repeatCell": {
+                "range": {"sheetId": sid_followup, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 4, "endColumnIndex": 5},
+                "cell": {"userEnteredFormat": {"textFormat": {"bold": True, "foregroundColor": {"red": 0.37, "green": 0.39, "blue": 0.41}}, "horizontalAlignment": "RIGHT"}},
+                "fields": "userEnteredFormat(textFormat,horizontalAlignment)"
+              }
+            },
+            {
+              "repeatCell": {
+                "range": {"sheetId": sid_followup, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 5, "endColumnIndex": 6},
+                "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.90, "green": 0.96, "blue": 0.92}, "textFormat": {"bold": True, "foregroundColor": {"red": 0.07, "green": 0.45, "blue": 0.20}}, "horizontalAlignment": "CENTER"}},
+                "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"
+              }
+            },
 
-        # Row 5 Main Header (Cols 0-16 Google Blue, Cols 17-18 Forest Green, Col 19 Google Blue)
-        {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 4, "endRowIndex": 5, "startColumnIndex": 0, "endColumnIndex": 17}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.102, "green": 0.451, "blue": 0.910}, "textFormat": {"bold": True, "fontSize": 10, "foregroundColor": {"red": 1.0, "green": 1.0, "blue": 1.0}}, "horizontalAlignment": "CENTER", "verticalAlignment": "MIDDLE", "wrapStrategy": "WRAP"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment,verticalAlignment,wrapStrategy)"}},
-        {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 4, "endRowIndex": 5, "startColumnIndex": 17, "endColumnIndex": 19}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.075, "green": 0.451, "blue": 0.200}, "textFormat": {"bold": True, "fontSize": 10, "foregroundColor": {"red": 1.0, "green": 1.0, "blue": 1.0}}, "horizontalAlignment": "CENTER", "verticalAlignment": "MIDDLE", "wrapStrategy": "WRAP"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment,verticalAlignment,wrapStrategy)"}},
-        {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 4, "endRowIndex": 5, "startColumnIndex": 19, "endColumnIndex": 20}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.102, "green": 0.451, "blue": 0.910}, "textFormat": {"bold": True, "fontSize": 10, "foregroundColor": {"red": 1.0, "green": 1.0, "blue": 1.0}}, "horizontalAlignment": "CENTER", "verticalAlignment": "MIDDLE", "wrapStrategy": "WRAP"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment,verticalAlignment,wrapStrategy)"}},
+            # Row 3 Format (Light Purple for Alert Criteria)
+            {
+              "repeatCell": {
+                "range": {"sheetId": sid_followup, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 0, "endColumnIndex": 1},
+                "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.953, "green": 0.910, "blue": 0.992}, "textFormat": {"bold": True, "fontSize": 9, "foregroundColor": {"red": 0.408, "green": 0.114, "blue": 0.659}}, "horizontalAlignment": "RIGHT"}},
+                "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"
+              }
+            },
+            {
+              "repeatCell": {
+                "range": {"sheetId": sid_followup, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 1, "endColumnIndex": 3},
+                "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.953, "green": 0.910, "blue": 0.992}, "textFormat": {"italic": True, "fontSize": 9, "foregroundColor": {"red": 0.408, "green": 0.114, "blue": 0.659}}, "horizontalAlignment": "LEFT"}},
+                "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"
+              }
+            },
+            {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 3, "endColumnIndex": 4}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.949, "green": 0.545, "blue": 0.510}, "textFormat": {"bold": True, "fontSize": 9, "foregroundColor": {"red": 0.40, "green": 0.05, "blue": 0.05}}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
+            {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 4, "endColumnIndex": 5}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 1.0, "green": 0.718, "blue": 0.302}, "textFormat": {"bold": True, "fontSize": 9, "foregroundColor": {"red": 0.45, "green": 0.15, "blue": 0.0}}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
+            {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 5, "endColumnIndex": 7}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 1.0, "green": 0.961, "blue": 0.616}, "textFormat": {"bold": True, "fontSize": 9, "foregroundColor": {"red": 0.45, "green": 0.30, "blue": 0.0}}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
+            {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 7, "endColumnIndex": 9}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.945, "green": 0.953, "blue": 0.957}, "textFormat": {"bold": True, "fontSize": 9, "foregroundColor": {"red": 0.37, "green": 0.39, "blue": 0.41}}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
 
-        # Data Rows Formatting
-        # Left-aligned text with wrapStrategy CLIP
-        {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 0, "endColumnIndex": 1}, "cell": {"userEnteredFormat": {"horizontalAlignment": "LEFT", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
-        {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 2, "endColumnIndex": 5}, "cell": {"userEnteredFormat": {"horizontalAlignment": "LEFT", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
-        {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 6, "endColumnIndex": 14}, "cell": {"userEnteredFormat": {"horizontalAlignment": "LEFT", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
-        # Centered columns: Tier (Col 1), Capacity (Col 5), Dates (Cols 14-15)
-        {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 1, "endColumnIndex": 2}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
-        {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 5, "endColumnIndex": 6}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
-        {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 14, "endColumnIndex": 16}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
-        # ARR Currency (Col 16)
-        {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 16, "endColumnIndex": 17}, "cell": {"userEnteredFormat": {"horizontalAlignment": "RIGHT", "wrapStrategy": "CLIP", "numberFormat": {"type": "CURRENCY", "pattern": "$#,##0.00"}}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy,numberFormat)"}},
-        # Manual Note Columns (Cols 17-18)
-        {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 17, "endColumnIndex": 19}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.945, "green": 0.980, "blue": 0.957}, "horizontalAlignment": "LEFT", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(backgroundColor,horizontalAlignment,wrapStrategy)"}},
-        # Steff Priority (Col 19)
-        {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 19, "endColumnIndex": 20}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER", "textFormat": {"bold": True}, "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,textFormat,wrapStrategy)"}},
+            # Row 5 Main Header (Cols 0-16 Google Blue, Cols 17-18 Forest Green, Col 19 Google Blue)
+            {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 4, "endRowIndex": 5, "startColumnIndex": 0, "endColumnIndex": 17}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.102, "green": 0.451, "blue": 0.910}, "textFormat": {"bold": True, "fontSize": 10, "foregroundColor": {"red": 1.0, "green": 1.0, "blue": 1.0}}, "horizontalAlignment": "CENTER", "verticalAlignment": "MIDDLE", "wrapStrategy": "WRAP"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment,verticalAlignment,wrapStrategy)"}},
+            {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 4, "endRowIndex": 5, "startColumnIndex": 17, "endColumnIndex": 19}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.075, "green": 0.451, "blue": 0.200}, "textFormat": {"bold": True, "fontSize": 10, "foregroundColor": {"red": 1.0, "green": 1.0, "blue": 1.0}}, "horizontalAlignment": "CENTER", "verticalAlignment": "MIDDLE", "wrapStrategy": "WRAP"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment,verticalAlignment,wrapStrategy)"}},
+            {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 4, "endRowIndex": 5, "startColumnIndex": 19, "endColumnIndex": 20}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.102, "green": 0.451, "blue": 0.910}, "textFormat": {"bold": True, "fontSize": 10, "foregroundColor": {"red": 1.0, "green": 1.0, "blue": 1.0}}, "horizontalAlignment": "CENTER", "verticalAlignment": "MIDDLE", "wrapStrategy": "WRAP"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment,verticalAlignment,wrapStrategy)"}},
 
-        # Hyperlinks (Cols 0, 2, 6)
-        {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 0, "endColumnIndex": 1}, "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}}, "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"}},
-        {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 2, "endColumnIndex": 3}, "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}}, "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"}},
-        {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 6, "endColumnIndex": 7}, "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}}, "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"}},
+            # Data Rows Formatting
+            # Left-aligned text with wrapStrategy CLIP
+            {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 0, "endColumnIndex": 1}, "cell": {"userEnteredFormat": {"horizontalAlignment": "LEFT", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
+            {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 2, "endColumnIndex": 5}, "cell": {"userEnteredFormat": {"horizontalAlignment": "LEFT", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
+            {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 6, "endColumnIndex": 14}, "cell": {"userEnteredFormat": {"horizontalAlignment": "LEFT", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
+            # Centered columns: Tier (Col 1), Capacity (Col 5), Dates (Cols 14-15)
+            {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 1, "endColumnIndex": 2}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
+            {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 5, "endColumnIndex": 6}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
+            {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 14, "endColumnIndex": 16}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
+            # ARR Currency (Col 16)
+            {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 16, "endColumnIndex": 17}, "cell": {"userEnteredFormat": {"horizontalAlignment": "RIGHT", "wrapStrategy": "CLIP", "numberFormat": {"type": "CURRENCY", "pattern": "$#,##0.00"}}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy,numberFormat)"}},
+            # Manual Note Columns (Cols 17-18)
+            {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 17, "endColumnIndex": 19}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.945, "green": 0.980, "blue": 0.957}, "horizontalAlignment": "LEFT", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(backgroundColor,horizontalAlignment,wrapStrategy)"}},
+            # Steff Priority (Col 19)
+            {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 19, "endColumnIndex": 20}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER", "textFormat": {"bold": True}, "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,textFormat,wrapStrategy)"}},
 
-        # Borders
-        {
-          "updateBorders": {
-            "range": {"sheetId": sid_followup, "startRowIndex": 4, "endRowIndex": f_rows, "startColumnIndex": 0, "endColumnIndex": 20},
-            "top": {"style": "SOLID", "color": {"red": 0.8, "green": 0.8, "blue": 0.8}},
-            "bottom": {"style": "SOLID", "color": {"red": 0.8, "green": 0.8, "blue": 0.8}},
-            "left": {"style": "SOLID", "color": {"red": 0.8, "green": 0.8, "blue": 0.8}},
-            "right": {"style": "SOLID", "color": {"red": 0.8, "green": 0.8, "blue": 0.8}},
-            "innerHorizontal": {"style": "SOLID", "color": {"red": 0.9, "green": 0.9, "blue": 0.9}},
-            "innerVertical": {"style": "SOLID", "color": {"red": 0.9, "green": 0.9, "blue": 0.9}}
-          }
-        },
-        # Basic Filter
-        {"clearBasicFilter": {"sheetId": sid_followup}},
-        {"setBasicFilter": {"filter": {"range": {"sheetId": sid_followup, "startRowIndex": 4, "endRowIndex": f_rows, "startColumnIndex": 0, "endColumnIndex": 20}}}},
+            # Hyperlinks (Cols 0, 2, 6)
+            {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 0, "endColumnIndex": 1}, "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}}, "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"}},
+            {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 2, "endColumnIndex": 3}, "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}}, "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"}},
+            {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 6, "endColumnIndex": 7}, "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}}, "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"}},
 
-        # Conditional Formatting Rules (Progress is Col E [$E6], Production Date is Col P [$P6])
-        {"addConditionalFormatRule": {"rule": {"ranges": [{"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 0, "endColumnIndex": 20}], "booleanRule": {"condition": {"type": "CUSTOM_FORMULA", "values": [{"userEnteredValue": "=AND(OR(LEFT($E6,3)=\"0-2\",LEFT($E6,2)=\"3:\"), $P6<>\"\", ($P6-TODAY())<=14)"}]}, "format": {"backgroundColor": {"red": 0.949, "green": 0.545, "blue": 0.510}}}}, "index": 0}},
-        {"addConditionalFormatRule": {"rule": {"ranges": [{"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 0, "endColumnIndex": 20}], "booleanRule": {"condition": {"type": "CUSTOM_FORMULA", "values": [{"userEnteredValue": "=AND(OR(LEFT($E6,3)=\"0-2\",LEFT($E6,2)=\"3:\"), $P6<>\"\", ($P6-TODAY())>=15, ($P6-TODAY())<=30)"}]}, "format": {"backgroundColor": {"red": 1.0, "green": 0.718, "blue": 0.302}}}}, "index": 1}},
-        {"addConditionalFormatRule": {"rule": {"ranges": [{"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 0, "endColumnIndex": 20}], "booleanRule": {"condition": {"type": "CUSTOM_FORMULA", "values": [{"userEnteredValue": "=AND(OR(LEFT($E6,3)=\"0-2\",LEFT($E6,2)=\"3:\"), $P6<>\"\", ($P6-TODAY())>=31, ($P6-TODAY())<=45)"}]}, "format": {"backgroundColor": {"red": 1.0, "green": 0.961, "blue": 0.616}}}}, "index": 2}},
+            # Borders
+            {
+              "updateBorders": {
+                "range": {"sheetId": sid_followup, "startRowIndex": 4, "endRowIndex": f_rows, "startColumnIndex": 0, "endColumnIndex": 20},
+                "top": {"style": "SOLID", "color": {"red": 0.8, "green": 0.8, "blue": 0.8}},
+                "bottom": {"style": "SOLID", "color": {"red": 0.8, "green": 0.8, "blue": 0.8}},
+                "left": {"style": "SOLID", "color": {"red": 0.8, "green": 0.8, "blue": 0.8}},
+                "right": {"style": "SOLID", "color": {"red": 0.8, "green": 0.8, "blue": 0.8}},
+                "innerHorizontal": {"style": "SOLID", "color": {"red": 0.9, "green": 0.9, "blue": 0.9}},
+                "innerVertical": {"style": "SOLID", "color": {"red": 0.9, "green": 0.9, "blue": 0.9}}
+              }
+            },
+            # Basic Filter
+            {"clearBasicFilter": {"sheetId": sid_followup}},
+            {"setBasicFilter": {"filter": {"range": {"sheetId": sid_followup, "startRowIndex": 4, "endRowIndex": f_rows, "startColumnIndex": 0, "endColumnIndex": 20}}}},
 
-        # Row heights
-        {"updateDimensionProperties": {"range": {"sheetId": sid_followup, "dimension": "ROWS", "startIndex": 0, "endIndex": 1}, "properties": {"pixelSize": 30}, "fields": "pixelSize"}},
-        {"updateDimensionProperties": {"range": {"sheetId": sid_followup, "dimension": "ROWS", "startIndex": 1, "endIndex": 2}, "properties": {"pixelSize": 8}, "fields": "pixelSize"}},
-        {"updateDimensionProperties": {"range": {"sheetId": sid_followup, "dimension": "ROWS", "startIndex": 2, "endIndex": 3}, "properties": {"pixelSize": 28}, "fields": "pixelSize"}},
-        {"updateDimensionProperties": {"range": {"sheetId": sid_followup, "dimension": "ROWS", "startIndex": 3, "endIndex": 4}, "properties": {"pixelSize": 8}, "fields": "pixelSize"}},
-        {"updateDimensionProperties": {"range": {"sheetId": sid_followup, "dimension": "ROWS", "startIndex": 4, "endIndex": 5}, "properties": {"pixelSize": 36}, "fields": "pixelSize"}},
-        {"updateDimensionProperties": {"range": {"sheetId": sid_followup, "dimension": "ROWS", "startIndex": 5, "endIndex": f_rows}, "properties": {"pixelSize": 26}, "fields": "pixelSize"}}
-      ]
-    }
-    
-    # Zebra striping
-    for r_idx in range(5, f_rows):
-        if r_idx % 2 == 1:
-            batch_req["requests"].append({
-                "repeatCell": {
-                    "range": {"sheetId": sid_followup, "startRowIndex": r_idx, "endRowIndex": r_idx + 1, "startColumnIndex": 0, "endColumnIndex": 17},
-                    "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.973, "green": 0.976, "blue": 0.980}}},
-                    "fields": "userEnteredFormat(backgroundColor)"
-                }
-            })
+            # Conditional Formatting Rules (Progress is Col E [$E6], Production Date is Col P [$P6])
+            {"addConditionalFormatRule": {"rule": {"ranges": [{"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 0, "endColumnIndex": 20}], "booleanRule": {"condition": {"type": "CUSTOM_FORMULA", "values": [{"userEnteredValue": "=AND(OR(LEFT($E6,3)=\"0-2\",LEFT($E6,2)=\"3:\"), $P6<>\"\", ($P6-TODAY())<=14)"}]}, "format": {"backgroundColor": {"red": 0.949, "green": 0.545, "blue": 0.510}}}}, "index": 0}},
+            {"addConditionalFormatRule": {"rule": {"ranges": [{"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 0, "endColumnIndex": 20}], "booleanRule": {"condition": {"type": "CUSTOM_FORMULA", "values": [{"userEnteredValue": "=AND(OR(LEFT($E6,3)=\"0-2\",LEFT($E6,2)=\"3:\"), $P6<>\"\", ($P6-TODAY())>=15, ($P6-TODAY())<=30)"}]}, "format": {"backgroundColor": {"red": 1.0, "green": 0.718, "blue": 0.302}}}}, "index": 1}},
+            {"addConditionalFormatRule": {"rule": {"ranges": [{"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 0, "endColumnIndex": 20}], "booleanRule": {"condition": {"type": "CUSTOM_FORMULA", "values": [{"userEnteredValue": "=AND(OR(LEFT($E6,3)=\"0-2\",LEFT($E6,2)=\"3:\"), $P6<>\"\", ($P6-TODAY())>=31, ($P6-TODAY())<=45)"}]}, "format": {"backgroundColor": {"red": 1.0, "green": 0.961, "blue": 0.616}}}}, "index": 2}},
 
-    # Column widths
-    for col_idx, width in PARTNER_COL_WIDTHS.items():
-        batch_req["requests"].append({
-            "updateDimensionProperties": {
-                "range": {"sheetId": sid_followup, "dimension": "COLUMNS", "startIndex": col_idx, "endIndex": col_idx + 1},
-                "properties": {"pixelSize": width},
-                "fields": "pixelSize"
-            }
-        })
+            # Row heights
+            {"updateDimensionProperties": {"range": {"sheetId": sid_followup, "dimension": "ROWS", "startIndex": 0, "endIndex": 1}, "properties": {"pixelSize": 30}, "fields": "pixelSize"}},
+            {"updateDimensionProperties": {"range": {"sheetId": sid_followup, "dimension": "ROWS", "startIndex": 1, "endIndex": 2}, "properties": {"pixelSize": 8}, "fields": "pixelSize"}},
+            {"updateDimensionProperties": {"range": {"sheetId": sid_followup, "dimension": "ROWS", "startIndex": 2, "endIndex": 3}, "properties": {"pixelSize": 28}, "fields": "pixelSize"}},
+            {"updateDimensionProperties": {"range": {"sheetId": sid_followup, "dimension": "ROWS", "startIndex": 3, "endIndex": 4}, "properties": {"pixelSize": 8}, "fields": "pixelSize"}},
+            {"updateDimensionProperties": {"range": {"sheetId": sid_followup, "dimension": "ROWS", "startIndex": 4, "endIndex": 5}, "properties": {"pixelSize": 36}, "fields": "pixelSize"}},
+            {"updateDimensionProperties": {"range": {"sheetId": sid_followup, "dimension": "ROWS", "startIndex": 5, "endIndex": f_rows}, "properties": {"pixelSize": 26}, "fields": "pixelSize"}}
+          ]
+        }
 
-    # Format ER column if has links
-    for r_idx in range(5, f_rows):
-        if r_idx < len(followup_rows):
-            val = followup_rows[r_idx][8]
-            if "ER-" in val and ("HYPERLINK" in val or "http" in val):
+        # Zebra striping
+        for r_idx in range(5, f_rows):
+            if r_idx % 2 == 1:
                 batch_req["requests"].append({
                     "repeatCell": {
-                        "range": {"sheetId": sid_followup, "startRowIndex": r_idx, "endRowIndex": r_idx + 1, "startColumnIndex": 8, "endColumnIndex": 9},
-                        "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}},
-                        "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"
+                        "range": {"sheetId": sid_followup, "startRowIndex": r_idx, "endRowIndex": r_idx + 1, "startColumnIndex": 0, "endColumnIndex": 17},
+                        "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.973, "green": 0.976, "blue": 0.980}}},
+                        "fields": "userEnteredFormat(backgroundColor)"
                     }
                 })
 
-    # Execute Batch Request
-    tmp_batch = f"temp_batch_{ssid}.json"
-    with open(tmp_batch, "w") as f:
-        json.dump(batch_req, f)
-    subprocess.run([GSHEETS, "mutate", "raw-batch", ssid, "-f", tmp_batch], capture_output=True)
-    if os.path.exists(tmp_batch):
-        os.remove(tmp_batch)
-        
-    # C. DRP STATUS TAB
-    drp_rows = [DRP_HEADERS]
-    for (pil, sol, prd) in drp_catalog:
-        d_info = partner_drp_map.get((pil, sol, prd), {"t1": 0, "t2": 0, "tot": 0})
-        t1_str = str(d_info["t1"]) if d_info["t1"] > 0 else ""
-        t2_str = str(d_info["t2"]) if d_info["t2"] > 0 else ""
-        tot_val = d_info["tot"]
-        tot_str = str(tot_val) if tot_val > 0 else ""
-        
-        w_demand = drp_workload_demand.get((pil, sol, prd), 0)
-        
-        if w_demand > 0 and tot_val == 0:
-            status_dot = f"🔴 Gap (0 DRP / {w_demand} wkls)"
-        elif w_demand > 0 and tot_val < w_demand:
-            status_dot = f"🟡 Constrained ({tot_val} DRP / {w_demand} wkls)"
-        elif tot_val >= w_demand and (tot_val > 0 or w_demand > 0):
-            status_dot = f"🟢 Ready ({tot_val} DRP / {w_demand} wkls)" if w_demand > 0 else f"🟢 Ready ({tot_val} profiles)"
-        else:
-            status_dot = "⚪ No Active Demand"
-            
-        drp_rows.append([pil, sol, prd, t1_str, t2_str, tot_str, status_dot])
-        all_global_drp_rows.append([pname, pil, sol, prd, t1_str, t2_str, tot_str, status_dot])
-        
-    drp_csv = os.path.join("drp_data_latest", f"{safe_name}_drp.csv")
-    with open(drp_csv, "w", newline="", encoding="utf-8") as f:
-        writer = csv.writer(f)
-        writer.writerows(drp_rows)
-        
-    tab_drp = "DRP_Status"
-    sid_drp = ensure_sheet_tab(ssid, tab_drp)
-    subprocess.run([GSHEETS, "mutate", "clear", ssid, f"'{tab_drp}'!A1:Z1000"], capture_output=True)
-    subprocess.run([GSHEETS, "mutate", "delete-rows", ssid, "--range", f"'{tab_drp}'!2:1000"], capture_output=True)
-    subprocess.run([GSHEETS, "mutate", "import-csv", ssid, drp_csv, "--sheet", tab_drp], capture_output=True)
-    
-    # D. ACCREDITATIONS TAB
-    sql_certs = f"""
-    SELECT 
-      p.certification_details.certification_name,
-      p.certification_details.certification_type,
-      p.certification_details.certification_sub_type,
-      p.partner_contact_profile_details.profile_name,
-      p.partner_contact_profile_details.lms_user_email,
-      CAST(p.certification_details.certification_issued_date AS STRING) as issued_date,
-      CAST(p.certification_details.certification_expiration_date AS STRING) as expiration_date,
-      p.partner_details.partner_name
-    FROM `concord-prod.service_cloudbi.partner_certifications` p
-    WHERE p.partner_details.sfdc_partner_id IN ({cert_pids_str})
-      AND p.reporting_month = (SELECT MAX(reporting_month) FROM `concord-prod.service_cloudbi.partner_certifications`)
-    ORDER BY p.certification_details.certification_type, p.certification_details.certification_name, p.partner_contact_profile_details.profile_name
-    """
-    _, rows_certs = run_query(sql_certs)
-    partner_total_certs = len(rows_certs)
-    
-    accred_rows = [ACCRED_HEADERS]
-    if rows_certs:
-        for r in rows_certs:
-            cname = r["f"][0].get("v") or ""
-            ctype = r["f"][1].get("v") or ""
-            csubtype = r["f"][2].get("v") or ""
-            pname_cand = r["f"][3].get("v") or ""
-            pemail_cand = r["f"][4].get("v") or ""
-            issued = r["f"][5].get("v") or ""
-            exp = r["f"][6].get("v") or ""
-            entity = r["f"][7].get("v") or ""
-            accred_rows.append([cname, ctype, csubtype, pname_cand, pemail_cand, issued, exp, entity])
-            all_global_accred_rows.append([pname, cname, ctype, csubtype, pname_cand, pemail_cand, issued, exp, entity])
-    else:
-        accred_rows.append(["No active accreditations found", "-", "-", "-", "-", "-", "-", "-"])
-        all_global_accred_rows.append([pname, "No active accreditations found", "-", "-", "-", "-", "-", "-", "-"])
-        
-    accred_csv = os.path.join("accred_data_latest", f"{safe_name}_accred.csv")
-    with open(accred_csv, "w", newline="", encoding="utf-8") as f:
-        writer = csv.writer(f)
-        writer.writerows(accred_rows)
-        
-    tab_accred = "Acreditaciones"
-    sid_accred = ensure_sheet_tab(ssid, tab_accred)
-    subprocess.run([GSHEETS, "mutate", "clear", ssid, f"'{tab_accred}'!A1:Z3000"], capture_output=True)
-    subprocess.run([GSHEETS, "mutate", "delete-rows", ssid, "--range", f"'{tab_accred}'!2:3000"], capture_output=True)
-    subprocess.run([GSHEETS, "mutate", "import-csv", ssid, accred_csv, "--sheet", tab_accred], capture_output=True)
-    
-    summary_stats.append({
-        "pe": pe_name,
-        "partner": pname,
-        "country": cfg["country"],
-        "track": cfg["tier_level"],
-        "default_pid": default_pid,
-        "sheet_id": ssid,
-        "workloads_count": len(wkl_bq_rows),
-        "total_arr": partner_total_arr,
-        "drp_capacities": partner_total_drp_capacity,
-        "certs_count": partner_total_certs
-    })
-    print(f"✓ Updated partner tracker for {pname} with Workload Owner column.")
-
-# =========================================================================
-# E. UPDATE GLOBAL PARTNER MANAGEMENT DASHBOARD
-# =========================================================================
-print("\n========================================================")
-print("UPDATING GLOBAL PARTNER MANAGEMENT DASHBOARD")
-print(f"Spreadsheet ID: {GLOBAL_SSID}")
-print("========================================================")
-
-# 1. Executive_Summary (9 columns: PE as Col 0)
-summary_headers = [
-    "Partner Engineer (PE)",
-    "Partner Name",
-    "Country / Headquarters",
-    "Partner Advantage Track",
-    "Uncommitted Workloads (#)",
-    "Total Pipeline ARR ($ USD)",
-    "DRP Profile Capacities (#)",
-    "Active Accreditations / Certs (#)",
-    "Partner Action Tracker Spreadsheet"
-]
-summary_rows = [summary_headers]
-tot_all_wkls = sum(s["workloads_count"] for s in summary_stats)
-tot_all_arr = sum(s["total_arr"] for s in summary_stats)
-tot_all_drp = sum(s["drp_capacities"] for s in summary_stats)
-tot_all_certs = sum(s["certs_count"] for s in summary_stats)
-
-for s in summary_stats:
-    p_url = f"https://vector.lightning.force.com/lightning/r/Account/{s['default_pid']}/view"
-    p_link = make_hyperlink(p_url, s["partner"])
-    tracker_url = f"https://docs.google.com/spreadsheets/d/{s['sheet_id']}/edit#gid=0"
-    tracker_link = make_hyperlink(tracker_url, "Open Partner Tracker ↗")
-    summary_rows.append([
-        s["pe"],
-        p_link,
-        s["country"],
-        s["track"],
-        str(s["workloads_count"]),
-        f"${s['total_arr']:,.2f}",
-        str(s["drp_capacities"]),
-        str(s["certs_count"]),
-        tracker_link
-    ])
-
-summary_rows.append([
-    f"TOTAL (All {len(PARTNERS)} Partners)",
-    "-",
-    "-",
-    "-",
-    str(tot_all_wkls),
-    f"${tot_all_arr:,.2f}",
-    str(tot_all_drp),
-    str(tot_all_certs),
-    "-"
-])
-
-exec_csv = "global_dashboard_data/executive_summary_latest.csv"
-with open(exec_csv, "w", newline="", encoding="utf-8") as f:
-    writer = csv.writer(f)
-    writer.writerows(summary_rows)
-
-sid_exec = ensure_sheet_tab(GLOBAL_SSID, "Executive_Summary")
-subprocess.run([GSHEETS, "mutate", "clear", GLOBAL_SSID, "'Executive_Summary'!A1:Z500"], capture_output=True)
-subprocess.run([GSHEETS, "mutate", "delete-rows", GLOBAL_SSID, "--range", "'Executive_Summary'!2:500"], capture_output=True)
-subprocess.run([GSHEETS, "mutate", "import-csv", GLOBAL_SSID, exec_csv, "--sheet", "Executive_Summary"], capture_output=True)
-if sid_exec is not None:
-    subprocess.run([GSHEETS, "mutate", "freeze", GLOBAL_SSID, "--sheet-id", str(sid_exec), "--rows", "1"], capture_output=True)
-    subprocess.run([
-        GSHEETS, "mutate", "format", GLOBAL_SSID,
-        "--sheet-id", str(sid_exec),
-        "--start-row", "0", "--end-row", "1",
-        "--start-col", "0", "--end-col", "9",
-        "--bold",
-        "--bg-color", "#1A73E8",
-        "--align", "CENTER",
-        "--wrap"
-    ], capture_output=True)
-    subprocess.run([
-        GSHEETS, "mutate", "format", GLOBAL_SSID,
-        "--sheet-id", str(sid_exec),
-        "--start-row", str(len(summary_rows)-1), "--end-row", str(len(summary_rows)),
-        "--start-col", "0", "--end-col", "9",
-        "--bold",
-        "--bg-color", "#E8F0FE"
-    ], capture_output=True)
-    subprocess.run([
-        GSHEETS, "mutate", "format", GLOBAL_SSID,
-        "--sheet-id", str(sid_exec),
-        "--start-row", "1", "--end-row", str(len(summary_rows)),
-        "--start-col", "4", "--end-col", "8",
-        "--align", "CENTER"
-    ], capture_output=True)
-    subprocess.run([GSHEETS, "mutate", "autosize", GLOBAL_SSID, "--sheet-id", str(sid_exec), "--start-col", "0", "--end-col", "9"], capture_output=True)
-print("✓ Updated Global Executive_Summary")
-
-# 2. All_Workloads_Follow_up (22 cols, Global Top Block with PE as Col 0, Steff Priority at Col 21)
-# Manual entries (Last Touch and Link) are one-way synced directly from each partner's Follow_up sheet (source of truth)
-
-global_top_block = [
-    ["Partner:", f"All {len(PARTNERS)} Partners (Global Management Dashboard)", "", "", "", "Last Update:", DATE_FORMATTED] + [""] * 15,
-    [""] * 22,
-    ["Alert Criteria:", "Target Go-Live risk for active pipeline (Stages 0-2 & 3)", "", "🔴 Critical (≤14d / Overdue)", "🌸 High (15-30d)", "🟡 Medium (31-45d)", "", "⚪ Normal (>45d / Stage 4+)"] + [""] * 14,
-    [""] * 22,
-    GLOBAL_FOLLOWUP_HEADERS
-]
-all_global_followup_rows = global_top_block + all_global_workload_rows
-global_followup_csv = "global_dashboard_data/all_workloads_followup_latest.csv"
-with open(global_followup_csv, "w", newline="", encoding="utf-8") as f:
-    writer = csv.writer(f)
-    writer.writerows(all_global_followup_rows)
-
-sid_gwkl = ensure_sheet_tab(GLOBAL_SSID, "All_Workloads_Follow_up")
-subprocess.run([GSHEETS, "mutate", "clear", GLOBAL_SSID, "'All_Workloads_Follow_up'!A1:Z5000"], capture_output=True)
-subprocess.run([GSHEETS, "mutate", "delete-rows", GLOBAL_SSID, "--range", "'All_Workloads_Follow_up'!2:5000"], capture_output=True)
-subprocess.run([GSHEETS, "mutate", "import-csv", GLOBAL_SSID, global_followup_csv, "--sheet", "All_Workloads_Follow_up"], capture_output=True)
-
-grid_info_g = get_grid_info(GLOBAL_SSID)
-gw_info = grid_info_g.get("All_Workloads_Follow_up", {"sheetId": sid_gwkl, "rowCount": len(all_global_followup_rows), "columnCount": 22})
-sid_gwkl = gw_info["sheetId"]
-gw_rows = gw_info["rowCount"]
-
-subprocess.run([GSHEETS, "mutate", "freeze", GLOBAL_SSID, "--sheet-id", str(sid_gwkl), "--rows", "5"], capture_output=True)
-
-# Delete existing conditional formatting rules to prevent accumulation
-try:
-    res_info = subprocess.run([GSHEETS, "readonly", "info", GLOBAL_SSID, "--json"], capture_output=True, text=True)
-    if res_info.returncode == 0 and res_info.stdout.strip():
-        info_data = json.loads(res_info.stdout)
-        for s_item in info_data.get("sheets", []):
-            if s_item.get("properties", {}).get("sheetId") == sid_gwkl:
-                cfs = s_item.get("conditionalFormats", [])
-                if cfs:
-                    del_reqs = [{"deleteConditionalFormatRule": {"sheetId": sid_gwkl, "index": i}} for i in reversed(range(len(cfs)))]
-                    tmp_cf = f"temp_del_cf_global.json"
-                    with open(tmp_cf, "w") as df:
-                        json.dump({"requests": del_reqs}, df)
-                    subprocess.run([GSHEETS, "mutate", "raw-batch", GLOBAL_SSID, "-f", tmp_cf], capture_output=True)
-                    if os.path.exists(tmp_cf):
-                        os.remove(tmp_cf)
-except Exception as e:
-    print(f"Warning clearing conditional formats for Global: {e}")
-
-batch_req_g = {
-  "requests": [
-    # Reset formatting with wrapStrategy CLIP
-    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 0, "endRowIndex": gw_rows, "startColumnIndex": 0, "endColumnIndex": 22}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 1.0, "green": 1.0, "blue": 1.0}, "textFormat": {"foregroundColor": {"red": 0.125, "green": 0.129, "blue": 0.141}, "fontSize": 10, "bold": False, "fontFamily": "Arial"}, "verticalAlignment": "MIDDLE", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,verticalAlignment,wrapStrategy)"}},
-    {"unmergeCells": {"range": {"sheetId": sid_gwkl, "startRowIndex": 0, "endRowIndex": min(10, gw_rows), "startColumnIndex": 0, "endColumnIndex": 22}}},
-    {"mergeCells": {"range": {"sheetId": sid_gwkl, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 1, "endColumnIndex": 5}, "mergeType": "MERGE_ALL"}},
-    {"mergeCells": {"range": {"sheetId": sid_gwkl, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 1, "endColumnIndex": 3}, "mergeType": "MERGE_ALL"}},
-    {"mergeCells": {"range": {"sheetId": sid_gwkl, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 5, "endColumnIndex": 7}, "mergeType": "MERGE_ALL"}},
-    {"mergeCells": {"range": {"sheetId": sid_gwkl, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 7, "endColumnIndex": 9}, "mergeType": "MERGE_ALL"}},
-    
-    # Row 1
-    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 0, "endColumnIndex": 1}, "cell": {"userEnteredFormat": {"textFormat": {"bold": True, "foregroundColor": {"red": 0.37, "green": 0.39, "blue": 0.41}}, "horizontalAlignment": "RIGHT"}}, "fields": "userEnteredFormat(textFormat,horizontalAlignment)"}},
-    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 1, "endColumnIndex": 5}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.91, "green": 0.94, "blue": 1.0}, "textFormat": {"bold": True, "fontSize": 11, "foregroundColor": {"red": 0.10, "green": 0.45, "blue": 0.91}}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
-    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 5, "endColumnIndex": 6}, "cell": {"userEnteredFormat": {"textFormat": {"bold": True, "foregroundColor": {"red": 0.37, "green": 0.39, "blue": 0.41}}, "horizontalAlignment": "RIGHT"}}, "fields": "userEnteredFormat(textFormat,horizontalAlignment)"}},
-    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 6, "endColumnIndex": 7}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.90, "green": 0.96, "blue": 0.92}, "textFormat": {"bold": True, "foregroundColor": {"red": 0.07, "green": 0.45, "blue": 0.20}}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
-
-    # Row 3 (Light Purple for Alert Criteria)
-    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 0, "endColumnIndex": 1}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.953, "green": 0.910, "blue": 0.992}, "textFormat": {"bold": True, "fontSize": 9, "foregroundColor": {"red": 0.408, "green": 0.114, "blue": 0.659}}, "horizontalAlignment": "RIGHT"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
-    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 1, "endColumnIndex": 3}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.953, "green": 0.910, "blue": 0.992}, "textFormat": {"italic": True, "fontSize": 9, "foregroundColor": {"red": 0.408, "green": 0.114, "blue": 0.659}}, "horizontalAlignment": "LEFT"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
-    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 3, "endColumnIndex": 4}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.949, "green": 0.545, "blue": 0.510}, "textFormat": {"bold": True, "fontSize": 9, "foregroundColor": {"red": 0.40, "green": 0.05, "blue": 0.05}}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
-    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 4, "endColumnIndex": 5}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 1.0, "green": 0.718, "blue": 0.302}, "textFormat": {"bold": True, "fontSize": 9, "foregroundColor": {"red": 0.45, "green": 0.15, "blue": 0.0}}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
-    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 5, "endColumnIndex": 7}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 1.0, "green": 0.961, "blue": 0.616}, "textFormat": {"bold": True, "fontSize": 9, "foregroundColor": {"red": 0.45, "green": 0.30, "blue": 0.0}}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
-    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 7, "endColumnIndex": 9}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.945, "green": 0.953, "blue": 0.957}, "textFormat": {"bold": True, "fontSize": 9, "foregroundColor": {"red": 0.37, "green": 0.39, "blue": 0.41}}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
-
-    # Row 5 Main Header (Cols 0-18 Google Blue, Cols 19-20 Forest Green, Col 21 Google Blue)
-    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 4, "endRowIndex": 5, "startColumnIndex": 0, "endColumnIndex": 19}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.102, "green": 0.451, "blue": 0.910}, "textFormat": {"bold": True, "fontSize": 10, "foregroundColor": {"red": 1.0, "green": 1.0, "blue": 1.0}}, "horizontalAlignment": "CENTER", "verticalAlignment": "MIDDLE", "wrapStrategy": "WRAP"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment,verticalAlignment,wrapStrategy)"}},
-    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 4, "endRowIndex": 5, "startColumnIndex": 19, "endColumnIndex": 21}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.075, "green": 0.451, "blue": 0.200}, "textFormat": {"bold": True, "fontSize": 10, "foregroundColor": {"red": 1.0, "green": 1.0, "blue": 1.0}}, "horizontalAlignment": "CENTER", "verticalAlignment": "MIDDLE", "wrapStrategy": "WRAP"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment,verticalAlignment,wrapStrategy)"}},
-    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 4, "endRowIndex": 5, "startColumnIndex": 21, "endColumnIndex": 22}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.102, "green": 0.451, "blue": 0.910}, "textFormat": {"bold": True, "fontSize": 10, "foregroundColor": {"red": 1.0, "green": 1.0, "blue": 1.0}}, "horizontalAlignment": "CENTER", "verticalAlignment": "MIDDLE", "wrapStrategy": "WRAP"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment,verticalAlignment,wrapStrategy)"}},
-
-    # Data Rows Formatting
-    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 0, "endColumnIndex": 3}, "cell": {"userEnteredFormat": {"horizontalAlignment": "LEFT", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
-    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 4, "endColumnIndex": 7}, "cell": {"userEnteredFormat": {"horizontalAlignment": "LEFT", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
-    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 8, "endColumnIndex": 16}, "cell": {"userEnteredFormat": {"horizontalAlignment": "LEFT", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
-    # Centered columns: Tier (Col 3), Capacity (Col 7), Dates (Cols 16-17)
-    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 3, "endColumnIndex": 4}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
-    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 7, "endColumnIndex": 8}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
-    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 16, "endColumnIndex": 18}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
-    # ARR Currency (Col 18)
-    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 18, "endColumnIndex": 19}, "cell": {"userEnteredFormat": {"horizontalAlignment": "RIGHT", "wrapStrategy": "CLIP", "numberFormat": {"type": "CURRENCY", "pattern": "$#,##0.00"}}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy,numberFormat)"}},
-    # Manual Note Columns (Cols 19-20)
-    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 19, "endColumnIndex": 21}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.945, "green": 0.980, "blue": 0.957}, "horizontalAlignment": "LEFT", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(backgroundColor,horizontalAlignment,wrapStrategy)"}},
-    # Steff Priority (Col 21)
-    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 21, "endColumnIndex": 22}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER", "textFormat": {"bold": True}, "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,textFormat,wrapStrategy)"}},
-
-    # Hyperlinks (Cols 1, 2, 4, 8)
-    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 1, "endColumnIndex": 3}, "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}}, "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"}},
-    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 4, "endColumnIndex": 5}, "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}}, "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"}},
-    {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 8, "endColumnIndex": 9}, "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}}, "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"}},
-
-    # Borders
-    {
-      "updateBorders": {
-        "range": {"sheetId": sid_gwkl, "startRowIndex": 4, "endRowIndex": gw_rows, "startColumnIndex": 0, "endColumnIndex": 22},
-        "top": {"style": "SOLID", "color": {"red": 0.8, "green": 0.8, "blue": 0.8}},
-        "bottom": {"style": "SOLID", "color": {"red": 0.8, "green": 0.8, "blue": 0.8}},
-        "left": {"style": "SOLID", "color": {"red": 0.8, "green": 0.8, "blue": 0.8}},
-        "right": {"style": "SOLID", "color": {"red": 0.8, "green": 0.8, "blue": 0.8}},
-        "innerHorizontal": {"style": "SOLID", "color": {"red": 0.9, "green": 0.9, "blue": 0.9}},
-        "innerVertical": {"style": "SOLID", "color": {"red": 0.9, "green": 0.9, "blue": 0.9}}
-      }
-    },
-    # Basic Filter
-    {"clearBasicFilter": {"sheetId": sid_gwkl}},
-    {"setBasicFilter": {"filter": {"range": {"sheetId": sid_gwkl, "startRowIndex": 4, "endRowIndex": gw_rows, "startColumnIndex": 0, "endColumnIndex": 22}}}},
-
-    # Conditional Formatting Rules (Progress is Col G [$G6], Production Date is Col R [$R6])
-    {"addConditionalFormatRule": {"rule": {"ranges": [{"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 0, "endColumnIndex": 22}], "booleanRule": {"condition": {"type": "CUSTOM_FORMULA", "values": [{"userEnteredValue": "=AND(OR(LEFT($G6,3)=\"0-2\",LEFT($G6,2)=\"3:\"), $R6<>\"\", ($R6-TODAY())<=14)"}]}, "format": {"backgroundColor": {"red": 0.949, "green": 0.545, "blue": 0.510}}}}, "index": 0}},
-    {"addConditionalFormatRule": {"rule": {"ranges": [{"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 0, "endColumnIndex": 22}], "booleanRule": {"condition": {"type": "CUSTOM_FORMULA", "values": [{"userEnteredValue": "=AND(OR(LEFT($G6,3)=\"0-2\",LEFT($G6,2)=\"3:\"), $R6<>\"\", ($R6-TODAY())>=15, ($R6-TODAY())<=30)"}]}, "format": {"backgroundColor": {"red": 1.0, "green": 0.718, "blue": 0.302}}}}, "index": 1}},
-    {"addConditionalFormatRule": {"rule": {"ranges": [{"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 0, "endColumnIndex": 22}], "booleanRule": {"condition": {"type": "CUSTOM_FORMULA", "values": [{"userEnteredValue": "=AND(OR(LEFT($G6,3)=\"0-2\",LEFT($G6,2)=\"3:\"), $R6<>\"\", ($R6-TODAY())>=31, ($R6-TODAY())<=45)"}]}, "format": {"backgroundColor": {"red": 1.0, "green": 0.961, "blue": 0.616}}}}, "index": 2}},
-
-    # Row heights
-    {"updateDimensionProperties": {"range": {"sheetId": sid_gwkl, "dimension": "ROWS", "startIndex": 0, "endIndex": 1}, "properties": {"pixelSize": 30}, "fields": "pixelSize"}},
-    {"updateDimensionProperties": {"range": {"sheetId": sid_gwkl, "dimension": "ROWS", "startIndex": 1, "endIndex": 2}, "properties": {"pixelSize": 8}, "fields": "pixelSize"}},
-    {"updateDimensionProperties": {"range": {"sheetId": sid_gwkl, "dimension": "ROWS", "startIndex": 2, "endIndex": 3}, "properties": {"pixelSize": 28}, "fields": "pixelSize"}},
-    {"updateDimensionProperties": {"range": {"sheetId": sid_gwkl, "dimension": "ROWS", "startIndex": 3, "endIndex": 4}, "properties": {"pixelSize": 8}, "fields": "pixelSize"}},
-    {"updateDimensionProperties": {"range": {"sheetId": sid_gwkl, "dimension": "ROWS", "startIndex": 4, "endIndex": 5}, "properties": {"pixelSize": 36}, "fields": "pixelSize"}},
-    {"updateDimensionProperties": {"range": {"sheetId": sid_gwkl, "dimension": "ROWS", "startIndex": 5, "endIndex": gw_rows}, "properties": {"pixelSize": 26}, "fields": "pixelSize"}}
-  ]
-}
-
-# Zebra striping
-for r_idx in range(5, gw_rows):
-    if r_idx % 2 == 1:
-        batch_req_g["requests"].append({
-            "repeatCell": {
-                "range": {"sheetId": sid_gwkl, "startRowIndex": r_idx, "endRowIndex": r_idx + 1, "startColumnIndex": 0, "endColumnIndex": 19},
-                "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.973, "green": 0.976, "blue": 0.980}}},
-                "fields": "userEnteredFormat(backgroundColor)"
-            }
-        })
-
-# Column widths
-for col_idx, width in GLOBAL_COL_WIDTHS.items():
-    batch_req_g["requests"].append({
-        "updateDimensionProperties": {
-            "range": {"sheetId": sid_gwkl, "dimension": "COLUMNS", "startIndex": col_idx, "endIndex": col_idx + 1},
-            "properties": {"pixelSize": width},
-            "fields": "pixelSize"
-        }
-    })
-
-# Format ER column if has links (Expert Requests is Col 10)
-for r_idx in range(5, gw_rows):
-    if r_idx < len(all_global_followup_rows):
-        val = all_global_followup_rows[r_idx][10]
-        if "ER-" in val and ("HYPERLINK" in val or "http" in val):
-            batch_req_g["requests"].append({
-                "repeatCell": {
-                    "range": {"sheetId": sid_gwkl, "startRowIndex": r_idx, "endRowIndex": r_idx + 1, "startColumnIndex": 10, "endColumnIndex": 11},
-                    "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}},
-                    "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"
+        # Column widths
+        for col_idx, width in PARTNER_COL_WIDTHS.items():
+            batch_req["requests"].append({
+                "updateDimensionProperties": {
+                    "range": {"sheetId": sid_followup, "dimension": "COLUMNS", "startIndex": col_idx, "endIndex": col_idx + 1},
+                    "properties": {"pixelSize": width},
+                    "fields": "pixelSize"
                 }
             })
 
-tmp_batch_g = f"temp_batch_g_{GLOBAL_SSID}.json"
-with open(tmp_batch_g, "w") as f:
-    json.dump(batch_req_g, f)
-subprocess.run([GSHEETS, "mutate", "raw-batch", GLOBAL_SSID, "-f", tmp_batch_g], capture_output=True)
-if os.path.exists(tmp_batch_g):
-    os.remove(tmp_batch_g)
-
-print("✓ Updated Global All_Workloads_Follow_up with Workload Owner column.")
-
-# 3. All_DRP_Status
-global_drp_csv = "global_dashboard_data/all_drp_status_latest.csv"
-with open(global_drp_csv, "w", newline="", encoding="utf-8") as f:
-    writer = csv.writer(f)
-    writer.writerows([GLOBAL_DRP_HEADERS] + all_global_drp_rows)
-
-sid_gdrp = ensure_sheet_tab(GLOBAL_SSID, "All_DRP_Status")
-subprocess.run([GSHEETS, "mutate", "clear", GLOBAL_SSID, "'All_DRP_Status'!A1:Z3000"], capture_output=True)
-subprocess.run([GSHEETS, "mutate", "delete-rows", GLOBAL_SSID, "--range", "'All_DRP_Status'!2:3000"], capture_output=True)
-subprocess.run([GSHEETS, "mutate", "import-csv", GLOBAL_SSID, global_drp_csv, "--sheet", "All_DRP_Status"], capture_output=True)
-
-# 4. All_Acreditaciones
-global_accred_csv = "global_dashboard_data/all_accreditations_latest.csv"
-with open(global_accred_csv, "w", newline="", encoding="utf-8") as f:
-    writer = csv.writer(f)
-    writer.writerows([GLOBAL_ACCRED_HEADERS] + all_global_accred_rows)
-
-sid_gaccred = ensure_sheet_tab(GLOBAL_SSID, "All_Acreditaciones")
-subprocess.run([GSHEETS, "mutate", "clear", GLOBAL_SSID, "'All_Acreditaciones'!A1:Z5000"], capture_output=True)
-subprocess.run([GSHEETS, "mutate", "delete-rows", GLOBAL_SSID, "--range", "'All_Acreditaciones'!2:5000"], capture_output=True)
-subprocess.run([GSHEETS, "mutate", "import-csv", GLOBAL_SSID, global_accred_csv, "--sheet", "All_Acreditaciones"], capture_output=True)
-
-# =========================================================================
-# F. UPDATE DEDICATED PE PARTNER MANAGEMENT DASHBOARDS
-# =========================================================================
-print("\n========================================================")
-print("UPDATING DEDICATED PE PARTNER MANAGEMENT DASHBOARDS")
-print("========================================================")
-
-PE_DASHBOARDS = {
-    "Fernando Laguna": "124g2ks1GZj5wAhtvwy17bN18cfWxt1qR_hm8CqH8BEk",
-    "Ignacio Rauda": "1LK1rSDuTLhnd76JHLzgXrjngqfYWqC2nylAHXcSs_os",
-    "Jaquelyn Montañez": "19m2D7eSr6sc23cObho8XRjqY5xCa6-1BzJyUebA2mhY",
-    "Luna Longo": "1_VuZTyilnjBjPiXBCK56R5sAQsTcZ-v69-raXoyds50",
-    "Oliver Hartley": "1VkmmtXJopJ57K_XL3jwdqk8LrN6qw0_iGrBbl5deYpI",
-    "Thiago da Ponte": "1UgAgFPlL0UjaiqHDc9Z6e1V6bJa-hS-zEDNCMQWYvyI"
-}
-
-import re
-def norm_str(s):
-    return re.sub(r"[^a-z0-9]", "", str(s).lower())
-
-def extract_hyperlink_label(val):
-    if not val:
-        return ""
-    val_str = str(val).strip()
-    if '","' in val_str:
-        try:
-            return val_str.split('","')[1].rstrip('")').strip()
-        except:
-            pass
-    if '", "' in val_str:
-        try:
-            return val_str.split('", "')[1].rstrip('")').strip()
-        except:
-            pass
-    return val_str
-
-def cleanup_default_sheets(ssid):
-    res = subprocess.run([GSHEETS, "readonly", "list-sheets", ssid, "--json"], capture_output=True, text=True)
-    if res.returncode == 0 and res.stdout.strip():
-        try:
-            sheets = json.loads(res.stdout)
-            if len(sheets) > 1:
-                for s in sheets:
-                    if s.get("title") in ["Sheet1", "Hoja 1"]:
-                        subprocess.run([GSHEETS, "mutate", "delete-sheet", ssid, "--sheet-id", str(s["id"])], capture_output=True)
-        except:
-            pass
-
-for pe_name, pe_ssid in PE_DASHBOARDS.items():
-    print(f"\nUpdating PE Dashboard for: {pe_name} ({pe_ssid})...")
-    pe_partners = [cfg["partner"] for cfg in PARTNERS if pe_name in [p.strip() for p in cfg.get("pe", "").split(",")]]
-    pe_norm_set = set(norm_str(p) for p in pe_partners)
-    for p in pe_partners:
-        pe_norm_set.add(norm_str(re.sub(r"\([^)]*\)", "", p).strip()))
-        
-    pe_clean = pe_name.replace(" ", "_").replace("ñ", "n")
-    
-    # 1. Executive Summary
-    pe_stats = [s for s in summary_stats if norm_str(s["partner"]) in pe_norm_set]
-    pe_summary_rows = [summary_headers]
-    tot_pe_wkls = sum(s["workloads_count"] for s in pe_stats)
-    tot_pe_arr = sum(s["total_arr"] for s in pe_stats)
-    tot_pe_drp = sum(s["drp_capacities"] for s in pe_stats)
-    tot_pe_certs = sum(s["certs_count"] for s in pe_stats)
-    for s in pe_stats:
-        p_url = f"https://vector.lightning.force.com/lightning/r/Account/{s['default_pid']}/view"
-        p_link = make_hyperlink(p_url, s["partner"])
-        tracker_url = f"https://docs.google.com/spreadsheets/d/{s['sheet_id']}/edit#gid=0"
-        tracker_link = make_hyperlink(tracker_url, "Open Partner Tracker ↗")
-        pe_summary_rows.append([
-            s["pe"],
-            p_link,
-            s["country"],
-            s["track"],
-            str(s["workloads_count"]),
-            f"${s['total_arr']:,.2f}",
-            str(s["drp_capacities"]),
-            str(s["certs_count"]),
-            tracker_link
-        ])
-    pe_summary_rows.append([
-        f"TOTAL (All {len(pe_partners)} Partners)",
-        "-", "-", "-",
-        str(tot_pe_wkls),
-        f"${tot_pe_arr:,.2f}",
-        str(tot_pe_drp),
-        str(tot_pe_certs),
-        "-"
-    ])
-    pe_exec_csv = f"global_dashboard_data/exec_summary_{pe_clean}.csv"
-    with open(pe_exec_csv, "w", newline="", encoding="utf-8") as f:
-        writer = csv.writer(f)
-        writer.writerows(pe_summary_rows)
-    sid_pe_exec = ensure_sheet_tab(pe_ssid, "Executive_Summary")
-    subprocess.run([GSHEETS, "mutate", "clear", pe_ssid, "'Executive_Summary'!A1:Z500"], capture_output=True)
-    subprocess.run([GSHEETS, "mutate", "delete-rows", pe_ssid, "--range", "'Executive_Summary'!2:500"], capture_output=True)
-    subprocess.run([GSHEETS, "mutate", "import-csv", pe_ssid, pe_exec_csv, "--sheet", "Executive_Summary"], capture_output=True)
-    if sid_pe_exec is not None:
-        subprocess.run([GSHEETS, "mutate", "freeze", pe_ssid, "--sheet-id", str(sid_pe_exec), "--rows", "1"], capture_output=True)
-        subprocess.run([GSHEETS, "mutate", "format", pe_ssid, "--sheet-id", str(sid_pe_exec), "--start-row", "0", "--end-row", "1", "--start-col", "0", "--end-col", "9", "--bold", "--bg-color", "#1A73E8", "--align", "CENTER", "--wrap"], capture_output=True)
-        subprocess.run([GSHEETS, "mutate", "format", pe_ssid, "--sheet-id", str(sid_pe_exec), "--start-row", str(len(pe_summary_rows)-1), "--end-row", str(len(pe_summary_rows)), "--start-col", "0", "--end-col", "9", "--bold", "--bg-color", "#E8F0FE"], capture_output=True)
-        subprocess.run([GSHEETS, "mutate", "format", pe_ssid, "--sheet-id", str(sid_pe_exec), "--start-row", "1", "--end-row", str(len(pe_summary_rows)), "--start-col", "4", "--end-col", "8", "--align", "CENTER"], capture_output=True)
-        subprocess.run([GSHEETS, "mutate", "autosize", pe_ssid, "--sheet-id", str(sid_pe_exec), "--start-col", "0", "--end-col", "9"], capture_output=True)
-
-    # 2. All_Workloads_Follow_up
-    pe_wkl_rows = [r for r in all_global_workload_rows if pe_name in [p.strip() for p in r[0].split(",")] or norm_str(extract_hyperlink_label(r[1])) in pe_norm_set]
-    pe_top_block = [
-        ["Partner:", f"{pe_name} Partners (Partner Management Dashboard)", "", "", "", "Last Update:", DATE_FORMATTED] + [""] * 15,
-        [""] * 22,
-        ["Alert Criteria:", "Target Go-Live risk for active pipeline (Stages 0-2 & 3)", "", "🔴 Critical (≤14d / Overdue)", "🌸 High (15-30d)", "🟡 Medium (31-45d)", "", "⚪ Normal (>45d / Stage 4+)"] + [""] * 14,
-        [""] * 22,
-        GLOBAL_FOLLOWUP_HEADERS
-    ]
-    all_pe_followup_rows = pe_top_block + pe_wkl_rows
-    pe_wkl_csv = f"global_dashboard_data/all_workloads_followup_{pe_clean}.csv"
-    with open(pe_wkl_csv, "w", newline="", encoding="utf-8") as f:
-        writer = csv.writer(f)
-        writer.writerows(all_pe_followup_rows)
-    sid_pe_wkl = ensure_sheet_tab(pe_ssid, "All_Workloads_Follow_up")
-    subprocess.run([GSHEETS, "mutate", "clear", pe_ssid, "'All_Workloads_Follow_up'!A1:Z5000"], capture_output=True)
-    subprocess.run([GSHEETS, "mutate", "delete-rows", pe_ssid, "--range", "'All_Workloads_Follow_up'!2:5000"], capture_output=True)
-    subprocess.run([GSHEETS, "mutate", "import-csv", pe_ssid, pe_wkl_csv, "--sheet", "All_Workloads_Follow_up"], capture_output=True)
-    
-    grid_pe = get_grid_info(pe_ssid)
-    pe_w_info = grid_pe.get("All_Workloads_Follow_up", {"sheetId": sid_pe_wkl, "rowCount": len(all_pe_followup_rows), "columnCount": 22})
-    sid_pe_wkl = pe_w_info["sheetId"]
-    pe_w_rows = max(len(all_pe_followup_rows), pe_w_info["rowCount"])
-    subprocess.run([GSHEETS, "mutate", "freeze", pe_ssid, "--sheet-id", str(sid_pe_wkl), "--rows", "5"], capture_output=True)
-
-    # Delete existing conditional formatting rules to prevent accumulation
-    try:
-        res_info = subprocess.run([GSHEETS, "readonly", "info", pe_ssid, "--json"], capture_output=True, text=True)
-        if res_info.returncode == 0 and res_info.stdout.strip():
-            info_data = json.loads(res_info.stdout)
-            for s_item in info_data.get("sheets", []):
-                if s_item.get("properties", {}).get("sheetId") == sid_pe_wkl:
-                    cfs = s_item.get("conditionalFormats", [])
-                    if cfs:
-                        del_reqs = [{"deleteConditionalFormatRule": {"sheetId": sid_pe_wkl, "index": i}} for i in reversed(range(len(cfs)))]
-                        tmp_cf = f"temp_del_cf_{pe_clean}.json"
-                        with open(tmp_cf, "w") as df:
-                            json.dump({"requests": del_reqs}, df)
-                        subprocess.run([GSHEETS, "mutate", "raw-batch", pe_ssid, "-f", tmp_cf], capture_output=True)
-                        if os.path.exists(tmp_cf):
-                            os.remove(tmp_cf)
-    except Exception as e:
-        print(f"Warning clearing conditional formats for {pe_name}: {e}")
-    
-    batch_req_pe = {
-      "requests": [
-        {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 0, "endRowIndex": pe_w_rows, "startColumnIndex": 0, "endColumnIndex": 22}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 1.0, "green": 1.0, "blue": 1.0}, "textFormat": {"foregroundColor": {"red": 0.125, "green": 0.129, "blue": 0.141}, "fontSize": 10, "bold": False, "fontFamily": "Arial"}, "verticalAlignment": "MIDDLE", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,verticalAlignment,wrapStrategy)"}},
-        {"unmergeCells": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 0, "endRowIndex": min(10, pe_w_rows), "startColumnIndex": 0, "endColumnIndex": 22}}},
-        {"mergeCells": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 1, "endColumnIndex": 5}, "mergeType": "MERGE_ALL"}},
-        {"mergeCells": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 1, "endColumnIndex": 3}, "mergeType": "MERGE_ALL"}},
-        {"mergeCells": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 5, "endColumnIndex": 7}, "mergeType": "MERGE_ALL"}},
-        {"mergeCells": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 7, "endColumnIndex": 9}, "mergeType": "MERGE_ALL"}},
-        {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 0, "endColumnIndex": 1}, "cell": {"userEnteredFormat": {"textFormat": {"bold": True, "foregroundColor": {"red": 0.37, "green": 0.39, "blue": 0.41}}, "horizontalAlignment": "RIGHT"}}, "fields": "userEnteredFormat(textFormat,horizontalAlignment)"}},
-        {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 1, "endColumnIndex": 5}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.91, "green": 0.94, "blue": 1.0}, "textFormat": {"bold": True, "fontSize": 11, "foregroundColor": {"red": 0.10, "green": 0.45, "blue": 0.91}}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
-        {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 5, "endColumnIndex": 6}, "cell": {"userEnteredFormat": {"textFormat": {"bold": True, "foregroundColor": {"red": 0.37, "green": 0.39, "blue": 0.41}}, "horizontalAlignment": "RIGHT"}}, "fields": "userEnteredFormat(textFormat,horizontalAlignment)"}},
-        {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 6, "endColumnIndex": 7}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.90, "green": 0.96, "blue": 0.92}, "textFormat": {"bold": True, "foregroundColor": {"red": 0.07, "green": 0.45, "blue": 0.20}}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
-        {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 0, "endColumnIndex": 1}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.953, "green": 0.910, "blue": 0.992}, "textFormat": {"bold": True, "fontSize": 9, "foregroundColor": {"red": 0.408, "green": 0.114, "blue": 0.659}}, "horizontalAlignment": "RIGHT"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
-        {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 1, "endColumnIndex": 3}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.953, "green": 0.910, "blue": 0.992}, "textFormat": {"italic": True, "fontSize": 9, "foregroundColor": {"red": 0.408, "green": 0.114, "blue": 0.659}}, "horizontalAlignment": "LEFT"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
-        {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 3, "endColumnIndex": 4}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.949, "green": 0.545, "blue": 0.510}, "textFormat": {"bold": True, "fontSize": 9, "foregroundColor": {"red": 0.40, "green": 0.05, "blue": 0.05}}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
-        {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 4, "endColumnIndex": 5}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 1.0, "green": 0.718, "blue": 0.302}, "textFormat": {"bold": True, "fontSize": 9, "foregroundColor": {"red": 0.45, "green": 0.15, "blue": 0.0}}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
-        {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 5, "endColumnIndex": 7}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 1.0, "green": 0.961, "blue": 0.616}, "textFormat": {"bold": True, "fontSize": 9, "foregroundColor": {"red": 0.45, "green": 0.30, "blue": 0.0}}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
-        {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 7, "endColumnIndex": 9}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.945, "green": 0.953, "blue": 0.957}, "textFormat": {"bold": True, "fontSize": 9, "foregroundColor": {"red": 0.37, "green": 0.39, "blue": 0.41}}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
-        {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 4, "endRowIndex": 5, "startColumnIndex": 0, "endColumnIndex": 19}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.102, "green": 0.451, "blue": 0.910}, "textFormat": {"bold": True, "fontSize": 10, "foregroundColor": {"red": 1.0, "green": 1.0, "blue": 1.0}}, "horizontalAlignment": "CENTER", "verticalAlignment": "MIDDLE", "wrapStrategy": "WRAP"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment,verticalAlignment,wrapStrategy)"}},
-        {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 4, "endRowIndex": 5, "startColumnIndex": 19, "endColumnIndex": 21}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.075, "green": 0.451, "blue": 0.200}, "textFormat": {"bold": True, "fontSize": 10, "foregroundColor": {"red": 1.0, "green": 1.0, "blue": 1.0}}, "horizontalAlignment": "CENTER", "verticalAlignment": "MIDDLE", "wrapStrategy": "WRAP"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment,verticalAlignment,wrapStrategy)"}},
-        {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 4, "endRowIndex": 5, "startColumnIndex": 21, "endColumnIndex": 22}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.102, "green": 0.451, "blue": 0.910}, "textFormat": {"bold": True, "fontSize": 10, "foregroundColor": {"red": 1.0, "green": 1.0, "blue": 1.0}}, "horizontalAlignment": "CENTER", "verticalAlignment": "MIDDLE", "wrapStrategy": "WRAP"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment,verticalAlignment,wrapStrategy)"}},
-        {"updateBorders": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 4, "endRowIndex": pe_w_rows, "startColumnIndex": 0, "endColumnIndex": 22}, "top": {"style": "SOLID", "color": {"red": 0.8, "green": 0.8, "blue": 0.8}}, "bottom": {"style": "SOLID", "color": {"red": 0.8, "green": 0.8, "blue": 0.8}}, "left": {"style": "SOLID", "color": {"red": 0.8, "green": 0.8, "blue": 0.8}}, "right": {"style": "SOLID", "color": {"red": 0.8, "green": 0.8, "blue": 0.8}}, "innerHorizontal": {"style": "SOLID", "color": {"red": 0.9, "green": 0.9, "blue": 0.9}}, "innerVertical": {"style": "SOLID", "color": {"red": 0.9, "green": 0.9, "blue": 0.9}}}},
-        {"clearBasicFilter": {"sheetId": sid_pe_wkl}},
-        {"setBasicFilter": {"filter": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 4, "endRowIndex": pe_w_rows, "startColumnIndex": 0, "endColumnIndex": 22}}}},
-        {"updateDimensionProperties": {"range": {"sheetId": sid_pe_wkl, "dimension": "ROWS", "startIndex": 0, "endIndex": 1}, "properties": {"pixelSize": 30}, "fields": "pixelSize"}},
-        {"updateDimensionProperties": {"range": {"sheetId": sid_pe_wkl, "dimension": "ROWS", "startIndex": 1, "endIndex": 2}, "properties": {"pixelSize": 8}, "fields": "pixelSize"}},
-        {"updateDimensionProperties": {"range": {"sheetId": sid_pe_wkl, "dimension": "ROWS", "startIndex": 2, "endIndex": 3}, "properties": {"pixelSize": 28}, "fields": "pixelSize"}},
-        {"updateDimensionProperties": {"range": {"sheetId": sid_pe_wkl, "dimension": "ROWS", "startIndex": 3, "endIndex": 4}, "properties": {"pixelSize": 8}, "fields": "pixelSize"}},
-        {"updateDimensionProperties": {"range": {"sheetId": sid_pe_wkl, "dimension": "ROWS", "startIndex": 4, "endIndex": 5}, "properties": {"pixelSize": 36}, "fields": "pixelSize"}}
-      ]
-    }
-    if len(pe_wkl_rows) > 0:
-        batch_req_pe["requests"].extend([
-            {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 5, "endRowIndex": pe_w_rows, "startColumnIndex": 0, "endColumnIndex": 3}, "cell": {"userEnteredFormat": {"horizontalAlignment": "LEFT", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
-            {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 5, "endRowIndex": pe_w_rows, "startColumnIndex": 4, "endColumnIndex": 7}, "cell": {"userEnteredFormat": {"horizontalAlignment": "LEFT", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
-            {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 5, "endRowIndex": pe_w_rows, "startColumnIndex": 8, "endColumnIndex": 16}, "cell": {"userEnteredFormat": {"horizontalAlignment": "LEFT", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
-            {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 5, "endRowIndex": pe_w_rows, "startColumnIndex": 3, "endColumnIndex": 4}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
-            {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 5, "endRowIndex": pe_w_rows, "startColumnIndex": 7, "endColumnIndex": 8}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
-            {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 5, "endRowIndex": pe_w_rows, "startColumnIndex": 16, "endColumnIndex": 18}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
-            {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 5, "endRowIndex": pe_w_rows, "startColumnIndex": 18, "endColumnIndex": 19}, "cell": {"userEnteredFormat": {"horizontalAlignment": "RIGHT", "wrapStrategy": "CLIP", "numberFormat": {"type": "CURRENCY", "pattern": "$#,##0.00"}}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy,numberFormat)"}},
-            {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 5, "endRowIndex": pe_w_rows, "startColumnIndex": 19, "endColumnIndex": 21}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.945, "green": 0.980, "blue": 0.957}, "horizontalAlignment": "LEFT", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(backgroundColor,horizontalAlignment,wrapStrategy)"}},
-            {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 5, "endRowIndex": pe_w_rows, "startColumnIndex": 21, "endColumnIndex": 22}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER", "textFormat": {"bold": True}, "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,textFormat,wrapStrategy)"}},
-            {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 5, "endRowIndex": pe_w_rows, "startColumnIndex": 1, "endColumnIndex": 3}, "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}}, "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"}},
-            {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 5, "endRowIndex": pe_w_rows, "startColumnIndex": 4, "endColumnIndex": 5}, "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}}, "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"}},
-            {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 5, "endRowIndex": pe_w_rows, "startColumnIndex": 8, "endColumnIndex": 9}, "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}}, "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"}},
-            {"addConditionalFormatRule": {"rule": {"ranges": [{"sheetId": sid_pe_wkl, "startRowIndex": 5, "endRowIndex": pe_w_rows, "startColumnIndex": 0, "endColumnIndex": 22}], "booleanRule": {"condition": {"type": "CUSTOM_FORMULA", "values": [{"userEnteredValue": "=AND(OR(LEFT($G6,3)=\"0-2\",LEFT($G6,2)=\"3:\"), $R6<>\"\", ($R6-TODAY())<=14)"}]}, "format": {"backgroundColor": {"red": 0.949, "green": 0.545, "blue": 0.510}}}}, "index": 0}},
-            {"addConditionalFormatRule": {"rule": {"ranges": [{"sheetId": sid_pe_wkl, "startRowIndex": 5, "endRowIndex": pe_w_rows, "startColumnIndex": 0, "endColumnIndex": 22}], "booleanRule": {"condition": {"type": "CUSTOM_FORMULA", "values": [{"userEnteredValue": "=AND(OR(LEFT($G6,3)=\"0-2\",LEFT($G6,2)=\"3:\"), $R6<>\"\", ($R6-TODAY())>=15, ($R6-TODAY())<=30)"}]}, "format": {"backgroundColor": {"red": 1.0, "green": 0.718, "blue": 0.302}}}}, "index": 1}},
-            {"addConditionalFormatRule": {"rule": {"ranges": [{"sheetId": sid_pe_wkl, "startRowIndex": 5, "endRowIndex": pe_w_rows, "startColumnIndex": 0, "endColumnIndex": 22}], "booleanRule": {"condition": {"type": "CUSTOM_FORMULA", "values": [{"userEnteredValue": "=AND(OR(LEFT($G6,3)=\"0-2\",LEFT($G6,2)=\"3:\"), $R6<>\"\", ($R6-TODAY())>=31, ($R6-TODAY())<=45)"}]}, "format": {"backgroundColor": {"red": 1.0, "green": 0.961, "blue": 0.616}}}}, "index": 2}},
-            {"updateDimensionProperties": {"range": {"sheetId": sid_pe_wkl, "dimension": "ROWS", "startIndex": 5, "endIndex": pe_w_rows}, "properties": {"pixelSize": 26}, "fields": "pixelSize"}}
-        ])
-        for r_idx in range(5, pe_w_rows):
-            if r_idx % 2 == 1:
-                batch_req_pe["requests"].append({"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": r_idx, "endRowIndex": r_idx + 1, "startColumnIndex": 0, "endColumnIndex": 19}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.973, "green": 0.976, "blue": 0.980}}}, "fields": "userEnteredFormat(backgroundColor)"}})
-        for r_idx in range(5, pe_w_rows):
-            if r_idx < len(all_pe_followup_rows):
-                val = all_pe_followup_rows[r_idx][10]
+        # Format ER column if has links
+        for r_idx in range(5, f_rows):
+            if r_idx < len(followup_rows):
+                val = followup_rows[r_idx][8]
                 if "ER-" in val and ("HYPERLINK" in val or "http" in val):
-                    batch_req_pe["requests"].append({"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": r_idx, "endRowIndex": r_idx + 1, "startColumnIndex": 10, "endColumnIndex": 11}, "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}}, "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"}})
+                    batch_req["requests"].append({
+                        "repeatCell": {
+                            "range": {"sheetId": sid_followup, "startRowIndex": r_idx, "endRowIndex": r_idx + 1, "startColumnIndex": 8, "endColumnIndex": 9},
+                            "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}},
+                            "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"
+                        }
+                    })
 
-    for col_idx, width in GLOBAL_COL_WIDTHS.items():
-        batch_req_pe["requests"].append({"updateDimensionProperties": {"range": {"sheetId": sid_pe_wkl, "dimension": "COLUMNS", "startIndex": col_idx, "endIndex": col_idx + 1}, "properties": {"pixelSize": width}, "fields": "pixelSize"}})
+        # Execute Batch Request
+        tmp_batch = f"temp_batch_{ssid}.json"
+        with open(tmp_batch, "w") as f:
+            json.dump(batch_req, f)
+        subprocess.run([GSHEETS, "mutate", "raw-batch", ssid, "-f", tmp_batch], capture_output=True)
+        if os.path.exists(tmp_batch):
+            os.remove(tmp_batch)
 
-    tmp_batch_pe = f"temp_batch_{pe_ssid}.json"
-    with open(tmp_batch_pe, "w") as f:
-        json.dump(batch_req_pe, f)
-    subprocess.run([GSHEETS, "mutate", "raw-batch", pe_ssid, "-f", tmp_batch_pe], capture_output=True)
-    if os.path.exists(tmp_batch_pe):
-        os.remove(tmp_batch_pe)
+        # C. DRP STATUS TAB
+        drp_rows = [DRP_HEADERS]
+        for (pil, sol, prd) in drp_catalog:
+            d_info = partner_drp_map.get((pil, sol, prd), {"t1": 0, "t2": 0, "tot": 0})
+            t1_str = str(d_info["t1"]) if d_info["t1"] > 0 else ""
+            t2_str = str(d_info["t2"]) if d_info["t2"] > 0 else ""
+            tot_val = d_info["tot"]
+            tot_str = str(tot_val) if tot_val > 0 else ""
 
-    # 3. All_DRP_Status
-    pe_drp_rows = [r for r in all_global_drp_rows if norm_str(r[0]) in pe_norm_set]
-    pe_drp_csv = f"global_dashboard_data/all_drp_status_{pe_clean}.csv"
-    with open(pe_drp_csv, "w", newline="", encoding="utf-8") as f:
-        writer = csv.writer(f)
-        writer.writerows([GLOBAL_DRP_HEADERS] + pe_drp_rows)
-    sid_pe_drp = ensure_sheet_tab(pe_ssid, "All_DRP_Status")
-    subprocess.run([GSHEETS, "mutate", "clear", pe_ssid, "'All_DRP_Status'!A1:Z3000"], capture_output=True)
-    subprocess.run([GSHEETS, "mutate", "delete-rows", pe_ssid, "--range", "'All_DRP_Status'!2:3000"], capture_output=True)
-    subprocess.run([GSHEETS, "mutate", "import-csv", pe_ssid, pe_drp_csv, "--sheet", "All_DRP_Status"], capture_output=True)
-    if sid_pe_drp is not None:
-        subprocess.run([GSHEETS, "mutate", "freeze", pe_ssid, "--sheet-id", str(sid_pe_drp), "--rows", "1"], capture_output=True)
-        subprocess.run([GSHEETS, "mutate", "format", pe_ssid, "--sheet-id", str(sid_pe_drp), "--start-row", "0", "--end-row", "1", "--start-col", "0", "--end-col", "8", "--bold", "--bg-color", "#E8F0FE", "--align", "CENTER", "--wrap"], capture_output=True)
-        if len(pe_drp_rows) > 0:
-            subprocess.run([GSHEETS, "mutate", "format", pe_ssid, "--sheet-id", str(sid_pe_drp), "--start-row", "1", "--end-row", str(len(pe_drp_rows) + 1), "--start-col", "4", "--end-col", "8", "--align", "CENTER"], capture_output=True)
-        subprocess.run([GSHEETS, "mutate", "autosize", pe_ssid, "--sheet-id", str(sid_pe_drp), "--start-col", "0", "--end-col", "8"], capture_output=True)
+            w_demand = drp_workload_demand.get((pil, sol, prd), 0)
 
-    # 4. All_Acreditaciones
-    pe_accred_rows = [r for r in all_global_accred_rows if norm_str(r[0]) in pe_norm_set]
-    pe_accred_csv = f"global_dashboard_data/all_accreditations_{pe_clean}.csv"
-    with open(pe_accred_csv, "w", newline="", encoding="utf-8") as f:
-        writer = csv.writer(f)
-        writer.writerows([GLOBAL_ACCRED_HEADERS] + pe_accred_rows)
-    sid_pe_accred = ensure_sheet_tab(pe_ssid, "All_Acreditaciones")
-    subprocess.run([GSHEETS, "mutate", "clear", pe_ssid, "'All_Acreditaciones'!A1:Z10000"], capture_output=True)
-    subprocess.run([GSHEETS, "mutate", "delete-rows", pe_ssid, "--range", "'All_Acreditaciones'!2:10000"], capture_output=True)
-    subprocess.run([GSHEETS, "mutate", "import-csv", pe_ssid, pe_accred_csv, "--sheet", "All_Acreditaciones"], capture_output=True)
-    if sid_pe_accred is not None:
-        subprocess.run([GSHEETS, "mutate", "freeze", pe_ssid, "--sheet-id", str(sid_pe_accred), "--rows", "1"], capture_output=True)
-        subprocess.run([GSHEETS, "mutate", "format", pe_ssid, "--sheet-id", str(sid_pe_accred), "--start-row", "0", "--end-row", "1", "--start-col", "0", "--end-col", "9", "--bold", "--bg-color", "#E8F0FE", "--align", "CENTER", "--wrap"], capture_output=True)
-        if len(pe_accred_rows) > 0:
-            subprocess.run([GSHEETS, "mutate", "format", pe_ssid, "--sheet-id", str(sid_pe_accred), "--start-row", "1", "--end-row", str(len(pe_accred_rows) + 1), "--start-col", "6", "--end-col", "8", "--align", "CENTER"], capture_output=True)
-        subprocess.run([GSHEETS, "mutate", "autosize", pe_ssid, "--sheet-id", str(sid_pe_accred), "--start-col", "0", "--end-col", "9"], capture_output=True)
+            if w_demand > 0 and tot_val == 0:
+                status_dot = f"🔴 Gap (0 DRP / {w_demand} wkls)"
+            elif w_demand > 0 and tot_val < w_demand:
+                status_dot = f"🟡 Constrained ({tot_val} DRP / {w_demand} wkls)"
+            elif tot_val >= w_demand and (tot_val > 0 or w_demand > 0):
+                status_dot = f"🟢 Ready ({tot_val} DRP / {w_demand} wkls)" if w_demand > 0 else f"🟢 Ready ({tot_val} profiles)"
+            else:
+                status_dot = "⚪ No Active Demand"
 
-    # Clean default sheet
-    cleanup_default_sheets(pe_ssid)
-    print(f"✓ Completed PE Dashboard for {pe_name}.")
+            drp_rows.append([pil, sol, prd, t1_str, t2_str, tot_str, status_dot])
+            all_global_drp_rows.append([pname, pil, sol, prd, t1_str, t2_str, tot_str, status_dot])
 
-print("\n========================================================")
-print("SUCCESS: ALL 31 PARTNERS, GLOBAL DASHBOARD & 6 PE DASHBOARDS SYNCED!")
-print("========================================================")
+        drp_csv = os.path.join("drp_data_latest", f"{safe_name}_drp.csv")
+        with open(drp_csv, "w", newline="", encoding="utf-8") as f:
+            writer = csv.writer(f)
+            writer.writerows(drp_rows)
 
+        tab_drp = "DRP_Status"
+        sid_drp = ensure_sheet_tab(ssid, tab_drp)
+        subprocess.run([GSHEETS, "mutate", "clear", ssid, f"'{tab_drp}'!A1:Z1000"], capture_output=True)
+        subprocess.run([GSHEETS, "mutate", "delete-rows", ssid, "--range", f"'{tab_drp}'!2:1000"], capture_output=True)
+        subprocess.run([GSHEETS, "mutate", "import-csv", ssid, drp_csv, "--sheet", tab_drp], capture_output=True)
+        if sid_drp is not None:
+            subprocess.run([GSHEETS, "mutate", "freeze", ssid, "--sheet-id", str(sid_drp), "--rows", "1"], capture_output=True)
+            subprocess.run([GSHEETS, "mutate", "format", ssid, "--sheet-id", str(sid_drp), "--start-row", "0", "--end-row", "1", "--start-col", "0", "--end-col", "7", "--bold", "--bg-color", "#E8F0FE", "--align", "CENTER", "--wrap"], capture_output=True)
+            if len(drp_rows) > 1:
+                subprocess.run([GSHEETS, "mutate", "format", ssid, "--sheet-id", str(sid_drp), "--start-row", "1", "--end-row", str(len(drp_rows)), "--start-col", "3", "--end-col", "7", "--align", "CENTER"], capture_output=True)
+            subprocess.run([GSHEETS, "mutate", "autosize", ssid, "--sheet-id", str(sid_drp), "--start-col", "0", "--end-col", "7"], capture_output=True)
+
+        # D. ACCREDITATIONS TAB
+        sql_certs = f"""
+        SELECT 
+          p.certification_details.certification_name,
+          p.certification_details.certification_type,
+          p.certification_details.certification_sub_type,
+          p.partner_contact_profile_details.profile_name,
+          p.partner_contact_profile_details.lms_user_email,
+          CAST(p.certification_details.certification_issued_date AS STRING) as issued_date,
+          CAST(p.certification_details.certification_expiration_date AS STRING) as expiration_date,
+          p.partner_details.partner_name
+        FROM `concord-prod.service_cloudbi.partner_certifications` p
+        WHERE p.partner_details.sfdc_partner_id IN ({cert_pids_str})
+          AND p.reporting_month = (SELECT MAX(reporting_month) FROM `concord-prod.service_cloudbi.partner_certifications`)
+        ORDER BY p.certification_details.certification_type, p.certification_details.certification_name, p.partner_contact_profile_details.profile_name
+        """
+        _, rows_certs = run_query(sql_certs)
+        partner_total_certs = len(rows_certs)
+
+        accred_rows = [ACCRED_HEADERS]
+        if rows_certs:
+            for r in rows_certs:
+                cname = r["f"][0].get("v") or ""
+                ctype = r["f"][1].get("v") or ""
+                csubtype = r["f"][2].get("v") or ""
+                pname_cand = r["f"][3].get("v") or ""
+                pemail_cand = r["f"][4].get("v") or ""
+                issued = r["f"][5].get("v") or ""
+                exp = r["f"][6].get("v") or ""
+                entity = r["f"][7].get("v") or ""
+                accred_rows.append([cname, ctype, csubtype, pname_cand, pemail_cand, issued, exp, entity])
+                all_global_accred_rows.append([pname, cname, ctype, csubtype, pname_cand, pemail_cand, issued, exp, entity])
+        else:
+            accred_rows.append(["No active accreditations found", "-", "-", "-", "-", "-", "-", "-"])
+            all_global_accred_rows.append([pname, "No active accreditations found", "-", "-", "-", "-", "-", "-", "-"])
+
+        accred_csv = os.path.join("accred_data_latest", f"{safe_name}_accred.csv")
+        with open(accred_csv, "w", newline="", encoding="utf-8") as f:
+            writer = csv.writer(f)
+            writer.writerows(accred_rows)
+
+        tab_accred = "Acreditaciones"
+        sid_accred = ensure_sheet_tab(ssid, tab_accred)
+        subprocess.run([GSHEETS, "mutate", "clear", ssid, f"'{tab_accred}'!A1:Z3000"], capture_output=True)
+        subprocess.run([GSHEETS, "mutate", "delete-rows", ssid, "--range", f"'{tab_accred}'!2:3000"], capture_output=True)
+        subprocess.run([GSHEETS, "mutate", "import-csv", ssid, accred_csv, "--sheet", tab_accred], capture_output=True)
+        if sid_accred is not None:
+            subprocess.run([GSHEETS, "mutate", "freeze", ssid, "--sheet-id", str(sid_accred), "--rows", "1"], capture_output=True)
+            subprocess.run([GSHEETS, "mutate", "format", ssid, "--sheet-id", str(sid_accred), "--start-row", "0", "--end-row", "1", "--start-col", "0", "--end-col", "8", "--bold", "--bg-color", "#E8F0FE", "--align", "CENTER", "--wrap"], capture_output=True)
+            if len(accred_rows) > 1:
+                subprocess.run([GSHEETS, "mutate", "format", ssid, "--sheet-id", str(sid_accred), "--start-row", "1", "--end-row", str(len(accred_rows)), "--start-col", "5", "--end-col", "7", "--align", "CENTER"], capture_output=True)
+            subprocess.run([GSHEETS, "mutate", "autosize", ssid, "--sheet-id", str(sid_accred), "--start-col", "0", "--end-col", "8"], capture_output=True)
+
+        cleanup_default_sheets(ssid)
+
+        summary_stats.append({
+            "pe": pe_name,
+            "partner": pname,
+            "country": cfg["country"],
+            "track": cfg["tier_level"],
+            "default_pid": default_pid,
+            "sheet_id": ssid,
+            "workloads_count": len(wkl_bq_rows),
+            "total_arr": partner_total_arr,
+            "drp_capacities": partner_total_drp_capacity,
+            "certs_count": partner_total_certs
+        })
+        print(f"✓ Updated partner tracker for {pname} with Workload Owner column.")
+
+    # =========================================================================
+    # E. UPDATE GLOBAL PARTNER MANAGEMENT DASHBOARD
+    # =========================================================================
+    def run_global_dashboard_update():
+        print("\n========================================================")
+        print("UPDATING GLOBAL PARTNER MANAGEMENT DASHBOARD")
+        print(f"Spreadsheet ID: {GLOBAL_SSID}")
+        print("========================================================")
+
+        # 1. Executive_Summary (9 columns: PE as Col 0)
+        summary_headers = [
+            "Partner Engineer (PE)",
+            "Partner Name",
+            "Country / Headquarters",
+            "Partner Advantage Track",
+            "Uncommitted Workloads (#)",
+            "Total Pipeline ARR ($ USD)",
+            "DRP Profile Capacities (#)",
+            "Active Accreditations / Certs (#)",
+            "Partner Action Tracker Spreadsheet"
+        ]
+        summary_rows = [summary_headers]
+        tot_all_wkls = sum(s["workloads_count"] for s in summary_stats)
+        tot_all_arr = sum(s["total_arr"] for s in summary_stats)
+        tot_all_drp = sum(s["drp_capacities"] for s in summary_stats)
+        tot_all_certs = sum(s["certs_count"] for s in summary_stats)
+
+        for s in summary_stats:
+            p_url = f"https://vector.lightning.force.com/lightning/r/Account/{s['default_pid']}/view"
+            p_link = make_hyperlink(p_url, s["partner"])
+            tracker_url = f"https://docs.google.com/spreadsheets/d/{s['sheet_id']}/edit#gid=0"
+            tracker_link = make_hyperlink(tracker_url, "Open Partner Tracker ↗")
+            summary_rows.append([
+                s["pe"],
+                p_link,
+                s["country"],
+                s["track"],
+                str(s["workloads_count"]),
+                f"${s['total_arr']:,.2f}",
+                str(s["drp_capacities"]),
+                str(s["certs_count"]),
+                tracker_link
+            ])
+
+        summary_rows.append([
+            f"TOTAL (All {len(PARTNERS)} Partners)",
+            "-",
+            "-",
+            "-",
+            str(tot_all_wkls),
+            f"${tot_all_arr:,.2f}",
+            str(tot_all_drp),
+            str(tot_all_certs),
+            "-"
+        ])
+
+        exec_csv = "global_dashboard_data/executive_summary_latest.csv"
+        with open(exec_csv, "w", newline="", encoding="utf-8") as f:
+            writer = csv.writer(f)
+            writer.writerows(summary_rows)
+
+        sid_exec = ensure_sheet_tab(GLOBAL_SSID, "Executive_Summary")
+        subprocess.run([GSHEETS, "mutate", "clear", GLOBAL_SSID, "'Executive_Summary'!A1:Z500"], capture_output=True)
+        subprocess.run([GSHEETS, "mutate", "delete-rows", GLOBAL_SSID, "--range", "'Executive_Summary'!2:500"], capture_output=True)
+        subprocess.run([GSHEETS, "mutate", "import-csv", GLOBAL_SSID, exec_csv, "--sheet", "Executive_Summary"], capture_output=True)
+        if sid_exec is not None:
+            subprocess.run([GSHEETS, "mutate", "freeze", GLOBAL_SSID, "--sheet-id", str(sid_exec), "--rows", "1"], capture_output=True)
+            subprocess.run([
+                GSHEETS, "mutate", "format", GLOBAL_SSID,
+                "--sheet-id", str(sid_exec),
+                "--start-row", "0", "--end-row", "1",
+                "--start-col", "0", "--end-col", "9",
+                "--bold",
+                "--bg-color", "#1A73E8",
+                "--align", "CENTER",
+                "--wrap"
+            ], capture_output=True)
+            subprocess.run([
+                GSHEETS, "mutate", "format", GLOBAL_SSID,
+                "--sheet-id", str(sid_exec),
+                "--start-row", str(len(summary_rows)-1), "--end-row", str(len(summary_rows)),
+                "--start-col", "0", "--end-col", "9",
+                "--bold",
+                "--bg-color", "#E8F0FE"
+            ], capture_output=True)
+            subprocess.run([
+                GSHEETS, "mutate", "format", GLOBAL_SSID,
+                "--sheet-id", str(sid_exec),
+                "--start-row", "1", "--end-row", str(len(summary_rows)),
+                "--start-col", "4", "--end-col", "8",
+                "--align", "CENTER"
+            ], capture_output=True)
+            subprocess.run([GSHEETS, "mutate", "autosize", GLOBAL_SSID, "--sheet-id", str(sid_exec), "--start-col", "0", "--end-col", "9"], capture_output=True)
+        print("✓ Updated Global Executive_Summary")
+
+        # 2. All_Workloads_Follow_up (22 cols, Global Top Block with PE as Col 0, Steff Priority at Col 21)
+        # Manual entries (Last Touch and Link) are one-way synced directly from each partner's Follow_up sheet (source of truth)
+
+        global_top_block = [
+            ["Partner:", f"All {len(PARTNERS)} Partners (Global Management Dashboard)", "", "", "", "Last Update:", DATE_FORMATTED] + [""] * 15,
+            [""] * 22,
+            ["Alert Criteria:", "Target Go-Live risk for active pipeline (Stages 0-2 & 3)", "", "🔴 Critical (≤14d / Overdue)", "🌸 High (15-30d)", "🟡 Medium (31-45d)", "", "⚪ Normal (>45d / Stage 4+)"] + [""] * 14,
+            [""] * 22,
+            GLOBAL_FOLLOWUP_HEADERS
+        ]
+        all_global_followup_rows = global_top_block + all_global_workload_rows
+        global_followup_csv = "global_dashboard_data/all_workloads_followup_latest.csv"
+        with open(global_followup_csv, "w", newline="", encoding="utf-8") as f:
+            writer = csv.writer(f)
+            writer.writerows(all_global_followup_rows)
+
+        sid_gwkl = ensure_sheet_tab(GLOBAL_SSID, "All_Workloads_Follow_up")
+        subprocess.run([GSHEETS, "mutate", "clear", GLOBAL_SSID, "'All_Workloads_Follow_up'!A1:Z5000"], capture_output=True)
+        subprocess.run([GSHEETS, "mutate", "delete-rows", GLOBAL_SSID, "--range", "'All_Workloads_Follow_up'!2:5000"], capture_output=True)
+        subprocess.run([GSHEETS, "mutate", "import-csv", GLOBAL_SSID, global_followup_csv, "--sheet", "All_Workloads_Follow_up"], capture_output=True)
+
+        grid_info_g = get_grid_info(GLOBAL_SSID)
+        gw_info = grid_info_g.get("All_Workloads_Follow_up", {"sheetId": sid_gwkl, "rowCount": len(all_global_followup_rows), "columnCount": 22})
+        sid_gwkl = gw_info["sheetId"]
+        gw_rows = gw_info["rowCount"]
+
+        subprocess.run([GSHEETS, "mutate", "freeze", GLOBAL_SSID, "--sheet-id", str(sid_gwkl), "--rows", "5"], capture_output=True)
+
+        # Delete existing conditional formatting rules to prevent accumulation
+        try:
+            res_info = subprocess.run([GSHEETS, "readonly", "info", GLOBAL_SSID, "--json"], capture_output=True, text=True)
+            if res_info.returncode == 0 and res_info.stdout.strip():
+                info_data = json.loads(res_info.stdout)
+                for s_item in info_data.get("sheets", []):
+                    if s_item.get("properties", {}).get("sheetId") == sid_gwkl:
+                        cfs = s_item.get("conditionalFormats", [])
+                        if cfs:
+                            del_reqs = [{"deleteConditionalFormatRule": {"sheetId": sid_gwkl, "index": i}} for i in reversed(range(len(cfs)))]
+                            tmp_cf = f"temp_del_cf_global.json"
+                            with open(tmp_cf, "w") as df:
+                                json.dump({"requests": del_reqs}, df)
+                            subprocess.run([GSHEETS, "mutate", "raw-batch", GLOBAL_SSID, "-f", tmp_cf], capture_output=True)
+                            if os.path.exists(tmp_cf):
+                                os.remove(tmp_cf)
+        except Exception as e:
+            print(f"Warning clearing conditional formats for Global: {e}")
+
+        batch_req_g = {
+          "requests": [
+            # Reset formatting with wrapStrategy CLIP
+            {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 0, "endRowIndex": gw_rows, "startColumnIndex": 0, "endColumnIndex": 22}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 1.0, "green": 1.0, "blue": 1.0}, "textFormat": {"foregroundColor": {"red": 0.125, "green": 0.129, "blue": 0.141}, "fontSize": 10, "bold": False, "fontFamily": "Arial"}, "verticalAlignment": "MIDDLE", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,verticalAlignment,wrapStrategy)"}},
+            {"unmergeCells": {"range": {"sheetId": sid_gwkl, "startRowIndex": 0, "endRowIndex": min(10, gw_rows), "startColumnIndex": 0, "endColumnIndex": 22}}},
+            {"mergeCells": {"range": {"sheetId": sid_gwkl, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 1, "endColumnIndex": 5}, "mergeType": "MERGE_ALL"}},
+            {"mergeCells": {"range": {"sheetId": sid_gwkl, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 1, "endColumnIndex": 3}, "mergeType": "MERGE_ALL"}},
+            {"mergeCells": {"range": {"sheetId": sid_gwkl, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 5, "endColumnIndex": 7}, "mergeType": "MERGE_ALL"}},
+            {"mergeCells": {"range": {"sheetId": sid_gwkl, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 7, "endColumnIndex": 9}, "mergeType": "MERGE_ALL"}},
+
+            # Row 1
+            {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 0, "endColumnIndex": 1}, "cell": {"userEnteredFormat": {"textFormat": {"bold": True, "foregroundColor": {"red": 0.37, "green": 0.39, "blue": 0.41}}, "horizontalAlignment": "RIGHT"}}, "fields": "userEnteredFormat(textFormat,horizontalAlignment)"}},
+            {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 1, "endColumnIndex": 5}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.91, "green": 0.94, "blue": 1.0}, "textFormat": {"bold": True, "fontSize": 11, "foregroundColor": {"red": 0.10, "green": 0.45, "blue": 0.91}}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
+            {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 5, "endColumnIndex": 6}, "cell": {"userEnteredFormat": {"textFormat": {"bold": True, "foregroundColor": {"red": 0.37, "green": 0.39, "blue": 0.41}}, "horizontalAlignment": "RIGHT"}}, "fields": "userEnteredFormat(textFormat,horizontalAlignment)"}},
+            {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 6, "endColumnIndex": 7}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.90, "green": 0.96, "blue": 0.92}, "textFormat": {"bold": True, "foregroundColor": {"red": 0.07, "green": 0.45, "blue": 0.20}}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
+
+            # Row 3 (Light Purple for Alert Criteria)
+            {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 0, "endColumnIndex": 1}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.953, "green": 0.910, "blue": 0.992}, "textFormat": {"bold": True, "fontSize": 9, "foregroundColor": {"red": 0.408, "green": 0.114, "blue": 0.659}}, "horizontalAlignment": "RIGHT"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
+            {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 1, "endColumnIndex": 3}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.953, "green": 0.910, "blue": 0.992}, "textFormat": {"italic": True, "fontSize": 9, "foregroundColor": {"red": 0.408, "green": 0.114, "blue": 0.659}}, "horizontalAlignment": "LEFT"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
+            {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 3, "endColumnIndex": 4}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.949, "green": 0.545, "blue": 0.510}, "textFormat": {"bold": True, "fontSize": 9, "foregroundColor": {"red": 0.40, "green": 0.05, "blue": 0.05}}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
+            {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 4, "endColumnIndex": 5}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 1.0, "green": 0.718, "blue": 0.302}, "textFormat": {"bold": True, "fontSize": 9, "foregroundColor": {"red": 0.45, "green": 0.15, "blue": 0.0}}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
+            {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 5, "endColumnIndex": 7}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 1.0, "green": 0.961, "blue": 0.616}, "textFormat": {"bold": True, "fontSize": 9, "foregroundColor": {"red": 0.45, "green": 0.30, "blue": 0.0}}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
+            {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 7, "endColumnIndex": 9}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.945, "green": 0.953, "blue": 0.957}, "textFormat": {"bold": True, "fontSize": 9, "foregroundColor": {"red": 0.37, "green": 0.39, "blue": 0.41}}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
+
+            # Row 5 Main Header (Cols 0-18 Google Blue, Cols 19-20 Forest Green, Col 21 Google Blue)
+            {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 4, "endRowIndex": 5, "startColumnIndex": 0, "endColumnIndex": 19}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.102, "green": 0.451, "blue": 0.910}, "textFormat": {"bold": True, "fontSize": 10, "foregroundColor": {"red": 1.0, "green": 1.0, "blue": 1.0}}, "horizontalAlignment": "CENTER", "verticalAlignment": "MIDDLE", "wrapStrategy": "WRAP"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment,verticalAlignment,wrapStrategy)"}},
+            {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 4, "endRowIndex": 5, "startColumnIndex": 19, "endColumnIndex": 21}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.075, "green": 0.451, "blue": 0.200}, "textFormat": {"bold": True, "fontSize": 10, "foregroundColor": {"red": 1.0, "green": 1.0, "blue": 1.0}}, "horizontalAlignment": "CENTER", "verticalAlignment": "MIDDLE", "wrapStrategy": "WRAP"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment,verticalAlignment,wrapStrategy)"}},
+            {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 4, "endRowIndex": 5, "startColumnIndex": 21, "endColumnIndex": 22}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.102, "green": 0.451, "blue": 0.910}, "textFormat": {"bold": True, "fontSize": 10, "foregroundColor": {"red": 1.0, "green": 1.0, "blue": 1.0}}, "horizontalAlignment": "CENTER", "verticalAlignment": "MIDDLE", "wrapStrategy": "WRAP"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment,verticalAlignment,wrapStrategy)"}},
+
+            # Data Rows Formatting
+            {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 0, "endColumnIndex": 3}, "cell": {"userEnteredFormat": {"horizontalAlignment": "LEFT", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
+            {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 4, "endColumnIndex": 7}, "cell": {"userEnteredFormat": {"horizontalAlignment": "LEFT", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
+            {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 8, "endColumnIndex": 16}, "cell": {"userEnteredFormat": {"horizontalAlignment": "LEFT", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
+            # Centered columns: Tier (Col 3), Capacity (Col 7), Dates (Cols 16-17)
+            {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 3, "endColumnIndex": 4}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
+            {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 7, "endColumnIndex": 8}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
+            {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 16, "endColumnIndex": 18}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
+            # ARR Currency (Col 18)
+            {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 18, "endColumnIndex": 19}, "cell": {"userEnteredFormat": {"horizontalAlignment": "RIGHT", "wrapStrategy": "CLIP", "numberFormat": {"type": "CURRENCY", "pattern": "$#,##0.00"}}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy,numberFormat)"}},
+            # Manual Note Columns (Cols 19-20)
+            {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 19, "endColumnIndex": 21}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.945, "green": 0.980, "blue": 0.957}, "horizontalAlignment": "LEFT", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(backgroundColor,horizontalAlignment,wrapStrategy)"}},
+            # Steff Priority (Col 21)
+            {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 21, "endColumnIndex": 22}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER", "textFormat": {"bold": True}, "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,textFormat,wrapStrategy)"}},
+
+            # Hyperlinks (Cols 1, 2, 4, 8)
+            {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 1, "endColumnIndex": 3}, "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}}, "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"}},
+            {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 4, "endColumnIndex": 5}, "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}}, "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"}},
+            {"repeatCell": {"range": {"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 8, "endColumnIndex": 9}, "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}}, "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"}},
+
+            # Borders
+            {
+              "updateBorders": {
+                "range": {"sheetId": sid_gwkl, "startRowIndex": 4, "endRowIndex": gw_rows, "startColumnIndex": 0, "endColumnIndex": 22},
+                "top": {"style": "SOLID", "color": {"red": 0.8, "green": 0.8, "blue": 0.8}},
+                "bottom": {"style": "SOLID", "color": {"red": 0.8, "green": 0.8, "blue": 0.8}},
+                "left": {"style": "SOLID", "color": {"red": 0.8, "green": 0.8, "blue": 0.8}},
+                "right": {"style": "SOLID", "color": {"red": 0.8, "green": 0.8, "blue": 0.8}},
+                "innerHorizontal": {"style": "SOLID", "color": {"red": 0.9, "green": 0.9, "blue": 0.9}},
+                "innerVertical": {"style": "SOLID", "color": {"red": 0.9, "green": 0.9, "blue": 0.9}}
+              }
+            },
+            # Basic Filter
+            {"clearBasicFilter": {"sheetId": sid_gwkl}},
+            {"setBasicFilter": {"filter": {"range": {"sheetId": sid_gwkl, "startRowIndex": 4, "endRowIndex": gw_rows, "startColumnIndex": 0, "endColumnIndex": 22}}}},
+
+            # Conditional Formatting Rules (Progress is Col G [$G6], Production Date is Col R [$R6])
+            {"addConditionalFormatRule": {"rule": {"ranges": [{"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 0, "endColumnIndex": 22}], "booleanRule": {"condition": {"type": "CUSTOM_FORMULA", "values": [{"userEnteredValue": "=AND(OR(LEFT($G6,3)=\"0-2\",LEFT($G6,2)=\"3:\"), $R6<>\"\", ($R6-TODAY())<=14)"}]}, "format": {"backgroundColor": {"red": 0.949, "green": 0.545, "blue": 0.510}}}}, "index": 0}},
+            {"addConditionalFormatRule": {"rule": {"ranges": [{"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 0, "endColumnIndex": 22}], "booleanRule": {"condition": {"type": "CUSTOM_FORMULA", "values": [{"userEnteredValue": "=AND(OR(LEFT($G6,3)=\"0-2\",LEFT($G6,2)=\"3:\"), $R6<>\"\", ($R6-TODAY())>=15, ($R6-TODAY())<=30)"}]}, "format": {"backgroundColor": {"red": 1.0, "green": 0.718, "blue": 0.302}}}}, "index": 1}},
+            {"addConditionalFormatRule": {"rule": {"ranges": [{"sheetId": sid_gwkl, "startRowIndex": 5, "endRowIndex": gw_rows, "startColumnIndex": 0, "endColumnIndex": 22}], "booleanRule": {"condition": {"type": "CUSTOM_FORMULA", "values": [{"userEnteredValue": "=AND(OR(LEFT($G6,3)=\"0-2\",LEFT($G6,2)=\"3:\"), $R6<>\"\", ($R6-TODAY())>=31, ($R6-TODAY())<=45)"}]}, "format": {"backgroundColor": {"red": 1.0, "green": 0.961, "blue": 0.616}}}}, "index": 2}},
+
+            # Row heights
+            {"updateDimensionProperties": {"range": {"sheetId": sid_gwkl, "dimension": "ROWS", "startIndex": 0, "endIndex": 1}, "properties": {"pixelSize": 30}, "fields": "pixelSize"}},
+            {"updateDimensionProperties": {"range": {"sheetId": sid_gwkl, "dimension": "ROWS", "startIndex": 1, "endIndex": 2}, "properties": {"pixelSize": 8}, "fields": "pixelSize"}},
+            {"updateDimensionProperties": {"range": {"sheetId": sid_gwkl, "dimension": "ROWS", "startIndex": 2, "endIndex": 3}, "properties": {"pixelSize": 28}, "fields": "pixelSize"}},
+            {"updateDimensionProperties": {"range": {"sheetId": sid_gwkl, "dimension": "ROWS", "startIndex": 3, "endIndex": 4}, "properties": {"pixelSize": 8}, "fields": "pixelSize"}},
+            {"updateDimensionProperties": {"range": {"sheetId": sid_gwkl, "dimension": "ROWS", "startIndex": 4, "endIndex": 5}, "properties": {"pixelSize": 36}, "fields": "pixelSize"}},
+            {"updateDimensionProperties": {"range": {"sheetId": sid_gwkl, "dimension": "ROWS", "startIndex": 5, "endIndex": gw_rows}, "properties": {"pixelSize": 26}, "fields": "pixelSize"}}
+          ]
+        }
+
+        # Zebra striping
+        for r_idx in range(5, gw_rows):
+            if r_idx % 2 == 1:
+                batch_req_g["requests"].append({
+                    "repeatCell": {
+                        "range": {"sheetId": sid_gwkl, "startRowIndex": r_idx, "endRowIndex": r_idx + 1, "startColumnIndex": 0, "endColumnIndex": 19},
+                        "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.973, "green": 0.976, "blue": 0.980}}},
+                        "fields": "userEnteredFormat(backgroundColor)"
+                    }
+                })
+
+        # Column widths
+        for col_idx, width in GLOBAL_COL_WIDTHS.items():
+            batch_req_g["requests"].append({
+                "updateDimensionProperties": {
+                    "range": {"sheetId": sid_gwkl, "dimension": "COLUMNS", "startIndex": col_idx, "endIndex": col_idx + 1},
+                    "properties": {"pixelSize": width},
+                    "fields": "pixelSize"
+                }
+            })
+
+        # Format ER column if has links (Expert Requests is Col 10)
+        for r_idx in range(5, gw_rows):
+            if r_idx < len(all_global_followup_rows):
+                val = all_global_followup_rows[r_idx][10]
+                if "ER-" in val and ("HYPERLINK" in val or "http" in val):
+                    batch_req_g["requests"].append({
+                        "repeatCell": {
+                            "range": {"sheetId": sid_gwkl, "startRowIndex": r_idx, "endRowIndex": r_idx + 1, "startColumnIndex": 10, "endColumnIndex": 11},
+                            "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}},
+                            "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"
+                        }
+                    })
+
+        tmp_batch_g = f"temp_batch_g_{GLOBAL_SSID}.json"
+        with open(tmp_batch_g, "w") as f:
+            json.dump(batch_req_g, f)
+        subprocess.run([GSHEETS, "mutate", "raw-batch", GLOBAL_SSID, "-f", tmp_batch_g], capture_output=True)
+        if os.path.exists(tmp_batch_g):
+            os.remove(tmp_batch_g)
+
+        print("✓ Updated Global All_Workloads_Follow_up with Workload Owner column.")
+
+        # 3. All_DRP_Status
+        global_drp_csv = "global_dashboard_data/all_drp_status_latest.csv"
+        with open(global_drp_csv, "w", newline="", encoding="utf-8") as f:
+            writer = csv.writer(f)
+            writer.writerows([GLOBAL_DRP_HEADERS] + all_global_drp_rows)
+
+        sid_gdrp = ensure_sheet_tab(GLOBAL_SSID, "All_DRP_Status")
+        subprocess.run([GSHEETS, "mutate", "clear", GLOBAL_SSID, "'All_DRP_Status'!A1:Z3000"], capture_output=True)
+        subprocess.run([GSHEETS, "mutate", "delete-rows", GLOBAL_SSID, "--range", "'All_DRP_Status'!2:3000"], capture_output=True)
+        subprocess.run([GSHEETS, "mutate", "import-csv", GLOBAL_SSID, global_drp_csv, "--sheet", "All_DRP_Status"], capture_output=True)
+
+        # 4. All_Acreditaciones
+        global_accred_csv = "global_dashboard_data/all_accreditations_latest.csv"
+        with open(global_accred_csv, "w", newline="", encoding="utf-8") as f:
+            writer = csv.writer(f)
+            writer.writerows([GLOBAL_ACCRED_HEADERS] + all_global_accred_rows)
+
+        sid_gaccred = ensure_sheet_tab(GLOBAL_SSID, "All_Acreditaciones")
+        subprocess.run([GSHEETS, "mutate", "clear", GLOBAL_SSID, "'All_Acreditaciones'!A1:Z5000"], capture_output=True)
+        subprocess.run([GSHEETS, "mutate", "delete-rows", GLOBAL_SSID, "--range", "'All_Acreditaciones'!2:5000"], capture_output=True)
+        subprocess.run([GSHEETS, "mutate", "import-csv", GLOBAL_SSID, global_accred_csv, "--sheet", "All_Acreditaciones"], capture_output=True)
+
+
+
+    if not (target_pe or target_partner):
+        run_global_dashboard_update()
+    else:
+        print(f"\nSkipping Global Dashboard update (filter active: pe={target_pe}, partner={target_partner})")
+    # =========================================================================
+    # F. UPDATE DEDICATED PE PARTNER MANAGEMENT DASHBOARDS
+    # =========================================================================
+    print("\n========================================================")
+    print("UPDATING DEDICATED PE PARTNER MANAGEMENT DASHBOARDS")
+    print("========================================================")
+
+    PE_DASHBOARDS = {
+        "Wanda Flores": "13i6Fv4giUQSv16zCB1YJyWtFT4rm49DFF8vkfV90XYo",
+        "Fernando Laguna": "124g2ks1GZj5wAhtvwy17bN18cfWxt1qR_hm8CqH8BEk",
+        "Ignacio Rauda": "1LK1rSDuTLhnd76JHLzgXrjngqfYWqC2nylAHXcSs_os",
+        "Jaquelyn Montañez": "19m2D7eSr6sc23cObho8XRjqY5xCa6-1BzJyUebA2mhY",
+        "Luna Longo": "1_VuZTyilnjBjPiXBCK56R5sAQsTcZ-v69-raXoyds50",
+        "Oliver Hartley": "1VkmmtXJopJ57K_XL3jwdqk8LrN6qw0_iGrBbl5deYpI",
+        "Thiago da Ponte": "1UgAgFPlL0UjaiqHDc9Z6e1V6bJa-hS-zEDNCMQWYvyI"
+    }
+
+    if not target_partner:
+        for pe_name, pe_ssid in PE_DASHBOARDS.items():
+            if target_pe and norm_str(target_pe) not in norm_str(pe_name):
+                continue
+            print(f"\nUpdating PE Dashboard for: {pe_name} ({pe_ssid})...")
+
+            pe_partners = [cfg["partner"] for cfg in PARTNERS if pe_name in [p.strip() for p in cfg.get("pe", "").split(",")]]
+            pe_norm_set = set(norm_str(p) for p in pe_partners)
+            for p in pe_partners:
+                pe_norm_set.add(norm_str(re.sub(r"\([^)]*\)", "", p).strip()))
+
+            pe_clean = pe_name.replace(" ", "_").replace("ñ", "n")
+
+            # 1. Executive Summary
+            pe_stats = [s for s in summary_stats if norm_str(s["partner"]) in pe_norm_set]
+            pe_summary_rows = [summary_headers]
+            tot_pe_wkls = sum(s["workloads_count"] for s in pe_stats)
+            tot_pe_arr = sum(s["total_arr"] for s in pe_stats)
+            tot_pe_drp = sum(s["drp_capacities"] for s in pe_stats)
+            tot_pe_certs = sum(s["certs_count"] for s in pe_stats)
+            for s in pe_stats:
+                p_url = f"https://vector.lightning.force.com/lightning/r/Account/{s['default_pid']}/view"
+                p_link = make_hyperlink(p_url, s["partner"])
+                tracker_url = f"https://docs.google.com/spreadsheets/d/{s['sheet_id']}/edit#gid=0"
+                tracker_link = make_hyperlink(tracker_url, "Open Partner Tracker ↗")
+                pe_summary_rows.append([
+                    s["pe"],
+                    p_link,
+                    s["country"],
+                    s["track"],
+                    str(s["workloads_count"]),
+                    f"${s['total_arr']:,.2f}",
+                    str(s["drp_capacities"]),
+                    str(s["certs_count"]),
+                    tracker_link
+                ])
+            pe_summary_rows.append([
+                f"TOTAL (All {len(pe_partners)} Partners)",
+                "-", "-", "-",
+                str(tot_pe_wkls),
+                f"${tot_pe_arr:,.2f}",
+                str(tot_pe_drp),
+                str(tot_pe_certs),
+                "-"
+            ])
+            pe_exec_csv = f"global_dashboard_data/exec_summary_{pe_clean}.csv"
+            with open(pe_exec_csv, "w", newline="", encoding="utf-8") as f:
+                writer = csv.writer(f)
+                writer.writerows(pe_summary_rows)
+            sid_pe_exec = ensure_sheet_tab(pe_ssid, "Executive_Summary")
+            subprocess.run([GSHEETS, "mutate", "clear", pe_ssid, "'Executive_Summary'!A1:Z500"], capture_output=True)
+            subprocess.run([GSHEETS, "mutate", "delete-rows", pe_ssid, "--range", "'Executive_Summary'!2:500"], capture_output=True)
+            subprocess.run([GSHEETS, "mutate", "import-csv", pe_ssid, pe_exec_csv, "--sheet", "Executive_Summary"], capture_output=True)
+            if sid_pe_exec is not None:
+                subprocess.run([GSHEETS, "mutate", "freeze", pe_ssid, "--sheet-id", str(sid_pe_exec), "--rows", "1"], capture_output=True)
+                subprocess.run([GSHEETS, "mutate", "format", pe_ssid, "--sheet-id", str(sid_pe_exec), "--start-row", "0", "--end-row", "1", "--start-col", "0", "--end-col", "9", "--bold", "--bg-color", "#1A73E8", "--align", "CENTER", "--wrap"], capture_output=True)
+                subprocess.run([GSHEETS, "mutate", "format", pe_ssid, "--sheet-id", str(sid_pe_exec), "--start-row", str(len(pe_summary_rows)-1), "--end-row", str(len(pe_summary_rows)), "--start-col", "0", "--end-col", "9", "--bold", "--bg-color", "#E8F0FE"], capture_output=True)
+                subprocess.run([GSHEETS, "mutate", "format", pe_ssid, "--sheet-id", str(sid_pe_exec), "--start-row", "1", "--end-row", str(len(pe_summary_rows)), "--start-col", "4", "--end-col", "8", "--align", "CENTER"], capture_output=True)
+                subprocess.run([GSHEETS, "mutate", "autosize", pe_ssid, "--sheet-id", str(sid_pe_exec), "--start-col", "0", "--end-col", "9"], capture_output=True)
+
+            # 2. All_Workloads_Follow_up
+            pe_wkl_rows = [r for r in all_global_workload_rows if pe_name in [p.strip() for p in r[0].split(",")] or norm_str(extract_hyperlink_label(r[1])) in pe_norm_set]
+            pe_top_block = [
+                ["Partner:", f"{pe_name} Partners (Partner Management Dashboard)", "", "", "", "Last Update:", DATE_FORMATTED] + [""] * 15,
+                [""] * 22,
+                ["Alert Criteria:", "Target Go-Live risk for active pipeline (Stages 0-2 & 3)", "", "🔴 Critical (≤14d / Overdue)", "🌸 High (15-30d)", "🟡 Medium (31-45d)", "", "⚪ Normal (>45d / Stage 4+)"] + [""] * 14,
+                [""] * 22,
+                GLOBAL_FOLLOWUP_HEADERS
+            ]
+            all_pe_followup_rows = pe_top_block + pe_wkl_rows
+            pe_wkl_csv = f"global_dashboard_data/all_workloads_followup_{pe_clean}.csv"
+            with open(pe_wkl_csv, "w", newline="", encoding="utf-8") as f:
+                writer = csv.writer(f)
+                writer.writerows(all_pe_followup_rows)
+            sid_pe_wkl = ensure_sheet_tab(pe_ssid, "All_Workloads_Follow_up")
+            subprocess.run([GSHEETS, "mutate", "clear", pe_ssid, "'All_Workloads_Follow_up'!A1:Z5000"], capture_output=True)
+            subprocess.run([GSHEETS, "mutate", "delete-rows", pe_ssid, "--range", "'All_Workloads_Follow_up'!2:5000"], capture_output=True)
+            subprocess.run([GSHEETS, "mutate", "import-csv", pe_ssid, pe_wkl_csv, "--sheet", "All_Workloads_Follow_up"], capture_output=True)
+
+            grid_pe = get_grid_info(pe_ssid)
+            pe_w_info = grid_pe.get("All_Workloads_Follow_up", {"sheetId": sid_pe_wkl, "rowCount": len(all_pe_followup_rows), "columnCount": 22})
+            sid_pe_wkl = pe_w_info["sheetId"]
+            pe_w_rows = max(len(all_pe_followup_rows), pe_w_info["rowCount"])
+            subprocess.run([GSHEETS, "mutate", "freeze", pe_ssid, "--sheet-id", str(sid_pe_wkl), "--rows", "5"], capture_output=True)
+
+            # Delete existing conditional formatting rules to prevent accumulation
+            try:
+                res_info = subprocess.run([GSHEETS, "readonly", "info", pe_ssid, "--json"], capture_output=True, text=True)
+                if res_info.returncode == 0 and res_info.stdout.strip():
+                    info_data = json.loads(res_info.stdout)
+                    for s_item in info_data.get("sheets", []):
+                        if s_item.get("properties", {}).get("sheetId") == sid_pe_wkl:
+                            cfs = s_item.get("conditionalFormats", [])
+                            if cfs:
+                                del_reqs = [{"deleteConditionalFormatRule": {"sheetId": sid_pe_wkl, "index": i}} for i in reversed(range(len(cfs)))]
+                                tmp_cf = f"temp_del_cf_{pe_clean}.json"
+                                with open(tmp_cf, "w") as df:
+                                    json.dump({"requests": del_reqs}, df)
+                                subprocess.run([GSHEETS, "mutate", "raw-batch", pe_ssid, "-f", tmp_cf], capture_output=True)
+                                if os.path.exists(tmp_cf):
+                                    os.remove(tmp_cf)
+            except Exception as e:
+                print(f"Warning clearing conditional formats for {pe_name}: {e}")
+
+            batch_req_pe = {
+              "requests": [
+                {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 0, "endRowIndex": pe_w_rows, "startColumnIndex": 0, "endColumnIndex": 22}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 1.0, "green": 1.0, "blue": 1.0}, "textFormat": {"foregroundColor": {"red": 0.125, "green": 0.129, "blue": 0.141}, "fontSize": 10, "bold": False, "fontFamily": "Arial"}, "verticalAlignment": "MIDDLE", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,verticalAlignment,wrapStrategy)"}},
+                {"unmergeCells": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 0, "endRowIndex": min(10, pe_w_rows), "startColumnIndex": 0, "endColumnIndex": 22}}},
+                {"mergeCells": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 1, "endColumnIndex": 5}, "mergeType": "MERGE_ALL"}},
+                {"mergeCells": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 1, "endColumnIndex": 3}, "mergeType": "MERGE_ALL"}},
+                {"mergeCells": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 5, "endColumnIndex": 7}, "mergeType": "MERGE_ALL"}},
+                {"mergeCells": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 7, "endColumnIndex": 9}, "mergeType": "MERGE_ALL"}},
+                {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 0, "endColumnIndex": 1}, "cell": {"userEnteredFormat": {"textFormat": {"bold": True, "foregroundColor": {"red": 0.37, "green": 0.39, "blue": 0.41}}, "horizontalAlignment": "RIGHT"}}, "fields": "userEnteredFormat(textFormat,horizontalAlignment)"}},
+                {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 1, "endColumnIndex": 5}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.91, "green": 0.94, "blue": 1.0}, "textFormat": {"bold": True, "fontSize": 11, "foregroundColor": {"red": 0.10, "green": 0.45, "blue": 0.91}}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
+                {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 5, "endColumnIndex": 6}, "cell": {"userEnteredFormat": {"textFormat": {"bold": True, "foregroundColor": {"red": 0.37, "green": 0.39, "blue": 0.41}}, "horizontalAlignment": "RIGHT"}}, "fields": "userEnteredFormat(textFormat,horizontalAlignment)"}},
+                {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 6, "endColumnIndex": 7}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.90, "green": 0.96, "blue": 0.92}, "textFormat": {"bold": True, "foregroundColor": {"red": 0.07, "green": 0.45, "blue": 0.20}}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
+                {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 0, "endColumnIndex": 1}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.953, "green": 0.910, "blue": 0.992}, "textFormat": {"bold": True, "fontSize": 9, "foregroundColor": {"red": 0.408, "green": 0.114, "blue": 0.659}}, "horizontalAlignment": "RIGHT"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
+                {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 1, "endColumnIndex": 3}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.953, "green": 0.910, "blue": 0.992}, "textFormat": {"italic": True, "fontSize": 9, "foregroundColor": {"red": 0.408, "green": 0.114, "blue": 0.659}}, "horizontalAlignment": "LEFT"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
+                {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 3, "endColumnIndex": 4}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.949, "green": 0.545, "blue": 0.510}, "textFormat": {"bold": True, "fontSize": 9, "foregroundColor": {"red": 0.40, "green": 0.05, "blue": 0.05}}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
+                {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 4, "endColumnIndex": 5}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 1.0, "green": 0.718, "blue": 0.302}, "textFormat": {"bold": True, "fontSize": 9, "foregroundColor": {"red": 0.45, "green": 0.15, "blue": 0.0}}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
+                {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 5, "endColumnIndex": 7}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 1.0, "green": 0.961, "blue": 0.616}, "textFormat": {"bold": True, "fontSize": 9, "foregroundColor": {"red": 0.45, "green": 0.30, "blue": 0.0}}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
+                {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 2, "endRowIndex": 3, "startColumnIndex": 7, "endColumnIndex": 9}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.945, "green": 0.953, "blue": 0.957}, "textFormat": {"bold": True, "fontSize": 9, "foregroundColor": {"red": 0.37, "green": 0.39, "blue": 0.41}}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
+                {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 4, "endRowIndex": 5, "startColumnIndex": 0, "endColumnIndex": 19}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.102, "green": 0.451, "blue": 0.910}, "textFormat": {"bold": True, "fontSize": 10, "foregroundColor": {"red": 1.0, "green": 1.0, "blue": 1.0}}, "horizontalAlignment": "CENTER", "verticalAlignment": "MIDDLE", "wrapStrategy": "WRAP"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment,verticalAlignment,wrapStrategy)"}},
+                {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 4, "endRowIndex": 5, "startColumnIndex": 19, "endColumnIndex": 21}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.075, "green": 0.451, "blue": 0.200}, "textFormat": {"bold": True, "fontSize": 10, "foregroundColor": {"red": 1.0, "green": 1.0, "blue": 1.0}}, "horizontalAlignment": "CENTER", "verticalAlignment": "MIDDLE", "wrapStrategy": "WRAP"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment,verticalAlignment,wrapStrategy)"}},
+                {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 4, "endRowIndex": 5, "startColumnIndex": 21, "endColumnIndex": 22}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.102, "green": 0.451, "blue": 0.910}, "textFormat": {"bold": True, "fontSize": 10, "foregroundColor": {"red": 1.0, "green": 1.0, "blue": 1.0}}, "horizontalAlignment": "CENTER", "verticalAlignment": "MIDDLE", "wrapStrategy": "WRAP"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment,verticalAlignment,wrapStrategy)"}},
+                {"updateBorders": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 4, "endRowIndex": pe_w_rows, "startColumnIndex": 0, "endColumnIndex": 22}, "top": {"style": "SOLID", "color": {"red": 0.8, "green": 0.8, "blue": 0.8}}, "bottom": {"style": "SOLID", "color": {"red": 0.8, "green": 0.8, "blue": 0.8}}, "left": {"style": "SOLID", "color": {"red": 0.8, "green": 0.8, "blue": 0.8}}, "right": {"style": "SOLID", "color": {"red": 0.8, "green": 0.8, "blue": 0.8}}, "innerHorizontal": {"style": "SOLID", "color": {"red": 0.9, "green": 0.9, "blue": 0.9}}, "innerVertical": {"style": "SOLID", "color": {"red": 0.9, "green": 0.9, "blue": 0.9}}}},
+                {"clearBasicFilter": {"sheetId": sid_pe_wkl}},
+                {"setBasicFilter": {"filter": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 4, "endRowIndex": pe_w_rows, "startColumnIndex": 0, "endColumnIndex": 22}}}},
+                {"updateDimensionProperties": {"range": {"sheetId": sid_pe_wkl, "dimension": "ROWS", "startIndex": 0, "endIndex": 1}, "properties": {"pixelSize": 30}, "fields": "pixelSize"}},
+                {"updateDimensionProperties": {"range": {"sheetId": sid_pe_wkl, "dimension": "ROWS", "startIndex": 1, "endIndex": 2}, "properties": {"pixelSize": 8}, "fields": "pixelSize"}},
+                {"updateDimensionProperties": {"range": {"sheetId": sid_pe_wkl, "dimension": "ROWS", "startIndex": 2, "endIndex": 3}, "properties": {"pixelSize": 28}, "fields": "pixelSize"}},
+                {"updateDimensionProperties": {"range": {"sheetId": sid_pe_wkl, "dimension": "ROWS", "startIndex": 3, "endIndex": 4}, "properties": {"pixelSize": 8}, "fields": "pixelSize"}},
+                {"updateDimensionProperties": {"range": {"sheetId": sid_pe_wkl, "dimension": "ROWS", "startIndex": 4, "endIndex": 5}, "properties": {"pixelSize": 36}, "fields": "pixelSize"}}
+              ]
+            }
+            if len(pe_wkl_rows) > 0:
+                batch_req_pe["requests"].extend([
+                    {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 5, "endRowIndex": pe_w_rows, "startColumnIndex": 0, "endColumnIndex": 3}, "cell": {"userEnteredFormat": {"horizontalAlignment": "LEFT", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
+                    {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 5, "endRowIndex": pe_w_rows, "startColumnIndex": 4, "endColumnIndex": 7}, "cell": {"userEnteredFormat": {"horizontalAlignment": "LEFT", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
+                    {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 5, "endRowIndex": pe_w_rows, "startColumnIndex": 8, "endColumnIndex": 16}, "cell": {"userEnteredFormat": {"horizontalAlignment": "LEFT", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
+                    {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 5, "endRowIndex": pe_w_rows, "startColumnIndex": 3, "endColumnIndex": 4}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
+                    {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 5, "endRowIndex": pe_w_rows, "startColumnIndex": 7, "endColumnIndex": 8}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
+                    {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 5, "endRowIndex": pe_w_rows, "startColumnIndex": 16, "endColumnIndex": 18}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
+                    {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 5, "endRowIndex": pe_w_rows, "startColumnIndex": 18, "endColumnIndex": 19}, "cell": {"userEnteredFormat": {"horizontalAlignment": "RIGHT", "wrapStrategy": "CLIP", "numberFormat": {"type": "CURRENCY", "pattern": "$#,##0.00"}}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy,numberFormat)"}},
+                    {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 5, "endRowIndex": pe_w_rows, "startColumnIndex": 19, "endColumnIndex": 21}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.945, "green": 0.980, "blue": 0.957}, "horizontalAlignment": "LEFT", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(backgroundColor,horizontalAlignment,wrapStrategy)"}},
+                    {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 5, "endRowIndex": pe_w_rows, "startColumnIndex": 21, "endColumnIndex": 22}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER", "textFormat": {"bold": True}, "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,textFormat,wrapStrategy)"}},
+                    {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 5, "endRowIndex": pe_w_rows, "startColumnIndex": 1, "endColumnIndex": 3}, "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}}, "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"}},
+                    {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 5, "endRowIndex": pe_w_rows, "startColumnIndex": 4, "endColumnIndex": 5}, "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}}, "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"}},
+                    {"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": 5, "endRowIndex": pe_w_rows, "startColumnIndex": 8, "endColumnIndex": 9}, "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}}, "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"}},
+                    {"addConditionalFormatRule": {"rule": {"ranges": [{"sheetId": sid_pe_wkl, "startRowIndex": 5, "endRowIndex": pe_w_rows, "startColumnIndex": 0, "endColumnIndex": 22}], "booleanRule": {"condition": {"type": "CUSTOM_FORMULA", "values": [{"userEnteredValue": "=AND(OR(LEFT($G6,3)=\"0-2\",LEFT($G6,2)=\"3:\"), $R6<>\"\", ($R6-TODAY())<=14)"}]}, "format": {"backgroundColor": {"red": 0.949, "green": 0.545, "blue": 0.510}}}}, "index": 0}},
+                    {"addConditionalFormatRule": {"rule": {"ranges": [{"sheetId": sid_pe_wkl, "startRowIndex": 5, "endRowIndex": pe_w_rows, "startColumnIndex": 0, "endColumnIndex": 22}], "booleanRule": {"condition": {"type": "CUSTOM_FORMULA", "values": [{"userEnteredValue": "=AND(OR(LEFT($G6,3)=\"0-2\",LEFT($G6,2)=\"3:\"), $R6<>\"\", ($R6-TODAY())>=15, ($R6-TODAY())<=30)"}]}, "format": {"backgroundColor": {"red": 1.0, "green": 0.718, "blue": 0.302}}}}, "index": 1}},
+                    {"addConditionalFormatRule": {"rule": {"ranges": [{"sheetId": sid_pe_wkl, "startRowIndex": 5, "endRowIndex": pe_w_rows, "startColumnIndex": 0, "endColumnIndex": 22}], "booleanRule": {"condition": {"type": "CUSTOM_FORMULA", "values": [{"userEnteredValue": "=AND(OR(LEFT($G6,3)=\"0-2\",LEFT($G6,2)=\"3:\"), $R6<>\"\", ($R6-TODAY())>=31, ($R6-TODAY())<=45)"}]}, "format": {"backgroundColor": {"red": 1.0, "green": 0.961, "blue": 0.616}}}}, "index": 2}},
+                    {"updateDimensionProperties": {"range": {"sheetId": sid_pe_wkl, "dimension": "ROWS", "startIndex": 5, "endIndex": pe_w_rows}, "properties": {"pixelSize": 26}, "fields": "pixelSize"}}
+                ])
+                for r_idx in range(5, pe_w_rows):
+                    if r_idx % 2 == 1:
+                        batch_req_pe["requests"].append({"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": r_idx, "endRowIndex": r_idx + 1, "startColumnIndex": 0, "endColumnIndex": 19}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.973, "green": 0.976, "blue": 0.980}}}, "fields": "userEnteredFormat(backgroundColor)"}})
+                for r_idx in range(5, pe_w_rows):
+                    if r_idx < len(all_pe_followup_rows):
+                        val = all_pe_followup_rows[r_idx][10]
+                        if "ER-" in val and ("HYPERLINK" in val or "http" in val):
+                            batch_req_pe["requests"].append({"repeatCell": {"range": {"sheetId": sid_pe_wkl, "startRowIndex": r_idx, "endRowIndex": r_idx + 1, "startColumnIndex": 10, "endColumnIndex": 11}, "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}}, "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"}})
+
+            for col_idx, width in GLOBAL_COL_WIDTHS.items():
+                batch_req_pe["requests"].append({"updateDimensionProperties": {"range": {"sheetId": sid_pe_wkl, "dimension": "COLUMNS", "startIndex": col_idx, "endIndex": col_idx + 1}, "properties": {"pixelSize": width}, "fields": "pixelSize"}})
+
+            tmp_batch_pe = f"temp_batch_{pe_ssid}.json"
+            with open(tmp_batch_pe, "w") as f:
+                json.dump(batch_req_pe, f)
+            subprocess.run([GSHEETS, "mutate", "raw-batch", pe_ssid, "-f", tmp_batch_pe], capture_output=True)
+            if os.path.exists(tmp_batch_pe):
+                os.remove(tmp_batch_pe)
+
+            # 3. All_DRP_Status
+            pe_drp_rows = [r for r in all_global_drp_rows if norm_str(r[0]) in pe_norm_set]
+            pe_drp_csv = f"global_dashboard_data/all_drp_status_{pe_clean}.csv"
+            with open(pe_drp_csv, "w", newline="", encoding="utf-8") as f:
+                writer = csv.writer(f)
+                writer.writerows([GLOBAL_DRP_HEADERS] + pe_drp_rows)
+            sid_pe_drp = ensure_sheet_tab(pe_ssid, "All_DRP_Status")
+            subprocess.run([GSHEETS, "mutate", "clear", pe_ssid, "'All_DRP_Status'!A1:Z3000"], capture_output=True)
+            subprocess.run([GSHEETS, "mutate", "delete-rows", pe_ssid, "--range", "'All_DRP_Status'!2:3000"], capture_output=True)
+            subprocess.run([GSHEETS, "mutate", "import-csv", pe_ssid, pe_drp_csv, "--sheet", "All_DRP_Status"], capture_output=True)
+            if sid_pe_drp is not None:
+                subprocess.run([GSHEETS, "mutate", "freeze", pe_ssid, "--sheet-id", str(sid_pe_drp), "--rows", "1"], capture_output=True)
+                subprocess.run([GSHEETS, "mutate", "format", pe_ssid, "--sheet-id", str(sid_pe_drp), "--start-row", "0", "--end-row", "1", "--start-col", "0", "--end-col", "8", "--bold", "--bg-color", "#E8F0FE", "--align", "CENTER", "--wrap"], capture_output=True)
+                if len(pe_drp_rows) > 0:
+                    subprocess.run([GSHEETS, "mutate", "format", pe_ssid, "--sheet-id", str(sid_pe_drp), "--start-row", "1", "--end-row", str(len(pe_drp_rows) + 1), "--start-col", "4", "--end-col", "8", "--align", "CENTER"], capture_output=True)
+                subprocess.run([GSHEETS, "mutate", "autosize", pe_ssid, "--sheet-id", str(sid_pe_drp), "--start-col", "0", "--end-col", "8"], capture_output=True)
+
+            # 4. All_Acreditaciones
+            pe_accred_rows = [r for r in all_global_accred_rows if norm_str(r[0]) in pe_norm_set]
+            pe_accred_csv = f"global_dashboard_data/all_accreditations_{pe_clean}.csv"
+            with open(pe_accred_csv, "w", newline="", encoding="utf-8") as f:
+                writer = csv.writer(f)
+                writer.writerows([GLOBAL_ACCRED_HEADERS] + pe_accred_rows)
+            sid_pe_accred = ensure_sheet_tab(pe_ssid, "All_Acreditaciones")
+            subprocess.run([GSHEETS, "mutate", "clear", pe_ssid, "'All_Acreditaciones'!A1:Z10000"], capture_output=True)
+            subprocess.run([GSHEETS, "mutate", "delete-rows", pe_ssid, "--range", "'All_Acreditaciones'!2:10000"], capture_output=True)
+            subprocess.run([GSHEETS, "mutate", "import-csv", pe_ssid, pe_accred_csv, "--sheet", "All_Acreditaciones"], capture_output=True)
+            if sid_pe_accred is not None:
+                subprocess.run([GSHEETS, "mutate", "freeze", pe_ssid, "--sheet-id", str(sid_pe_accred), "--rows", "1"], capture_output=True)
+                subprocess.run([GSHEETS, "mutate", "format", pe_ssid, "--sheet-id", str(sid_pe_accred), "--start-row", "0", "--end-row", "1", "--start-col", "0", "--end-col", "9", "--bold", "--bg-color", "#E8F0FE", "--align", "CENTER", "--wrap"], capture_output=True)
+                if len(pe_accred_rows) > 0:
+                    subprocess.run([GSHEETS, "mutate", "format", pe_ssid, "--sheet-id", str(sid_pe_accred), "--start-row", "1", "--end-row", str(len(pe_accred_rows) + 1), "--start-col", "6", "--end-col", "8", "--align", "CENTER"], capture_output=True)
+                subprocess.run([GSHEETS, "mutate", "autosize", pe_ssid, "--sheet-id", str(sid_pe_accred), "--start-col", "0", "--end-col", "9"], capture_output=True)
+
+            # Clean default sheet
+            cleanup_default_sheets(pe_ssid)
+            print(f"✓ Completed PE Dashboard for {pe_name}.")
+
+    print("\n========================================================")
+    print("SUCCESS: ALL 31 PARTNERS, GLOBAL DASHBOARD & 6 PE DASHBOARDS SYNCED!")
+    print("========================================================")
+
+
+if __name__ == "__main__":
+    main()
