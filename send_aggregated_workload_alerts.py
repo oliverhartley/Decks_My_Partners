@@ -236,21 +236,26 @@ def fetch_and_evaluate_workloads(csv_path="/tmp/oliver_followup.csv", target_dat
     return evaluated_workloads
 
 
-def get_risk_badge_html(risk_level, is_priority=False):
-    badges = []
+def get_risk_components(risk_level, is_priority=False):
+    # Both Critical and High showcase criticality with a red dot
     if risk_level == "Critical":
-        badges.append('<span style="background-color: #fce8e6; color: #c5221f; border: 1px solid #ea4335; padding: 3px 8px; border-radius: 4px; font-weight: bold; font-size: 11px; text-transform: uppercase;">🔴 Critical</span>')
+        dot = "🔴"
+        badge = '<span style="background-color: #fce8e6; color: #c5221f; border: 1px solid #ea4335; padding: 2px 7px; border-radius: 4px; font-weight: bold; font-size: 11px; text-transform: uppercase;">CRITICAL</span>'
     elif risk_level == "High":
-        badges.append('<span style="background-color: #fde8e8; color: #b06000; border: 1px solid #f9ab00; padding: 3px 8px; border-radius: 4px; font-weight: bold; font-size: 11px; text-transform: uppercase;">🌸 High</span>')
+        dot = "🔴"
+        badge = '<span style="background-color: #fde8e8; color: #b06000; border: 1px solid #f9ab00; padding: 2px 7px; border-radius: 4px; font-weight: bold; font-size: 11px; text-transform: uppercase;">🌸 HIGH</span>'
     elif risk_level == "Medium":
-        badges.append('<span style="background-color: #fef7e0; color: #b06000; border: 1px solid #f9ab00; padding: 3px 8px; border-radius: 4px; font-weight: bold; font-size: 11px; text-transform: uppercase;">🟡 Medium</span>')
+        dot = "🟡"
+        badge = '<span style="background-color: #fef7e0; color: #b06000; border: 1px solid #f9ab00; padding: 2px 7px; border-radius: 4px; font-weight: bold; font-size: 11px; text-transform: uppercase;">MEDIUM</span>'
     else:
-        badges.append('<span style="background-color: #f1f3f4; color: #5f6368; border: 1px solid #dadce0; padding: 3px 8px; border-radius: 4px; font-weight: bold; font-size: 11px; text-transform: uppercase;">⚪ Normal</span>')
+        dot = "⚪"
+        badge = '<span style="background-color: #f1f3f4; color: #5f6368; border: 1px solid #dadce0; padding: 2px 7px; border-radius: 4px; font-weight: bold; font-size: 11px; text-transform: uppercase;">NORMAL</span>'
 
+    prio_badge = ""
     if is_priority:
-        badges.append('<span style="background-color: #e8f0fe; color: #1a73e8; border: 1px solid #1a73e8; padding: 3px 8px; border-radius: 4px; font-weight: bold; font-size: 11px; text-transform: uppercase; margin-left: 6px;">⭐ Priority</span>')
+        prio_badge = '<span style="background-color: #e8f0fe; color: #1a73e8; border: 1px solid #1a73e8; padding: 2px 7px; border-radius: 4px; font-weight: bold; font-size: 11px; text-transform: uppercase; margin-right: 8px; vertical-align: middle;">⭐ PRIORITY</span>'
 
-    return " ".join(badges)
+    return dot, badge, prio_badge
 
 
 def build_workload_card_html(wkl):
@@ -283,7 +288,7 @@ If there is any shift or delay, <strong>please update the Production Date in Sal
     c_link = f'<a href="{wkl["customer_url"]}" style="color: #1a73e8; text-decoration: none;">{wkl["customer_name"]} ↗</a>' if wkl["customer_url"] else wkl["customer_name"]
     p_link = f'<a href="{wkl["partner_url"]}" style="color: #1a73e8; text-decoration: none;">{wkl["partner_name"]} ↗</a>' if wkl["partner_url"] else wkl["partner_name"]
 
-    risk_badge = get_risk_badge_html(wkl["risk_level"], wkl["is_priority"])
+    dot_icon, risk_badge_html, prio_badge_html = get_risk_components(wkl["risk_level"], wkl["is_priority"])
 
     next_step_content = wkl["next_steps"] if wkl["next_steps"] else "<em>No Next Steps registered in Concord</em>"
     notes_content = f"<br><strong>Notes / Tasks:</strong> {wkl['notes']}" if wkl["notes"] else ""
@@ -295,11 +300,11 @@ If there is any shift or delay, <strong>please update the Production Date in Sal
         <table style="width: 100%; border-collapse: collapse;">
           <tr>
             <td style="text-align: left; vertical-align: middle;">
-              <span style="font-size: 15px; font-weight: bold; color: #202124;">{w_link}</span>
-              <span style="font-size: 12px; color: #5f6368; margin-left: 8px;">({c_link} &bull; {wkl['tier']})</span>
-            </td>
-            <td style="text-align: right; vertical-align: middle;">
-              {risk_badge}
+              <span style="font-size: 13px; vertical-align: middle; margin-right: 6px;">{dot_icon}</span>
+              <span style="vertical-align: middle; margin-right: 8px;">{risk_badge_html}</span>
+              {prio_badge_html}
+              <span style="font-size: 15px; font-weight: bold; color: #202124; vertical-align: middle;">{w_link}</span>
+              <span style="font-size: 12px; color: #5f6368; margin-left: 6px; vertical-align: middle;">({c_link} &bull; {wkl['tier']})</span>
             </td>
           </tr>
         </table>
