@@ -241,8 +241,8 @@ def get_risk_components(risk_level, is_priority=False):
         dot = "🔴"
         badge = '<span style="background-color: #fce8e6; color: #c5221f; border: 1px solid #ea4335; padding: 2px 7px; border-radius: 4px; font-weight: bold; font-size: 11px; text-transform: uppercase;">CRITICAL</span>'
     elif risk_level == "High":
-        dot = "🔴"
-        badge = '<span style="background-color: #fde8e8; color: #b06000; border: 1px solid #f9ab00; padding: 2px 7px; border-radius: 4px; font-weight: bold; font-size: 11px; text-transform: uppercase;">🌸 HIGH</span>'
+        dot = "🟠"
+        badge = '<span style="background-color: #fff0d4; color: #b06000; border: 1px solid #f9ab00; padding: 2px 7px; border-radius: 4px; font-weight: bold; font-size: 11px; text-transform: uppercase;">🌸 HIGH</span>'
     elif risk_level == "Medium":
         dot = "🟡"
         badge = '<span style="background-color: #fef7e0; color: #b06000; border: 1px solid #f9ab00; padding: 2px 7px; border-radius: 4px; font-weight: bold; font-size: 11px; text-transform: uppercase;">MEDIUM</span>'
@@ -391,6 +391,19 @@ def build_owner_email(owner_email, owner_wkls, simulation_recipients=None):
     high_part = f"{high_count} High 🌸" if high_count > 0 else ""
     breakdown_str = f"({crit_part}{high_part})".replace(", )", ")") if (crit_count or high_count) else ""
 
+    if crit_count > 0:
+        header_icon = "🔴"
+        header_color = "#c5221f"
+        border_color = "#ea4335"
+    elif high_count > 0:
+        header_icon = "🟠"
+        header_color = "#b06000"
+        border_color = "#f9ab00"
+    else:
+        header_icon = "🟡"
+        header_color = "#b06000"
+        border_color = "#f9ab00"
+
     subject = f"{'[TEST for ' + owner_name + '] ' if is_test else ''}[Action Required] Workload Pipeline Alert: {total_wkls} Workload(s) Requiring Attention {breakdown_str}".strip()
 
     cards_html = "".join([build_workload_card_html(w) for w in owner_wkls])
@@ -399,9 +412,9 @@ def build_owner_email(owner_email, owner_wkls, simulation_recipients=None):
     <div style="font-family: Arial, sans-serif; font-size: 14px; color: #202124; line-height: 1.5; max-width: 800px; margin: 0 auto; padding: 20px; border: 1px solid #dadce0; border-radius: 8px;">
       {test_banner_html}
 
-      <div style="background-color: #ffffff; border-bottom: 2px solid #ea4335; padding-bottom: 14px; margin-bottom: 20px;">
-        <h2 style="color: #c5221f; margin: 0 0 6px 0; font-size: 20px;">
-          🔴 Workload Action Alerts & Pipeline Status
+      <div style="background-color: #ffffff; border-bottom: 2px solid {border_color}; padding-bottom: 14px; margin-bottom: 20px;">
+        <h2 style="color: {header_color}; margin: 0 0 6px 0; font-size: 20px;">
+          {header_icon} Workload Action Alerts & Pipeline Status
         </h2>
         <span style="font-size: 13px; color: #5f6368;">
           Assigned to: <strong>{owner_name}</strong> (&lt;{owner_email}&gt;) &bull; Date: <strong>{today_str}</strong>
@@ -500,6 +513,19 @@ def build_consolidated_email(workloads, target_owners, simulation_recipients=Non
     high_part = f"{high_count} High 🌸" if high_count > 0 else ""
     breakdown_str = f"({crit_part}{high_part})".replace(", )", ")") if (crit_count or high_count) else ""
 
+    if crit_count > 0:
+        header_icon = "🔴"
+        header_color = "#c5221f"
+        border_color = "#ea4335"
+    elif high_count > 0:
+        header_icon = "🟠"
+        header_color = "#b06000"
+        border_color = "#f9ab00"
+    else:
+        header_icon = "🟡"
+        header_color = "#b06000"
+        border_color = "#f9ab00"
+
     single_owner_tag = f" - {by_owner[target_owners[0]][0]['owner_name']}" if len(target_owners) == 1 and target_owners[0] in by_owner else ""
     subject = f"{'[TEST' + single_owner_tag + '] ' if is_test else ''}[Action Required] Aggregated Workload Alerts: {total_wkls} Workloads {breakdown_str}".strip()
 
@@ -567,9 +593,9 @@ def build_consolidated_email(workloads, target_owners, simulation_recipients=Non
     <div style="font-family: Arial, sans-serif; font-size: 14px; color: #202124; line-height: 1.5; max-width: 800px; margin: 0 auto; padding: 20px; border: 1px solid #dadce0; border-radius: 8px;">
       {test_banner_html}
 
-      <div style="background-color: #ffffff; border-bottom: 2px solid #ea4335; padding-bottom: 14px; margin-bottom: 20px;">
-        <h2 style="color: #c5221f; margin: 0 0 6px 0; font-size: 20px;">
-          🔴 Active Pipeline Alerts & Business Priorities
+      <div style="background-color: #ffffff; border-bottom: 2px solid {border_color}; padding-bottom: 14px; margin-bottom: 20px;">
+        <h2 style="color: {header_color}; margin: 0 0 6px 0; font-size: 20px;">
+          {header_icon} Active Pipeline Alerts & Business Priorities
         </h2>
         <span style="font-size: 13px; color: #5f6368;">
           Evaluated from <strong>Partner Management Dashboard - Oliver Hartley</strong> &bull; Date: <strong>{today_str}</strong>
