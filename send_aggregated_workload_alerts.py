@@ -237,7 +237,6 @@ def fetch_and_evaluate_workloads(csv_path="/tmp/oliver_followup.csv", target_dat
 
 
 def get_risk_components(risk_level, is_priority=False):
-    # Both Critical and High showcase criticality with a red dot
     if risk_level == "Critical":
         dot = "🔴"
         badge = '<span style="background-color: #fce8e6; color: #c5221f; border: 1px solid #ea4335; padding: 2px 7px; border-radius: 4px; font-weight: bold; font-size: 11px; text-transform: uppercase;">CRITICAL</span>'
@@ -374,7 +373,12 @@ def build_owner_email(owner_email, owner_wkls, simulation_recipients=None):
 
     test_banner_html = ""
     if is_test:
-        rec_str = ", ".join(simulation_recipients)
+        if len(simulation_recipients) > 1:
+            rec_str = f"To: {simulation_recipients[0]} &bull; CC: {', '.join(simulation_recipients[1:])}"
+        elif simulation_recipients:
+            rec_str = f"To: {simulation_recipients[0]}"
+        else:
+            rec_str = "None"
         test_banner_html = f"""
         <div style="background-color: #fce8e6; border: 1px dashed #d93025; padding: 12px 16px; border-radius: 6px; margin-bottom: 20px; font-size: 13px; color: #c5221f;">
           <strong>⚠️ SIMULATION ALERT &bull; IN-FLIGHT TEST</strong><br>
@@ -383,7 +387,11 @@ def build_owner_email(owner_email, owner_wkls, simulation_recipients=None):
         </div>
         """
 
-    subject = f"{'[TEST for ' + owner_email + '] ' if is_test else ''}[Action Required] Workload Pipeline Alert: {total_wkls} Workload(s) Requiring Attention ({crit_count} Critical 🔴, {high_count} High 🌸)"
+    crit_part = f"{crit_count} Critical 🔴, " if crit_count > 0 else ""
+    high_part = f"{high_count} High 🌸" if high_count > 0 else ""
+    breakdown_str = f"({crit_part}{high_part})".replace(", )", ")") if (crit_count or high_count) else ""
+
+    subject = f"{'[TEST for ' + owner_name + '] ' if is_test else ''}[Action Required] Workload Pipeline Alert: {total_wkls} Workload(s) Requiring Attention {breakdown_str}".strip()
 
     cards_html = "".join([build_workload_card_html(w) for w in owner_wkls])
 
@@ -472,17 +480,28 @@ def build_consolidated_email(workloads, target_owners, simulation_recipients=Non
 
     test_banner_html = ""
     if is_test:
-        rec_str = ", ".join(simulation_recipients)
+        if len(simulation_recipients) > 1:
+            rec_str = f"To: {simulation_recipients[0]} &bull; CC: {', '.join(simulation_recipients[1:])}"
+        elif simulation_recipients:
+            rec_str = f"To: {simulation_recipients[0]}"
+        else:
+            rec_str = "None"
+        owner_label = by_owner[target_owners[0]][0]['owner_name'] if len(target_owners) == 1 and target_owners[0] in by_owner else f"{len(target_owners)} owners"
         test_banner_html = f"""
         <div style="background-color: #fce8e6; border: 1px dashed #d93025; padding: 12px 16px; border-radius: 6px; margin-bottom: 20px; font-size: 13px; color: #c5221f;">
           <strong>⚠️ TEST & SIMULATION EXECUTION</strong><br>
-          This email aggregates all qualifying workloads from <strong>{len(target_owners)}</strong> owners: <em>{', '.join(target_owners)}</em>.<br>
+          This email aggregates all qualifying workloads for: <strong>{owner_label}</strong> (<em>{', '.join(target_owners)}</em>).<br>
           In production automation, each owner receives only their own personalized aggregated email.<br>
           Target Test Recipients: <strong>{rec_str}</strong>
         </div>
         """
 
-    subject = f"{'[TEST] ' if is_test else ''}[Action Required] Aggregated Workload Alerts: {total_wkls} Workloads ({crit_count} Critical 🔴, {high_count} High 🌸)"
+    crit_part = f"{crit_count} Critical 🔴, " if crit_count > 0 else ""
+    high_part = f"{high_count} High 🌸" if high_count > 0 else ""
+    breakdown_str = f"({crit_part}{high_part})".replace(", )", ")") if (crit_count or high_count) else ""
+
+    single_owner_tag = f" - {by_owner[target_owners[0]][0]['owner_name']}" if len(target_owners) == 1 and target_owners[0] in by_owner else ""
+    subject = f"{'[TEST' + single_owner_tag + '] ' if is_test else ''}[Action Required] Aggregated Workload Alerts: {total_wkls} Workloads {breakdown_str}".strip()
 
     owner_sections_html = []
     for owner_email in target_owners:
@@ -616,9 +635,19 @@ def build_consolidated_email(workloads, target_owners, simulation_recipients=Non
     }
 
 
-def send_email_via_cli(recipients, subject, html_body):
-    to_addr = recipients[0]
-    cc_addr = recipients[1] if len(recipients) > 1 else None
+def send_email_via_cli(recipients, subject, html_body, cc=None):
+    if isinstance(recipients, list):
+        to_addr = recipients[0]
+        cc_addrs = [c for c in recipients[1:]]
+    else:
+        to_addr = recipients
+        cc_addrs = []
+
+    if cc:
+        if isinstance(cc, list):
+            cc_addrs.extend(cc)
+        else:
+            cc_addrs.extend([c.strip() for c in cc.split(",") if c.strip()])
 
     with tempfile.NamedTemporaryFile(mode="w", suffix=".html", delete=False, encoding="utf-8") as f:
         f.write(html_body)
@@ -633,8 +662,8 @@ def send_email_via_cli(recipients, subject, html_body):
             "--body-file", temp_html_path,
             "--ignore-sharing-checks"
         ]
-        if cc_addr:
-            cmd.extend(["--cc", cc_addr])
+        for c in cc_addrs:
+            cmd.extend(["--cc", c])
 
         res = subprocess.run(cmd, capture_output=True, text=True)
         if res.returncode != 0:
@@ -650,7 +679,9 @@ def main():
     parser.add_argument("--csv", default="/tmp/oliver_followup.csv", help="Path to exported Oliver Hartley followup CSV")
     parser.add_argument("--refresh", action="store_true", help="Force re-export of Oliver Hartley dashboard sheet")
     parser.add_argument("--owners", default="patricioperez@google.com,renanvaladares@google.com,vpimentel@google.com", help="Comma-separated owner emails")
-    parser.add_argument("--recipients", default="oliver.hartley@gmail.com,oliver@obiracing.com", help="Recipient emails for test execution")
+    parser.add_argument("--recipients", default=None, help="Comma-separated recipient emails (first is To, others are CC)")
+    parser.add_argument("--to", default=None, help="Primary recipient email (To:)")
+    parser.add_argument("--cc", default=None, help="CC recipient email(s), comma-separated")
     parser.add_argument("--preview-file", default="/tmp/email_preview.html", help="Path to save HTML preview file")
     parser.add_argument("--mode", choices=["consolidated", "per-owner", "all"], default="consolidated", help="Send mode: consolidated (single email for all owners) or per-owner (separate email per owner) or all")
     parser.add_argument("--send", action="store_true", help="Actually execute sending via Gmail CLI")
@@ -658,7 +689,16 @@ def main():
     args = parser.parse_args()
 
     target_owners = [o.strip().lower() for o in args.owners.split(",") if o.strip()]
-    recipients = [r.strip() for r in args.recipients.split(",") if r.strip()]
+
+    recipients = []
+    if args.to:
+        recipients.append(args.to.strip())
+        if args.cc:
+            recipients.extend([c.strip() for c in args.cc.split(",") if c.strip()])
+    elif args.recipients:
+        recipients = [r.strip() for r in args.recipients.split(",") if r.strip()]
+    else:
+        recipients = ["oliver.hartley@gmail.com", "oliver@obiracing.com"]
 
     print("=================================================================")
     print("Aggregated Workload Alert Engine (Oliver Hartley Dashboard)")
