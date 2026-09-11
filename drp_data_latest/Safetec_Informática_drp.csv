@@ -2,7 +2,7 @@ Pillar,Solution (Sales Play),Product,Tier 1 Profiles Count,Tier 2 Profiles Count
 Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
 Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,2,2,🟢 Ready (2 DRP / 1 wkls)
-Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,2,5,7,🟢 Ready (7 DRP / 5 wkls)
+Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,2,5,7,🟢 Ready (7 DRP / 6 wkls)
 Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
@@ -10,7 +10,7 @@ Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insi
 Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,5,5,🟡 Constrained (5 DRP / 7 wkls)
 Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,5,5,🟢 Ready (5 profiles)
 Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,⚪ No Active Demand
-Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,5,5,🟡 Constrained (5 DRP / 8 wkls)
+Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,5,5,🟡 Constrained (5 DRP / 9 wkls)
 Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,5,5,🟢 Ready (5 profiles)
 Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,,⚪ No Active Demand
 Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,2,2,🟢 Ready (2 profiles)
@@ -34,4 +34,4 @@ Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ 
 Security,Agentic Defense with Google Security,Security Command Center,1,1,2,🟢 Ready (2 profiles)
 Security,Agentic Defense with Google Security,Security Operations,,,,⚪ No Active Demand
 Security,Secure Innovation with Google Cloud,Cloud Security,1,1,2,🟢 Ready (2 profiles)
-Workspace,Agentic Workplace Transformation,Workspace,12,,12,🟢 Ready (12 profiles)
+Workspace,Agentic Workplace Transformation,Workspace,13,,13,🟢 Ready (13 profiles)

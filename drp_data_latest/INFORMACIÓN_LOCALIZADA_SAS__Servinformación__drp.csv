@@ -2,12 +2,12 @@ Pillar,Solution (Sales Play),Product,Tier 1 Profiles Count,Tier 2 Profiles Count
 Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,1,1,🟡 Constrained (1 DRP / 2 wkls)
 Application Modernization,"Migrate, Modernize and Build",Cloud Run,10,15,25,🟢 Ready (25 profiles)
 Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,7,12,19,🟡 Constrained (19 DRP / 20 wkls)
-Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,3,3,🟡 Constrained (3 DRP / 50 wkls)
+Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,3,3,🟡 Constrained (3 DRP / 49 wkls)
 Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,1,1,🟢 Ready (1 profiles)
 Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,1,1,🟢 Ready (1 profiles)
 Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,1,1,🟢 Ready (1 profiles)
-Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,20,15,35,🟢 Ready (35 DRP / 34 wkls)
+Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,20,15,35,🟢 Ready (35 DRP / 35 wkls)
 Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,20,15,35,🟢 Ready (35 DRP / 1 wkls)
 Artificial Intelligence,Scale AI Apps and Agents,AI Applications,6,5,11,🟢 Ready (11 profiles)
 Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,20,15,35,🟡 Constrained (35 DRP / 70 wkls)
@@ -27,7 +27,7 @@ Databases,The AI Ready Data Cloud,Spanner,,,,🔴 Gap (0 DRP / 1 wkls)
 Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,,,⚪ No Active Demand
 Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,2,,2,🟢 Ready (2 profiles)
 Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,3,7,10,🟢 Ready (10 profiles)
-Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,4,15,19,🟢 Ready (19 profiles)
+Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,5,15,20,🟢 Ready (20 profiles)
 Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,71,19,90,🟢 Ready (90 profiles)
 Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
 Security,Agentic Defense with Google Security,Google Threat Intelligence,1,2,3,🟢 Ready (3 profiles)

@@ -37,7 +37,7 @@ IPNET (Telefônica Cloud),Security,Secure Innovation with Google Cloud,Cloud Sec
 IPNET (Telefônica Cloud),Workspace,Agentic Workplace Transformation,Workspace,,,,⚪ No Active Demand
 Kyndryl Brasil,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,1,1,🟢 Ready (1 profiles)
 Kyndryl Brasil,Application Modernization,"Migrate, Modernize and Build",Cloud Run,6,5,11,🟢 Ready (11 profiles)
-Kyndryl Brasil,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,5,30,35,🟢 Ready (35 DRP / 5 wkls)
+Kyndryl Brasil,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,5,30,35,🟢 Ready (35 DRP / 4 wkls)
 Kyndryl Brasil,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,3,30,33,🟢 Ready (33 DRP / 3 wkls)
 Kyndryl Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,3,3,🟢 Ready (3 profiles)
 Kyndryl Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
@@ -82,12 +82,12 @@ SantoDigital,Artificial Intelligence,Gemini Enterprise for Customer Experience,G
 SantoDigital,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,12,27,39,🟢 Ready (39 DRP / 14 wkls)
 SantoDigital,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,12,27,39,🟢 Ready (39 DRP / 1 wkls)
 SantoDigital,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,1,6,7,🟢 Ready (7 profiles)
-SantoDigital,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,12,27,39,🟡 Constrained (39 DRP / 55 wkls)
+SantoDigital,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,12,27,39,🟡 Constrained (39 DRP / 56 wkls)
 SantoDigital,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,12,27,39,🟢 Ready (39 DRP / 10 wkls)
 SantoDigital,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,4,5,9,🟢 Ready (9 profiles)
-SantoDigital,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,1,4,5,🟢 Ready (5 profiles)
+SantoDigital,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,1,5,6,🟢 Ready (6 profiles)
 SantoDigital,Data & Analytics,The AI Ready Data Cloud,BigQuery,4,5,9,🟡 Constrained (9 DRP / 14 wkls)
-SantoDigital,Data & Analytics,The AI Ready Data Cloud,Dataflow,1,4,5,🟢 Ready (5 profiles)
+SantoDigital,Data & Analytics,The AI Ready Data Cloud,Dataflow,1,5,6,🟢 Ready (6 profiles)
 SantoDigital,Data & Analytics,The AI Ready Data Cloud,Dataproc,,,,⚪ No Active Demand
 SantoDigital,Data & Analytics,The AI Ready Data Cloud,Looker,1,1,2,🟢 Ready (2 DRP / 1 wkls)
 SantoDigital,Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,,,⚪ No Active Demand
@@ -109,7 +109,7 @@ SantoDigital,Security,Secure Innovation with Google Cloud,Cloud Security,4,3,7,�
 SantoDigital,Workspace,Agentic Workplace Transformation,Workspace,4,5,9,🟢 Ready (9 profiles)
 Sauter Tecnologia,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 Sauter Tecnologia,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
-Sauter Tecnologia,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,8,7,15,🟢 Ready (15 DRP / 8 wkls)
+Sauter Tecnologia,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,8,7,15,🟢 Ready (15 DRP / 9 wkls)
 Sauter Tecnologia,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,🔴 Gap (0 DRP / 18 wkls)
 Sauter Tecnologia,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 Sauter Tecnologia,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
@@ -118,8 +118,8 @@ Sauter Tecnologia,Artificial Intelligence,Gemini Enterprise for Customer Experie
 Sauter Tecnologia,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,1,1,🟡 Constrained (1 DRP / 6 wkls)
 Sauter Tecnologia,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,1,1,🟢 Ready (1 profiles)
 Sauter Tecnologia,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,⚪ No Active Demand
-Sauter Tecnologia,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,1,1,🟡 Constrained (1 DRP / 21 wkls)
-Sauter Tecnologia,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,1,1,🟡 Constrained (1 DRP / 2 wkls)
+Sauter Tecnologia,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,1,1,🟡 Constrained (1 DRP / 22 wkls)
+Sauter Tecnologia,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,1,1,🟡 Constrained (1 DRP / 3 wkls)
 Sauter Tecnologia,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,10,3,13,🟢 Ready (13 profiles)
 Sauter Tecnologia,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,4,5,9,🟢 Ready (9 profiles)
 Sauter Tecnologia,Data & Analytics,The AI Ready Data Cloud,BigQuery,10,3,13,🟢 Ready (13 DRP / 9 wkls)
@@ -139,7 +139,7 @@ Sauter Tecnologia,Infrastructure Modernization,"Migrate, Modernize and Build",Go
 Sauter Tecnologia,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,14,5,19,🟢 Ready (19 profiles)
 Sauter Tecnologia,Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
 Sauter Tecnologia,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
-Sauter Tecnologia,Security,Agentic Defense with Google Security,Security Command Center,1,1,2,🟢 Ready (2 profiles)
+Sauter Tecnologia,Security,Agentic Defense with Google Security,Security Command Center,1,2,3,🟢 Ready (3 profiles)
 Sauter Tecnologia,Security,Agentic Defense with Google Security,Security Operations,,,,⚪ No Active Demand
 Sauter Tecnologia,Security,Secure Innovation with Google Cloud,Cloud Security,,1,1,🟢 Ready (1 profiles)
 Sauter Tecnologia,Workspace,Agentic Workplace Transformation,Workspace,,1,1,🟢 Ready (1 profiles)
