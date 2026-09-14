@@ -1,6 +1,6 @@
 Partner Name,Pillar,Solution (Sales Play),Product,Tier 1 Profiles Count,Tier 2 Profiles Count,Total Tier 1 & 2 Profiles,Capacity Status (DRP vs Workloads)
 CU2 CLOUD TEC STORE SL,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
-CU2 CLOUD TEC STORE SL,Application Modernization,"Migrate, Modernize and Build",Cloud Run,6,2,8,🟢 Ready (8 profiles)
+CU2 CLOUD TEC STORE SL,Application Modernization,"Migrate, Modernize and Build",Cloud Run,6,1,7,🟢 Ready (7 profiles)
 CU2 CLOUD TEC STORE SL,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,5,2,7,🟢 Ready (7 DRP / 1 wkls)
 CU2 CLOUD TEC STORE SL,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,⚪ No Active Demand
 CU2 CLOUD TEC STORE SL,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
@@ -12,28 +12,28 @@ CU2 CLOUD TEC STORE SL,Artificial Intelligence,Leverage Generative Media in your
 CU2 CLOUD TEC STORE SL,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,4,2,6,🟢 Ready (6 profiles)
 CU2 CLOUD TEC STORE SL,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,6,2,8,🟢 Ready (8 DRP / 4 wkls)
 CU2 CLOUD TEC STORE SL,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,6,2,8,🟢 Ready (8 DRP / 1 wkls)
-CU2 CLOUD TEC STORE SL,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,11,1,12,🟢 Ready (12 profiles)
-CU2 CLOUD TEC STORE SL,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,11,2,13,🟢 Ready (13 profiles)
-CU2 CLOUD TEC STORE SL,Data & Analytics,The AI Ready Data Cloud,BigQuery,11,1,12,🟢 Ready (12 DRP / 4 wkls)
-CU2 CLOUD TEC STORE SL,Data & Analytics,The AI Ready Data Cloud,Dataflow,11,2,13,🟢 Ready (13 profiles)
+CU2 CLOUD TEC STORE SL,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,10,1,11,🟢 Ready (11 profiles)
+CU2 CLOUD TEC STORE SL,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,10,2,12,🟢 Ready (12 profiles)
+CU2 CLOUD TEC STORE SL,Data & Analytics,The AI Ready Data Cloud,BigQuery,10,1,11,🟢 Ready (11 DRP / 4 wkls)
+CU2 CLOUD TEC STORE SL,Data & Analytics,The AI Ready Data Cloud,Dataflow,10,2,12,🟢 Ready (12 profiles)
 CU2 CLOUD TEC STORE SL,Data & Analytics,The AI Ready Data Cloud,Dataproc,1,,1,🟢 Ready (1 profiles)
 CU2 CLOUD TEC STORE SL,Data & Analytics,The AI Ready Data Cloud,Looker,6,,6,🟢 Ready (6 profiles)
-CU2 CLOUD TEC STORE SL,Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,2,2,🟢 Ready (2 profiles)
-CU2 CLOUD TEC STORE SL,Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,4,6,10,🟢 Ready (10 profiles)
+CU2 CLOUD TEC STORE SL,Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,1,1,🟢 Ready (1 profiles)
+CU2 CLOUD TEC STORE SL,Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,4,5,9,🟢 Ready (9 profiles)
 CU2 CLOUD TEC STORE SL,Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,,,,⚪ No Active Demand
-CU2 CLOUD TEC STORE SL,Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,2,2,🟢 Ready (2 DRP / 1 wkls)
-CU2 CLOUD TEC STORE SL,Databases,The AI Ready Data Cloud,Cloud SQL,4,6,10,🟢 Ready (10 profiles)
+CU2 CLOUD TEC STORE SL,Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,1,1,🟢 Ready (1 DRP / 1 wkls)
+CU2 CLOUD TEC STORE SL,Databases,The AI Ready Data Cloud,Cloud SQL,4,5,9,🟢 Ready (9 profiles)
 CU2 CLOUD TEC STORE SL,Databases,The AI Ready Data Cloud,Spanner,,,,⚪ No Active Demand
 CU2 CLOUD TEC STORE SL,Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,,,⚪ No Active Demand
 CU2 CLOUD TEC STORE SL,Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,1,1,🟢 Ready (1 profiles)
-CU2 CLOUD TEC STORE SL,Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,2,8,10,🟢 Ready (10 profiles)
-CU2 CLOUD TEC STORE SL,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,12,1,13,🟢 Ready (13 profiles)
-CU2 CLOUD TEC STORE SL,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,12,,12,🟢 Ready (12 profiles)
+CU2 CLOUD TEC STORE SL,Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,2,7,9,🟢 Ready (9 profiles)
+CU2 CLOUD TEC STORE SL,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,11,1,12,🟢 Ready (12 profiles)
+CU2 CLOUD TEC STORE SL,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,11,,11,🟢 Ready (11 profiles)
 CU2 CLOUD TEC STORE SL,Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
 CU2 CLOUD TEC STORE SL,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
-CU2 CLOUD TEC STORE SL,Security,Agentic Defense with Google Security,Security Command Center,8,3,11,🟢 Ready (11 profiles)
-CU2 CLOUD TEC STORE SL,Security,Agentic Defense with Google Security,Security Operations,3,8,11,🟢 Ready (11 profiles)
-CU2 CLOUD TEC STORE SL,Security,Secure Innovation with Google Cloud,Cloud Security,11,2,13,🟢 Ready (13 profiles)
+CU2 CLOUD TEC STORE SL,Security,Agentic Defense with Google Security,Security Command Center,7,3,10,🟢 Ready (10 profiles)
+CU2 CLOUD TEC STORE SL,Security,Agentic Defense with Google Security,Security Operations,3,7,10,🟢 Ready (10 profiles)
+CU2 CLOUD TEC STORE SL,Security,Secure Innovation with Google Cloud,Cloud Security,10,2,12,🟢 Ready (12 profiles)
 CU2 CLOUD TEC STORE SL,Workspace,Agentic Workplace Transformation,Workspace,2,,2,🟢 Ready (2 profiles)
 Emergys Mexico,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 Emergys Mexico,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand

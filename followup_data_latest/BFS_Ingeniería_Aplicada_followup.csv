@@ -1,4 +1,4 @@
-Partner:,BFS Ingeniería Aplicada,,,Last Update:,11 - Sep 2026,,,,,,,,,,,,,,,,,,,
+Partner:,BFS Ingeniería Aplicada,,,Last Update:,14 - Sep 2026,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,
 Alert Criteria:,Target Implementation risk for active pipeline (Stages 0-2 & 3),,🔴 Critical (≤14d / Overdue),🌸 High (15-30d),🟡 Medium (31-45d),,⚪ Normal (>45d),,⭐ Priority (Bold 11pt),,,,,,,,,,,,,,,
 Alert Criteria:,Target Go-Live risk for delivery phase (Stages 4.1 & 4.2),,🔴 Critical (≤14d / Overdue),🌸 High (15-30d),🟡 Medium (31-45d),,⚪ Normal (>45d / Stage 4.3),,⭐ Priority (Bold 11pt),,,,,,,,,,,,,,,
