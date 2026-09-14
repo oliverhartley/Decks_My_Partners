@@ -48,29 +48,56 @@ def find_critical_workloads(csv_path, partner_name=PARTNER_NAME_DEFAULT, tracker
 
     critical_workloads = []
     # Header is at row index 4 (1-indexed row 5), data starts at row index 5 (1-indexed row 6)
+    headers = [h.strip() for h in rows[4]] if len(rows) > 4 else []
+    col_map = {h: idx for idx, h in enumerate(headers)}
+    has_impl_date = "Implementation Date" in col_map
+    impl_date_idx = col_map.get("Implementation Date")
+    prod_date_idx = col_map.get("Production Date", 15)
+    owner_email_idx = col_map.get("Workload Owner Email", 16)
+    wkl_progress_idx = col_map.get("Workload Progress", 5)
+    arr_idx = col_map.get("Annual Gross Revenue (ARR USD)", 4)
+    cap_status_idx = col_map.get("Capacity Status (DRP Readiness)", 6)
+    opp_idx = col_map.get("Opportunity Name", 7)
+    next_steps_idx = col_map.get("Next Steps", 8)
+    er_idx = col_map.get("Expert Requests", 9)
+
     for row_idx, r in enumerate(rows[5:], start=6):
-        if len(r) < 17:
+        if len(r) <= max(prod_date_idx, owner_email_idx, wkl_progress_idx):
             continue
 
         cust_cell = r[0]
         tier = r[1]
         wkl_cell = r[2]
         owner_name = r[3].strip()
-        arr_val = r[4].strip()
-        progress = r[5].strip()
-        cap_status = r[6].strip()
-        opp_cell = r[7]
-        next_steps = r[8].strip() if len(r) > 8 else ""
-        er_cell = r[9].strip() if len(r) > 9 else ""
-        prod_date_str = r[15].strip() if len(r) > 15 else ""
-        owner_email = r[16].strip() if len(r) > 16 else ""
+        arr_val = r[arr_idx].strip() if len(r) > arr_idx else ""
+        progress = r[wkl_progress_idx].strip() if len(r) > wkl_progress_idx else ""
+        cap_status = r[cap_status_idx].strip() if len(r) > cap_status_idx else ""
+        opp_cell = r[opp_idx] if len(r) > opp_idx else ""
+        next_steps = r[next_steps_idx].strip() if len(r) > next_steps_idx else ""
+        er_cell = r[er_idx].strip() if len(r) > er_idx else ""
+        owner_email = r[owner_email_idx].strip() if len(r) > owner_email_idx else ""
 
-        is_active_stage = progress.startswith("0-2") or progress.startswith("3:")
-        if not is_active_stage or not prod_date_str:
+        if has_impl_date:
+            if progress.startswith("0-2") or progress.startswith("3:"):
+                target_date_str = r[impl_date_idx].strip() if impl_date_idx is not None and len(r) > impl_date_idx else ""
+                stage_type = "stage_0_2" if progress.startswith("0-2") else "stage_3"
+            elif progress.startswith("4.1") or progress.startswith("4.2"):
+                target_date_str = r[prod_date_idx].strip() if len(r) > prod_date_idx else ""
+                stage_type = "stage_4"
+            else:
+                continue
+        else:
+            is_active_stage = progress.startswith("0-2") or progress.startswith("3:")
+            if not is_active_stage:
+                continue
+            target_date_str = r[prod_date_idx].strip() if len(r) > prod_date_idx else ""
+            stage_type = "stage_0_2" if progress.startswith("0-2") else "stage_3"
+
+        if not target_date_str:
             continue
 
         try:
-            prod_date = datetime.datetime.strptime(prod_date_str[:10], "%Y-%m-%d").date()
+            prod_date = datetime.datetime.strptime(target_date_str[:10], "%Y-%m-%d").date()
         except ValueError:
             continue
 
@@ -87,8 +114,6 @@ def find_critical_workloads(csv_path, partner_name=PARTNER_NAME_DEFAULT, tracker
             wkl_name, wkl_url = extract_hyperlink(wkl_cell)
             opp_name, opp_url = extract_hyperlink(opp_cell)
             er_name, er_url = extract_hyperlink(er_cell)
-
-            stage_type = "stage_0_2" if progress.startswith("0-2") else "stage_3"
 
             critical_workloads.append({
                 "row_number": row_idx,

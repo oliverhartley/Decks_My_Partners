@@ -1871,6 +1871,7 @@ def main():
     os.makedirs("followup_data_latest", exist_ok=True)
     os.makedirs("drp_data_latest", exist_ok=True)
     os.makedirs("accred_data_latest", exist_ok=True)
+    os.makedirs("growth_data_latest", exist_ok=True)
     os.makedirs("global_dashboard_data", exist_ok=True)
 
     all_global_workload_rows = []
@@ -1933,6 +1934,19 @@ def main():
         partners_to_process = [p for p in partners_to_process if target_partner.lower() in p.get("partner", "").lower()]
 
     print(f"Total partners to process: {len(partners_to_process)}")
+
+    # Upfront fetch of Q3 Growth data (Workload Stage Advancements & DRP Tier Promotions)
+    growth_pids = set()
+    growth_drp_keys = set()
+    for p in partners_to_process:
+        for pid in p.get("partner_ids", []):
+            growth_pids.add(pid)
+        for d in p.get("drp_keys", []):
+            growth_drp_keys.add(d)
+
+    import growth_tab
+    all_wkl_growth = growth_tab.fetch_all_workload_growth_data(growth_pids)
+    all_drp_growth = growth_tab.fetch_all_drp_growth_data(growth_drp_keys)
 
     for cfg in partners_to_process:
         pname = cfg["partner"]
@@ -2642,6 +2656,11 @@ def main():
             if len(accred_rows) > 1:
                 subprocess.run([GSHEETS, "mutate", "format", ssid, "--sheet-id", str(sid_accred), "--start-row", "1", "--end-row", str(len(accred_rows)), "--start-col", "5", "--end-col", "7", "--align", "CENTER"], capture_output=True)
             subprocess.run([GSHEETS, "mutate", "autosize", ssid, "--sheet-id", str(sid_accred), "--start-col", "0", "--end-col", "8"], capture_output=True)
+
+        # E. GROWTH TAB (Workload Stage Advancements & DRP Tier Promotions)
+        p_wkl_growth = [w for w in all_wkl_growth if w["partner_id"] in cfg["partner_ids"] or (w["workload_id"] == "aBJKf000009oRYkOAM" and cfg["partner"] == "MadeinWeb S/A")]
+        p_drp_growth = [d for d in all_drp_growth if d["drp_key"] in cfg["drp_keys"]]
+        growth_tab.update_partner_growth_tab(cfg, p_wkl_growth, p_drp_growth, GSHEETS)
 
         cleanup_default_sheets(ssid)
 

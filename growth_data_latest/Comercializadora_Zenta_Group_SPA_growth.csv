@@ -1,0 +1,59 @@
+PARTNER GROWTH & VELOCITY: WORKLOAD STAGE PROGRESSION & DRP CAPABILITY,,,,,,,,,,,,,
+"Partner: Comercializadora Zenta Group SPA | Partner Engineer: Oliver Hartley | Scope: Q3 2026 (July, August, September)",,,,,,,,,,,,,
+Last Sync: 14 - Sep 2026 | Source: Concord BigQuery (Workload History & DRP Master) | Unified 14-Col Schema,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+1. WORKLOAD GROWTH: STAGE ADVANCEMENTS (0-2 ➔ 3 & 3 ➔ 4.1),,,,,,,,,,,,,
+Stage Transition,July (#),July ($ ARR),August (#),August ($ ARR),September (#),September ($ ARR),Q3 Total (#),Q3 Total ($ ARR),Share of Moved Deals,Top Pillar,Avg Deal ARR,Velocity Momentum,Status
+Stage 0-2 ➔ Stage 3 (Co-Pilot & Develop),3,"$184,324.00",1,"$23,400.00",0,$0.00,4,"$207,724.00",66.7%,Build with AI,"$51,931.00",Consistent,Active Progression
+Stage 3 ➔ Stage 4.1 (Build & Run / Delivery),0,$0.00,1,"$23,400.00",1,"$56,000.00",2,"$79,400.00",33.3%,Build with AI,"$39,700.00",Consistent,Active Progression
+TOTAL WORKLOAD MOVEMENTS,3,"$184,324.00",2,"$46,800.00",1,"$56,000.00",6,"$287,124.00",100.0%,-,"$47,854.00",-,-
+,,,,,,,,,,,,,
+ADVANCED WORKLOADS INVENTORY (Q3 STAGE MOVEMENTS DETAIL),,,,,,,,,,,,,
+Customer Account Name,Workload Name,Annual Gross Revenue (ARR USD),Stage Movement,Transition Month,Transition Date,Previous Progress,New Progress,Current Progress,Workload Owner,Primary Pillar,Opportunity Name,Partner ID,Status
+"=HYPERLINK(""https://vector.corp.google.com/account/0014M00001hNKv8QAG"", ""Betterfly"")","=HYPERLINK(""https://vector.corp.google.com/workload/aBJKf000009e8PLOAY"", ""Gemini Enterprise Betterfly"")","$66,000.00",Stage 0-2 ➔ Stage 3,July,2026-07-21,0-2: Tech Eval/Solution Dev,3:  Proposal / Negotiation,Closed,Jilver Tyson Fuentes,Build with AI,"=HYPERLINK(""https://vector.corp.google.com/opportunity/006Kf00000OlL7pIAF"", ""Gemini Enterprise Betterfly productivity"")",0014M00001h39BLQAY,Progressed
+"=HYPERLINK(""https://vector.corp.google.com/account/0014M00001hiIcNQAU"", ""Asesoría DOX Spa"")","=HYPERLINK(""https://vector.corp.google.com/workload/aBJKf000009W6gMOAS"", ""Asesoria DOX Spa #OUT #GCVE"")","$30,324.00",Stage 0-2 ➔ Stage 3,July,2026-07-21,0-2: Tech Eval/Solution Dev,3:  Proposal / Negotiation,3:  Proposal / Negotiation,Agustina Maria Cano,Migrate Modernize and Build,"=HYPERLINK(""https://vector.corp.google.com/opportunity/006Kf00000OJLEVIA5"", ""Asesoria DOX Spa #OUT #GCE"")",0014M00001h39BLQAY,Progressed
+"=HYPERLINK(""https://vector.corp.google.com/account/0014M00001oip14QAA"", ""Fintoc SpA"")","=HYPERLINK(""https://vector.corp.google.com/workload/aBJKf000004ZKzGOAW"", ""Data & Analytics agents"")","$88,000.00",Stage 0-2 ➔ Stage 3,July,2026-07-30,0-2: Tech Eval/Solution Dev,3:  Proposal / Negotiation,4.2: Ramping / Deliver,Felipe Albertini,Analytics,"=HYPERLINK(""https://vector.corp.google.com/opportunity/006Kf00000PVWclIAH"", ""Iniciativas Data & Analitycs Fintoc"")",0014M00001h39BLQAY,Progressed
+"=HYPERLINK(""https://vector.corp.google.com/account/0014M00001jT59IQAS"", ""Chattigo SpA"")","=HYPERLINK(""https://vector.corp.google.com/workload/aBJKf000009tZ2xOAE"", ""Chattigo - Gemini Enterprise - WL"")","$23,400.00",Stage 0-2 ➔ Stage 3,August,2026-08-10,0-2: Tech Eval/Solution Dev,3:  Proposal / Negotiation,3:  Proposal / Negotiation,Patricio Perez,Build with AI,"=HYPERLINK(""https://vector.corp.google.com/opportunity/006Kf00000NSQZgIAP"", ""Chattigo - Gemini Enterprise - 30k"")",0014M00001h39BLQAY,Progressed
+"=HYPERLINK(""https://vector.corp.google.com/account/0014M00001jT59IQAS"", ""Chattigo SpA"")","=HYPERLINK(""https://vector.corp.google.com/workload/aBJKf000009tZ2xOAE"", ""Chattigo - Gemini Enterprise - WL"")","$23,400.00",Stage 3 ➔ Stage 4.1,August,2026-08-10,3:  Proposal / Negotiation,4.1: Pre Ramp / Mobilize,3:  Proposal / Negotiation,Patricio Perez,Build with AI,"=HYPERLINK(""https://vector.corp.google.com/opportunity/006Kf00000NSQZgIAP"", ""Chattigo - Gemini Enterprise - 30k"")",0014M00001h39BLQAY,Progressed
+"=HYPERLINK(""https://vector.corp.google.com/account/0014M00001hoLA9QAM"", ""Empresas SB"")","=HYPERLINK(""https://vector.corp.google.com/workload/aBJKf0000082QoVOAU"", ""[SB] Primer workload en GCP | Arquitectura de datos POC Preunic | Partner Zenta"")","$56,000.00",Stage 3 ➔ Stage 4.1,September,2026-09-07,3:  Proposal / Negotiation,4.1: Pre Ramp / Mobilize,4.1: Pre Ramp / Mobilize,Kevin Cortés,Analytics,"=HYPERLINK(""https://vector.corp.google.com/opportunity/006Kf00000N5qm0IAB"", ""Data & Analytics - GCP - Empresas SB + GE Zenta"")",0014M00001h39BLQAY,Progressed
+,,,,,,,,,,,,,
+"2. DRP GROWTH: PRACTITIONER TIER PROMOTIONS (T4➔T3, T3➔T2, T2➔T1)",,,,,,,,,,,,,
+Tier Transition,July Upgrades,August Upgrades,September Upgrades,Q3 Total Upgrades,Unique Profiles,July % Share,August % Share,September % Share,Top Practice Area,Top Product,Growth Velocity,DRP Partner Key,Status
+Tier 4 ➔ Tier 3,4,9,0,13,8,30.8%,69.2%,0.0%,Artificial Intelligence,Gemini Enterprise,🔥 High,P20220602109,Active Progression
+Tier 3 ➔ Tier 2,0,4,2,6,4,0.0%,66.7%,33.3%,Artificial Intelligence,Gemini Enterprise,🚀 Steady,P20220602109,Active Progression
+Tier 2 ➔ Tier 1,0,0,1,1,1,0.0%,0.0%,100.0%,Infrastructure Modernization,Google Compute Engine,🌱 Emerging,P20220602109,Active Progression
+TOTAL DRP TIER PROMOTIONS,4,13,3,20,9,20.0%,65.0%,15.0%,-,-,-,-,-
+,,,,,,,,,,,,,
+PRACTICE AREA & PRODUCT TIER PROGRESSION TABLE,,,,,,,,,,,,,
+Practice Area,Product,Tier 4 ➔ Tier 3,Tier 3 ➔ Tier 2,Tier 2 ➔ Tier 1,Total Upgrades,July Upgrades,August Upgrades,September Upgrades,Unique Profiles,DRP Partner Key,Growth Velocity Rating,Primary Upgrade Stage,Status
+Application Modernization,Apigee API Management,1,0,0,1,1,0,0,1,P20220602109,🌱 Emerging (1-2),Tier 4 ➔ Tier 3,Active
+Application Modernization,Cloud Run,0,1,0,1,0,0,1,1,P20220602109,🌱 Emerging (1-2),Tier 3 ➔ Tier 2,Active
+Artificial Intelligence,AI Applications,2,0,0,2,1,1,0,2,P20220602109,🌱 Emerging (1-2),Tier 4 ➔ Tier 3,Active
+Artificial Intelligence,GECX - Agent Assist,1,0,0,1,0,1,0,1,P20220602109,🌱 Emerging (1-2),Tier 4 ➔ Tier 3,Active
+Artificial Intelligence,Gemini Enterprise,4,3,0,7,0,6,1,6,P20220602109,🚀 Steady Growth (3-9),Tier 4 ➔ Tier 3,Active
+Artificial Intelligence,Gemini Enterprise Agent Platform,3,2,0,5,1,4,0,3,P20220602109,🚀 Steady Growth (3-9),Tier 4 ➔ Tier 3,Active
+Infrastructure Modernization,Google Compute Engine,2,0,1,3,1,1,1,3,P20220602109,🚀 Steady Growth (3-9),Tier 4 ➔ Tier 3,Active
+TOTAL,-,13,6,1,20,4,13,3,9,-,-,-,-
+,,,,,,,,,,,,,
+PRACTITIONER PROFILES PROGRESSION DETAIL (INDIVIDUAL LEVEL TRANSITIONS),,,,,,,,,,,,,
+Profile ID,Practice Area,Product,Tier Movement,Transition Month,Transition Date,Previous Score,New Score,Score Delta,Previous Tier,New Tier,DRP Partner Key,Promotion Type,Status
+ZENJDVXJ1,Application Modernization,Apigee API Management,Tier 4 ➔ Tier 3,July,2026-07-05,10.0,20.0,+10.0,Tier 4,Tier 3,P20220602109,Tier Upgrade,Promoted
+ZENJDVXJ1,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,July,2026-07-11,15.0,20.0,+5.0,Tier 4,Tier 3,P20220602109,Tier Upgrade,Promoted
+ZENJDVXJ1,Artificial Intelligence,AI Applications,Tier 4 ➔ Tier 3,July,2026-07-12,15.0,20.0,+5.0,Tier 4,Tier 3,P20220602109,Tier Upgrade,Promoted
+ZENCOOCA0,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-16,5.0,29.0,+24.0,Tier 4,Tier 3,P20220602109,Tier Upgrade,Promoted
+ZENDCJFD9,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,August,2026-08-06,18.0,24.0,+6.0,Tier 4,Tier 3,P20220602109,Tier Upgrade,Promoted
+ZENJFCSY3,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,August,2026-08-08,15.0,20.0,+5.0,Tier 4,Tier 3,P20220602109,Tier Upgrade,Promoted
+ZENBSYRF9,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,August,2026-08-11,5.0,25.0,+20.0,Tier 4,Tier 3,P20220602109,Tier Upgrade,Promoted
+ZENJDVXJ1,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,August,2026-08-13,14.0,29.0,+15.0,Tier 4,Tier 3,P20220602109,Tier Upgrade,Promoted
+ZENBSYRF9,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 3 ➔ Tier 2,August,2026-08-14,30.0,40.0,+10.0,Tier 3,Tier 2,P20220602109,Tier Upgrade,Promoted
+ZENFOXXL7,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,August,2026-08-14,15.0,25.0,+10.0,Tier 4,Tier 3,P20220602109,Tier Upgrade,Promoted
+ZENBSYRF9,Artificial Intelligence,Gemini Enterprise,Tier 3 ➔ Tier 2,August,2026-08-14,30.0,40.0,+10.0,Tier 3,Tier 2,P20220602109,Tier Upgrade,Promoted
+ZENJDVXJ1,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 3 ➔ Tier 2,August,2026-08-18,34.0,39.0,+5.0,Tier 3,Tier 2,P20220602109,Tier Upgrade,Promoted
+ZENJMUGS5,Artificial Intelligence,AI Applications,Tier 4 ➔ Tier 3,August,2026-08-20,19.0,24.0,+5.0,Tier 4,Tier 3,P20220602109,Tier Upgrade,Promoted
+ZENJMUGS5,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,August,2026-08-20,19.0,29.0,+10.0,Tier 4,Tier 3,P20220602109,Tier Upgrade,Promoted
+ZENCDBDY5,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,August,2026-08-27,19.0,24.0,+5.0,Tier 4,Tier 3,P20220602109,Tier Upgrade,Promoted
+ZENJMUGS5,Artificial Intelligence,Gemini Enterprise,Tier 3 ➔ Tier 2,August,2026-08-27,34.0,39.0,+5.0,Tier 3,Tier 2,P20220602109,Tier Upgrade,Promoted
+ZENJMUGS5,Artificial Intelligence,GECX - Agent Assist,Tier 4 ➔ Tier 3,August,2026-08-30,19.0,24.0,+5.0,Tier 4,Tier 3,P20220602109,Tier Upgrade,Promoted
+ZENJMUGS5,Application Modernization,Cloud Run,Tier 3 ➔ Tier 2,September,2026-09-08,34.0,39.0,+5.0,Tier 3,Tier 2,P20220602109,Tier Upgrade,Promoted
+ZENCUAZE0,Artificial Intelligence,Gemini Enterprise,Tier 3 ➔ Tier 2,September,2026-09-08,34.0,44.0,+10.0,Tier 3,Tier 2,P20220602109,Tier Upgrade,Promoted
+ZENJMUGS5,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,September,2026-09-08,44.0,54.0,+10.0,Tier 2,Tier 1,P20220602109,Tier Upgrade,Promoted
