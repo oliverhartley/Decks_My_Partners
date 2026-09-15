@@ -10,11 +10,11 @@ Noventiq (Softline),Artificial Intelligence,Gemini Enterprise for Customer Exper
 Noventiq (Softline),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,8,8,🟢 Ready (8 DRP / 6 wkls)
 Noventiq (Softline),Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,8,8,🟢 Ready (8 DRP / 1 wkls)
 Noventiq (Softline),Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,⚪ No Active Demand
-Noventiq (Softline),Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,8,8,🟡 Constrained (8 DRP / 9 wkls)
+Noventiq (Softline),Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,8,8,🟢 Ready (8 DRP / 8 wkls)
 Noventiq (Softline),Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,8,8,🟢 Ready (8 DRP / 1 wkls)
 Noventiq (Softline),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,,⚪ No Active Demand
 Noventiq (Softline),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,,,⚪ No Active Demand
-Noventiq (Softline),Data & Analytics,The AI Ready Data Cloud,BigQuery,,,,🔴 Gap (0 DRP / 5 wkls)
+Noventiq (Softline),Data & Analytics,The AI Ready Data Cloud,BigQuery,,,,🔴 Gap (0 DRP / 6 wkls)
 Noventiq (Softline),Data & Analytics,The AI Ready Data Cloud,Dataflow,,,,⚪ No Active Demand
 Noventiq (Softline),Data & Analytics,The AI Ready Data Cloud,Dataproc,,,,⚪ No Active Demand
 Noventiq (Softline),Data & Analytics,The AI Ready Data Cloud,Looker,,,,⚪ No Active Demand
@@ -38,19 +38,19 @@ Noventiq (Softline),Workspace,Agentic Workplace Transformation,Workspace,9,2,11,
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,1,1,🟡 Constrained (1 DRP / 2 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Application Modernization,"Migrate, Modernize and Build",Cloud Run,10,15,25,🟢 Ready (25 profiles)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,7,12,19,🟡 Constrained (19 DRP / 20 wkls)
-INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,3,3,🟡 Constrained (3 DRP / 48 wkls)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,3,3,🟡 Constrained (3 DRP / 49 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,1,1,🟢 Ready (1 profiles)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,1,1,🟢 Ready (1 profiles)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,1,1,🟢 Ready (1 profiles)
-INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,20,15,35,🟢 Ready (35 DRP / 35 wkls)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,20,15,35,🟢 Ready (35 DRP / 33 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,20,15,35,🟢 Ready (35 profiles)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Scale AI Apps and Agents,AI Applications,6,5,11,🟢 Ready (11 profiles)
-INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,20,15,35,🟡 Constrained (35 DRP / 69 wkls)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,20,15,35,🟡 Constrained (35 DRP / 68 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,20,15,35,🟢 Ready (35 DRP / 5 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,20,10,30,🟢 Ready (30 profiles)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,9,8,17,🟢 Ready (17 profiles)
-INFORMACIÓN LOCALIZADA SAS (Servinformación),Data & Analytics,The AI Ready Data Cloud,BigQuery,20,10,30,🟡 Constrained (30 DRP / 51 wkls)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Data & Analytics,The AI Ready Data Cloud,BigQuery,20,10,30,🟡 Constrained (30 DRP / 49 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Data & Analytics,The AI Ready Data Cloud,Dataflow,9,8,17,🟢 Ready (17 DRP / 2 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Data & Analytics,The AI Ready Data Cloud,Dataproc,,,,⚪ No Active Demand
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Data & Analytics,The AI Ready Data Cloud,Looker,18,3,21,🟢 Ready (21 DRP / 3 wkls)
