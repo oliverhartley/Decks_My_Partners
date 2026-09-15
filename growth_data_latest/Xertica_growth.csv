@@ -85,8 +85,8 @@ XERJGLKI5,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,J
 XERASHOI9,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,July,2026-07-03,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428035,Tier Upgrade,Promoted
 XERCCNJB0,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,July,2026-07-04,18.0,23.0,+5.0,Tier 4,Tier 3,P20220428035,Tier Upgrade,Promoted
 XERASHOI9,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,July,2026-07-04,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428035,Tier Upgrade,Promoted
-XERED33R0,Artificial Intelligence,AI Applications,Tier 4 ➔ Tier 3,July,2026-07-08,17.0,22.0,+5.0,Tier 4,Tier 3,P20220428035,Tier Upgrade,Promoted
 XERDGOWT3,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,July,2026-07-08,11.0,21.0,+10.0,Tier 4,Tier 3,P20220428035,Tier Upgrade,Promoted
+XERED33R0,Artificial Intelligence,AI Applications,Tier 4 ➔ Tier 3,July,2026-07-08,17.0,22.0,+5.0,Tier 4,Tier 3,P20220428035,Tier Upgrade,Promoted
 XERLYKQH7,Data & Analytics,Dataflow,Tier 2 ➔ Tier 1,July,2026-07-08,48.0,53.0,+5.0,Tier 2,Tier 1,P20220428035,Tier Upgrade,Promoted
 XERLBPPH5,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,July,2026-07-09,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428035,Tier Upgrade,Promoted
 XERED33R0,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 3 ➔ Tier 2,July,2026-07-09,32.0,37.0,+5.0,Tier 3,Tier 2,P20220428035,Tier Upgrade,Promoted
@@ -94,14 +94,14 @@ XERLBPPH5,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,July,2026-07-09,19.0,29.0,
 XERKRKDR1,Data & Analytics,Dataflow,Tier 4 ➔ Tier 3,July,2026-07-11,13.0,23.0,+10.0,Tier 4,Tier 3,P20220428035,Tier Upgrade,Promoted
 XERLYKQH7,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 3 ➔ Tier 2,July,2026-07-12,33.0,38.0,+5.0,Tier 3,Tier 2,P20220428035,Tier Upgrade,Promoted
 XERWREMQ0,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-15,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428035,Tier Upgrade,Promoted
+XERASHOI9,Artificial Intelligence,Gemini Enterprise,Tier 3 ➔ Tier 2,July,2026-07-15,30.0,35.0,+5.0,Tier 3,Tier 2,P20220428035,Tier Upgrade,Promoted
 XERKRKDR1,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,July,2026-07-15,18.0,23.0,+5.0,Tier 4,Tier 3,P20220428035,Tier Upgrade,Promoted
 XEREGWNC8,Artificial Intelligence,Gemini Enterprise,Tier 3 ➔ Tier 2,July,2026-07-15,26.0,46.0,+20.0,Tier 3,Tier 2,P20220428035,Tier Upgrade,Promoted
-XERASHOI9,Artificial Intelligence,Gemini Enterprise,Tier 3 ➔ Tier 2,July,2026-07-15,30.0,35.0,+5.0,Tier 3,Tier 2,P20220428035,Tier Upgrade,Promoted
 XERJHHIO4,Application Modernization,Apigee API Management,Tier 4 ➔ Tier 3,July,2026-07-16,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428035,Tier Upgrade,Promoted
 XERACAXX4,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,July,2026-07-16,16.0,21.0,+5.0,Tier 4,Tier 3,P20220428035,Tier Upgrade,Promoted
-XERKMHOW2,Artificial Intelligence,Gemini Enterprise,Tier 3 ➔ Tier 2,July,2026-07-17,34.0,44.0,+10.0,Tier 3,Tier 2,P20220428035,Tier Upgrade,Promoted
 XERKMHOW2,Artificial Intelligence,AI Applications,Tier 3 ➔ Tier 2,July,2026-07-17,34.0,39.0,+5.0,Tier 3,Tier 2,P20220428035,Tier Upgrade,Promoted
 XERMGNZH0,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,July,2026-07-17,15.0,30.0,+15.0,Tier 4,Tier 3,P20220428035,Tier Upgrade,Promoted
+XERKMHOW2,Artificial Intelligence,Gemini Enterprise,Tier 3 ➔ Tier 2,July,2026-07-17,34.0,44.0,+10.0,Tier 3,Tier 2,P20220428035,Tier Upgrade,Promoted
 XERMGNZH0,Artificial Intelligence,Gemini Enterprise,Tier 3 ➔ Tier 2,July,2026-07-18,30.0,40.0,+10.0,Tier 3,Tier 2,P20220428035,Tier Upgrade,Promoted
 XERLYKQH7,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-21,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428035,Tier Upgrade,Promoted
 XERMGNZH0,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,July,2026-07-21,15.0,30.0,+15.0,Tier 4,Tier 3,P20220428035,Tier Upgrade,Promoted
@@ -135,8 +135,8 @@ XERHLSFQ0,Data & Analytics,Looker,Tier 4 ➔ Tier 3,August,2026-08-15,16.0,21.0,
 XERASAQN1,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,August,2026-08-17,10.0,20.0,+10.0,Tier 4,Tier 3,P20220428035,Tier Upgrade,Promoted
 XERLYKQH7,Databases,Cloud SQL,Tier 4 ➔ Tier 3,August,2026-08-19,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428035,Tier Upgrade,Promoted
 XERAGBFN5,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,August,2026-08-20,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428035,Tier Upgrade,Promoted
-XERATNDG3,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,August,2026-08-20,13.0,33.0,+20.0,Tier 4,Tier 3,P20220428035,Tier Upgrade,Promoted
 XERATNDG3,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,August,2026-08-20,13.0,23.0,+10.0,Tier 4,Tier 3,P20220428035,Tier Upgrade,Promoted
+XERATNDG3,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,August,2026-08-20,13.0,33.0,+20.0,Tier 4,Tier 3,P20220428035,Tier Upgrade,Promoted
 XERCCATZ1,Workspace,Workspace,Tier 4 ➔ Tier 3,August,2026-08-20,18.0,28.0,+10.0,Tier 4,Tier 3,P20220428035,Tier Upgrade,Promoted
 XERHSM010,Artificial Intelligence,Gemini Enterprise,Tier 2 ➔ Tier 1,August,2026-08-28,49.0,54.0,+5.0,Tier 2,Tier 1,P20220428035,Tier Upgrade,Promoted
 XERIBTXC7,Artificial Intelligence,GECX - CX Agent Studio,Tier 4 ➔ Tier 3,September,2026-09-01,19.0,34.0,+15.0,Tier 4,Tier 3,P20220428035,Tier Upgrade,Promoted

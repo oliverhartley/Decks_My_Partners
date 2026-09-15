@@ -30,5 +30,5 @@ PRACTITIONER PROFILES PROGRESSION DETAIL (INDIVIDUAL LEVEL TRANSITIONS),,,,,,,,,
 Profile ID,Practice Area,Product,Tier Movement,Transition Month,Transition Date,Previous Score,New Score,Score Delta,Previous Tier,New Tier,DRP Partner Key,Promotion Type,Status
 VALGVNTC5,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 2 ➔ Tier 1,July,2026-07-17,49.0,54.0,+5.0,Tier 2,Tier 1,P20250706066,Tier Upgrade,Promoted
 VALGVNTC5,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,July,2026-07-17,19.0,24.0,+5.0,Tier 4,Tier 3,P20250706066,Tier Upgrade,Promoted
-VALGVNTC5,Artificial Intelligence,GECX - CX Agent Studio,Tier 4 ➔ Tier 3,September,2026-09-01,19.0,34.0,+15.0,Tier 4,Tier 3,P20250706066,Tier Upgrade,Promoted
 VALGDSLV9,Artificial Intelligence,GECX - CX Agent Studio,Tier 4 ➔ Tier 3,September,2026-09-01,19.0,34.0,+15.0,Tier 4,Tier 3,P20250706066,Tier Upgrade,Promoted
+VALGVNTC5,Artificial Intelligence,GECX - CX Agent Studio,Tier 4 ➔ Tier 3,September,2026-09-01,19.0,34.0,+15.0,Tier 4,Tier 3,P20250706066,Tier Upgrade,Promoted

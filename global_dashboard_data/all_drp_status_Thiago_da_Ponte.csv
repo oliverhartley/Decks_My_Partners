@@ -1,56 +1,56 @@
 Partner Name,Pillar,Solution (Sales Play),Product,Tier 1 Profiles Count,Tier 2 Profiles Count,Total Tier 1 & 2 Profiles,Capacity Status (DRP vs Workloads)
-IPNET (Telefônica Cloud),Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,🔴 Gap (0 DRP / 3 wkls)
+IPNET (Telefônica Cloud),Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 IPNET (Telefônica Cloud),Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
-IPNET (Telefônica Cloud),Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,🔴 Gap (0 DRP / 5 wkls)
-IPNET (Telefônica Cloud),Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,🔴 Gap (0 DRP / 20 wkls)
+IPNET (Telefônica Cloud),Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,🔴 Gap (0 DRP / 15 wkls)
+IPNET (Telefônica Cloud),Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,🔴 Gap (0 DRP / 34 wkls)
 IPNET (Telefônica Cloud),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 IPNET (Telefônica Cloud),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
-IPNET (Telefônica Cloud),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
+IPNET (Telefônica Cloud),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,🔴 Gap (0 DRP / 1 wkls)
 IPNET (Telefônica Cloud),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
-IPNET (Telefônica Cloud),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 9 wkls)
+IPNET (Telefônica Cloud),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 8 wkls)
 IPNET (Telefônica Cloud),Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
-IPNET (Telefônica Cloud),Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,⚪ No Active Demand
-IPNET (Telefônica Cloud),Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 32 wkls)
-IPNET (Telefônica Cloud),Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 9 wkls)
+IPNET (Telefônica Cloud),Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,🔴 Gap (0 DRP / 8 wkls)
+IPNET (Telefônica Cloud),Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 4 wkls)
+IPNET (Telefônica Cloud),Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
 IPNET (Telefônica Cloud),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,,⚪ No Active Demand
 IPNET (Telefônica Cloud),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,,,⚪ No Active Demand
-IPNET (Telefônica Cloud),Data & Analytics,The AI Ready Data Cloud,BigQuery,,,,🔴 Gap (0 DRP / 9 wkls)
+IPNET (Telefônica Cloud),Data & Analytics,The AI Ready Data Cloud,BigQuery,,,,🔴 Gap (0 DRP / 7 wkls)
 IPNET (Telefônica Cloud),Data & Analytics,The AI Ready Data Cloud,Dataflow,,,,🔴 Gap (0 DRP / 2 wkls)
 IPNET (Telefônica Cloud),Data & Analytics,The AI Ready Data Cloud,Dataproc,,,,⚪ No Active Demand
-IPNET (Telefônica Cloud),Data & Analytics,The AI Ready Data Cloud,Looker,,,,🔴 Gap (0 DRP / 1 wkls)
+IPNET (Telefônica Cloud),Data & Analytics,The AI Ready Data Cloud,Looker,,,,🔴 Gap (0 DRP / 3 wkls)
 IPNET (Telefônica Cloud),Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,,,⚪ No Active Demand
 IPNET (Telefônica Cloud),Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,,,,⚪ No Active Demand
 IPNET (Telefônica Cloud),Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,,,,⚪ No Active Demand
 IPNET (Telefônica Cloud),Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,,,⚪ No Active Demand
-IPNET (Telefônica Cloud),Databases,The AI Ready Data Cloud,Cloud SQL,,,,🔴 Gap (0 DRP / 2 wkls)
+IPNET (Telefônica Cloud),Databases,The AI Ready Data Cloud,Cloud SQL,,,,🔴 Gap (0 DRP / 4 wkls)
 IPNET (Telefônica Cloud),Databases,The AI Ready Data Cloud,Spanner,,,,⚪ No Active Demand
 IPNET (Telefônica Cloud),Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,,,⚪ No Active Demand
 IPNET (Telefônica Cloud),Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,,,⚪ No Active Demand
-IPNET (Telefônica Cloud),Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,,,🔴 Gap (0 DRP / 2 wkls)
-IPNET (Telefônica Cloud),Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,,,,⚪ No Active Demand
-IPNET (Telefônica Cloud),Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,,,,⚪ No Active Demand
+IPNET (Telefônica Cloud),Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,,,⚪ No Active Demand
+IPNET (Telefônica Cloud),Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,,,,🔴 Gap (0 DRP / 2 wkls)
+IPNET (Telefônica Cloud),Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,,,,🔴 Gap (0 DRP / 10 wkls)
 IPNET (Telefônica Cloud),Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
 IPNET (Telefônica Cloud),Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
-IPNET (Telefônica Cloud),Security,Agentic Defense with Google Security,Security Command Center,,,,⚪ No Active Demand
+IPNET (Telefônica Cloud),Security,Agentic Defense with Google Security,Security Command Center,,,,🔴 Gap (0 DRP / 1 wkls)
 IPNET (Telefônica Cloud),Security,Agentic Defense with Google Security,Security Operations,,,,⚪ No Active Demand
-IPNET (Telefônica Cloud),Security,Secure Innovation with Google Cloud,Cloud Security,,,,⚪ No Active Demand
+IPNET (Telefônica Cloud),Security,Secure Innovation with Google Cloud,Cloud Security,,,,🔴 Gap (0 DRP / 3 wkls)
 IPNET (Telefônica Cloud),Workspace,Agentic Workplace Transformation,Workspace,,,,⚪ No Active Demand
 Kyndryl Brasil,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,1,1,🟢 Ready (1 profiles)
 Kyndryl Brasil,Application Modernization,"Migrate, Modernize and Build",Cloud Run,6,5,11,🟢 Ready (11 profiles)
-Kyndryl Brasil,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,5,30,35,🟢 Ready (35 DRP / 4 wkls)
-Kyndryl Brasil,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,3,31,34,🟢 Ready (34 DRP / 3 wkls)
+Kyndryl Brasil,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,5,30,35,🟢 Ready (35 DRP / 17 wkls)
+Kyndryl Brasil,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,3,31,34,🟢 Ready (34 DRP / 4 wkls)
 Kyndryl Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,3,3,🟢 Ready (3 profiles)
 Kyndryl Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 Kyndryl Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,1,1,🟢 Ready (1 profiles)
 Kyndryl Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
-Kyndryl Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,11,48,59,🟢 Ready (59 DRP / 1 wkls)
-Kyndryl Brasil,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,11,48,59,🟢 Ready (59 profiles)
-Kyndryl Brasil,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,3,11,14,🟢 Ready (14 profiles)
-Kyndryl Brasil,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,11,48,59,🟢 Ready (59 DRP / 16 wkls)
-Kyndryl Brasil,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,11,48,59,🟢 Ready (59 profiles)
+Kyndryl Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,11,49,60,🟢 Ready (60 DRP / 1 wkls)
+Kyndryl Brasil,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,11,49,60,🟢 Ready (60 profiles)
+Kyndryl Brasil,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,3,11,14,🟢 Ready (14 DRP / 1 wkls)
+Kyndryl Brasil,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,11,49,60,🟢 Ready (60 DRP / 1 wkls)
+Kyndryl Brasil,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,11,49,60,🟢 Ready (60 profiles)
 Kyndryl Brasil,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,4,20,24,🟢 Ready (24 profiles)
 Kyndryl Brasil,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,2,10,12,🟢 Ready (12 profiles)
-Kyndryl Brasil,Data & Analytics,The AI Ready Data Cloud,BigQuery,4,20,24,🟢 Ready (24 DRP / 6 wkls)
+Kyndryl Brasil,Data & Analytics,The AI Ready Data Cloud,BigQuery,4,20,24,🟢 Ready (24 DRP / 7 wkls)
 Kyndryl Brasil,Data & Analytics,The AI Ready Data Cloud,Dataflow,2,10,12,🟢 Ready (12 profiles)
 Kyndryl Brasil,Data & Analytics,The AI Ready Data Cloud,Dataproc,,3,3,🟢 Ready (3 profiles)
 Kyndryl Brasil,Data & Analytics,The AI Ready Data Cloud,Looker,,5,5,🟢 Ready (5 DRP / 1 wkls)
@@ -58,12 +58,12 @@ Kyndryl Brasil,Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB
 Kyndryl Brasil,Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,,7,7,🟢 Ready (7 profiles)
 Kyndryl Brasil,Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,,3,3,🟢 Ready (3 profiles)
 Kyndryl Brasil,Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,1,1,🟢 Ready (1 profiles)
-Kyndryl Brasil,Databases,The AI Ready Data Cloud,Cloud SQL,,7,7,🟢 Ready (7 DRP / 1 wkls)
+Kyndryl Brasil,Databases,The AI Ready Data Cloud,Cloud SQL,,7,7,🟢 Ready (7 DRP / 6 wkls)
 Kyndryl Brasil,Databases,The AI Ready Data Cloud,Spanner,,3,3,🟢 Ready (3 profiles)
 Kyndryl Brasil,Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,1,3,4,🟢 Ready (4 profiles)
 Kyndryl Brasil,Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,2,3,5,🟢 Ready (5 profiles)
-Kyndryl Brasil,Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,1,19,20,🟢 Ready (20 DRP / 6 wkls)
-Kyndryl Brasil,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,13,71,84,🟢 Ready (84 profiles)
+Kyndryl Brasil,Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,1,19,20,🟢 Ready (20 DRP / 1 wkls)
+Kyndryl Brasil,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,13,71,84,🟢 Ready (84 DRP / 1 wkls)
 Kyndryl Brasil,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,60,114,174,🟢 Ready (174 profiles)
 Kyndryl Brasil,Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,1,1,🟢 Ready (1 profiles)
 Kyndryl Brasil,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
@@ -73,73 +73,73 @@ Kyndryl Brasil,Security,Secure Innovation with Google Cloud,Cloud Security,3,6,9
 Kyndryl Brasil,Workspace,Agentic Workplace Transformation,Workspace,,,,⚪ No Active Demand
 SantoDigital,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,1,2,3,🟢 Ready (3 profiles)
 SantoDigital,Application Modernization,"Migrate, Modernize and Build",Cloud Run,4,8,12,🟢 Ready (12 profiles)
-SantoDigital,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,4,9,13,🟢 Ready (13 DRP / 8 wkls)
-SantoDigital,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,4,19,23,🟢 Ready (23 DRP / 15 wkls)
+SantoDigital,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,4,9,13,🟡 Constrained (13 DRP / 28 wkls)
+SantoDigital,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,4,20,24,🟢 Ready (24 DRP / 21 wkls)
 SantoDigital,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 SantoDigital,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
-SantoDigital,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
+SantoDigital,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,🔴 Gap (0 DRP / 4 wkls)
 SantoDigital,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
-SantoDigital,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,12,27,39,🟢 Ready (39 DRP / 14 wkls)
-SantoDigital,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,12,27,39,🟢 Ready (39 DRP / 1 wkls)
-SantoDigital,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,1,6,7,🟢 Ready (7 profiles)
-SantoDigital,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,12,27,39,🟡 Constrained (39 DRP / 56 wkls)
-SantoDigital,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,12,27,39,🟢 Ready (39 DRP / 10 wkls)
-SantoDigital,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,5,5,10,🟢 Ready (10 profiles)
-SantoDigital,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,2,5,7,🟢 Ready (7 profiles)
-SantoDigital,Data & Analytics,The AI Ready Data Cloud,BigQuery,5,5,10,🟡 Constrained (10 DRP / 14 wkls)
-SantoDigital,Data & Analytics,The AI Ready Data Cloud,Dataflow,2,5,7,🟢 Ready (7 profiles)
+SantoDigital,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,13,26,39,🟢 Ready (39 DRP / 10 wkls)
+SantoDigital,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,13,26,39,🟢 Ready (39 profiles)
+SantoDigital,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,1,6,7,🟡 Constrained (7 DRP / 16 wkls)
+SantoDigital,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,13,26,39,🟢 Ready (39 DRP / 6 wkls)
+SantoDigital,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,13,26,39,🟢 Ready (39 profiles)
+SantoDigital,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,6,4,10,🟢 Ready (10 profiles)
+SantoDigital,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,3,5,8,🟢 Ready (8 profiles)
+SantoDigital,Data & Analytics,The AI Ready Data Cloud,BigQuery,6,4,10,🟡 Constrained (10 DRP / 14 wkls)
+SantoDigital,Data & Analytics,The AI Ready Data Cloud,Dataflow,3,5,8,🟢 Ready (8 profiles)
 SantoDigital,Data & Analytics,The AI Ready Data Cloud,Dataproc,,,,⚪ No Active Demand
-SantoDigital,Data & Analytics,The AI Ready Data Cloud,Looker,1,1,2,🟢 Ready (2 DRP / 1 wkls)
+SantoDigital,Data & Analytics,The AI Ready Data Cloud,Looker,2,1,3,🟢 Ready (3 DRP / 2 wkls)
 SantoDigital,Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,1,1,🟢 Ready (1 profiles)
-SantoDigital,Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,2,4,6,🟢 Ready (6 profiles)
+SantoDigital,Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,2,5,7,🟢 Ready (7 profiles)
 SantoDigital,Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,,,,⚪ No Active Demand
-SantoDigital,Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,1,1,🟡 Constrained (1 DRP / 2 wkls)
-SantoDigital,Databases,The AI Ready Data Cloud,Cloud SQL,2,4,6,🟢 Ready (6 profiles)
+SantoDigital,Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,1,1,🟡 Constrained (1 DRP / 3 wkls)
+SantoDigital,Databases,The AI Ready Data Cloud,Cloud SQL,2,5,7,🟢 Ready (7 DRP / 2 wkls)
 SantoDigital,Databases,The AI Ready Data Cloud,Spanner,,,,⚪ No Active Demand
-SantoDigital,Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,1,1,🟢 Ready (1 profiles)
+SantoDigital,Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,1,1,🟢 Ready (1 DRP / 1 wkls)
 SantoDigital,Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,1,1,🟢 Ready (1 profiles)
 SantoDigital,Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,2,2,🟢 Ready (2 profiles)
 SantoDigital,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,5,13,18,🟢 Ready (18 profiles)
-SantoDigital,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,13,9,22,🟢 Ready (22 profiles)
+SantoDigital,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,13,9,22,🟢 Ready (22 DRP / 14 wkls)
 SantoDigital,Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
 SantoDigital,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
 SantoDigital,Security,Agentic Defense with Google Security,Security Command Center,5,5,10,🟢 Ready (10 profiles)
 SantoDigital,Security,Agentic Defense with Google Security,Security Operations,5,1,6,🟢 Ready (6 profiles)
 SantoDigital,Security,Secure Innovation with Google Cloud,Cloud Security,5,3,8,🟢 Ready (8 profiles)
-SantoDigital,Workspace,Agentic Workplace Transformation,Workspace,4,5,9,🟢 Ready (9 profiles)
-Sauter Tecnologia,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
+SantoDigital,Workspace,Agentic Workplace Transformation,Workspace,4,5,9,🟢 Ready (9 DRP / 1 wkls)
+Sauter Tecnologia,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,🔴 Gap (0 DRP / 2 wkls)
 Sauter Tecnologia,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
-Sauter Tecnologia,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,8,7,15,🟢 Ready (15 DRP / 9 wkls)
-Sauter Tecnologia,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,🔴 Gap (0 DRP / 18 wkls)
+Sauter Tecnologia,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,8,7,15,🟡 Constrained (15 DRP / 17 wkls)
+Sauter Tecnologia,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,🔴 Gap (0 DRP / 20 wkls)
 Sauter Tecnologia,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 Sauter Tecnologia,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
-Sauter Tecnologia,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
+Sauter Tecnologia,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,🔴 Gap (0 DRP / 3 wkls)
 Sauter Tecnologia,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
-Sauter Tecnologia,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,1,1,🟡 Constrained (1 DRP / 6 wkls)
+Sauter Tecnologia,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,1,1,🟡 Constrained (1 DRP / 3 wkls)
 Sauter Tecnologia,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,1,1,🟢 Ready (1 profiles)
-Sauter Tecnologia,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,⚪ No Active Demand
-Sauter Tecnologia,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,1,1,🟡 Constrained (1 DRP / 22 wkls)
-Sauter Tecnologia,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,1,1,🟡 Constrained (1 DRP / 4 wkls)
+Sauter Tecnologia,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,🔴 Gap (0 DRP / 8 wkls)
+Sauter Tecnologia,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,1,1,🟡 Constrained (1 DRP / 2 wkls)
+Sauter Tecnologia,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,1,1,🟢 Ready (1 profiles)
 Sauter Tecnologia,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,10,3,13,🟢 Ready (13 profiles)
 Sauter Tecnologia,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,4,5,9,🟢 Ready (9 profiles)
-Sauter Tecnologia,Data & Analytics,The AI Ready Data Cloud,BigQuery,10,3,13,🟢 Ready (13 DRP / 10 wkls)
-Sauter Tecnologia,Data & Analytics,The AI Ready Data Cloud,Dataflow,4,5,9,🟢 Ready (9 DRP / 1 wkls)
+Sauter Tecnologia,Data & Analytics,The AI Ready Data Cloud,BigQuery,10,3,13,🟢 Ready (13 DRP / 8 wkls)
+Sauter Tecnologia,Data & Analytics,The AI Ready Data Cloud,Dataflow,4,5,9,🟢 Ready (9 DRP / 2 wkls)
 Sauter Tecnologia,Data & Analytics,The AI Ready Data Cloud,Dataproc,,,,⚪ No Active Demand
 Sauter Tecnologia,Data & Analytics,The AI Ready Data Cloud,Looker,3,5,8,🟢 Ready (8 DRP / 1 wkls)
 Sauter Tecnologia,Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,,,⚪ No Active Demand
 Sauter Tecnologia,Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,,,,⚪ No Active Demand
 Sauter Tecnologia,Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,,,,⚪ No Active Demand
 Sauter Tecnologia,Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,,,🔴 Gap (0 DRP / 2 wkls)
-Sauter Tecnologia,Databases,The AI Ready Data Cloud,Cloud SQL,,,,⚪ No Active Demand
+Sauter Tecnologia,Databases,The AI Ready Data Cloud,Cloud SQL,,,,🔴 Gap (0 DRP / 2 wkls)
 Sauter Tecnologia,Databases,The AI Ready Data Cloud,Spanner,,,,🔴 Gap (0 DRP / 3 wkls)
 Sauter Tecnologia,Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,,,⚪ No Active Demand
 Sauter Tecnologia,Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,1,1,🟢 Ready (1 profiles)
 Sauter Tecnologia,Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,,,⚪ No Active Demand
 Sauter Tecnologia,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,3,11,14,🟢 Ready (14 profiles)
-Sauter Tecnologia,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,14,5,19,🟢 Ready (19 profiles)
+Sauter Tecnologia,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,14,5,19,🟢 Ready (19 DRP / 5 wkls)
 Sauter Tecnologia,Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
 Sauter Tecnologia,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
-Sauter Tecnologia,Security,Agentic Defense with Google Security,Security Command Center,1,2,3,🟢 Ready (3 profiles)
+Sauter Tecnologia,Security,Agentic Defense with Google Security,Security Command Center,1,2,3,🟢 Ready (3 DRP / 2 wkls)
 Sauter Tecnologia,Security,Agentic Defense with Google Security,Security Operations,,,,⚪ No Active Demand
 Sauter Tecnologia,Security,Secure Innovation with Google Cloud,Cloud Security,,1,1,🟢 Ready (1 profiles)
 Sauter Tecnologia,Workspace,Agentic Workplace Transformation,Workspace,,1,1,🟢 Ready (1 profiles)

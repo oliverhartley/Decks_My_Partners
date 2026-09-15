@@ -1792,63 +1792,126 @@ def cleanup_default_sheets(ssid):
             pass
 
 
-def match_exact_drp(w_pillar, w_sales_play, w_solution, w_prods):
+AI_CACHE_FILE = "workload_drp_ai_cache.json"
+AI_CACHE = {}
+if os.path.exists(AI_CACHE_FILE):
+    try:
+        with open(AI_CACHE_FILE, "r", encoding="utf-8") as f:
+            AI_CACHE = json.load(f)
+    except:
+        AI_CACHE = {}
+
+
+def match_exact_drp(w_pillar, w_sales_play, w_solution, w_prods, w_id="", w_name="", opp_name="", next_steps="", drp_catalog=None):
+    # 1. Check AI Cache first
+    if w_id and w_id in AI_CACHE:
+        cached = AI_CACHE[w_id]
+        c_prod = cached.get("matched_product", "")
+        c_cert = cached.get("certainty_pct", 85)
+        c_reason = cached.get("reasoning", "")
+        if drp_catalog:
+            for (pil, sol, prd) in drp_catalog:
+                if prd.lower() == c_prod.lower():
+                    return [(pil, sol, prd)], prd, c_cert, c_reason
+        return [("Application Modernization", "Migrate, Modernize and Build", c_prod)], c_prod, c_cert, c_reason
+
     w_pil_clean = (w_pillar or "").strip().lower()
     w_play_clean = (w_sales_play or "").strip().lower()
     w_sol_clean = (w_solution or "").strip().lower()
-    w_prods_clean = [str(x).strip().lower() for x in (w_prods or [])]
-    full_text = f"{w_pil_clean} {w_play_clean} {w_sol_clean} {' '.join(w_prods_clean)}"
-    
-    if "gemini enterprise" in full_text and ("workplace" in full_text or "licencias" in full_text or "seat" in full_text or "not a solution" in w_sol_clean or w_sol_clean == "gemini enterprise"):
-        return [("Artificial Intelligence", "Agentic Workplace Transformation", "Gemini Enterprise")]
-    
-    if "gemini" in full_text and ("customer experience" in full_text or "ccaas" in full_text or "contact center" in full_text):
-        return [("Artificial Intelligence", "Gemini Enterprise for Customer Experience", "Gemini Enterprise Agent Platform")]
-        
-    if "generative media" in full_text:
-        return [("Artificial Intelligence", "Leverage Generative Media in your Business", "Gemini Enterprise Agent Platform")]
-        
-    if "your models" in full_text or "your business" in full_text:
-        return [("Artificial Intelligence", "Your Business. Your Models.", "Gemini Enterprise Agent Platform")]
-        
-    if "ai apps" in full_text or "vertex" in full_text or "agent platform" in full_text or ("ai" in w_pil_clean and "agent" in full_text):
-        return [("Artificial Intelligence", "Scale AI Apps and Agents", "Gemini Enterprise Agent Platform")]
+    w_prods_clean = [str(x).strip().lower() for x in (w_prods or []) if str(x).strip()]
+    full_text = f"{w_name} {opp_name} {w_pil_clean} {w_play_clean} {w_sol_clean} {' '.join(w_prods_clean)} {next_steps}".lower()
 
-    if "bigquery" in full_text or "warehouse" in full_text or "data analytics" in full_text or "analytics" in w_pil_clean:
-        if "looker" in full_text:
-            return [("Data & Analytics", "The AI Ready Data Cloud", "Looker")]
-        elif "dataflow" in full_text:
-            return [("Data & Analytics", "The AI Ready Data Cloud", "Dataflow")]
-        elif "dataproc" in full_text or "spark" in full_text or "hadoop" in full_text:
-            return [("Data & Analytics", "The AI Ready Data Cloud", "Dataproc")]
+    # AI & Gemini Enterprise
+    if "gemini enterprise" in full_text and (any(k in full_text for k in ["seat", "licencia", "workplace", "full company", "colaborativo", "not a solution"]) or w_sol_clean == "gemini enterprise" or "lead the agentic workplace transformation" in full_text):
+        res = ([("Artificial Intelligence", "Agentic Workplace Transformation", "Gemini Enterprise")], "Gemini Enterprise", 95, "Gemini Enterprise Workplace Transformation")
+    elif any(k in full_text for k in ["customer experience", "ccaas", "contact center", "dialogflow"]):
+        if "agent assist" in full_text:
+            res = ([("Artificial Intelligence", "Gemini Enterprise for Customer Experience", "GECX - Agent Assist")], "GECX - Agent Assist", 90, "Contact Center Agent Assist")
+        elif "ccaas" in full_text:
+            res = ([("Artificial Intelligence", "Gemini Enterprise for Customer Experience", "GECX - CCaaS")], "GECX - CCaaS", 90, "Contact Center as a Service")
+        elif "studio" in full_text:
+            res = ([("Artificial Intelligence", "Gemini Enterprise for Customer Experience", "GECX - CX Agent Studio")], "GECX - CX Agent Studio", 90, "CX Agent Studio")
+        elif any(k in full_text for k in ["insight", "audios", "audio"]):
+            res = ([("Artificial Intelligence", "Gemini Enterprise for Customer Experience", "GECX - CX Insights")], "GECX - CX Insights", 85, "Contact Center Insights")
         else:
-            return [("Data & Analytics", "The AI Ready Data Cloud", "BigQuery")]
+            res = ([("Artificial Intelligence", "Gemini Enterprise for Customer Experience", "Gemini Enterprise Agent Platform")], "Gemini Enterprise Agent Platform", 85, "Customer Experience Agent Platform")
+    elif any(k in full_text for k in ["ai applications", "ai apps", "vertex ai solutions", "custom ai", "genai", "model garden"]):
+        res = ([("Artificial Intelligence", "Scale AI Apps and Agents", "AI Applications")], "AI Applications", 85, "Scale AI Applications")
+    elif "agent platform" in full_text or "agents" in full_text or "agentes" in full_text:
+        res = ([("Artificial Intelligence", "Scale AI Apps and Agents", "Gemini Enterprise Agent Platform")], "Gemini Enterprise Agent Platform", 85, "Gemini Enterprise Agent Platform")
+    elif "gemini" in full_text:
+        res = ([("Artificial Intelligence", "Agentic Workplace Transformation", "Gemini Enterprise")], "Gemini Enterprise", 80, "Gemini Enterprise Solution")
 
-    if "alloydb" in full_text:
-        return [("Databases", "The AI Ready Data Cloud", "AlloyDB for PostgreSQL")]
-    if "cloud sql" in full_text or "postgres" in full_text or "mysql" in full_text or "sql server" in full_text:
-        return [("Databases", "The AI Ready Data Cloud", "Cloud SQL")]
-    if "spanner" in full_text:
-        return [("Databases", "The AI Ready Data Cloud", "Spanner")]
+    # Data & Analytics
+    elif "looker" in full_text or "dashboard" in full_text or "business intelligence" in full_text:
+        res = ([("Data & Analytics", "The AI Ready Data Cloud", "Looker")], "Looker", 90, "Business Intelligence & Looker")
+    elif "dataflow" in full_text or "apache beam" in full_text or "streaming" in full_text:
+        res = ([("Data & Analytics", "The AI Ready Data Cloud", "Dataflow")], "Dataflow", 90, "Dataflow streaming pipeline")
+    elif "dataproc" in full_text or "spark" in full_text or "hadoop" in full_text or "hive" in full_text:
+        res = ([("Data & Analytics", "The AI Ready Data Cloud", "Dataproc")], "Dataproc", 90, "Dataproc & Spark")
+    elif any(k in full_text for k in ["bigquery", "warehouse", "data lake", "edw", "data analytics"]) or "analytics" in w_pil_clean:
+        res = ([("Data & Analytics", "The AI Ready Data Cloud", "BigQuery")], "BigQuery", 90, "BigQuery Data Cloud")
 
-    if "gke" in full_text or "kubernetes" in full_text:
-        return [("Application Modernization", "Migrate, Modernize and Build", "Google Kubernetes Engine")]
-    if "cloud run" in full_text or "cloudrun" in full_text:
-        return [("Application Modernization", "Migrate, Modernize and Build", "Cloud Run")]
-    if "apigee" in full_text or "api" in full_text:
-        return [("Application Modernization", "Migrate, Modernize and Build", "Apigee API Management")]
+    # Databases
+    elif "alloydb" in full_text:
+        res = ([("Databases", "The AI Ready Data Cloud", "AlloyDB for PostgreSQL")], "AlloyDB for PostgreSQL", 95, "AlloyDB Modernization")
+    elif "spanner" in full_text:
+        res = ([("Databases", "The AI Ready Data Cloud", "Spanner")], "Spanner", 95, "Spanner Database")
+    elif any(k in full_text for k in ["cloud sql", "cloudsql", "mysql", "postgres", "sql server"]):
+        res = ([("Databases", "The AI Ready Data Cloud", "Cloud SQL")], "Cloud SQL", 90, "Cloud SQL Managed DB")
+    elif "database" in full_text or "databases" in full_text or "database" in w_pil_clean:
+        res = ([("Databases", "The AI Ready Data Cloud", "Cloud SQL")], "Cloud SQL", 75, "Database Modernization")
 
-    if "vmware" in full_text or "gcve" in full_text:
-        return [("Infrastructure Modernization", "Enterprise Platform of Choice: VMware", "Google Cloud VMware Engine")]
-    if "mainframe" in full_text:
-        return [("Infrastructure Modernization", "Mainframe Modernization", "Dual Run")]
-    if "compute" in full_text or "gce" in full_text or "infra" in w_pil_clean or "infrastructure" in full_text:
-        return [("Infrastructure Modernization", "Enterprise Infrastructure: Linux/Windows/Storage", "Compute Engine")]
+    # Application Modernization
+    elif any(k in full_text for k in ["gke", "kubernetes", "k8s"]):
+        res = ([("Application Modernization", "Migrate, Modernize and Build", "Google Kubernetes Engine")], "Google Kubernetes Engine", 90, "Kubernetes Container Engine")
+    elif "cloud run" in full_text or "cloudrun" in full_text:
+        res = ([("Application Modernization", "Migrate, Modernize and Build", "Cloud Run")], "Cloud Run", 90, "Cloud Run Serverless")
+    elif "apigee" in full_text or "api" in full_text:
+        res = ([("Application Modernization", "Migrate, Modernize and Build", "Apigee API Management")], "Apigee API Management", 90, "Apigee API Management")
+    elif "app mod" in full_text or "modernize" in full_text:
+        res = ([("Application Modernization", "Migrate, Modernize and Build", "Google Kubernetes Engine")], "Google Kubernetes Engine", 80, "Application Modernization")
 
-    if "secops" in full_text or "chronicle" in full_text or "security" in full_text or "siem" in full_text or "soar" in full_text:
-        return [("Security", "Modern SecOps", "Google Security Operations Enterprise (Chronicle SIEM)")]
+    # Infrastructure Modernization
+    elif "sap" in full_text:
+        res = ([("Infrastructure Modernization", "Enterprise Platform of Choice: SAP", "SAP on Google Cloud")], "SAP on Google Cloud", 95, "SAP on Google Cloud")
+    elif "oracle" in full_text or "oci" in full_text:
+        res = ([("Infrastructure Modernization", "Enterprise Platform of Choice: Oracle", "Oracle")], "Oracle", 90, "Oracle on Google Cloud")
+    elif any(k in full_text for k in ["vmware", "gcve", "vsphere"]):
+        res = ([("Infrastructure Modernization", "Enterprise Platform of Choice: VMware", "Google Cloud VMware Engine")], "Google Cloud VMware Engine", 95, "VMware Engine")
+    elif any(k in full_text for k in ["network", "interconnect", "vpc", "cloud armor"]):
+        res = ([("Infrastructure Modernization", "Migrate, Modernize and Build", "Google Cloud Networking")], "Google Cloud Networking", 90, "Cloud Networking")
+    elif any(k in full_text for k in ["distributed cloud", "gdc", "sovereign"]):
+        res = ([("Infrastructure Modernization", "Sovereignty", "Google Distributed Cloud")], "Google Distributed Cloud", 90, "Google Distributed Cloud")
+    elif any(k in full_text for k in ["compute", "gce", "vm", "vms", "iaas", "lift", "infra", "infrastructure", "mainframe", "migracion aws", "migración aws"]):
+        res = ([("Infrastructure Modernization", "Migrate, Modernize and Build", "Google Compute Engine")], "Google Compute Engine", 80, "Compute Engine Infrastructure")
 
-    return [("Artificial Intelligence", "Scale AI Apps and Agents", "Gemini Enterprise Agent Platform")]
+    # Security
+    elif any(k in full_text for k in ["threat", "mandiant", "mti"]):
+        res = ([("Security", "Agentic Defense with Google Security", "Google Threat Intelligence")], "Google Threat Intelligence", 90, "Threat Intelligence")
+    elif any(k in full_text for k in ["security command center", "scc"]):
+        res = ([("Security", "Agentic Defense with Google Security", "Security Command Center")], "Security Command Center", 90, "Security Command Center")
+    elif any(k in full_text for k in ["secops", "chronicle", "siem", "soar"]):
+        res = ([("Security", "Agentic Defense with Google Security", "Security Operations")], "Security Operations", 90, "Security Operations")
+    elif "security" in full_text or "seguridad" in full_text:
+        res = ([("Security", "Secure Innovation with Google Cloud", "Cloud Security")], "Cloud Security", 85, "Cloud Security")
+
+    # Workspace
+    elif "workspace" in full_text or "gsuite" in full_text:
+        res = ([("Workspace", "Agentic Workplace Transformation", "Workspace")], "Workspace", 95, "Google Workspace")
+
+    else:
+        res = ([("Infrastructure Modernization", "Migrate, Modernize and Build", "Google Compute Engine")], "Google Compute Engine", 60, "General Infrastructure")
+
+    # Save to AI_CACHE if w_id provided
+    if w_id and w_id not in AI_CACHE:
+        AI_CACHE[w_id] = {
+            "matched_product": res[1],
+            "certainty_pct": res[2],
+            "reasoning": res[3],
+            "secondary_products": []
+        }
+    return res
 
 def main():
     # 1. Fetch DRP Catalog
@@ -2166,20 +2229,34 @@ def main():
             er_linked = parse_expert_requests(er_raw)
             tier = get_account_tier(workload_id, account_id, account_name, segment)
 
-            matched_drp = match_exact_drp(pillar, sales_play, workload_solution, key_prods)
+            matched_drp, matched_prod, cert, reasoning = match_exact_drp(
+                pillar, sales_play, workload_solution, key_prods,
+                w_id=workload_id, w_name=workload_name,
+                opp_name=opportunity_name, next_steps=next_steps,
+                drp_catalog=drp_catalog
+            )
             for m_item in matched_drp:
                 drp_workload_demand[m_item] = drp_workload_demand.get(m_item, 0) + 1
 
             total_drp_for_wkl = 0
             if matched_drp:
-                total_drp_for_wkl = max([partner_drp_map.get(m, {}).get("tot", 0) for m in matched_drp])
+                total_drp_for_wkl = partner_drp_map.get(matched_drp[0], {}).get("tot", 0)
+
+            disp_prod = matched_prod
+            if matched_prod == "Google Kubernetes Engine": disp_prod = "GKE"
+            elif matched_prod == "Google Compute Engine": disp_prod = "Compute Engine"
+            elif matched_prod == "Google Cloud VMware Engine": disp_prod = "GCVE"
+            elif matched_prod == "AlloyDB for PostgreSQL": disp_prod = "AlloyDB"
+            elif matched_prod == "Security Operations": disp_prod = "SecOps"
+            elif matched_prod == "Security Command Center": disp_prod = "SCC"
+            elif matched_prod == "Google Threat Intelligence": disp_prod = "Threat Intel"
 
             if total_drp_for_wkl == 0:
-                wkl_capacity_status = "🔴 Capacity Gap (0 DRP Profiles)"
+                wkl_capacity_status = f"🔴 Capacity Gap (0 in {disp_prod} · {cert}%)"
             elif total_drp_for_wkl == 1:
-                wkl_capacity_status = "🟡 Constrained (1 DRP Profile)"
+                wkl_capacity_status = f"🟡 Constrained (1 in {disp_prod} · {cert}%)"
             else:
-                wkl_capacity_status = f"🟢 Ready ({total_drp_for_wkl} DRP Profiles)"
+                wkl_capacity_status = f"🟢 Ready ({total_drp_for_wkl} in {disp_prod} · {cert}%)"
 
             notes_preserved = ""
             if workload_name in manual_entries:
@@ -3312,7 +3389,13 @@ def main():
 
             # Clean default sheet
             cleanup_default_sheets(pe_ssid)
-            print(f"✓ Completed PE Dashboard for {pe_name}.")
+    # Save AI classification cache
+    try:
+        with open(AI_CACHE_FILE, "w", encoding="utf-8") as f:
+            json.dump(AI_CACHE, f, indent=2, ensure_ascii=False)
+        print(f"✓ Saved {len(AI_CACHE)} classified workloads to {AI_CACHE_FILE}.")
+    except Exception as e:
+        print(f"Warning: could not save AI_CACHE: {e}")
 
     print("\n========================================================")
     print("SUCCESS: ALL 31 PARTNERS, GLOBAL DASHBOARD & 6 PE DASHBOARDS SYNCED!")

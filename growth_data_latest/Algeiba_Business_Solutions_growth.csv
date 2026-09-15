@@ -28,8 +28,8 @@ TOTAL,-,3,1,2,6,6,0,0,6,-,-,-,-
 PRACTITIONER PROFILES PROGRESSION DETAIL (INDIVIDUAL LEVEL TRANSITIONS),,,,,,,,,,,,,
 Profile ID,Practice Area,Product,Tier Movement,Transition Month,Transition Date,Previous Score,New Score,Score Delta,Previous Tier,New Tier,DRP Partner Key,Promotion Type,Status
 ALGJFKHF2,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,July,2026-07-07,16.0,26.0,+10.0,Tier 4,Tier 3,P20220923016,Tier Upgrade,Promoted
-ALGJBLTO6,Infrastructure Modernization,Google Cloud Networking,Tier 2 ➔ Tier 1,July,2026-07-07,44.0,54.0,+10.0,Tier 2,Tier 1,P20220923016,Tier Upgrade,Promoted
-ALGABBVD8,Infrastructure Modernization,Google Cloud Networking,Tier 3 ➔ Tier 2,July,2026-07-07,34.0,44.0,+10.0,Tier 3,Tier 2,P20220923016,Tier Upgrade,Promoted
 ALGGVZEE5,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,July,2026-07-07,18.0,23.0,+5.0,Tier 4,Tier 3,P20220923016,Tier Upgrade,Promoted
+ALGJBLTO6,Infrastructure Modernization,Google Cloud Networking,Tier 2 ➔ Tier 1,July,2026-07-07,44.0,54.0,+10.0,Tier 2,Tier 1,P20220923016,Tier Upgrade,Promoted
 ALGFMAND2,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,July,2026-07-07,19.0,24.0,+5.0,Tier 4,Tier 3,P20220923016,Tier Upgrade,Promoted
+ALGABBVD8,Infrastructure Modernization,Google Cloud Networking,Tier 3 ➔ Tier 2,July,2026-07-07,34.0,44.0,+10.0,Tier 3,Tier 2,P20220923016,Tier Upgrade,Promoted
 ALGCKUFV4,Infrastructure Modernization,Google Cloud Networking,Tier 2 ➔ Tier 1,July,2026-07-08,49.0,54.0,+5.0,Tier 2,Tier 1,P20220923016,Tier Upgrade,Promoted
