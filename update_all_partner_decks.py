@@ -12,6 +12,16 @@ from query_bq import run_query
 GSHEETS = "/google/bin/releases/gemini-agents-gsheets/gsheets"
 GLOBAL_SSID = "17Xp09vIQdRpMVvdC0RaRpq_xT4wYe96hZ9brQ0yyKBA"
 
+PE_DASHBOARDS = {
+    "Wanda Flores": "13i6Fv4giUQSv16zCB1YJyWtFT4rm49DFF8vkfV90XYo",
+    "Fernando Laguna": "124g2ks1GZj5wAhtvwy17bN18cfWxt1qR_hm8CqH8BEk",
+    "Ignacio Rauda": "1LK1rSDuTLhnd76JHLzgXrjngqfYWqC2nylAHXcSs_os",
+    "Jaquelyn Montañez": "19m2D7eSr6sc23cObho8XRjqY5xCa6-1BzJyUebA2mhY",
+    "Luna Longo": "1_VuZTyilnjBjPiXBCK56R5sAQsTcZ-v69-raXoyds50",
+    "Oliver Hartley": "1VkmmtXJopJ57K_XL3jwdqk8LrN6qw0_iGrBbl5deYpI",
+    "Thiago da Ponte": "1UgAgFPlL0UjaiqHDc9Z6e1V6bJa-hS-zEDNCMQWYvyI"
+}
+
 now = datetime.datetime.now()
 DATE_FORMATTED = f"{now.day} - {now.strftime('%b')} {now.year}"
 
@@ -2048,31 +2058,56 @@ def main():
     parser = argparse.ArgumentParser(description="Update Partner Decks and Dashboards")
     parser.add_argument("--pe", type=str, default=None, help="Filter by Partner Engineer name")
     parser.add_argument("--partner", type=str, default=None, help="Filter by Partner name")
+    parser.add_argument("--primary-pe-only", action="store_true", help="Match only primary PE to avoid duplicate runs of co-managed partners")
+    parser.add_argument("--chunk", type=int, nargs=2, default=None, help="Start and end indices for partner slicing [start, end]")
+    parser.add_argument("--skip-pe-dashboard", action="store_true", help="Skip updating PE dashboard")
+    parser.add_argument("--pe-dashboard-only", type=str, default=None, help="Only update the specified PE dashboard")
+    parser.add_argument("--global-only", action="store_true", help="Only consolidate and update Global Dashboard")
+    parser.add_argument("--parallel", action="store_true", help="Run full sync in parallel by PE using run_parallel_sync.py")
+    parser.add_argument("--workers", type=int, default=3, help="Number of concurrent workers for parallel sync")
     args, _ = parser.parse_known_args()
+
+    if args.parallel:
+        import run_parallel_sync
+        run_parallel_sync.main(workers=args.workers)
+        return
 
     target_pe = args.pe
     target_partner = args.partner
 
     partners_to_process = PARTNERS
-    if target_pe:
-        partners_to_process = [p for p in partners_to_process if target_pe.lower() in p.get("pe", "").lower()]
-    if target_partner:
-        partners_to_process = [p for p in partners_to_process if target_partner.lower() in p.get("partner", "").lower()]
+    if args.pe_dashboard_only or args.global_only:
+        partners_to_process = []
+    else:
+        if target_pe:
+            if args.primary_pe_only:
+                partners_to_process = [p for p in partners_to_process if norm_str(target_pe) == norm_str(p.get("pe", "").split(",")[0].strip())]
+            else:
+                partners_to_process = [p for p in partners_to_process if target_pe.lower() in p.get("pe", "").lower()]
+        if target_partner:
+            partners_to_process = [p for p in partners_to_process if target_partner.lower() in p.get("partner", "").lower()]
+        if args.chunk:
+            start_idx, end_idx = args.chunk
+            partners_to_process = partners_to_process[start_idx:end_idx]
 
     print(f"Total partners to process: {len(partners_to_process)}")
 
     # Upfront fetch of Q3 Growth data (Workload Stage Advancements & DRP Tier Promotions)
     growth_pids = set()
     growth_drp_keys = set()
-    for p in partners_to_process:
-        for pid in p.get("partner_ids", []):
-            growth_pids.add(pid)
-        for d in p.get("drp_keys", []):
-            growth_drp_keys.add(d)
+    if partners_to_process:
+        for p in partners_to_process:
+            for pid in p.get("partner_ids", []):
+                growth_pids.add(pid)
+            for d in p.get("drp_keys", []):
+                growth_drp_keys.add(d)
 
-    import growth_tab
-    all_wkl_growth = growth_tab.fetch_all_workload_growth_data(growth_pids)
-    all_drp_growth = growth_tab.fetch_all_drp_growth_data(growth_drp_keys)
+        import growth_tab
+        all_wkl_growth = growth_tab.fetch_all_workload_growth_data(growth_pids)
+        all_drp_growth = growth_tab.fetch_all_drp_growth_data(growth_drp_keys)
+    else:
+        all_wkl_growth = []
+        all_drp_growth = []
 
     for cfg in partners_to_process:
         pname = cfg["partner"]
@@ -2879,6 +2914,7 @@ def main():
     # E. UPDATE GLOBAL PARTNER MANAGEMENT DASHBOARD
     # =========================================================================
     def run_global_dashboard_update():
+        nonlocal all_global_workload_rows, all_global_drp_rows, all_global_accred_rows
         print("\n========================================================")
         print("UPDATING GLOBAL PARTNER MANAGEMENT DASHBOARD")
         print(f"Spreadsheet ID: {GLOBAL_SSID}")
@@ -2897,39 +2933,130 @@ def main():
             "Partner Action Tracker Spreadsheet"
         ]
         summary_rows = [summary_headers]
-        tot_all_wkls = sum(s["workloads_count"] for s in summary_stats)
-        tot_all_arr = sum(s["total_arr"] for s in summary_stats)
-        tot_all_drp = sum(s["drp_capacities"] for s in summary_stats)
-        tot_all_certs = sum(s["certs_count"] for s in summary_stats)
 
-        for s in summary_stats:
-            p_url = f"https://vector.lightning.force.com/lightning/r/Account/{s['default_pid']}/view"
-            p_link = make_hyperlink(p_url, s["partner"])
-            tracker_url = f"https://docs.google.com/spreadsheets/d/{s['sheet_id']}/edit#gid=0"
-            tracker_link = make_hyperlink(tracker_url, "Open Partner Tracker ↗")
+        if summary_stats:
+            tot_all_wkls = sum(s["workloads_count"] for s in summary_stats)
+            tot_all_arr = sum(s["total_arr"] for s in summary_stats)
+            tot_all_drp = sum(s["drp_capacities"] for s in summary_stats)
+            tot_all_certs = sum(s["certs_count"] for s in summary_stats)
+
+            for s in summary_stats:
+                p_url = f"https://vector.lightning.force.com/lightning/r/Account/{s['default_pid']}/view"
+                p_link = make_hyperlink(p_url, s["partner"])
+                tracker_url = f"https://docs.google.com/spreadsheets/d/{s['sheet_id']}/edit#gid=0"
+                tracker_link = make_hyperlink(tracker_url, "Open Partner Tracker ↗")
+                summary_rows.append([
+                    s["pe"],
+                    p_link,
+                    s["country"],
+                    s["track"],
+                    str(s["workloads_count"]),
+                    f"${s['total_arr']:,.2f}",
+                    str(s["drp_capacities"]),
+                    str(s["certs_count"]),
+                    tracker_link
+                ])
+
             summary_rows.append([
-                s["pe"],
-                p_link,
-                s["country"],
-                s["track"],
-                str(s["workloads_count"]),
-                f"${s['total_arr']:,.2f}",
-                str(s["drp_capacities"]),
-                str(s["certs_count"]),
-                tracker_link
+                f"TOTAL (All {len(PARTNERS)} Partners)",
+                "-",
+                "-",
+                "-",
+                str(tot_all_wkls),
+                f"${tot_all_arr:,.2f}",
+                str(tot_all_drp),
+                str(tot_all_certs),
+                "-"
+            ])
+        else:
+            print("Loading Executive_Summary from PE CSVs in global_dashboard_data/...")
+            tot_all_wkls = 0
+            tot_all_arr = 0.0
+            tot_all_drp = 0
+            tot_all_certs = 0
+            seen_partners_exec = set()
+            for pe_name in PE_DASHBOARDS.keys():
+                pe_clean = pe_name.replace(" ", "_").replace("ñ", "n")
+                fpath = f"global_dashboard_data/exec_summary_{pe_clean}.csv"
+                if os.path.exists(fpath):
+                    with open(fpath, "r", encoding="utf-8") as f:
+                        rdr = list(csv.reader(f))
+                        for r in rdr[1:-1]:
+                            if r and len(r) >= 9:
+                                p_label = extract_hyperlink_label(r[1])
+                                if p_label not in seen_partners_exec:
+                                    seen_partners_exec.add(p_label)
+                                    summary_rows.append(r)
+                                    try: tot_all_wkls += int(r[4])
+                                    except: pass
+                                    try: tot_all_arr += float(r[5].replace("$", "").replace(",", ""))
+                                    except: pass
+                                    try: tot_all_drp += int(r[6])
+                                    except: pass
+                                    try: tot_all_certs += int(r[7])
+                                    except: pass
+            summary_rows.append([
+                f"TOTAL (All {len(seen_partners_exec)} Partners)",
+                "-", "-", "-",
+                str(tot_all_wkls),
+                f"${tot_all_arr:,.2f}",
+                str(tot_all_drp),
+                str(tot_all_certs),
+                "-"
             ])
 
-        summary_rows.append([
-            f"TOTAL (All {len(PARTNERS)} Partners)",
-            "-",
-            "-",
-            "-",
-            str(tot_all_wkls),
-            f"${tot_all_arr:,.2f}",
-            str(tot_all_drp),
-            str(tot_all_certs),
-            "-"
-        ])
+        # Load workloads from PE CSVs if empty
+        if not all_global_workload_rows:
+            print("Loading All_Workloads_Follow_up from PE CSVs in global_dashboard_data/...")
+            seen_wkl_keys = set()
+            for pe_name in PE_DASHBOARDS.keys():
+                pe_clean = pe_name.replace(" ", "_").replace("ñ", "n")
+                fpath = f"global_dashboard_data/all_workloads_followup_{pe_clean}.csv"
+                if os.path.exists(fpath):
+                    with open(fpath, "r", encoding="utf-8") as f:
+                        rdr = list(csv.reader(f))
+                        for r in rdr[5:]:
+                            if r and len(r) >= 24:
+                                p_label = extract_hyperlink_label(r[1])
+                                w_label = extract_hyperlink_label(r[4])
+                                key = (p_label, w_label)
+                                if key not in seen_wkl_keys:
+                                    seen_wkl_keys.add(key)
+                                    all_global_workload_rows.append(r)
+
+        # Load DRP from PE CSVs if empty
+        if not all_global_drp_rows:
+            print("Loading All_DRP_Status from PE CSVs in global_dashboard_data/...")
+            seen_drp = set()
+            for pe_name in PE_DASHBOARDS.keys():
+                pe_clean = pe_name.replace(" ", "_").replace("ñ", "n")
+                fpath = f"global_dashboard_data/all_drp_status_{pe_clean}.csv"
+                if os.path.exists(fpath):
+                    with open(fpath, "r", encoding="utf-8") as f:
+                        rdr = list(csv.reader(f))
+                        for r in rdr[1:]:
+                            if r and len(r) >= 8:
+                                key = (r[0], r[1], r[2], r[3])
+                                if key not in seen_drp:
+                                    seen_drp.add(key)
+                                    all_global_drp_rows.append(r)
+
+        # Load Accreditations from PE CSVs if empty
+        if not all_global_accred_rows:
+            print("Loading All_Acreditaciones from PE CSVs in global_dashboard_data/...")
+            seen_acc = set()
+            for pe_name in PE_DASHBOARDS.keys():
+                pe_clean = pe_name.replace(" ", "_").replace("ñ", "n")
+                fpath = f"global_dashboard_data/all_accreditations_{pe_clean}.csv"
+                if os.path.exists(fpath):
+                    with open(fpath, "r", encoding="utf-8") as f:
+                        rdr = list(csv.reader(f))
+                        for r in rdr[1:]:
+                            if r and len(r) >= 9:
+                                key = (r[0], r[1], r[2], r[3], r[4])
+                                if key not in seen_acc:
+                                    seen_acc.add(key)
+                                    all_global_accred_rows.append(r)
 
         exec_csv = "global_dashboard_data/executive_summary_latest.csv"
         with open(exec_csv, "w", newline="", encoding="utf-8") as f:
@@ -3291,10 +3418,10 @@ def main():
 
 
 
-    if not (target_pe or target_partner):
+    if (not (target_pe or target_partner) and not args.skip_pe_dashboard) or args.global_only:
         run_global_dashboard_update()
     else:
-        print(f"\nSkipping Global Dashboard update (filter active: pe={target_pe}, partner={target_partner})")
+        print(f"\nSkipping Global Dashboard update (filter active: pe={target_pe}, partner={target_partner}, global_only={args.global_only})")
     # =========================================================================
     # F. UPDATE DEDICATED PE PARTNER MANAGEMENT DASHBOARDS
     # =========================================================================
@@ -3302,19 +3429,12 @@ def main():
     print("UPDATING DEDICATED PE PARTNER MANAGEMENT DASHBOARDS")
     print("========================================================")
 
-    PE_DASHBOARDS = {
-        "Wanda Flores": "13i6Fv4giUQSv16zCB1YJyWtFT4rm49DFF8vkfV90XYo",
-        "Fernando Laguna": "124g2ks1GZj5wAhtvwy17bN18cfWxt1qR_hm8CqH8BEk",
-        "Ignacio Rauda": "1LK1rSDuTLhnd76JHLzgXrjngqfYWqC2nylAHXcSs_os",
-        "Jaquelyn Montañez": "19m2D7eSr6sc23cObho8XRjqY5xCa6-1BzJyUebA2mhY",
-        "Luna Longo": "1_VuZTyilnjBjPiXBCK56R5sAQsTcZ-v69-raXoyds50",
-        "Oliver Hartley": "1VkmmtXJopJ57K_XL3jwdqk8LrN6qw0_iGrBbl5deYpI",
-        "Thiago da Ponte": "1UgAgFPlL0UjaiqHDc9Z6e1V6bJa-hS-zEDNCMQWYvyI"
-    }
 
-    if not target_partner:
+    if (not target_partner and not args.skip_pe_dashboard and not args.global_only) or args.pe_dashboard_only:
         for pe_name, pe_ssid in PE_DASHBOARDS.items():
-            if target_pe and norm_str(target_pe) not in norm_str(pe_name):
+            if args.pe_dashboard_only and norm_str(args.pe_dashboard_only) not in norm_str(pe_name):
+                continue
+            if target_pe and not args.pe_dashboard_only and norm_str(target_pe) not in norm_str(pe_name):
                 continue
             print(f"\nUpdating PE Dashboard for: {pe_name} ({pe_ssid})...")
 
