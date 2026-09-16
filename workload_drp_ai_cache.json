@@ -9207,5 +9207,65 @@
     "certainty_pct": 95,
     "reasoning": "Gemini Enterprise Workplace Transformation",
     "secondary_products": []
+  },
+  "aBJKf000009WFkIOAW": {
+    "matched_product": "Gemini Enterprise",
+    "certainty_pct": 95,
+    "reasoning": "Gemini Enterprise Workplace Transformation",
+    "secondary_products": []
+  },
+  "aBJKf000009tBtSOAU": {
+    "matched_product": "BigQuery",
+    "certainty_pct": 90,
+    "reasoning": "BigQuery Data Cloud",
+    "secondary_products": []
+  },
+  "aBJKf000009eV98OAE": {
+    "matched_product": "Google Kubernetes Engine",
+    "certainty_pct": 80,
+    "reasoning": "Application Modernization",
+    "secondary_products": []
+  },
+  "aBJKf000004ZQTiOAO": {
+    "matched_product": "Gemini Enterprise",
+    "certainty_pct": 95,
+    "reasoning": "Gemini Enterprise Workplace Transformation",
+    "secondary_products": []
+  },
+  "aBJKf000009eAxvOAE": {
+    "matched_product": "Gemini Enterprise",
+    "certainty_pct": 95,
+    "reasoning": "Gemini Enterprise Workplace Transformation",
+    "secondary_products": []
+  },
+  "aBJKf000009WFlGOAW": {
+    "matched_product": "Google Compute Engine",
+    "certainty_pct": 60,
+    "reasoning": "General Infrastructure",
+    "secondary_products": []
+  },
+  "aBJKf000004ZQTdOAO": {
+    "matched_product": "Gemini Enterprise",
+    "certainty_pct": 95,
+    "reasoning": "Gemini Enterprise Workplace Transformation",
+    "secondary_products": []
+  },
+  "aBJKf0000082K18OAE": {
+    "matched_product": "Gemini Enterprise",
+    "certainty_pct": 80,
+    "reasoning": "Gemini Enterprise Solution",
+    "secondary_products": []
+  },
+  "aBJKf000009obzgOAA": {
+    "matched_product": "Gemini Enterprise",
+    "certainty_pct": 95,
+    "reasoning": "Gemini Enterprise Workplace Transformation",
+    "secondary_products": []
+  },
+  "aBJKf000004ZQQoOAO": {
+    "matched_product": "Google Compute Engine",
+    "certainty_pct": 60,
+    "reasoning": "General Infrastructure",
+    "secondary_products": []
   }
 }

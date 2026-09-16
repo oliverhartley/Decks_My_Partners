@@ -54,8 +54,8 @@ KOCMBMWO1,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,J
 KOCDMBUC0,Workspace,Workspace,Tier 3 ➔ Tier 2,July,2026-07-23,30.0,40.0,+10.0,Tier 3,Tier 2,P20260318001,Tier Upgrade,Promoted
 KOCFBFGI7,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-25,15.0,20.0,+5.0,Tier 4,Tier 3,P20260318001,Tier Upgrade,Promoted
 KOCJAYVD9,Artificial Intelligence,Gemini Enterprise for Customer Experience,Tier 4 ➔ Tier 3,July,2026-07-29,19.0,24.0,+5.0,Tier 4,Tier 3,P20260318001,Tier Upgrade,Promoted
-KOCMBMWO1,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,August,2026-08-06,15.0,20.0,+5.0,Tier 4,Tier 3,P20260318001,Tier Upgrade,Promoted
 KOCMBMWO1,Application Modernization,Cloud Run,Tier 4 ➔ Tier 3,August,2026-08-06,15.0,20.0,+5.0,Tier 4,Tier 3,P20260318001,Tier Upgrade,Promoted
+KOCMBMWO1,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,August,2026-08-06,15.0,20.0,+5.0,Tier 4,Tier 3,P20260318001,Tier Upgrade,Promoted
 KOCMPFHQ8,Security,Cloud Security,Tier 2 ➔ Tier 1,August,2026-08-13,49.0,54.0,+5.0,Tier 2,Tier 1,P20260318001,Tier Upgrade,Promoted
 KOCAMZWL6,Infrastructure Modernization,Google Cloud Networking,Tier 3 ➔ Tier 2,August,2026-08-27,34.0,39.0,+5.0,Tier 3,Tier 2,P20260318001,Tier Upgrade,Promoted
 KOCJAYVD9,Artificial Intelligence,GECX - CX Agent Studio,Tier 4 ➔ Tier 3,September,2026-09-01,19.0,24.0,+5.0,Tier 4,Tier 3,P20260318001,Tier Upgrade,Promoted
