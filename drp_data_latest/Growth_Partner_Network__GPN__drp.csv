@@ -1,7 +1,7 @@
 Pillar,Solution (Sales Play),Product,Tier 1 Profiles Count,Tier 2 Profiles Count,Total Tier 1 & 2 Profiles,Capacity Status (DRP vs Workloads)
-Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,🔴 Gap (0 DRP / 1 wkls)
+Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
-Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,🔴 Gap (0 DRP / 10 wkls)
+Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,🔴 Gap (0 DRP / 9 wkls)
 Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,🔴 Gap (0 DRP / 5 wkls)
 Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
@@ -33,5 +33,5 @@ Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Acti
 Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
 Security,Agentic Defense with Google Security,Security Command Center,,,,⚪ No Active Demand
 Security,Agentic Defense with Google Security,Security Operations,,,,⚪ No Active Demand
-Security,Secure Innovation with Google Cloud,Cloud Security,,,,🔴 Gap (0 DRP / 1 wkls)
+Security,Secure Innovation with Google Cloud,Cloud Security,,,,⚪ No Active Demand
 Workspace,Agentic Workplace Transformation,Workspace,,,,⚪ No Active Demand

@@ -4,9 +4,9 @@ Last Sync: 16 - Sep 2026 | Source: Concord BigQuery (Workload History & DRP Mast
 ,,,,,,,,,,,,,
 1. WORKLOAD GROWTH: STAGE ADVANCEMENTS (0-2 ➔ 3 & 3 ➔ 4.1),,,,,,,,,,,,,
 Stage Transition,July (#),July ($ ARR),August (#),August ($ ARR),September (#),September ($ ARR),Q3 Total (#),Q3 Total ($ ARR),Share of Moved Deals,Top Pillar,Avg Deal ARR,Velocity Momentum,Status
-Stage 0-2 ➔ Stage 3 (Co-Pilot & Develop),29,"$8,092,857.74",14,"$1,930,590.68",6,"$515,890.00",49,"$10,539,338.42",71.0%,Build with AI,"$215,088.54",Consistent,Active Progression
-Stage 3 ➔ Stage 4.1 (Build & Run / Delivery),8,"$3,045,288.00",10,"$1,328,805.44",2,"$129,500.00",20,"$4,503,593.44",29.0%,Build with AI,"$225,179.67",Consistent,Active Progression
-TOTAL WORKLOAD MOVEMENTS,37,"$11,138,145.74",24,"$3,259,396.12",8,"$645,390.00",69,"$15,042,931.86",100.0%,-,"$218,013.51",-,-
+Stage 0-2 ➔ Stage 3 (Co-Pilot & Develop),29,"$8,092,857.74",14,"$1,930,590.68",8,"$631,690.00",51,"$10,655,138.42",71.8%,Build with AI,"$208,924.28",Consistent,Active Progression
+Stage 3 ➔ Stage 4.1 (Build & Run / Delivery),8,"$3,045,288.00",10,"$1,328,805.44",2,"$129,500.00",20,"$4,503,593.44",28.2%,Build with AI,"$225,179.67",Consistent,Active Progression
+TOTAL WORKLOAD MOVEMENTS,37,"$11,138,145.74",24,"$3,259,396.12",10,"$761,190.00",71,"$15,158,731.86",100.0%,-,"$213,503.27",-,-
 ,,,,,,,,,,,,,
 ADVANCED WORKLOADS INVENTORY (Q3 STAGE MOVEMENTS DETAIL),,,,,,,,,,,,,
 Customer Account Name,Workload Name,Annual Gross Revenue (ARR USD),Stage Movement,Transition Month,Transition Date,Previous Progress,New Progress,Current Progress,Workload Owner,Primary Pillar,Opportunity Name,Partner ID,Status
@@ -77,6 +77,8 @@ Customer Account Name,Workload Name,Annual Gross Revenue (ARR USD),Stage Movemen
 "=HYPERLINK(""https://vector.corp.google.com/account/0014M00001hdOHuQAM"", ""Universidad Nacional de Colombia"")","=HYPERLINK(""https://vector.corp.google.com/workload/aBJKf0000082SKDOA2"", ""#M25- UNIVERSIDAD NACIONAL DE COLOMBIA - NB #GCP"")","$29,500.00",Stage 3 ➔ Stage 4.1,September,2026-09-07,3:  Proposal / Negotiation,4.1: Pre Ramp / Mobilize,Closed,Lauro Garcia,Storage,"=HYPERLINK(""https://vector.corp.google.com/opportunity/006Kf00000NFuP7IAL"", ""#M25- UNIVERSIDAD NACIONAL DE COLOMBIA - NB #GCP"")",0014M00001h3AyDQAU,Progressed
 "=HYPERLINK(""https://vector.corp.google.com/account/0014M00001k2pe5QAA"", ""Hurlingham National University"")","=HYPERLINK(""https://vector.corp.google.com/workload/aBJKf000009e9JzOAI"", ""UNHUR - CloudSQL"")","$24,000.00",Stage 0-2 ➔ Stage 3,September,2026-09-08,0-2: Tech Eval/Solution Dev,3:  Proposal / Negotiation,3:  Proposal / Negotiation,Agustin Passetti,Migrate and Modernize Databases,"=HYPERLINK(""https://vector.corp.google.com/opportunity/006Kf00000Olq0dIAB"", ""UNHUR - CloudSQL"")",0014M00001w6OZ3QAM,Progressed
 "=HYPERLINK(""https://vector.corp.google.com/account/0014M00001hSLPIQA4"", ""Grupo Cinemex, S.A. de C.V."")","=HYPERLINK(""https://vector.corp.google.com/workload/aBJKf000009kMvbOAE"", ""Apigee Servinformacion"")","$283,000.00",Stage 0-2 ➔ Stage 3,September,2026-09-09,0-2: Tech Eval/Solution Dev,3:  Proposal / Negotiation,3:  Proposal / Negotiation,Santiago Meza,Migrate and Modernize Databases,"=HYPERLINK(""https://vector.corp.google.com/opportunity/006Kf00000NMiJBIA1"", ""Cinemex - Flex Datalake & Apigee"")",0014M00002NSRhUQAX,Progressed
+"=HYPERLINK(""https://vector.corp.google.com/account/0014M00001hvHUGQA2"", ""Conservas La Costeña, S.A. de C.V."")","=HYPERLINK(""https://vector.corp.google.com/workload/aBJKf0000082QjuOAE"", ""GCP Infraestructura"")","$63,000.00",Stage 0-2 ➔ Stage 3,September,2026-09-14,0-2: Tech Eval/Solution Dev,3:  Proposal / Negotiation,3:  Proposal / Negotiation,Eduardo Bello,Migrate Modernize and Build,"=HYPERLINK(""https://vector.corp.google.com/opportunity/006Kf00000N5qc0IAB"", ""Commit La Costeña 2026"")",0014M00002NSRhUQAX,Progressed
+"=HYPERLINK(""https://vector.corp.google.com/account/0014M00001hvHUGQA2"", ""Conservas La Costeña, S.A. de C.V."")","=HYPERLINK(""https://vector.corp.google.com/workload/aBJKf000009WFKtOAO"", ""ISVs La Costeña"")","$52,800.00",Stage 0-2 ➔ Stage 3,September,2026-09-14,0-2: Tech Eval/Solution Dev,3:  Proposal / Negotiation,3:  Proposal / Negotiation,Eduardo Bello,Migrate Modernize and Build,"=HYPERLINK(""https://vector.corp.google.com/opportunity/006Kf00000N5qc0IAB"", ""Commit La Costeña 2026"")",0014M00002NSRhUQAX,Progressed
 "=HYPERLINK(""https://vector.corp.google.com/account/0014M00001hvHUGQA2"", ""Conservas La Costeña, S.A. de C.V."")","=HYPERLINK(""https://vector.corp.google.com/workload/aBJKf000009W7tROAS"", ""La Costeña - Gemini Enterprise | Renewal + Crecimiento"")","$52,500.00",Stage 0-2 ➔ Stage 3,September,2026-09-14,0-2: Tech Eval/Solution Dev,3:  Proposal / Negotiation,3:  Proposal / Negotiation,Eduardo Bello,Build with AI,"=HYPERLINK(""https://vector.corp.google.com/opportunity/006Kf00000LjTKCIA3"", ""La Costeña - Gemini Enterprise | Renewal + Crecimiento"")",0014M00002NSRhUQAX,Progressed
 "=HYPERLINK(""https://vector.corp.google.com/account/001Kf000015kisPIAQ"", ""Reinvent"")","=HYPERLINK(""https://vector.corp.google.com/workload/aBJKf000009WEt9OAG"", ""Reinvent- AWS to GCP"")","$10,000.00",Stage 0-2 ➔ Stage 3,September,2026-09-14,0-2: Tech Eval/Solution Dev,3:  Proposal / Negotiation,3:  Proposal / Negotiation,Richard Bucalem,Migrate Modernize and Build,"=HYPERLINK(""https://vector.corp.google.com/opportunity/006Kf00000PivO9IAJ"", ""Reinvent - Migração AWS para GCP"")",0014M0000277PE9QAM,Progressed
 ,,,,,,,,,,,,,
@@ -125,13 +127,13 @@ SERDMQPF0,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,J
 SERDMQPF0,Security,Cloud Security,Tier 4 ➔ Tier 3,July,2026-07-17,15.0,20.0,+5.0,Tier 4,Tier 3,P20220602053,Tier Upgrade,Promoted
 SERSEYNP5,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 3 ➔ Tier 2,July,2026-07-22,32.0,37.0,+5.0,Tier 3,Tier 2,P20220602053,Tier Upgrade,Promoted
 SERDMOCS2,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,July,2026-07-28,32.0,37.0,+5.0,Tier 3,Tier 2,P20220602053,Tier Upgrade,Promoted
-SERNGCKP5,Artificial Intelligence,AI Applications,Tier 4 ➔ Tier 3,July,2026-07-29,17.0,22.0,+5.0,Tier 4,Tier 3,P20220602053,Tier Upgrade,Promoted
 SERCGHXO8,Artificial Intelligence,Gemini Enterprise for Customer Experience,Tier 4 ➔ Tier 3,July,2026-07-29,19.0,24.0,+5.0,Tier 4,Tier 3,P20220602053,Tier Upgrade,Promoted
 SERFTMKY3,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 3 ➔ Tier 2,July,2026-07-29,34.0,44.0,+10.0,Tier 3,Tier 2,P20220602053,Tier Upgrade,Promoted
-SERNGCKP5,Data & Analytics,Dataproc,Tier 4 ➔ Tier 3,July,2026-07-29,12.0,22.0,+10.0,Tier 4,Tier 3,P20220602053,Tier Upgrade,Promoted
-SERMCDBP5,Data & Analytics,Dataflow,Tier 4 ➔ Tier 3,July,2026-07-29,14.0,24.0,+10.0,Tier 4,Tier 3,P20220602053,Tier Upgrade,Promoted
-SERNGCKP5,Data & Analytics,Dataflow,Tier 4 ➔ Tier 3,July,2026-07-29,17.0,27.0,+10.0,Tier 4,Tier 3,P20220602053,Tier Upgrade,Promoted
+SERNGCKP5,Artificial Intelligence,AI Applications,Tier 4 ➔ Tier 3,July,2026-07-29,17.0,22.0,+5.0,Tier 4,Tier 3,P20220602053,Tier Upgrade,Promoted
 SERMCDBP5,Data & Analytics,BigQuery,Tier 3 ➔ Tier 2,July,2026-07-29,34.0,39.0,+5.0,Tier 3,Tier 2,P20220602053,Tier Upgrade,Promoted
+SERNGCKP5,Data & Analytics,Dataproc,Tier 4 ➔ Tier 3,July,2026-07-29,12.0,22.0,+10.0,Tier 4,Tier 3,P20220602053,Tier Upgrade,Promoted
+SERNGCKP5,Data & Analytics,Dataflow,Tier 4 ➔ Tier 3,July,2026-07-29,17.0,27.0,+10.0,Tier 4,Tier 3,P20220602053,Tier Upgrade,Promoted
+SERMCDBP5,Data & Analytics,Dataflow,Tier 4 ➔ Tier 3,July,2026-07-29,14.0,24.0,+10.0,Tier 4,Tier 3,P20220602053,Tier Upgrade,Promoted
 SERARWDT9,Infrastructure Modernization,Oracle,Tier 4 ➔ Tier 3,August,2026-08-01,18.0,23.0,+5.0,Tier 4,Tier 3,P20220602053,Tier Upgrade,Promoted
 SERDTMCN2,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,August,2026-08-21,16.0,21.0,+5.0,Tier 4,Tier 3,P20220602053,Tier Upgrade,Promoted
 SERJASDT6,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 2 ➔ Tier 1,August,2026-08-25,42.0,52.0,+10.0,Tier 2,Tier 1,P20220602053,Tier Upgrade,Promoted
@@ -140,8 +142,8 @@ SERAAKCE5,Artificial Intelligence,GECX - CX Insights,Tier 3 ➔ Tier 2,September
 SERCGHXO8,Artificial Intelligence,GECX - CX Agent Studio,Tier 4 ➔ Tier 3,September,2026-09-01,14.0,24.0,+10.0,Tier 4,Tier 3,P20220602053,Tier Upgrade,Promoted
 SERBGYNF7,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,September,2026-09-06,15.0,25.0,+10.0,Tier 4,Tier 3,P20220602053,Tier Upgrade,Promoted
 SERMJJHO4,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,September,2026-09-10,17.0,24.0,+7.0,Tier 4,Tier 3,P20220602053,Tier Upgrade,Promoted
-SERMJJHO4,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,September,2026-09-10,17.0,29.0,+12.0,Tier 4,Tier 3,P20220602053,Tier Upgrade,Promoted
 SERMOVAG2,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,September,2026-09-10,12.0,22.0,+10.0,Tier 4,Tier 3,P20220602053,Tier Upgrade,Promoted
+SERMJJHO4,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,September,2026-09-10,17.0,29.0,+12.0,Tier 4,Tier 3,P20220602053,Tier Upgrade,Promoted
 SERMJJHO4,Databases,Cloud SQL,Tier 4 ➔ Tier 3,September,2026-09-10,17.0,29.0,+12.0,Tier 4,Tier 3,P20220602053,Tier Upgrade,Promoted
 SERMJJHO4,Infrastructure Modernization,Google Distributed Cloud,Tier 4 ➔ Tier 3,September,2026-09-10,17.0,24.0,+7.0,Tier 4,Tier 3,P20220602053,Tier Upgrade,Promoted
 SERMJJHO4,Infrastructure Modernization,Google Cloud VMware Engine,Tier 4 ➔ Tier 3,September,2026-09-10,17.0,24.0,+7.0,Tier 4,Tier 3,P20220602053,Tier Upgrade,Promoted

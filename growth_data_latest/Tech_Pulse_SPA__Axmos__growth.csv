@@ -47,8 +47,8 @@ Profile ID,Practice Area,Product,Tier Movement,Transition Month,Transition Date,
 KOCGHQVY3,Application Modernization,Google Kubernetes Engine,Tier 3 ➔ Tier 2,July,2026-07-01,34.0,39.0,+5.0,Tier 3,Tier 2,P20260318001,Tier Upgrade,Promoted
 KOCDJKPN5,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-12,10.0,20.0,+10.0,Tier 4,Tier 3,P20260318001,Tier Upgrade,Promoted
 KOCDJKPN5,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-12,10.0,20.0,+10.0,Tier 4,Tier 3,P20260318001,Tier Upgrade,Promoted
-KOCRMQGP0,Application Modernization,Apigee API Management,Tier 4 ➔ Tier 3,July,2026-07-22,15.0,20.0,+5.0,Tier 4,Tier 3,P20260318001,Tier Upgrade,Promoted
 KOCRMQGP0,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-22,15.0,25.0,+10.0,Tier 4,Tier 3,P20260318001,Tier Upgrade,Promoted
+KOCRMQGP0,Application Modernization,Apigee API Management,Tier 4 ➔ Tier 3,July,2026-07-22,15.0,20.0,+5.0,Tier 4,Tier 3,P20260318001,Tier Upgrade,Promoted
 KOCMBMWO1,Databases,Cloud SQL,Tier 4 ➔ Tier 3,July,2026-07-22,15.0,20.0,+5.0,Tier 4,Tier 3,P20260318001,Tier Upgrade,Promoted
 KOCMBMWO1,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-22,10.0,20.0,+10.0,Tier 4,Tier 3,P20260318001,Tier Upgrade,Promoted
 KOCDMBUC0,Workspace,Workspace,Tier 3 ➔ Tier 2,July,2026-07-23,30.0,40.0,+10.0,Tier 3,Tier 2,P20260318001,Tier Upgrade,Promoted

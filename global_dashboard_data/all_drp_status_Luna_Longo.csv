@@ -2,14 +2,14 @@ Partner Name,Pillar,Solution (Sales Play),Product,Tier 1 Profiles Count,Tier 2 P
 Abacus Cambridge Partners,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 Abacus Cambridge Partners,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
 Abacus Cambridge Partners,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,3,1,4,🟢 Ready (4 DRP / 3 wkls)
-Abacus Cambridge Partners,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,2,2,🟡 Constrained (2 DRP / 4 wkls)
+Abacus Cambridge Partners,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,2,2,🟡 Constrained (2 DRP / 3 wkls)
 Abacus Cambridge Partners,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 Abacus Cambridge Partners,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 Abacus Cambridge Partners,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
 Abacus Cambridge Partners,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
-Abacus Cambridge Partners,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 3 wkls)
+Abacus Cambridge Partners,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 2 wkls)
 Abacus Cambridge Partners,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
-Abacus Cambridge Partners,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,🔴 Gap (0 DRP / 5 wkls)
+Abacus Cambridge Partners,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,🔴 Gap (0 DRP / 4 wkls)
 Abacus Cambridge Partners,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
 Abacus Cambridge Partners,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
 Abacus Cambridge Partners,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,,🔴 Gap (0 DRP / 1 wkls)
@@ -38,12 +38,12 @@ Abacus Cambridge Partners,Workspace,Agentic Workplace Transformation,Workspace,,
 Gentrop Cloud Brasil,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 Gentrop Cloud Brasil,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
 Gentrop Cloud Brasil,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,🔴 Gap (0 DRP / 3 wkls)
-Gentrop Cloud Brasil,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,1,1,🟡 Constrained (1 DRP / 48 wkls)
+Gentrop Cloud Brasil,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,1,1,🟡 Constrained (1 DRP / 45 wkls)
 Gentrop Cloud Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 Gentrop Cloud Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 Gentrop Cloud Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,🔴 Gap (0 DRP / 2 wkls)
 Gentrop Cloud Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
-Gentrop Cloud Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,2,2,🟡 Constrained (2 DRP / 4 wkls)
+Gentrop Cloud Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,2,2,🟡 Constrained (2 DRP / 3 wkls)
 Gentrop Cloud Brasil,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,2,2,🟢 Ready (2 profiles)
 Gentrop Cloud Brasil,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,🔴 Gap (0 DRP / 12 wkls)
 Gentrop Cloud Brasil,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,2,2,🟢 Ready (2 profiles)
@@ -74,7 +74,7 @@ Gentrop Cloud Brasil,Workspace,Agentic Workplace Transformation,Workspace,23,9,3
 QiNetwork,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,1,1,🟢 Ready (1 profiles)
 QiNetwork,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,1,1,🟢 Ready (1 profiles)
 QiNetwork,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,2,2,🟡 Constrained (2 DRP / 14 wkls)
-QiNetwork,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,5,3,8,🟡 Constrained (8 DRP / 13 wkls)
+QiNetwork,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,5,3,8,🟡 Constrained (8 DRP / 12 wkls)
 QiNetwork,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 QiNetwork,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 QiNetwork,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,🔴 Gap (0 DRP / 2 wkls)
@@ -106,21 +106,21 @@ QiNetwork,Security,Agentic Defense with Google Security,Google Threat Intelligen
 QiNetwork,Security,Agentic Defense with Google Security,Security Command Center,,1,1,🟢 Ready (1 profiles)
 QiNetwork,Security,Agentic Defense with Google Security,Security Operations,,1,1,🟢 Ready (1 profiles)
 QiNetwork,Security,Secure Innovation with Google Cloud,Cloud Security,1,2,3,🟢 Ready (3 profiles)
-QiNetwork,Workspace,Agentic Workplace Transformation,Workspace,7,2,9,🟢 Ready (9 DRP / 1 wkls)
+QiNetwork,Workspace,Agentic Workplace Transformation,Workspace,7,2,9,🟢 Ready (9 profiles)
 Safetec Informática,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 Safetec Informática,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
 Safetec Informática,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,2,2,🟢 Ready (2 DRP / 1 wkls)
-Safetec Informática,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,2,6,8,🟡 Constrained (8 DRP / 10 wkls)
+Safetec Informática,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,2,6,8,🟢 Ready (8 DRP / 8 wkls)
 Safetec Informática,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 Safetec Informática,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 Safetec Informática,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
 Safetec Informática,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
-Safetec Informática,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,6,6,🟡 Constrained (6 DRP / 7 wkls)
+Safetec Informática,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,6,6,🟢 Ready (6 DRP / 4 wkls)
 Safetec Informática,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,6,6,🟢 Ready (6 profiles)
 Safetec Informática,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,🔴 Gap (0 DRP / 3 wkls)
 Safetec Informática,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,6,6,🟢 Ready (6 profiles)
 Safetec Informática,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,6,6,🟢 Ready (6 profiles)
-Safetec Informática,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,,🔴 Gap (0 DRP / 1 wkls)
+Safetec Informática,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,,⚪ No Active Demand
 Safetec Informática,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,2,2,🟢 Ready (2 profiles)
 Safetec Informática,Data & Analytics,The AI Ready Data Cloud,BigQuery,,,,⚪ No Active Demand
 Safetec Informática,Data & Analytics,The AI Ready Data Cloud,Dataflow,,2,2,🟢 Ready (2 profiles)
@@ -133,7 +133,7 @@ Safetec Informática,Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,,
 Safetec Informática,Databases,The AI Ready Data Cloud,Cloud SQL,,,,⚪ No Active Demand
 Safetec Informática,Databases,The AI Ready Data Cloud,Spanner,,,,⚪ No Active Demand
 Safetec Informática,Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,,,⚪ No Active Demand
-Safetec Informática,Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,,,🔴 Gap (0 DRP / 1 wkls)
+Safetec Informática,Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,,,⚪ No Active Demand
 Safetec Informática,Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,,,⚪ No Active Demand
 Safetec Informática,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,,,,⚪ No Active Demand
 Safetec Informática,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,,,,🔴 Gap (0 DRP / 1 wkls)
@@ -145,18 +145,18 @@ Safetec Informática,Security,Secure Innovation with Google Cloud,Cloud Security
 Safetec Informática,Workspace,Agentic Workplace Transformation,Workspace,13,,13,🟢 Ready (13 profiles)
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Application Modernization,"Migrate, Modernize and Build",Cloud Run,1,,1,🟢 Ready (1 profiles)
-VPN Soluçoes em TI LTDA (Venha para Nuvem),Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,3,2,5,🟡 Constrained (5 DRP / 7 wkls)
-VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,1,1,🟡 Constrained (1 DRP / 21 wkls)
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,3,2,5,🟡 Constrained (5 DRP / 6 wkls)
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,1,1,🟡 Constrained (1 DRP / 20 wkls)
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
-VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 9 wkls)
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 8 wkls)
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
-VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Scale AI Apps and Agents,AI Applications,1,1,2,🟡 Constrained (2 DRP / 15 wkls)
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Scale AI Apps and Agents,AI Applications,1,1,2,🟡 Constrained (2 DRP / 14 wkls)
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
-VPN Soluçoes em TI LTDA (Venha para Nuvem),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,,🔴 Gap (0 DRP / 8 wkls)
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,,🔴 Gap (0 DRP / 7 wkls)
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,1,,1,🟢 Ready (1 profiles)
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Data & Analytics,The AI Ready Data Cloud,BigQuery,,,,⚪ No Active Demand
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Data & Analytics,The AI Ready Data Cloud,Dataflow,1,,1,🟢 Ready (1 profiles)

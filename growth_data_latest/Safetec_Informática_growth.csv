@@ -43,11 +43,11 @@ TOTAL,-,15,13,2,30,19,2,9,12,-,-,-,-
 ,,,,,,,,,,,,,
 PRACTITIONER PROFILES PROGRESSION DETAIL (INDIVIDUAL LEVEL TRANSITIONS),,,,,,,,,,,,,
 Profile ID,Practice Area,Product,Tier Movement,Transition Month,Transition Date,Previous Score,New Score,Score Delta,Previous Tier,New Tier,DRP Partner Key,Promotion Type,Status
-SAFIACAM7,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,July,2026-07-01,13.0,33.0,+20.0,Tier 4,Tier 3,P20220923269,Tier Upgrade,Promoted
 SAFFFANP8,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,July,2026-07-01,19.0,34.0,+15.0,Tier 4,Tier 3,P20220923269,Tier Upgrade,Promoted
 SAFIACAM7,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,July,2026-07-01,13.0,33.0,+20.0,Tier 4,Tier 3,P20220923269,Tier Upgrade,Promoted
-SAFMSESH5,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 3 ➔ Tier 2,July,2026-07-02,27.0,37.0,+10.0,Tier 3,Tier 2,P20220923269,Tier Upgrade,Promoted
+SAFIACAM7,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,July,2026-07-01,13.0,33.0,+20.0,Tier 4,Tier 3,P20220923269,Tier Upgrade,Promoted
 SAFDFIYW6,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 3 ➔ Tier 2,July,2026-07-02,34.0,49.0,+15.0,Tier 3,Tier 2,P20220923269,Tier Upgrade,Promoted
+SAFMSESH5,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 3 ➔ Tier 2,July,2026-07-02,27.0,37.0,+10.0,Tier 3,Tier 2,P20220923269,Tier Upgrade,Promoted
 SAFFFANP8,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,July,2026-07-02,19.0,29.0,+10.0,Tier 4,Tier 3,P20220923269,Tier Upgrade,Promoted
 SAFFFANP8,Artificial Intelligence,Gemini Enterprise,Tier 3 ➔ Tier 2,July,2026-07-09,34.0,39.0,+5.0,Tier 3,Tier 2,P20220923269,Tier Upgrade,Promoted
 SAFFFANP8,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 3 ➔ Tier 2,July,2026-07-11,34.0,49.0,+15.0,Tier 3,Tier 2,P20220923269,Tier Upgrade,Promoted
@@ -57,19 +57,19 @@ SAFMCPZI5,Artificial Intelligence,Gemini Enterprise,Tier 3 ➔ Tier 2,July,2026-
 SAFVCGFA3,Artificial Intelligence,Gemini Enterprise,Tier 3 ➔ Tier 2,July,2026-07-27,32.0,47.0,+15.0,Tier 3,Tier 2,P20220923269,Tier Upgrade,Promoted
 SAFVCGFA3,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,July,2026-07-27,12.0,22.0,+10.0,Tier 4,Tier 3,P20220923269,Tier Upgrade,Promoted
 SAFRDCVH6,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 3 ➔ Tier 2,July,2026-07-28,34.0,39.0,+5.0,Tier 3,Tier 2,P20220923269,Tier Upgrade,Promoted
-SAFIACAM7,Data & Analytics,Dataflow,Tier 4 ➔ Tier 3,July,2026-07-28,13.0,23.0,+10.0,Tier 4,Tier 3,P20220923269,Tier Upgrade,Promoted
 SAFIACAM7,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,July,2026-07-28,18.0,23.0,+5.0,Tier 4,Tier 3,P20220923269,Tier Upgrade,Promoted
+SAFIACAM7,Data & Analytics,Dataflow,Tier 4 ➔ Tier 3,July,2026-07-28,13.0,23.0,+10.0,Tier 4,Tier 3,P20220923269,Tier Upgrade,Promoted
 SAFBGIAD9,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,July,2026-07-29,15.0,20.0,+5.0,Tier 4,Tier 3,P20220923269,Tier Upgrade,Promoted
 SAFIACAM7,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-29,18.0,23.0,+5.0,Tier 4,Tier 3,P20220923269,Tier Upgrade,Promoted
 SAFKSFTT5,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,July,2026-07-30,15.0,30.0,+15.0,Tier 4,Tier 3,P20220923269,Tier Upgrade,Promoted
 SAFRDCVH6,Artificial Intelligence,Gemini Enterprise,Tier 3 ➔ Tier 2,August,2026-08-06,34.0,39.0,+5.0,Tier 3,Tier 2,P20220923269,Tier Upgrade,Promoted
 SAFRDCVH6,Workspace,Workspace,Tier 4 ➔ Tier 3,August,2026-08-07,19.0,24.0,+5.0,Tier 4,Tier 3,P20220923269,Tier Upgrade,Promoted
-SAFMSESH5,Artificial Intelligence,Gemini Enterprise,Tier 2 ➔ Tier 1,September,2026-09-01,47.0,52.0,+5.0,Tier 2,Tier 1,P20220923269,Tier Upgrade,Promoted
-SAFIACAM7,Artificial Intelligence,Gemini Enterprise,Tier 3 ➔ Tier 2,September,2026-09-01,33.0,38.0,+5.0,Tier 3,Tier 2,P20220923269,Tier Upgrade,Promoted
 SAFRDCVH6,Artificial Intelligence,Gemini Enterprise,Tier 2 ➔ Tier 1,September,2026-09-01,49.0,54.0,+5.0,Tier 2,Tier 1,P20220923269,Tier Upgrade,Promoted
+SAFMSESH5,Artificial Intelligence,Gemini Enterprise,Tier 2 ➔ Tier 1,September,2026-09-01,47.0,52.0,+5.0,Tier 2,Tier 1,P20220923269,Tier Upgrade,Promoted
 SAFIACAM7,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 3 ➔ Tier 2,September,2026-09-01,33.0,38.0,+5.0,Tier 3,Tier 2,P20220923269,Tier Upgrade,Promoted
+SAFIACAM7,Artificial Intelligence,Gemini Enterprise,Tier 3 ➔ Tier 2,September,2026-09-01,33.0,38.0,+5.0,Tier 3,Tier 2,P20220923269,Tier Upgrade,Promoted
 SAFRDCVH6,Security,Security Command Center,Tier 4 ➔ Tier 3,September,2026-09-01,19.0,24.0,+5.0,Tier 4,Tier 3,P20220923269,Tier Upgrade,Promoted
 SAFGCRLI3,Workspace,Workspace,Tier 4 ➔ Tier 3,September,2026-09-01,15.0,20.0,+5.0,Tier 4,Tier 3,P20220923269,Tier Upgrade,Promoted
 SAFTGVVB8,Workspace,Workspace,Tier 4 ➔ Tier 3,September,2026-09-10,15.0,20.0,+5.0,Tier 4,Tier 3,P20220923269,Tier Upgrade,Promoted
-SAFCNAYU2,Artificial Intelligence,Gemini Enterprise,Tier 3 ➔ Tier 2,September,2026-09-15,30.0,45.0,+15.0,Tier 3,Tier 2,P20220923269,Tier Upgrade,Promoted
 SAFCNAYU2,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 3 ➔ Tier 2,September,2026-09-15,30.0,35.0,+5.0,Tier 3,Tier 2,P20220923269,Tier Upgrade,Promoted
+SAFCNAYU2,Artificial Intelligence,Gemini Enterprise,Tier 3 ➔ Tier 2,September,2026-09-15,30.0,45.0,+15.0,Tier 3,Tier 2,P20220923269,Tier Upgrade,Promoted

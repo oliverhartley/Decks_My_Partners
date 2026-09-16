@@ -2,17 +2,17 @@ Pillar,Solution (Sales Play),Product,Tier 1 Profiles Count,Tier 2 Profiles Count
 Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
 Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,2,2,🟢 Ready (2 DRP / 1 wkls)
-Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,2,6,8,🟡 Constrained (8 DRP / 10 wkls)
+Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,2,6,8,🟢 Ready (8 DRP / 8 wkls)
 Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
 Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
-Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,6,6,🟡 Constrained (6 DRP / 7 wkls)
+Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,6,6,🟢 Ready (6 DRP / 4 wkls)
 Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,6,6,🟢 Ready (6 profiles)
 Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,🔴 Gap (0 DRP / 3 wkls)
 Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,6,6,🟢 Ready (6 profiles)
 Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,6,6,🟢 Ready (6 profiles)
-Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,,🔴 Gap (0 DRP / 1 wkls)
+Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,,⚪ No Active Demand
 Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,2,2,🟢 Ready (2 profiles)
 Data & Analytics,The AI Ready Data Cloud,BigQuery,,,,⚪ No Active Demand
 Data & Analytics,The AI Ready Data Cloud,Dataflow,,2,2,🟢 Ready (2 profiles)
@@ -25,7 +25,7 @@ Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,,,⚪ No Active Demand
 Databases,The AI Ready Data Cloud,Cloud SQL,,,,⚪ No Active Demand
 Databases,The AI Ready Data Cloud,Spanner,,,,⚪ No Active Demand
 Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,,,⚪ No Active Demand
-Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,,,🔴 Gap (0 DRP / 1 wkls)
+Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,,,⚪ No Active Demand
 Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,,,⚪ No Active Demand
 Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,,,,⚪ No Active Demand
 Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,,,,🔴 Gap (0 DRP / 1 wkls)

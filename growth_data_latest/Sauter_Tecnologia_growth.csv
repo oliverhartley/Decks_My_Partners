@@ -4,9 +4,9 @@ Last Sync: 16 - Sep 2026 | Source: Concord BigQuery (Workload History & DRP Mast
 ,,,,,,,,,,,,,
 1. WORKLOAD GROWTH: STAGE ADVANCEMENTS (0-2 ➔ 3 & 3 ➔ 4.1),,,,,,,,,,,,,
 Stage Transition,July (#),July ($ ARR),August (#),August ($ ARR),September (#),September ($ ARR),Q3 Total (#),Q3 Total ($ ARR),Share of Moved Deals,Top Pillar,Avg Deal ARR,Velocity Momentum,Status
-Stage 0-2 ➔ Stage 3 (Co-Pilot & Develop),5,"$1,302,456.04",6,"$1,819,297.40",2,"$560,000.00",13,"$3,681,753.44",52.0%,Analytics,"$283,211.80",Consistent,Active Progression
-Stage 3 ➔ Stage 4.1 (Build & Run / Delivery),5,"$879,501.64",4,"$1,912,299.04",3,"$760,000.00",12,"$3,551,800.68",48.0%,Analytics,"$295,983.39",Consistent,Active Progression
-TOTAL WORKLOAD MOVEMENTS,10,"$2,181,957.68",10,"$3,731,596.44",5,"$1,320,000.00",25,"$7,233,554.12",100.0%,-,"$289,342.16",-,-
+Stage 0-2 ➔ Stage 3 (Co-Pilot & Develop),5,"$1,302,456.04",6,"$1,819,297.40",3,"$680,000.00",14,"$3,801,753.44",53.8%,Analytics,"$271,553.82",Consistent,Active Progression
+Stage 3 ➔ Stage 4.1 (Build & Run / Delivery),5,"$879,501.64",4,"$1,912,299.04",3,"$760,000.00",12,"$3,551,800.68",46.2%,Analytics,"$295,983.39",Consistent,Active Progression
+TOTAL WORKLOAD MOVEMENTS,10,"$2,181,957.68",10,"$3,731,596.44",6,"$1,440,000.00",26,"$7,353,554.12",100.0%,-,"$282,829.00",-,-
 ,,,,,,,,,,,,,
 ADVANCED WORKLOADS INVENTORY (Q3 STAGE MOVEMENTS DETAIL),,,,,,,,,,,,,
 Customer Account Name,Workload Name,Annual Gross Revenue (ARR USD),Stage Movement,Transition Month,Transition Date,Previous Progress,New Progress,Current Progress,Workload Owner,Primary Pillar,Opportunity Name,Partner ID,Status
@@ -35,6 +35,7 @@ Customer Account Name,Workload Name,Annual Gross Revenue (ARR USD),Stage Movemen
 "=HYPERLINK(""https://vector.corp.google.com/account/001Kf000016lhtyIAA"", ""COMETA GAMES - COMERCIO & SERVICOS LTDA"")","=HYPERLINK(""https://vector.corp.google.com/workload/aBJKf000009eTB2OAM"", ""Cometa Gaming_DB_CloudSQL/Alloy"")","$200,000.00",Stage 3 ➔ Stage 4.1,September,2026-09-10,3:  Proposal / Negotiation,4.1: Pre Ramp / Mobilize,4.2: Ramping / Deliver,Raphael Nogueira,Migrate and Modernize Databases,"=HYPERLINK(""https://vector.corp.google.com/opportunity/006Kf00000OrWlqIAF"", ""Cometa Gaming - #Commit - #AWSMigration - #ModernEA+RaMP"")",0014M00001mnmgxQAA,Progressed
 "=HYPERLINK(""https://vector.corp.google.com/account/0014M00001hq7orQAA"", ""Banco Pine S/A"")","=HYPERLINK(""https://vector.corp.google.com/workload/aBJKf000009eUhdOAE"", ""Pine_Storage"")","$60,000.00",Stage 0-2 ➔ Stage 3,September,2026-09-10,0-2: Tech Eval/Solution Dev,3:  Proposal / Negotiation,4.1: Pre Ramp / Mobilize,Renata Taglianetti,Storage,"=HYPERLINK(""https://vector.corp.google.com/opportunity/006Kf00000N4aNbIAJ"", ""Banco Pine - Storage"")",0014M00001mnmgxQAA,Progressed
 "=HYPERLINK(""https://vector.corp.google.com/account/0014M00001hq7orQAA"", ""Banco Pine S/A"")","=HYPERLINK(""https://vector.corp.google.com/workload/aBJKf000009eUhdOAE"", ""Pine_Storage"")","$60,000.00",Stage 3 ➔ Stage 4.1,September,2026-09-10,3:  Proposal / Negotiation,4.1: Pre Ramp / Mobilize,4.1: Pre Ramp / Mobilize,Renata Taglianetti,Storage,"=HYPERLINK(""https://vector.corp.google.com/opportunity/006Kf00000N4aNbIAJ"", ""Banco Pine - Storage"")",0014M00001mnmgxQAA,Progressed
+"=HYPERLINK(""https://vector.corp.google.com/account/0014M00002JmhYaQAJ"", ""Lend Tech"")","=HYPERLINK(""https://vector.corp.google.com/workload/aBJKf000009kMUQOA2"", ""Lend - Sauter - AlloyDB"")","$120,000.00",Stage 0-2 ➔ Stage 3,September,2026-09-14,0-2: Tech Eval/Solution Dev,3:  Proposal / Negotiation,3:  Proposal / Negotiation,Pedro Britto,Migrate and Modernize Databases,"=HYPERLINK(""https://vector.corp.google.com/opportunity/006Kf00000Pj5CyIAJ"", ""Lend Tech - Sauter - Commit"")",0014M00001mnmgxQAA,Progressed
 ,,,,,,,,,,,,,
 "2. DRP GROWTH: PRACTITIONER TIER PROMOTIONS (T4➔T3, T3➔T2, T2➔T1)",,,,,,,,,,,,,
 Tier Transition,July Upgrades,August Upgrades,September Upgrades,Q3 Total Upgrades,Unique Profiles,July % Share,August % Share,September % Share,Top Practice Area,Top Product,Growth Velocity,DRP Partner Key,Status
@@ -65,8 +66,8 @@ SAUATUKY9,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3
 SAUATUKY9,Security,Security Command Center,Tier 3 ➔ Tier 2,July,2026-07-20,30.0,35.0,+5.0,Tier 3,Tier 2,P20220602086,Tier Upgrade,Promoted
 SAUWHYCT4,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-22,19.0,24.0,+5.0,Tier 4,Tier 3,P20220602086,Tier Upgrade,Promoted
 SAUPNJQX7,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-23,10.0,20.0,+10.0,Tier 4,Tier 3,P20220602086,Tier Upgrade,Promoted
-SAUPNJQX7,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-23,10.0,20.0,+10.0,Tier 4,Tier 3,P20220602086,Tier Upgrade,Promoted
 SAUPNJQX7,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,July,2026-07-23,15.0,25.0,+10.0,Tier 4,Tier 3,P20220602086,Tier Upgrade,Promoted
+SAUPNJQX7,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-23,10.0,20.0,+10.0,Tier 4,Tier 3,P20220602086,Tier Upgrade,Promoted
 SAUPNJQX7,Security,Cloud Security,Tier 4 ➔ Tier 3,July,2026-07-23,10.0,20.0,+10.0,Tier 4,Tier 3,P20220602086,Tier Upgrade,Promoted
 SAUADXHQ2,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,July,2026-07-28,16.0,26.0,+10.0,Tier 4,Tier 3,P20220602086,Tier Upgrade,Promoted
 SAUHJUUM6,Infrastructure Modernization,Google Cloud Networking,Tier 3 ➔ Tier 2,August,2026-08-03,30.0,35.0,+5.0,Tier 3,Tier 2,P20220602086,Tier Upgrade,Promoted
