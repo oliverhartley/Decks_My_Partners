@@ -91,14 +91,11 @@ def main(workers=3, commit=False):
     phase2_time = time.time() - phase2_start
     print(f"\n✓ Phase 2 complete in {phase2_time/60:.1f} minutes.")
 
-    # 3. Phase 3: Refresh Fernando Laguna PE Dashboard (for co-managed partners) & Global Dashboard
+    # 3. Phase 3: Consolidate Global Dashboard
     print(f"\n========================================================")
     print(f"PHASE 3: Consolidating Global Dashboard")
     print(f"========================================================")
     phase3_start = time.time()
-    print("  -> Refreshing Fernando Laguna PE Dashboard (co-managed partners)...")
-    subprocess.run([sys.executable, "update_all_partner_decks.py", "--pe-dashboard-only", "Fernando Laguna"], capture_output=True)
-
     print("  -> Consolidating and updating Global Management Dashboard...")
     g_res = subprocess.run([sys.executable, "update_all_partner_decks.py", "--global-only"], capture_output=True, text=True)
     if g_res.returncode == 0:
