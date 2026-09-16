@@ -1,6 +1,6 @@
 PARTNER GROWTH & VELOCITY: WORKLOAD STAGE PROGRESSION & DRP CAPABILITY,,,,,,,,,,,,,
 "Partner: Kyndryl Brasil | Partner Engineer: Thiago da Ponte | Scope: Q3 2026 (July, August, September)",,,,,,,,,,,,,
-Last Sync: 15 - Sep 2026 | Source: Concord BigQuery (Workload History & DRP Master) | Unified 14-Col Schema,,,,,,,,,,,,,
+Last Sync: 16 - Sep 2026 | Source: Concord BigQuery (Workload History & DRP Master) | Unified 14-Col Schema,,,,,,,,,,,,,
 ,,,,,,,,,,,,,
 1. WORKLOAD GROWTH: STAGE ADVANCEMENTS (0-2 ➔ 3 & 3 ➔ 4.1),,,,,,,,,,,,,
 Stage Transition,July (#),July ($ ARR),August (#),August ($ ARR),September (#),September ($ ARR),Q3 Total (#),Q3 Total ($ ARR),Share of Moved Deals,Top Pillar,Avg Deal ARR,Velocity Momentum,Status
@@ -20,7 +20,7 @@ Customer Account Name,Workload Name,Annual Gross Revenue (ARR USD),Stage Movemen
 "=HYPERLINK(""https://vector.corp.google.com/account/0014M00001hNkiPQAS"", ""Aché Laboratórios Farmacêuticos S/A"")","=HYPERLINK(""https://vector.corp.google.com/workload/aBJKf000009tWWLOA2"", ""[Ache] DC Migration 250VMs"")","$800,000.00",Stage 0-2 ➔ Stage 3,July,2026-07-13,0-2: Tech Eval/Solution Dev,3:  Proposal / Negotiation,3:  Proposal / Negotiation,Alexandre Kota,Migrate Modernize and Build,"=HYPERLINK(""https://vector.corp.google.com/opportunity/006Kf00000NSLKfIAP"", ""[Ache] DC Migration - 250VMs + SAP RISE"")",0014M00001yTraMQAS,Progressed
 "=HYPERLINK(""https://vector.corp.google.com/account/0014M00001hcBNAQA2"", ""Ferreycorp S.A.A."")","=HYPERLINK(""https://vector.corp.google.com/workload/aBJKf000009ss5EOAQ"", ""Azure Exit - Infra"")","$20,000.00",Stage 3 ➔ Stage 4.1,July,2026-07-14,3:  Proposal / Negotiation,4.1: Pre Ramp / Mobilize,4.3: Migrated/Implemented,Daniela Ramirez-Gaston Vizcarra,Migrate Modernize and Build,"=HYPERLINK(""https://vector.corp.google.com/opportunity/006Kf00000NzK5fIAF"", ""Ferreyros - Commit renewal - 200K"")",0014M000027zF5oQAE,Progressed
 "=HYPERLINK(""https://vector.corp.google.com/account/001Kf00001EMXedIAH"", ""Gasngo Mexico"")","=HYPERLINK(""https://vector.corp.google.com/workload/aBJKf000009olfMOAQ"", ""Kndryl - Infra Mod"")","$500,000.00",Stage 3 ➔ Stage 4.1,July,2026-07-16,3:  Proposal / Negotiation,4.1: Pre Ramp / Mobilize,4.1: Pre Ramp / Mobilize,Santiago Meza,Migrate Modernize and Build,"=HYPERLINK(""https://vector.corp.google.com/opportunity/006Kf00000LkcsqIAB"", ""GASNGO EA"")",0014M00001yTakKQAS,Progressed
-"=HYPERLINK(""https://vector.corp.google.com/account/0014M00001hredbQAA"", ""Grupo Financiero Banorte, S.A.B. de C.V."")","=HYPERLINK(""https://vector.corp.google.com/workload/aBJKf000009ePM1OAM"", ""[BANCO] [RM] GCVE SON"")","$150,000.00",Stage 0-2 ➔ Stage 3,July,2026-07-31,0-2: Tech Eval/Solution Dev,3:  Proposal / Negotiation,3:  Proposal / Negotiation,Victor Domínguez,Migrate Modernize and Build,"=HYPERLINK(""https://vector.corp.google.com/opportunity/006Kf00000OrCcuIAF"", ""Banorte - GCVE Nodos Storage"")",0014M00001yTakKQAS,Progressed
+"=HYPERLINK(""https://vector.corp.google.com/account/0014M00001hredbQAA"", ""Grupo Financiero Banorte, S.A.B. de C.V."")","=HYPERLINK(""https://vector.corp.google.com/workload/aBJKf000009ePM1OAM"", ""[BANCO] [RM] GCVE SON"")","$150,000.00",Stage 0-2 ➔ Stage 3,July,2026-07-31,0-2: Tech Eval/Solution Dev,3:  Proposal / Negotiation,Closed,Victor Domínguez,Migrate Modernize and Build,"=HYPERLINK(""https://vector.corp.google.com/opportunity/006Kf00000OrCcuIAF"", ""Banorte - GCVE Nodos Storage"")",0014M00001yTakKQAS,Progressed
 "=HYPERLINK(""https://vector.corp.google.com/account/0014M00001hNkj4QAC"", ""Radio e Televisao Record S/A"")","=HYPERLINK(""https://vector.corp.google.com/workload/aBJKf000009e9iFOAQ"", ""Record | Migration Cloudera To BigQuery"")","$119,100.00",Stage 3 ➔ Stage 4.1,August,2026-08-10,3:  Proposal / Negotiation,4.1: Pre Ramp / Mobilize,4.2: Ramping / Deliver,Saulo Pereira,Analytics,"=HYPERLINK(""https://vector.corp.google.com/opportunity/006Kf00000OliOfIAJ"", ""#RevDA_Record_ClouderaToGCP_Kyndryl"")",0014M00001yTraMQAS,Progressed
 "=HYPERLINK(""https://vector.corp.google.com/account/0014M00001hTImGQAW"", ""ALFAGRES S.A."")","=HYPERLINK(""https://vector.corp.google.com/workload/aBJKf000009kG9vOAE"", ""Alfagres Gemini Enterprise 200 Usuarios"")","$42,000.00",Stage 0-2 ➔ Stage 3,August,2026-08-11,0-2: Tech Eval/Solution Dev,3:  Proposal / Negotiation,0-2: Tech Eval/Solution Dev,Santiago Guerrero,Build with AI,"=HYPERLINK(""https://vector.corp.google.com/opportunity/006Kf00000ORvyaIAD"", ""FY26 #Outbound #ALFA # Gemini enterprise #Optimización de Manufactura y Logística #PlaybookGE"")",0014M00002BR5AuQAL,Progressed
 "=HYPERLINK(""https://vector.corp.google.com/account/0014M00001hNkiPQAS"", ""Aché Laboratórios Farmacêuticos S/A"")","=HYPERLINK(""https://vector.corp.google.com/workload/aBJKf000004ZOMaOAO"", ""Aché - OracleBaseDB - #Oracle"")","$40,000.00",Stage 0-2 ➔ Stage 3,August,2026-08-11,0-2: Tech Eval/Solution Dev,3:  Proposal / Negotiation,3:  Proposal / Negotiation,Karla Nobre,Migrate Modernize and Build,"=HYPERLINK(""https://vector.corp.google.com/opportunity/006Kf00000Osrw6IAB"", ""[Ache] Recommit"")",0014M00001yTraMQAS,Progressed
@@ -32,10 +32,10 @@ Customer Account Name,Workload Name,Annual Gross Revenue (ARR USD),Stage Movemen
 ,,,,,,,,,,,,,
 "2. DRP GROWTH: PRACTITIONER TIER PROMOTIONS (T4➔T3, T3➔T2, T2➔T1)",,,,,,,,,,,,,
 Tier Transition,July Upgrades,August Upgrades,September Upgrades,Q3 Total Upgrades,Unique Profiles,July % Share,August % Share,September % Share,Top Practice Area,Top Product,Growth Velocity,DRP Partner Key,Status
-Tier 4 ➔ Tier 3,225,210,42,477,240,47.2%,44.0%,8.8%,Infrastructure Modernization,Google Compute Engine,🔥 High,P20220428047,Active Progression
-Tier 3 ➔ Tier 2,71,57,14,142,99,50.0%,40.1%,9.9%,Infrastructure Modernization,Google Compute Engine,🔥 High,P20220428047,Active Progression
+Tier 4 ➔ Tier 3,225,210,43,478,240,47.1%,43.9%,9.0%,Infrastructure Modernization,Google Compute Engine,🔥 High,P20220428047,Active Progression
+Tier 3 ➔ Tier 2,71,57,15,143,100,49.7%,39.9%,10.5%,Infrastructure Modernization,Google Compute Engine,🔥 High,P20220428047,Active Progression
 Tier 2 ➔ Tier 1,29,27,4,60,44,48.3%,45.0%,6.7%,Infrastructure Modernization,Google Compute Engine,🔥 High,P20220428047,Active Progression
-TOTAL DRP TIER PROMOTIONS,325,294,60,679,270,47.9%,43.3%,8.8%,-,-,-,-,-
+TOTAL DRP TIER PROMOTIONS,325,294,62,681,270,47.7%,43.2%,9.1%,-,-,-,-,-
 ,,,,,,,,,,,,,
 PRACTICE AREA & PRODUCT TIER PROGRESSION TABLE,,,,,,,,,,,,,
 Practice Area,Product,Tier 4 ➔ Tier 3,Tier 3 ➔ Tier 2,Tier 2 ➔ Tier 1,Total Upgrades,July Upgrades,August Upgrades,September Upgrades,Unique Profiles,DRP Partner Key,Growth Velocity Rating,Primary Upgrade Stage,Status
@@ -45,7 +45,7 @@ Application Modernization,Google Kubernetes Engine,56,11,4,71,39,27,5,66,P202204
 Artificial Intelligence,AI Applications,8,0,2,10,5,5,0,10,P20220428047,🔥 High Velocity (10+),Tier 4 ➔ Tier 3,Active
 Artificial Intelligence,GECX - CX Agent Studio,12,1,0,13,0,0,13,13,P20220428047,🔥 High Velocity (10+),Tier 4 ➔ Tier 3,Active
 Artificial Intelligence,Gemini Enterprise,28,13,2,43,18,20,5,34,P20220428047,🔥 High Velocity (10+),Tier 4 ➔ Tier 3,Active
-Artificial Intelligence,Gemini Enterprise Agent Platform,52,12,10,74,29,33,12,67,P20220428047,🔥 High Velocity (10+),Tier 4 ➔ Tier 3,Active
+Artificial Intelligence,Gemini Enterprise Agent Platform,52,13,10,75,29,33,13,67,P20220428047,🔥 High Velocity (10+),Tier 4 ➔ Tier 3,Active
 Artificial Intelligence,Gemini Enterprise for Customer Experience,3,1,1,5,5,0,0,5,P20220428047,🚀 Steady Growth (3-9),Tier 4 ➔ Tier 3,Active
 Data & Analytics,BigQuery,30,12,2,44,18,23,3,37,P20220428047,🔥 High Velocity (10+),Tier 4 ➔ Tier 3,Active
 Data & Analytics,Dataflow,17,4,3,24,12,11,1,21,P20220428047,🔥 High Velocity (10+),Tier 4 ➔ Tier 3,Active
@@ -56,7 +56,7 @@ Databases,Cloud SQL,19,6,0,25,7,18,0,20,P20220428047,🔥 High Velocity (10+),Ti
 Databases,Spanner,6,1,0,7,3,4,0,6,P20220428047,🚀 Steady Growth (3-9),Tier 4 ➔ Tier 3,Active
 Infrastructure Modernization,Google Cloud Networking,49,23,5,77,38,34,5,77,P20220428047,🔥 High Velocity (10+),Tier 4 ➔ Tier 3,Active
 Infrastructure Modernization,Google Cloud VMware Engine,22,3,0,25,15,10,0,25,P20220428047,🔥 High Velocity (10+),Tier 4 ➔ Tier 3,Active
-Infrastructure Modernization,Google Compute Engine,66,43,29,138,77,53,8,117,P20220428047,🔥 High Velocity (10+),Tier 4 ➔ Tier 3,Active
+Infrastructure Modernization,Google Compute Engine,67,43,29,139,77,53,9,118,P20220428047,🔥 High Velocity (10+),Tier 4 ➔ Tier 3,Active
 Infrastructure Modernization,Google Distributed Cloud,8,0,0,8,6,1,1,8,P20220428047,🚀 Steady Growth (3-9),Tier 4 ➔ Tier 3,Active
 Infrastructure Modernization,Oracle,4,0,0,4,3,1,0,4,P20220428047,🚀 Steady Growth (3-9),Tier 4 ➔ Tier 3,Active
 Infrastructure Modernization,SAP on Google Cloud,9,0,1,10,9,0,1,10,P20220428047,🔥 High Velocity (10+),Tier 4 ➔ Tier 3,Active
@@ -64,22 +64,22 @@ Security,Cloud Security,36,2,0,38,20,16,2,38,P20220428047,🔥 High Velocity (10
 Security,Security Command Center,3,0,0,3,1,2,0,3,P20220428047,🚀 Steady Growth (3-9),Tier 4 ➔ Tier 3,Active
 Security,Security Operations,2,1,0,3,2,1,0,3,P20220428047,🚀 Steady Growth (3-9),Tier 4 ➔ Tier 3,Active
 Workspace,Workspace,3,0,0,3,2,0,1,3,P20220428047,🚀 Steady Growth (3-9),Tier 4 ➔ Tier 3,Active
-TOTAL,-,477,142,60,679,325,294,60,270,-,-,-,-
+TOTAL,-,478,143,60,681,325,294,62,270,-,-,-,-
 ,,,,,,,,,,,,,
 PRACTITIONER PROFILES PROGRESSION DETAIL (INDIVIDUAL LEVEL TRANSITIONS),,,,,,,,,,,,,
 Profile ID,Practice Area,Product,Tier Movement,Transition Month,Transition Date,Previous Score,New Score,Score Delta,Previous Tier,New Tier,DRP Partner Key,Promotion Type,Status
-KYNKMSIE5,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,July,2026-07-01,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNPHONA2,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,July,2026-07-01,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNCACWK0,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-01,18.0,23.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNJCLNC7,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-01,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNKMSIE5,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,July,2026-07-01,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNBLDTW1,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,July,2026-07-01,30.0,35.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNVJQNC4,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-01,19.0,29.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNCACWK0,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-01,18.0,23.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNJCLNC7,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-01,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNLSRMP0,Security,Cloud Security,Tier 4 ➔ Tier 3,July,2026-07-01,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNEMVKA7,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,July,2026-07-02,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNBETVC3,Infrastructure Modernization,SAP on Google Cloud,Tier 4 ➔ Tier 3,July,2026-07-02,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNRNYKO3,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,July,2026-07-02,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNVSPMJ3,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,July,2026-07-02,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNVSPMJ3,Infrastructure Modernization,Google Distributed Cloud,Tier 4 ➔ Tier 3,July,2026-07-02,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNRNYKO3,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,July,2026-07-02,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNNGXHE0,Security,Security Operations,Tier 4 ➔ Tier 3,July,2026-07-02,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNPSRYH5,Databases,Cloud SQL,Tier 4 ➔ Tier 3,July,2026-07-03,18.0,23.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNMNNHH5,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-04,12.0,22.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
@@ -88,45 +88,45 @@ KYNGMSP41,Application Modernization,Cloud Run,Tier 4 ➔ Tier 3,July,2026-07-04,
 KYNSV7K12,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-04,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNJJLEI3,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,July,2026-07-04,16.0,21.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNNPBCM8,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,July,2026-07-04,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNJJLEI3,Data & Analytics,Dataflow,Tier 3 ➔ Tier 2,July,2026-07-04,31.0,46.0,+15.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNJJLEI3,Data & Analytics,BigQuery,Tier 3 ➔ Tier 2,July,2026-07-04,21.0,36.0,+15.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNFF2X31,Data & Analytics,Dataflow,Tier 4 ➔ Tier 3,July,2026-07-04,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNJJLEI3,Data & Analytics,Dataflow,Tier 3 ➔ Tier 2,July,2026-07-04,31.0,46.0,+15.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNFF2X31,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,July,2026-07-04,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNJJLEI3,Data & Analytics,BigQuery,Tier 3 ➔ Tier 2,July,2026-07-04,21.0,36.0,+15.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNJJLEI3,Data & Analytics,Dataproc,Tier 4 ➔ Tier 3,July,2026-07-04,11.0,21.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNGMSP41,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,July,2026-07-04,44.0,59.0,+15.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
 KYNJJLEI3,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,July,2026-07-04,46.0,61.0,+15.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
-KYNDTWOR7,Infrastructure Modernization,SAP on Google Cloud,Tier 4 ➔ Tier 3,July,2026-07-04,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNHDCFP5,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-04,10.0,20.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNYAENS8,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,July,2026-07-04,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNGMSP41,Infrastructure Modernization,Google Cloud VMware Engine,Tier 4 ➔ Tier 3,July,2026-07-04,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNNPBCM8,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,July,2026-07-04,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNBDOCC7,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-04,9.0,24.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNNPBCM8,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,July,2026-07-04,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNDTWOR7,Infrastructure Modernization,SAP on Google Cloud,Tier 4 ➔ Tier 3,July,2026-07-04,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNYAENS8,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,July,2026-07-04,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNFF2X31,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,July,2026-07-04,44.0,54.0,+10.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
-KYNHDCFP5,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,July,2026-07-04,10.0,20.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNBTWNJ0,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-04,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNHDCFP5,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,July,2026-07-04,10.0,20.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNNPFTX6,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-05,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNDV6EU0,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,July,2026-07-05,14.0,29.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNNKXWJ9,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,July,2026-07-05,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNDV6EU0,Artificial Intelligence,AI Applications,Tier 4 ➔ Tier 3,July,2026-07-05,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNFBCJC6,Data & Analytics,Looker,Tier 3 ➔ Tier 2,July,2026-07-05,34.0,39.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNYAENS8,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-05,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNPHONA2,Infrastructure Modernization,Google Distributed Cloud,Tier 4 ➔ Tier 3,July,2026-07-05,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNNSBJL4,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,July,2026-07-05,30.0,35.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNPHONA2,Infrastructure Modernization,Google Distributed Cloud,Tier 4 ➔ Tier 3,July,2026-07-05,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNYAENS8,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-05,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNSREHU2,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,July,2026-07-05,30.0,40.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNNKXWJ9,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 3 ➔ Tier 2,July,2026-07-06,24.0,39.0,+15.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNMBBBI0,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-06,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNSKHDX9,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,July,2026-07-07,19.0,34.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNFSGFF8,Artificial Intelligence,Gemini Enterprise,Tier 3 ➔ Tier 2,July,2026-07-07,33.0,38.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNSKHDX9,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,July,2026-07-07,19.0,34.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNKSICR3,Databases,AlloyDB for PostgreSQL,Tier 4 ➔ Tier 3,July,2026-07-07,19.0,29.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNGMNSV1,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,July,2026-07-07,30.0,35.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNVNZTF9,Infrastructure Modernization,Google Distributed Cloud,Tier 4 ➔ Tier 3,July,2026-07-07,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNRIINK5,Artificial Intelligence,Gemini Enterprise for Customer Experience,Tier 2 ➔ Tier 1,July,2026-07-08,47.0,52.0,+5.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
 KYNRIINK5,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 2 ➔ Tier 1,July,2026-07-08,47.0,52.0,+5.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
+KYNRIINK5,Artificial Intelligence,Gemini Enterprise for Customer Experience,Tier 2 ➔ Tier 1,July,2026-07-08,47.0,52.0,+5.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
+KYNFBCJC6,Data & Analytics,Dataproc,Tier 3 ➔ Tier 2,July,2026-07-08,29.0,39.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNMZXYZ7,Data & Analytics,Dataflow,Tier 4 ➔ Tier 3,July,2026-07-08,10.0,20.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNRIINK5,Data & Analytics,Dataflow,Tier 4 ➔ Tier 3,July,2026-07-08,17.0,22.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNFBCJC6,Data & Analytics,Dataproc,Tier 3 ➔ Tier 2,July,2026-07-08,29.0,39.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNVSDQT3,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-08,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNVSPMJ3,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,July,2026-07-08,49.0,54.0,+5.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
+KYNVSDQT3,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-08,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNNKXWJ9,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-08,19.0,29.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNNAYIL0,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-09,15.0,30.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNSKRRL4,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,July,2026-07-09,15.0,29.0,+14.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
@@ -144,249 +144,249 @@ KYNMPPXT5,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 3 ➔ Ti
 KYNPTLTP6,Data & Analytics,Dataflow,Tier 4 ➔ Tier 3,July,2026-07-11,19.0,29.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNFF2X31,Infrastructure Modernization,Google Cloud VMware Engine,Tier 3 ➔ Tier 2,July,2026-07-11,34.0,39.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNBVZRJ9,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-11,18.0,28.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNJRTSQ0,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,July,2026-07-11,34.0,44.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNNS0290,Infrastructure Modernization,Google Cloud VMware Engine,Tier 4 ➔ Tier 3,July,2026-07-11,10.0,20.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNJRTSQ0,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,July,2026-07-11,34.0,44.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNNS0290,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,July,2026-07-11,30.0,40.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNNS0290,Infrastructure Modernization,SAP on Google Cloud,Tier 4 ➔ Tier 3,July,2026-07-11,10.0,20.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNRPUMF4,Security,Cloud Security,Tier 4 ➔ Tier 3,July,2026-07-11,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNARJQC8,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,July,2026-07-12,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNECIJU1,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,July,2026-07-12,18.0,23.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNECIJU1,Data & Analytics,Dataflow,Tier 4 ➔ Tier 3,July,2026-07-12,18.0,28.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNECIJU1,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,July,2026-07-12,18.0,23.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNGBLHZ6,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-13,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNECIJU1,Data & Analytics,Looker,Tier 4 ➔ Tier 3,July,2026-07-13,18.0,23.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNSMQNK1,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,July,2026-07-13,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNECIJU1,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,July,2026-07-13,18.0,23.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNSMQNK1,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,July,2026-07-13,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNSMQNK1,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-14,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNSMQNK1,Infrastructure Modernization,Google Distributed Cloud,Tier 4 ➔ Tier 3,July,2026-07-14,10.0,20.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNRDKJE1,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,July,2026-07-14,34.0,39.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNNTYBQ2,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-14,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNDJDPE7,Infrastructure Modernization,Google Distributed Cloud,Tier 4 ➔ Tier 3,July,2026-07-14,18.0,23.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNSMQNK1,Infrastructure Modernization,Google Distributed Cloud,Tier 4 ➔ Tier 3,July,2026-07-14,10.0,20.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNNTYBQ2,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-14,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNSMQNK1,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-14,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNRDKJE1,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,July,2026-07-14,34.0,39.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNCACWK0,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-15,18.0,33.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNKKRSG1,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,July,2026-07-15,5.0,20.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNDJDPE7,Data & Analytics,BigQuery,Tier 3 ➔ Tier 2,July,2026-07-15,33.0,38.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNVPN020,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,July,2026-07-15,16.0,21.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNKSICR3,Infrastructure Modernization,Oracle,Tier 4 ➔ Tier 3,July,2026-07-15,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNPCJGW8,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-16,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNFOGBU2,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-16,19.0,29.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNESZLL4,Application Modernization,Google Kubernetes Engine,Tier 3 ➔ Tier 2,July,2026-07-16,34.0,39.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNPCJGW8,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-16,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNLHYKI6,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-16,10.0,20.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNPTVCQ7,Application Modernization,Google Kubernetes Engine,Tier 3 ➔ Tier 2,July,2026-07-16,26.0,36.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNSPFSK7,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-16,19.0,29.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNFOGBU2,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-16,19.0,29.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNLHYKI6,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-16,10.0,20.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNKSICR3,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 2 ➔ Tier 1,July,2026-07-16,49.0,54.0,+5.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
 KYNMTEMB0,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 2 ➔ Tier 1,July,2026-07-16,45.0,50.0,+5.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
-KYNAMNOM0,Artificial Intelligence,AI Applications,Tier 4 ➔ Tier 3,July,2026-07-16,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNKSICR3,Artificial Intelligence,AI Applications,Tier 2 ➔ Tier 1,July,2026-07-16,49.0,54.0,+5.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
+KYNAMNOM0,Artificial Intelligence,AI Applications,Tier 4 ➔ Tier 3,July,2026-07-16,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNJJLEI3,Data & Analytics,Looker,Tier 4 ➔ Tier 3,July,2026-07-16,16.0,21.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNDJYWN1,Data & Analytics,Dataflow,Tier 3 ➔ Tier 2,July,2026-07-16,30.0,35.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNJJLEI3,Data & Analytics,Dataflow,Tier 2 ➔ Tier 1,July,2026-07-16,46.0,51.0,+5.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
 KYNPTLTP6,Data & Analytics,BigQuery,Tier 3 ➔ Tier 2,July,2026-07-16,34.0,44.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNMTEMB0,Data & Analytics,Dataflow,Tier 4 ➔ Tier 3,July,2026-07-16,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNESZLL4,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,July,2026-07-16,19.0,29.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNNGLAY7,Data & Analytics,Looker,Tier 4 ➔ Tier 3,July,2026-07-16,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNDMTSN9,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,July,2026-07-16,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNLHYKI6,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,July,2026-07-16,10.0,20.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNPTVCQ7,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,July,2026-07-16,16.0,26.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNSPFSK7,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,July,2026-07-16,19.0,29.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNFOGBU2,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,July,2026-07-16,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNPTLTP6,Data & Analytics,Dataflow,Tier 3 ➔ Tier 2,July,2026-07-16,29.0,39.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNNGLAY7,Data & Analytics,Looker,Tier 4 ➔ Tier 3,July,2026-07-16,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNDMTSN9,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,July,2026-07-16,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNAVGOU3,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,July,2026-07-16,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNMMPXJ3,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,July,2026-07-16,10.0,20.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNPTVCQ7,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,July,2026-07-16,16.0,26.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNESZLL4,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,July,2026-07-16,19.0,29.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNPTLTP6,Data & Analytics,Dataproc,Tier 4 ➔ Tier 3,July,2026-07-16,19.0,29.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNMTEMB0,Data & Analytics,Dataflow,Tier 4 ➔ Tier 3,July,2026-07-16,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNMMPXJ3,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,July,2026-07-16,10.0,20.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNDJYWN1,Data & Analytics,Dataflow,Tier 3 ➔ Tier 2,July,2026-07-16,30.0,35.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNMSYDZ9,Databases,Cloud SQL,Tier 4 ➔ Tier 3,July,2026-07-16,17.0,22.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNSPFSK7,Databases,Cloud SQL,Tier 4 ➔ Tier 3,July,2026-07-16,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNESZLL4,Databases,Cloud SQL,Tier 4 ➔ Tier 3,July,2026-07-16,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNFBCJC6,Databases,AlloyDB for PostgreSQL,Tier 4 ➔ Tier 3,July,2026-07-16,19.0,29.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNPTVCQ7,Databases,Cloud SQL,Tier 4 ➔ Tier 3,July,2026-07-16,16.0,21.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNPCJGW8,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,July,2026-07-16,44.0,54.0,+10.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
-KYNPCJGW8,Infrastructure Modernization,Google Cloud Networking,Tier 3 ➔ Tier 2,July,2026-07-16,34.0,39.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNRBXUS3,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-16,19.0,29.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNMA5AJ0,Infrastructure Modernization,SAP on Google Cloud,Tier 4 ➔ Tier 3,July,2026-07-16,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNPTVCQ7,Infrastructure Modernization,SAP on Google Cloud,Tier 4 ➔ Tier 3,July,2026-07-16,16.0,21.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNMMPXJ3,Infrastructure Modernization,Google Cloud Networking,Tier 2 ➔ Tier 1,July,2026-07-16,40.0,50.0,+10.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
+KYNFBCJC6,Databases,AlloyDB for PostgreSQL,Tier 4 ➔ Tier 3,July,2026-07-16,19.0,29.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNSPFSK7,Databases,Cloud SQL,Tier 4 ➔ Tier 3,July,2026-07-16,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNESZLL4,Infrastructure Modernization,SAP on Google Cloud,Tier 4 ➔ Tier 3,July,2026-07-16,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNISAHD3,Infrastructure Modernization,SAP on Google Cloud,Tier 4 ➔ Tier 3,July,2026-07-16,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNBRZPV5,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-16,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNMTEMB0,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-16,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNMA5AJ0,Infrastructure Modernization,Oracle,Tier 4 ➔ Tier 3,July,2026-07-16,19.0,34.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNESZLL4,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,July,2026-07-16,39.0,74.0,+35.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
-KYNPVNRO5,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,July,2026-07-16,30.0,35.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNSPFSK7,Infrastructure Modernization,SAP on Google Cloud,Tier 4 ➔ Tier 3,July,2026-07-16,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNPTVCQ7,Infrastructure Modernization,Google Cloud Networking,Tier 3 ➔ Tier 2,July,2026-07-16,31.0,41.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNPTVCQ7,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,July,2026-07-16,36.0,71.0,+35.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
+KYNPCJGW8,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,July,2026-07-16,44.0,54.0,+10.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
 KYNAVGOU3,Infrastructure Modernization,SAP on Google Cloud,Tier 4 ➔ Tier 3,July,2026-07-16,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNSPFSK7,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,July,2026-07-16,19.0,29.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNMA5AJ0,Infrastructure Modernization,Google Cloud Networking,Tier 2 ➔ Tier 1,July,2026-07-16,49.0,54.0,+5.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
-KYNAVGOU3,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,July,2026-07-16,49.0,80.0,+31.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
+KYNESZLL4,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,July,2026-07-16,39.0,74.0,+35.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
 KYNGSERE1,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,July,2026-07-16,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNDJYWN1,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-16,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNAVGOU3,Infrastructure Modernization,Google Cloud Networking,Tier 3 ➔ Tier 2,July,2026-07-16,34.0,44.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNBRZPV5,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-16,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNMA5AJ0,Infrastructure Modernization,SAP on Google Cloud,Tier 4 ➔ Tier 3,July,2026-07-16,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNPTVCQ7,Infrastructure Modernization,SAP on Google Cloud,Tier 4 ➔ Tier 3,July,2026-07-16,16.0,21.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNMA5AJ0,Infrastructure Modernization,Oracle,Tier 4 ➔ Tier 3,July,2026-07-16,19.0,34.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNMTEMB0,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-16,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNSPFSK7,Infrastructure Modernization,SAP on Google Cloud,Tier 4 ➔ Tier 3,July,2026-07-16,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNDJYWN1,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-16,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNPTVCQ7,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,July,2026-07-16,36.0,71.0,+35.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
+KYNPTVCQ7,Infrastructure Modernization,Google Cloud Networking,Tier 3 ➔ Tier 2,July,2026-07-16,31.0,41.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNAVGOU3,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,July,2026-07-16,49.0,80.0,+31.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
+KYNPVNRO5,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,July,2026-07-16,30.0,35.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNSPFSK7,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,July,2026-07-16,19.0,29.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNMMPXJ3,Infrastructure Modernization,Google Cloud Networking,Tier 2 ➔ Tier 1,July,2026-07-16,40.0,50.0,+10.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
+KYNPCJGW8,Infrastructure Modernization,Google Cloud Networking,Tier 3 ➔ Tier 2,July,2026-07-16,34.0,39.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNRBXUS3,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-16,19.0,29.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNAMNOM0,Infrastructure Modernization,Google Cloud Networking,Tier 2 ➔ Tier 1,July,2026-07-16,49.0,54.0,+5.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
 KYNISAHD3,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,July,2026-07-16,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNMA5AJ0,Infrastructure Modernization,Google Cloud Networking,Tier 2 ➔ Tier 1,July,2026-07-16,49.0,54.0,+5.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
 KYNPCJGW8,Security,Cloud Security,Tier 4 ➔ Tier 3,July,2026-07-16,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNAHHXH7,Artificial Intelligence,Gemini Enterprise,Tier 2 ➔ Tier 1,July,2026-07-17,49.0,54.0,+5.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
 KYNKMSIE5,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 3 ➔ Tier 2,July,2026-07-17,30.0,35.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNAHHXH7,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 2 ➔ Tier 1,July,2026-07-17,49.0,54.0,+5.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
-KYNIBQAQ2,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,July,2026-07-17,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNAHHXH7,Artificial Intelligence,Gemini Enterprise,Tier 2 ➔ Tier 1,July,2026-07-17,49.0,54.0,+5.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
 KYNAHHXH7,Artificial Intelligence,AI Applications,Tier 2 ➔ Tier 1,July,2026-07-17,49.0,54.0,+5.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
+KYNIBQAQ2,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,July,2026-07-17,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNFBCJC6,Databases,AlloyDB for PostgreSQL,Tier 3 ➔ Tier 2,July,2026-07-17,29.0,39.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNDJDPE7,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,July,2026-07-17,33.0,38.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNAHHXH7,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,July,2026-07-17,34.0,39.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNDJDPE7,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,July,2026-07-17,33.0,38.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNSDBAC0,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-19,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNVSPMJ3,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,July,2026-07-19,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNRRSBV9,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,July,2026-07-19,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNVSPMJ3,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,July,2026-07-19,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNNMSSY0,Data & Analytics,Dataflow,Tier 2 ➔ Tier 1,July,2026-07-19,49.0,54.0,+5.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
-KYNPSRYH5,Databases,Spanner,Tier 4 ➔ Tier 3,July,2026-07-19,18.0,23.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNFBCJC6,Databases,Cloud SQL,Tier 4 ➔ Tier 3,July,2026-07-19,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNPSRYH5,Databases,Spanner,Tier 4 ➔ Tier 3,July,2026-07-19,18.0,23.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNSAMSW3,Infrastructure Modernization,Google Cloud VMware Engine,Tier 4 ➔ Tier 3,July,2026-07-19,12.0,22.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNDJDPE7,Infrastructure Modernization,Google Cloud VMware Engine,Tier 4 ➔ Tier 3,July,2026-07-19,18.0,23.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNSMCLD7,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,July,2026-07-19,34.0,39.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNDJDPE7,Infrastructure Modernization,Google Cloud VMware Engine,Tier 4 ➔ Tier 3,July,2026-07-19,18.0,23.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNEVJYI8,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,July,2026-07-19,10.0,20.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNPSHVB2,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,July,2026-07-19,34.0,39.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNMTEMB0,Security,Security Operations,Tier 4 ➔ Tier 3,July,2026-07-19,10.0,20.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNSAMSW3,Workspace,Workspace,Tier 4 ➔ Tier 3,July,2026-07-19,12.0,22.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNKMSIE5,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,July,2026-07-20,10.0,20.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNNKXWJ9,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 2 ➔ Tier 1,July,2026-07-20,44.0,54.0,+10.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
 KYNAMGHP2,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,July,2026-07-20,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNKMSIE5,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,July,2026-07-20,10.0,20.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNNKXWJ9,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,July,2026-07-20,49.0,54.0,+5.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
-KYNCACWK0,Application Modernization,Google Kubernetes Engine,Tier 3 ➔ Tier 2,July,2026-07-21,33.0,38.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNRRSBV9,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-21,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNSSYVN3,Application Modernization,Cloud Run,Tier 3 ➔ Tier 2,July,2026-07-21,33.0,38.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNCACWK0,Application Modernization,Google Kubernetes Engine,Tier 3 ➔ Tier 2,July,2026-07-21,33.0,38.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNRRSBV9,Artificial Intelligence,Gemini Enterprise for Customer Experience,Tier 4 ➔ Tier 3,July,2026-07-21,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNRRSBV9,Artificial Intelligence,Gemini Enterprise,Tier 3 ➔ Tier 2,July,2026-07-21,30.0,40.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNGMEZA9,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,July,2026-07-21,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNRRSBV9,Infrastructure Modernization,Oracle,Tier 4 ➔ Tier 3,July,2026-07-21,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNRRSBV9,Infrastructure Modernization,Google Cloud VMware Engine,Tier 4 ➔ Tier 3,July,2026-07-21,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNSKWBQ4,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-21,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNPVJDN0,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,July,2026-07-21,49.0,54.0,+5.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
 KYNGMEZA9,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,July,2026-07-21,34.0,39.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNSKWBQ4,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-21,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNRRSBV9,Infrastructure Modernization,Google Cloud VMware Engine,Tier 4 ➔ Tier 3,July,2026-07-21,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNRRSBV9,Infrastructure Modernization,Oracle,Tier 4 ➔ Tier 3,July,2026-07-21,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNAHHXH7,Security,Security Command Center,Tier 4 ➔ Tier 3,July,2026-07-21,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNRRSBV9,Workspace,Workspace,Tier 4 ➔ Tier 3,July,2026-07-21,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNPWYDB6,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-22,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNAHHXH7,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-22,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNZYCBG9,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,July,2026-07-22,17.0,22.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNPSRYH5,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,July,2026-07-22,18.0,23.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNPPXLV0,Infrastructure Modernization,Google Cloud Networking,Tier 3 ➔ Tier 2,July,2026-07-22,34.0,39.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNNVNFR9,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,July,2026-07-22,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNPWYDB6,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,July,2026-07-22,29.0,39.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNRLTJW8,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-23,18.0,23.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNAPBQM1,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-23,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNPPXLV0,Infrastructure Modernization,Google Cloud Networking,Tier 3 ➔ Tier 2,July,2026-07-22,34.0,39.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNRLTJW8,Application Modernization,Cloud Run,Tier 4 ➔ Tier 3,July,2026-07-23,18.0,23.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNAKVEV3,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,July,2026-07-23,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNCRLXJ5,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,July,2026-07-23,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNDJDPE7,Artificial Intelligence,AI Applications,Tier 4 ➔ Tier 3,July,2026-07-23,13.0,23.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNAPBQM1,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-23,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNRLTJW8,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-23,18.0,23.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNDJDPE7,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,July,2026-07-23,18.0,28.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNAKVEV3,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,July,2026-07-23,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNDJDPE7,Artificial Intelligence,AI Applications,Tier 4 ➔ Tier 3,July,2026-07-23,13.0,23.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNCRLXJ5,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,July,2026-07-23,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNTMUXH3,Artificial Intelligence,Gemini Enterprise,Tier 3 ➔ Tier 2,July,2026-07-23,30.0,40.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNMRPOQ6,Data & Analytics,BigQuery,Tier 3 ➔ Tier 2,July,2026-07-23,34.0,39.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNJVEYI4,Data & Analytics,BigQuery,Tier 3 ➔ Tier 2,July,2026-07-23,29.0,39.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNSPCBQ4,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,July,2026-07-23,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNUKNNC1,Application Modernization,Google Kubernetes Engine,Tier 2 ➔ Tier 1,July,2026-07-24,45.0,50.0,+5.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
-KYNRSXZA3,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-24,16.0,21.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNTARTQ5,Application Modernization,Google Kubernetes Engine,Tier 3 ➔ Tier 2,July,2026-07-24,32.0,37.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNDKUNN6,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-24,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNPMMLA4,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-24,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNSNHLD7,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-24,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNHNNWP8,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-24,18.0,23.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNPMNPT5,Application Modernization,Google Kubernetes Engine,Tier 2 ➔ Tier 1,July,2026-07-24,49.0,54.0,+5.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
 KYNSMVVR0,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-24,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNSMIYI1,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-24,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNHNNWP8,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-24,18.0,23.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNDKUNN6,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-24,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNMPUTS3,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-24,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNSNHLD7,Application Modernization,Cloud Run,Tier 4 ➔ Tier 3,July,2026-07-24,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNPMMLA4,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-24,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNRSXZA3,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-24,16.0,21.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNTARTQ5,Application Modernization,Google Kubernetes Engine,Tier 3 ➔ Tier 2,July,2026-07-24,32.0,37.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNLGHYI9,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-24,15.0,30.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNPMNPT5,Application Modernization,Google Kubernetes Engine,Tier 2 ➔ Tier 1,July,2026-07-24,49.0,54.0,+5.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
-KYNSMIYI1,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-24,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNSNHLD7,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-24,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNJS3PX0,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,July,2026-07-24,18.0,28.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNFSPMH7,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,July,2026-07-24,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNFSPMH7,Data & Analytics,Dataflow,Tier 4 ➔ Tier 3,July,2026-07-24,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNMPUTS3,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,July,2026-07-24,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNFSPMH7,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,July,2026-07-24,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNHKZQE8,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-24,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNHNNWP8,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-24,18.0,28.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNRBXUS3,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,July,2026-07-24,34.0,39.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNSSSNX8,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-24,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNUKNNC1,Infrastructure Modernization,Google Cloud Networking,Tier 3 ➔ Tier 2,July,2026-07-24,30.0,35.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNIREAZ8,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-24,10.0,20.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNSNHLD7,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,July,2026-07-24,25.0,35.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNVJQNC4,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,July,2026-07-24,34.0,49.0,+15.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNHKYEL0,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-24,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNDJDPE7,Infrastructure Modernization,Google Cloud Networking,Tier 3 ➔ Tier 2,July,2026-07-24,33.0,38.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNMPUTS3,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,July,2026-07-24,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNTARTQ5,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,July,2026-07-24,17.0,22.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNSNHLD7,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,July,2026-07-24,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNPMMLA4,Infrastructure Modernization,Google Cloud Networking,Tier 3 ➔ Tier 2,July,2026-07-24,34.0,39.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNDKUNN6,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,July,2026-07-24,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNUSUTA1,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-24,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNDTXWG6,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,July,2026-07-24,19.0,29.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNGKIEV4,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-24,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNAPBQM1,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,July,2026-07-24,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNTARTQ5,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-24,17.0,22.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNIREAZ8,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-24,10.0,20.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNKPDHG9,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-24,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNSNHLD7,Infrastructure Modernization,Google Cloud VMware Engine,Tier 4 ➔ Tier 3,July,2026-07-24,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNVGOHN4,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-24,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNDTXWG6,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,July,2026-07-24,19.0,29.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNHKYEL0,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-24,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNLGHYI9,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-24,15.0,30.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNSSSNX8,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,July,2026-07-24,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNPMMLA4,Infrastructure Modernization,Google Cloud Networking,Tier 3 ➔ Tier 2,July,2026-07-24,34.0,39.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNUSUTA1,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-24,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNVJQNC4,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,July,2026-07-24,34.0,49.0,+15.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNKPDHG9,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-24,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNAPBQM1,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,July,2026-07-24,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNGKIEV4,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-24,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNDKUNN6,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,July,2026-07-24,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNSNHLD7,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,July,2026-07-24,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNTARTQ5,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-24,17.0,22.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNRBXUS3,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,July,2026-07-24,34.0,39.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNUKNNC1,Infrastructure Modernization,Google Cloud Networking,Tier 3 ➔ Tier 2,July,2026-07-24,30.0,35.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNMPUTS3,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-24,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNVJQNC4,Infrastructure Modernization,Google Cloud VMware Engine,Tier 4 ➔ Tier 3,July,2026-07-24,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNTARTQ5,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,July,2026-07-24,17.0,22.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNHNNWP8,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,July,2026-07-24,18.0,28.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNMBWAN0,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,July,2026-07-24,29.0,39.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNHKZQE8,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-24,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNDJDPE7,Infrastructure Modernization,Google Cloud Networking,Tier 3 ➔ Tier 2,July,2026-07-24,33.0,38.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNMPUTS3,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-24,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNMBWAN0,Infrastructure Modernization,Google Cloud Networking,Tier 3 ➔ Tier 2,July,2026-07-24,29.0,39.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNDKUNN6,Security,Cloud Security,Tier 4 ➔ Tier 3,July,2026-07-24,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNSSSNX8,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-24,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNDTXWG6,Security,Cloud Security,Tier 4 ➔ Tier 3,July,2026-07-24,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNPMMLA4,Security,Cloud Security,Tier 4 ➔ Tier 3,July,2026-07-24,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNSNHLD7,Security,Cloud Security,Tier 4 ➔ Tier 3,July,2026-07-24,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNDJDPE7,Security,Cloud Security,Tier 4 ➔ Tier 3,July,2026-07-24,18.0,23.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNMPUTS3,Security,Cloud Security,Tier 4 ➔ Tier 3,July,2026-07-24,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNTARTQ5,Security,Cloud Security,Tier 4 ➔ Tier 3,July,2026-07-24,17.0,22.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNDTXWG6,Security,Cloud Security,Tier 4 ➔ Tier 3,July,2026-07-24,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNHNNWP8,Security,Cloud Security,Tier 4 ➔ Tier 3,July,2026-07-24,18.0,28.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNUKNNC1,Security,Cloud Security,Tier 4 ➔ Tier 3,July,2026-07-24,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNIREAZ8,Security,Cloud Security,Tier 4 ➔ Tier 3,July,2026-07-24,10.0,20.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNSSSNX8,Security,Cloud Security,Tier 4 ➔ Tier 3,July,2026-07-24,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNTARTQ5,Security,Cloud Security,Tier 4 ➔ Tier 3,July,2026-07-24,17.0,22.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNDKUNN6,Security,Cloud Security,Tier 4 ➔ Tier 3,July,2026-07-24,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNVJSEN7,Security,Cloud Security,Tier 4 ➔ Tier 3,July,2026-07-24,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNMBWAN0,Security,Cloud Security,Tier 4 ➔ Tier 3,July,2026-07-24,19.0,29.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNSSSNX8,Security,Cloud Security,Tier 4 ➔ Tier 3,July,2026-07-24,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNHNNWP8,Security,Cloud Security,Tier 4 ➔ Tier 3,July,2026-07-24,18.0,28.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNUKNNC1,Security,Cloud Security,Tier 4 ➔ Tier 3,July,2026-07-24,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNDJDPE7,Security,Cloud Security,Tier 4 ➔ Tier 3,July,2026-07-24,18.0,23.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNMPUTS3,Security,Cloud Security,Tier 4 ➔ Tier 3,July,2026-07-24,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNRRSBV9,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,July,2026-07-26,15.0,30.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNAVCRG3,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,July,2026-07-26,10.0,20.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNJHPHM4,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,July,2026-07-26,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNRSLKX0,Infrastructure Modernization,Google Cloud Networking,Tier 3 ➔ Tier 2,July,2026-07-26,34.0,39.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNSSYVN3,Infrastructure Modernization,Google Distributed Cloud,Tier 4 ➔ Tier 3,July,2026-07-26,13.0,23.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNIREAZ8,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,July,2026-07-26,20.0,35.0,+15.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNSSFAY1,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,July,2026-07-26,31.0,36.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNAVCRG3,Artificial Intelligence,Gemini Enterprise,Tier 3 ➔ Tier 2,July,2026-07-27,20.0,35.0,+15.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNIREAZ8,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,July,2026-07-26,20.0,35.0,+15.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNSSYVN3,Infrastructure Modernization,Google Distributed Cloud,Tier 4 ➔ Tier 3,July,2026-07-26,13.0,23.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNRSLKX0,Infrastructure Modernization,Google Cloud Networking,Tier 3 ➔ Tier 2,July,2026-07-26,34.0,39.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNTBIGW8,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,July,2026-07-27,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNAVCRG3,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,July,2026-07-27,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNAVCRG3,Artificial Intelligence,Gemini Enterprise,Tier 3 ➔ Tier 2,July,2026-07-27,20.0,35.0,+15.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNAVCRG3,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-27,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNAVCRG3,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,July,2026-07-27,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNGBLHZ6,Security,Cloud Security,Tier 4 ➔ Tier 3,July,2026-07-27,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNJAEOJ1,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-28,18.0,23.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNSDBFI1,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,July,2026-07-28,16.0,21.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNABNER2,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-29,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNMFTDU1,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-29,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNLGHYI9,Application Modernization,Google Kubernetes Engine,Tier 3 ➔ Tier 2,July,2026-07-29,30.0,35.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNRRSBV9,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 3 ➔ Tier 2,July,2026-07-29,30.0,35.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNPG3BT0,Artificial Intelligence,Gemini Enterprise for Customer Experience,Tier 4 ➔ Tier 3,July,2026-07-29,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNSSJSM9,Artificial Intelligence,Gemini Enterprise for Customer Experience,Tier 4 ➔ Tier 3,July,2026-07-29,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNNMSSY0,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 2 ➔ Tier 1,July,2026-07-29,49.0,54.0,+5.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
+KYNMTEMB0,Artificial Intelligence,Gemini Enterprise for Customer Experience,Tier 3 ➔ Tier 2,July,2026-07-29,30.0,35.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNASVWT4,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,July,2026-07-29,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNSSJSM9,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,July,2026-07-29,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNRRSBV9,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 3 ➔ Tier 2,July,2026-07-29,30.0,35.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNSSJSM9,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 2 ➔ Tier 1,July,2026-07-29,49.0,54.0,+5.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
-KYNSSJSM9,Artificial Intelligence,Gemini Enterprise for Customer Experience,Tier 4 ➔ Tier 3,July,2026-07-29,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNMTEMB0,Artificial Intelligence,Gemini Enterprise for Customer Experience,Tier 3 ➔ Tier 2,July,2026-07-29,30.0,35.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNPG3BT0,Artificial Intelligence,Gemini Enterprise for Customer Experience,Tier 4 ➔ Tier 3,July,2026-07-29,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNFBCJC6,Databases,Spanner,Tier 4 ➔ Tier 3,July,2026-07-29,19.0,29.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNFBCJC6,Databases,Cloud SQL,Tier 3 ➔ Tier 2,July,2026-07-29,34.0,39.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNADHLY3,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,July,2026-07-29,20.0,40.0,+20.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNIGKHW3,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-29,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNEREWQ7,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,July,2026-07-29,25.0,45.0,+20.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNLTTOY1,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-29,14.0,34.0,+20.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNSSJSM9,Infrastructure Modernization,Google Cloud VMware Engine,Tier 4 ➔ Tier 3,July,2026-07-29,19.0,29.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNCMZVD5,Infrastructure Modernization,Google Cloud VMware Engine,Tier 4 ➔ Tier 3,July,2026-07-29,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNABNER2,Infrastructure Modernization,Google Cloud VMware Engine,Tier 4 ➔ Tier 3,July,2026-07-29,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNGBRRO8,Infrastructure Modernization,Google Cloud VMware Engine,Tier 4 ➔ Tier 3,July,2026-07-29,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNFLUKR9,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,July,2026-07-29,25.0,45.0,+20.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNAGMWL5,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,July,2026-07-29,34.0,39.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNGBBMA9,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,July,2026-07-29,34.0,49.0,+15.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNIGKHW3,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-29,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNGBBMA9,Infrastructure Modernization,Google Cloud VMware Engine,Tier 4 ➔ Tier 3,July,2026-07-29,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNEPJSV4,Infrastructure Modernization,Google Cloud VMware Engine,Tier 4 ➔ Tier 3,July,2026-07-29,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNEREWQ7,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,July,2026-07-29,25.0,45.0,+20.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNBTATT6,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-29,19.0,29.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNLTTOY1,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-29,14.0,34.0,+20.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNDURTO5,Infrastructure Modernization,Google Cloud VMware Engine,Tier 4 ➔ Tier 3,July,2026-07-29,10.0,20.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNABNER2,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,July,2026-07-29,39.0,54.0,+15.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
 KYNMFTDU1,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,July,2026-07-29,20.0,40.0,+20.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNFLUKR9,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,July,2026-07-29,25.0,45.0,+20.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNPWYDB6,Infrastructure Modernization,Google Cloud Networking,Tier 3 ➔ Tier 2,July,2026-07-29,34.0,39.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNABNER2,Infrastructure Modernization,Google Cloud VMware Engine,Tier 4 ➔ Tier 3,July,2026-07-29,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNSSJSM9,Infrastructure Modernization,Google Cloud VMware Engine,Tier 4 ➔ Tier 3,July,2026-07-29,19.0,29.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNGBRRO8,Infrastructure Modernization,Google Cloud VMware Engine,Tier 4 ➔ Tier 3,July,2026-07-29,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNCMZVD5,Infrastructure Modernization,Google Cloud VMware Engine,Tier 4 ➔ Tier 3,July,2026-07-29,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNEPJSV4,Infrastructure Modernization,Google Cloud VMware Engine,Tier 4 ➔ Tier 3,July,2026-07-29,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNADHLY3,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,July,2026-07-29,20.0,40.0,+20.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNDURTO5,Infrastructure Modernization,Google Cloud VMware Engine,Tier 4 ➔ Tier 3,July,2026-07-29,10.0,20.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNGBBMA9,Infrastructure Modernization,Google Cloud VMware Engine,Tier 4 ➔ Tier 3,July,2026-07-29,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNPWYDB6,Security,Cloud Security,Tier 4 ➔ Tier 3,July,2026-07-29,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNLGHYI9,Security,Cloud Security,Tier 4 ➔ Tier 3,July,2026-07-29,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNEREWQ7,Security,Cloud Security,Tier 4 ➔ Tier 3,July,2026-07-29,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNPWYDB6,Security,Cloud Security,Tier 4 ➔ Tier 3,July,2026-07-29,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNFBCJC6,Databases,Spanner,Tier 3 ➔ Tier 2,July,2026-07-30,29.0,49.0,+20.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNIGKHW3,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,July,2026-07-30,25.0,35.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNNMSSY0,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,July,2026-07-30,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
@@ -396,69 +396,69 @@ KYNNMSSY0,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,J
 KYNGSERE1,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,August,2026-08-02,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNARJQC8,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,August,2026-08-02,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNASVWT4,Artificial Intelligence,Gemini Enterprise,Tier 3 ➔ Tier 2,August,2026-08-02,25.0,35.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNPSJTN3,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,August,2026-08-02,14.0,29.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNARXFP1,Artificial Intelligence,AI Applications,Tier 4 ➔ Tier 3,August,2026-08-02,18.0,23.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNARXFP1,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,August,2026-08-02,18.0,28.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNCBXPT5,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,August,2026-08-02,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNBTATT6,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,August,2026-08-02,34.0,39.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNFBCJC6,Infrastructure Modernization,Oracle,Tier 4 ➔ Tier 3,August,2026-08-02,19.0,29.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNARXFP1,Artificial Intelligence,AI Applications,Tier 4 ➔ Tier 3,August,2026-08-02,18.0,23.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNPSJTN3,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,August,2026-08-02,14.0,29.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNARXFP1,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,August,2026-08-02,18.0,28.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNGKIEV4,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,August,2026-08-02,30.0,40.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNFBCJC6,Infrastructure Modernization,Oracle,Tier 4 ➔ Tier 3,August,2026-08-02,19.0,29.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNBTATT6,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,August,2026-08-02,34.0,39.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNECIJU1,Security,Cloud Security,Tier 4 ➔ Tier 3,August,2026-08-02,18.0,23.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNIBQAQ2,Data & Analytics,Looker,Tier 4 ➔ Tier 3,August,2026-08-03,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNMTEMB0,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,August,2026-08-04,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNRKRIE1,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 3 ➔ Tier 2,August,2026-08-04,34.0,44.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNKKRSG1,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 3 ➔ Tier 2,August,2026-08-04,30.0,40.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNVSPMJ3,Artificial Intelligence,Gemini Enterprise,Tier 3 ➔ Tier 2,August,2026-08-04,29.0,39.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNVSPMJ3,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,August,2026-08-04,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNKKRSG1,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 3 ➔ Tier 2,August,2026-08-04,30.0,40.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNRKRIE1,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 3 ➔ Tier 2,August,2026-08-04,34.0,44.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNVSPMJ3,Infrastructure Modernization,Google Cloud VMware Engine,Tier 4 ➔ Tier 3,August,2026-08-04,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNMTEMB0,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,August,2026-08-04,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNSSFOX3,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,August,2026-08-04,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNMPEYN8,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,August,2026-08-05,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNSRITJ1,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,August,2026-08-05,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNDM0DB1,Application Modernization,Cloud Run,Tier 4 ➔ Tier 3,August,2026-08-05,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNMPEYN8,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,August,2026-08-05,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNPWYDB6,Application Modernization,Google Kubernetes Engine,Tier 3 ➔ Tier 2,August,2026-08-05,29.0,39.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNRHMKP9,Application Modernization,Cloud Run,Tier 4 ➔ Tier 3,August,2026-08-05,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNMHGQS0,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,August,2026-08-05,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNDM0DB1,Application Modernization,Cloud Run,Tier 4 ➔ Tier 3,August,2026-08-05,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNPWYDB6,Application Modernization,Cloud Run,Tier 4 ➔ Tier 3,August,2026-08-05,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNAHHXH7,Application Modernization,Cloud Run,Tier 4 ➔ Tier 3,August,2026-08-05,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNMPEYN8,Application Modernization,Cloud Run,Tier 4 ➔ Tier 3,August,2026-08-05,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNRHMKP9,Application Modernization,Cloud Run,Tier 4 ➔ Tier 3,August,2026-08-05,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNSSXXI6,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,August,2026-08-05,11.0,21.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNMPEYN8,Application Modernization,Cloud Run,Tier 4 ➔ Tier 3,August,2026-08-05,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNRHMKP9,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 3 ➔ Tier 2,August,2026-08-05,24.0,39.0,+15.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNAHHXH7,Data & Analytics,Dataflow,Tier 4 ➔ Tier 3,August,2026-08-05,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNSSXXI6,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,August,2026-08-05,11.0,26.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNMPEYN8,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,August,2026-08-05,15.0,30.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNPWYDB6,Data & Analytics,Dataproc,Tier 4 ➔ Tier 3,August,2026-08-05,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNRHMKP9,Data & Analytics,Dataflow,Tier 3 ➔ Tier 2,August,2026-08-05,34.0,44.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNAHHXH7,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,August,2026-08-05,19.0,34.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNRHMKP9,Data & Analytics,BigQuery,Tier 3 ➔ Tier 2,August,2026-08-05,29.0,44.0,+15.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNDM0DB1,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,August,2026-08-05,15.0,30.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNPWYDB6,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,August,2026-08-05,14.0,29.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNAHHXH7,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,August,2026-08-05,19.0,34.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNAHHXH7,Data & Analytics,Dataflow,Tier 4 ➔ Tier 3,August,2026-08-05,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNRHMKP9,Data & Analytics,Dataflow,Tier 3 ➔ Tier 2,August,2026-08-05,34.0,44.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNMPEYN8,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,August,2026-08-05,15.0,30.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNRHMKP9,Data & Analytics,BigQuery,Tier 3 ➔ Tier 2,August,2026-08-05,29.0,44.0,+15.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNPWYDB6,Data & Analytics,Dataproc,Tier 4 ➔ Tier 3,August,2026-08-05,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNSSXXI6,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,August,2026-08-05,11.0,26.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNSSXXI6,Databases,Cloud SQL,Tier 4 ➔ Tier 3,August,2026-08-05,11.0,26.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNMPEYN8,Databases,Cloud SQL,Tier 4 ➔ Tier 3,August,2026-08-05,15.0,30.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNPWYDB6,Databases,Cloud SQL,Tier 4 ➔ Tier 3,August,2026-08-05,14.0,29.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNRHMKP9,Databases,Cloud SQL,Tier 4 ➔ Tier 3,August,2026-08-05,19.0,34.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNDM0DB1,Databases,Cloud SQL,Tier 4 ➔ Tier 3,August,2026-08-05,15.0,30.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNSSXXI6,Databases,Cloud SQL,Tier 4 ➔ Tier 3,August,2026-08-05,11.0,26.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNAHHXH7,Databases,Cloud SQL,Tier 4 ➔ Tier 3,August,2026-08-05,19.0,34.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNRHMKP9,Infrastructure Modernization,Google Cloud VMware Engine,Tier 4 ➔ Tier 3,August,2026-08-05,19.0,34.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNMHGQS0,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,August,2026-08-05,20.0,45.0,+25.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNAVVFE1,Infrastructure Modernization,Google Cloud Networking,Tier 3 ➔ Tier 2,August,2026-08-05,27.0,37.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNDKXKB2,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,August,2026-08-05,10.0,20.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNPWYDB6,Databases,Cloud SQL,Tier 4 ➔ Tier 3,August,2026-08-05,14.0,29.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNMPEYN8,Databases,Cloud SQL,Tier 4 ➔ Tier 3,August,2026-08-05,15.0,30.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNDM0DB1,Databases,Cloud SQL,Tier 4 ➔ Tier 3,August,2026-08-05,15.0,30.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNDM0DB1,Infrastructure Modernization,Google Cloud VMware Engine,Tier 4 ➔ Tier 3,August,2026-08-05,15.0,30.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNMPEYN8,Infrastructure Modernization,Google Cloud VMware Engine,Tier 4 ➔ Tier 3,August,2026-08-05,15.0,30.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNSSXXI6,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,August,2026-08-05,11.0,21.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNAVVFE1,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,August,2026-08-05,22.0,47.0,+25.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNPWYDB6,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,August,2026-08-05,39.0,64.0,+25.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
+KYNMHGQS0,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,August,2026-08-05,20.0,45.0,+25.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNYHF880,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,August,2026-08-05,5.0,20.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNDM0DB1,Infrastructure Modernization,Google Cloud Networking,Tier 3 ➔ Tier 2,August,2026-08-05,25.0,35.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNRHMKP9,Infrastructure Modernization,Google Cloud VMware Engine,Tier 4 ➔ Tier 3,August,2026-08-05,19.0,34.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNRHMKP9,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,August,2026-08-05,19.0,29.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNPWYDB6,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,August,2026-08-05,39.0,64.0,+25.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
+KYNAHHXH7,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,August,2026-08-05,39.0,64.0,+25.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
+KYNDKXKB2,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,August,2026-08-05,10.0,20.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNLKKLE3,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,August,2026-08-05,5.0,30.0,+25.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNSRITJ1,Infrastructure Modernization,Google Cloud Networking,Tier 3 ➔ Tier 2,August,2026-08-05,34.0,39.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNAVVFE1,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,August,2026-08-05,22.0,47.0,+25.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNDKXKB2,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,August,2026-08-05,10.0,25.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNSSXXI6,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,August,2026-08-05,11.0,21.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNAVVFE1,Infrastructure Modernization,Google Cloud Networking,Tier 3 ➔ Tier 2,August,2026-08-05,27.0,37.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNAHHXH7,Infrastructure Modernization,Google Cloud VMware Engine,Tier 3 ➔ Tier 2,August,2026-08-05,34.0,49.0,+15.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNRLTJW8,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,August,2026-08-05,18.0,23.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNAHHXH7,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,August,2026-08-05,39.0,64.0,+25.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
-KYNDM0DB1,Infrastructure Modernization,Google Cloud VMware Engine,Tier 4 ➔ Tier 3,August,2026-08-05,15.0,30.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNSRITJ1,Infrastructure Modernization,Google Cloud Networking,Tier 3 ➔ Tier 2,August,2026-08-05,34.0,39.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNDM0DB1,Infrastructure Modernization,Google Cloud Networking,Tier 3 ➔ Tier 2,August,2026-08-05,25.0,35.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNRHMKP9,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,August,2026-08-05,19.0,29.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNLKKLE3,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,August,2026-08-05,5.0,30.0,+25.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNAHHXH7,Security,Security Operations,Tier 3 ➔ Tier 2,August,2026-08-05,34.0,39.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNRLTJW8,Security,Cloud Security,Tier 4 ➔ Tier 3,August,2026-08-05,18.0,23.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNAHHXH7,Security,Security Operations,Tier 3 ➔ Tier 2,August,2026-08-05,34.0,39.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNDNH2V0,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,August,2026-08-06,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNMNZXV4,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,August,2026-08-06,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNUSQVA3,Data & Analytics,Dataflow,Tier 4 ➔ Tier 3,August,2026-08-06,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
@@ -466,121 +466,121 @@ KYNYCVGA0,Infrastructure Modernization,Google Cloud Networking,Tier 3 ➔ Tier 2
 KYNSRITJ1,Security,Cloud Security,Tier 4 ➔ Tier 3,August,2026-08-06,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNNSZIX4,Security,Cloud Security,Tier 4 ➔ Tier 3,August,2026-08-06,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNLKKLE3,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,August,2026-08-07,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNMHGQS0,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,August,2026-08-07,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNTRWS10,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,August,2026-08-07,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNSKBCX2,Artificial Intelligence,AI Applications,Tier 4 ➔ Tier 3,August,2026-08-07,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNJGDYM5,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,August,2026-08-07,5.0,25.0,+20.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNSKBCX2,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,August,2026-08-07,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNRPUMF4,Artificial Intelligence,AI Applications,Tier 4 ➔ Tier 3,August,2026-08-07,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNJGDYM5,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,August,2026-08-07,5.0,25.0,+20.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNMHGQS0,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,August,2026-08-07,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNMWQGE1,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,August,2026-08-07,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNSKBCX2,Artificial Intelligence,AI Applications,Tier 4 ➔ Tier 3,August,2026-08-07,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNMPEYN8,Data & Analytics,Dataflow,Tier 4 ➔ Tier 3,August,2026-08-07,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNDM0DB1,Data & Analytics,BigQuery,Tier 3 ➔ Tier 2,August,2026-08-07,30.0,40.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNPWYDB6,Data & Analytics,BigQuery,Tier 3 ➔ Tier 2,August,2026-08-07,29.0,39.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNAHHXH7,Data & Analytics,BigQuery,Tier 3 ➔ Tier 2,August,2026-08-07,34.0,44.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNDM0DB1,Data & Analytics,Dataflow,Tier 4 ➔ Tier 3,August,2026-08-07,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNSSXXI6,Data & Analytics,Dataflow,Tier 4 ➔ Tier 3,August,2026-08-07,16.0,26.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNMWQGE1,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,August,2026-08-07,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNLKKLE3,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,August,2026-08-07,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNMHGQS0,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,August,2026-08-07,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNSSXXI6,Data & Analytics,BigQuery,Tier 3 ➔ Tier 2,August,2026-08-07,26.0,36.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNMPEYN8,Data & Analytics,BigQuery,Tier 3 ➔ Tier 2,August,2026-08-07,30.0,40.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNSKBCX2,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,August,2026-08-07,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNRHMKP9,Data & Analytics,BigQuery,Tier 2 ➔ Tier 1,August,2026-08-07,44.0,54.0,+10.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
-KYNSSXXI6,Data & Analytics,BigQuery,Tier 3 ➔ Tier 2,August,2026-08-07,26.0,36.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNSSXXI6,Data & Analytics,Dataflow,Tier 4 ➔ Tier 3,August,2026-08-07,16.0,26.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNMHGQS0,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,August,2026-08-07,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNLKKLE3,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,August,2026-08-07,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNAVVFE1,Data & Analytics,Dataflow,Tier 4 ➔ Tier 3,August,2026-08-07,17.0,22.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNDM0DB1,Data & Analytics,Dataflow,Tier 4 ➔ Tier 3,August,2026-08-07,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNPWYDB6,Data & Analytics,Dataflow,Tier 4 ➔ Tier 3,August,2026-08-07,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNMHGQS0,Databases,Cloud SQL,Tier 4 ➔ Tier 3,August,2026-08-07,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNAVVFE1,Data & Analytics,Dataflow,Tier 4 ➔ Tier 3,August,2026-08-07,17.0,22.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNAHHXH7,Data & Analytics,BigQuery,Tier 3 ➔ Tier 2,August,2026-08-07,34.0,44.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNRHMKP9,Data & Analytics,BigQuery,Tier 2 ➔ Tier 1,August,2026-08-07,44.0,54.0,+10.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
+KYNDM0DB1,Data & Analytics,BigQuery,Tier 3 ➔ Tier 2,August,2026-08-07,30.0,40.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNPWYDB6,Data & Analytics,BigQuery,Tier 3 ➔ Tier 2,August,2026-08-07,29.0,39.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNRHMKP9,Databases,Cloud SQL,Tier 3 ➔ Tier 2,August,2026-08-07,34.0,39.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNRHMKP9,Databases,Spanner,Tier 4 ➔ Tier 3,August,2026-08-07,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNMPEYN8,Databases,Spanner,Tier 4 ➔ Tier 3,August,2026-08-07,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNAHHXH7,Databases,Cloud SQL,Tier 3 ➔ Tier 2,August,2026-08-07,34.0,39.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNSKBCX2,Databases,Cloud SQL,Tier 4 ➔ Tier 3,August,2026-08-07,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNDM0DB1,Databases,Spanner,Tier 4 ➔ Tier 3,August,2026-08-07,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNMPEYN8,Databases,Cloud SQL,Tier 3 ➔ Tier 2,August,2026-08-07,30.0,35.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNAHHXH7,Databases,Spanner,Tier 4 ➔ Tier 3,August,2026-08-07,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNRHMKP9,Databases,Cloud SQL,Tier 3 ➔ Tier 2,August,2026-08-07,34.0,39.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNDM0DB1,Databases,Spanner,Tier 4 ➔ Tier 3,August,2026-08-07,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNDM0DB1,Databases,Cloud SQL,Tier 3 ➔ Tier 2,August,2026-08-07,30.0,35.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNMPEYN8,Databases,Spanner,Tier 4 ➔ Tier 3,August,2026-08-07,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNMHGQS0,Databases,Cloud SQL,Tier 4 ➔ Tier 3,August,2026-08-07,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNLKKLE3,Databases,Cloud SQL,Tier 4 ➔ Tier 3,August,2026-08-07,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNMWQGE1,Databases,Cloud SQL,Tier 4 ➔ Tier 3,August,2026-08-07,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNAHHXH7,Databases,Cloud SQL,Tier 3 ➔ Tier 2,August,2026-08-07,34.0,39.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNGBBMA9,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,August,2026-08-07,49.0,54.0,+5.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
 KYNSSXXI6,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,August,2026-08-07,36.0,51.0,+15.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
-KYNMHGQS0,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,August,2026-08-07,45.0,55.0,+10.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
-KYNEREWQ7,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,August,2026-08-07,45.0,50.0,+5.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
-KYNAVVFE1,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,August,2026-08-07,47.0,57.0,+10.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
 KYNSKBCX2,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,August,2026-08-07,25.0,35.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNFLUKR9,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,August,2026-08-07,45.0,50.0,+5.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
-KYNRHMKP9,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,August,2026-08-07,44.0,54.0,+10.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
+KYNEREWQ7,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,August,2026-08-07,45.0,50.0,+5.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
+KYNMHGQS0,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,August,2026-08-07,45.0,55.0,+10.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
 KYNLKKLE3,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,August,2026-08-07,30.0,40.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNFLUKR9,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,August,2026-08-07,45.0,50.0,+5.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
+KYNGBBMA9,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,August,2026-08-07,49.0,54.0,+5.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
+KYNAVVFE1,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,August,2026-08-07,47.0,57.0,+10.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
+KYNRHMKP9,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,August,2026-08-07,44.0,54.0,+10.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
 KYNJTXAE5,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,August,2026-08-09,9.0,29.0,+20.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNITXER3,Application Modernization,Google Kubernetes Engine,Tier 3 ➔ Tier 2,August,2026-08-09,29.0,49.0,+20.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNJPJLX0,Application Modernization,Cloud Run,Tier 4 ➔ Tier 3,August,2026-08-09,9.0,29.0,+20.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNCMDSO6,Application Modernization,Cloud Run,Tier 4 ➔ Tier 3,August,2026-08-09,5.0,20.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNCMDSO6,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,August,2026-08-09,5.0,20.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNITXER3,Application Modernization,Cloud Run,Tier 3 ➔ Tier 2,August,2026-08-09,29.0,49.0,+20.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNACIUL3,Application Modernization,Cloud Run,Tier 3 ➔ Tier 2,August,2026-08-09,24.0,39.0,+15.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNJTXAE5,Application Modernization,Cloud Run,Tier 4 ➔ Tier 3,August,2026-08-09,9.0,29.0,+20.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNACIUL3,Application Modernization,Google Kubernetes Engine,Tier 3 ➔ Tier 2,August,2026-08-09,34.0,49.0,+15.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNCBUSY4,Application Modernization,Cloud Run,Tier 4 ➔ Tier 3,August,2026-08-09,5.0,20.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNHOJXZ6,Application Modernization,Cloud Run,Tier 4 ➔ Tier 3,August,2026-08-09,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNJPJLX0,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,August,2026-08-09,9.0,29.0,+20.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNITXER3,Application Modernization,Google Kubernetes Engine,Tier 3 ➔ Tier 2,August,2026-08-09,29.0,49.0,+20.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNACIUL3,Application Modernization,Cloud Run,Tier 3 ➔ Tier 2,August,2026-08-09,24.0,39.0,+15.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNCBUSY4,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,August,2026-08-09,5.0,20.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNDNH2V3,Application Modernization,Google Kubernetes Engine,Tier 2 ➔ Tier 1,August,2026-08-09,44.0,64.0,+20.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
+KYNITXER3,Application Modernization,Cloud Run,Tier 3 ➔ Tier 2,August,2026-08-09,29.0,49.0,+20.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNHOJXZ6,Application Modernization,Cloud Run,Tier 4 ➔ Tier 3,August,2026-08-09,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNACIUL3,Application Modernization,Google Kubernetes Engine,Tier 3 ➔ Tier 2,August,2026-08-09,34.0,49.0,+15.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNCMDSO6,Application Modernization,Cloud Run,Tier 4 ➔ Tier 3,August,2026-08-09,5.0,20.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNCMDSO6,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,August,2026-08-09,5.0,20.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNJTXAE5,Application Modernization,Cloud Run,Tier 4 ➔ Tier 3,August,2026-08-09,9.0,29.0,+20.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNJPJLX0,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,August,2026-08-09,9.0,29.0,+20.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNJPJLX0,Application Modernization,Cloud Run,Tier 4 ➔ Tier 3,August,2026-08-09,9.0,29.0,+20.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNYACHQ2,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,August,2026-08-09,19.0,29.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNYACHQ2,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,August,2026-08-09,19.0,34.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNFSPMH7,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,August,2026-08-09,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNITXER3,Data & Analytics,Looker,Tier 4 ➔ Tier 3,August,2026-08-09,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNYACHQ2,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,August,2026-08-09,19.0,34.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNITXER3,Data & Analytics,Dataproc,Tier 4 ➔ Tier 3,August,2026-08-09,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNITXER3,Data & Analytics,Looker,Tier 4 ➔ Tier 3,August,2026-08-09,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNITXER3,Data & Analytics,Dataflow,Tier 4 ➔ Tier 3,August,2026-08-09,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNACIUL3,Databases,Cloud SQL,Tier 4 ➔ Tier 3,August,2026-08-09,19.0,34.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNCMDSO6,Databases,Cloud SQL,Tier 4 ➔ Tier 3,August,2026-08-09,5.0,20.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNITXER3,Databases,Cloud SQL,Tier 3 ➔ Tier 2,August,2026-08-09,24.0,44.0,+20.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNACIUL3,Databases,Cloud SQL,Tier 4 ➔ Tier 3,August,2026-08-09,19.0,34.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNCMDSO6,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,August,2026-08-09,5.0,20.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNTRWS10,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,August,2026-08-09,44.0,54.0,+10.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
 KYNDNH2V3,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,August,2026-08-09,44.0,64.0,+20.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
 KYNGETVZ1,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,August,2026-08-09,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNCMDSO6,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,August,2026-08-09,5.0,20.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNRKHCK7,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,August,2026-08-09,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNACIUL3,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,August,2026-08-09,39.0,54.0,+15.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
+KYNHOJXZ6,Infrastructure Modernization,Google Cloud Networking,Tier 3 ➔ Tier 2,August,2026-08-09,34.0,39.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNDNH2V3,Infrastructure Modernization,Google Cloud Networking,Tier 2 ➔ Tier 1,August,2026-08-09,49.0,69.0,+20.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
+KYNCMDSO6,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,August,2026-08-09,5.0,20.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNACIUL3,Infrastructure Modernization,Google Cloud Networking,Tier 2 ➔ Tier 1,August,2026-08-09,39.0,54.0,+15.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
 KYNITXER3,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,August,2026-08-09,24.0,44.0,+20.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNACIUL3,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,August,2026-08-09,39.0,54.0,+15.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
-KYNCMDSO6,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,August,2026-08-09,5.0,20.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNDNH2V3,Infrastructure Modernization,Google Cloud Networking,Tier 2 ➔ Tier 1,August,2026-08-09,49.0,69.0,+20.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
-KYNTRWS10,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,August,2026-08-09,44.0,54.0,+10.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
-KYNRKHCK7,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,August,2026-08-09,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNHOJXZ6,Infrastructure Modernization,Google Cloud Networking,Tier 3 ➔ Tier 2,August,2026-08-09,34.0,39.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNSVCRB5,Security,Cloud Security,Tier 4 ➔ Tier 3,August,2026-08-09,16.0,21.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNMMREF0,Security,Cloud Security,Tier 4 ➔ Tier 3,August,2026-08-09,17.0,22.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNSVCRB5,Security,Cloud Security,Tier 4 ➔ Tier 3,August,2026-08-09,16.0,21.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNTPMPC0,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,August,2026-08-10,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNJGDYM5,Artificial Intelligence,AI Applications,Tier 4 ➔ Tier 3,August,2026-08-11,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNPHONA2,Artificial Intelligence,Gemini Enterprise,Tier 3 ➔ Tier 2,August,2026-08-11,30.0,40.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNPHONA2,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,August,2026-08-11,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNPPTWG5,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,August,2026-08-11,10.0,20.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNPHONA2,Artificial Intelligence,Gemini Enterprise,Tier 3 ➔ Tier 2,August,2026-08-11,30.0,40.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNJGDYM5,Artificial Intelligence,AI Applications,Tier 4 ➔ Tier 3,August,2026-08-11,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNJGDYM5,Artificial Intelligence,Gemini Enterprise,Tier 3 ➔ Tier 2,August,2026-08-11,25.0,40.0,+15.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNPPTWG5,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,August,2026-08-11,10.0,20.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNLPNAT0,Application Modernization,Cloud Run,Tier 4 ➔ Tier 3,August,2026-08-12,10.0,20.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNJRQTV6,Application Modernization,Apigee API Management,Tier 4 ➔ Tier 3,August,2026-08-12,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNMVIZJ9,Application Modernization,Apigee API Management,Tier 4 ➔ Tier 3,August,2026-08-12,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNLPNAT0,Application Modernization,Apigee API Management,Tier 4 ➔ Tier 3,August,2026-08-12,10.0,20.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNITXER3,Application Modernization,Cloud Run,Tier 2 ➔ Tier 1,August,2026-08-12,49.0,70.0,+21.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
-KYNMVIZJ9,Application Modernization,Apigee API Management,Tier 4 ➔ Tier 3,August,2026-08-12,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNJRQTV6,Application Modernization,Apigee API Management,Tier 4 ➔ Tier 3,August,2026-08-12,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNITXER3,Application Modernization,Apigee API Management,Tier 4 ➔ Tier 3,August,2026-08-12,19.0,29.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNJRQTV6,Artificial Intelligence,Gemini Enterprise,Tier 2 ➔ Tier 1,August,2026-08-12,45.0,50.0,+5.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
 KYNJRQTV6,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 2 ➔ Tier 1,August,2026-08-12,45.0,50.0,+5.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
 KYNJHPHM4,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 2 ➔ Tier 1,August,2026-08-12,49.0,54.0,+5.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
-KYNJTXAE5,Data & Analytics,Looker,Tier 4 ➔ Tier 3,August,2026-08-12,9.0,34.0,+25.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNJTXAE5,Data & Analytics,Dataproc,Tier 4 ➔ Tier 3,August,2026-08-12,9.0,29.0,+20.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNMTNVB7,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,August,2026-08-12,10.0,20.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNJRQTV6,Artificial Intelligence,Gemini Enterprise,Tier 2 ➔ Tier 1,August,2026-08-12,45.0,50.0,+5.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
 KYNCBUSY4,Data & Analytics,Looker,Tier 4 ➔ Tier 3,August,2026-08-12,5.0,30.0,+25.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNITXER3,Data & Analytics,Looker,Tier 3 ➔ Tier 2,August,2026-08-12,24.0,49.0,+25.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNITXER3,Data & Analytics,Dataproc,Tier 3 ➔ Tier 2,August,2026-08-12,24.0,49.0,+25.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNJTXAE5,Data & Analytics,Dataproc,Tier 4 ➔ Tier 3,August,2026-08-12,9.0,29.0,+20.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNCBUSY4,Data & Analytics,Dataproc,Tier 4 ➔ Tier 3,August,2026-08-12,5.0,25.0,+20.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNJPJLX0,Data & Analytics,Looker,Tier 4 ➔ Tier 3,August,2026-08-12,9.0,34.0,+25.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNMMBMQ2,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,August,2026-08-12,5.0,25.0,+20.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNITXER3,Data & Analytics,Dataproc,Tier 3 ➔ Tier 2,August,2026-08-12,24.0,49.0,+25.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNJTXAE5,Data & Analytics,Looker,Tier 4 ➔ Tier 3,August,2026-08-12,9.0,34.0,+25.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNITXER3,Data & Analytics,Looker,Tier 3 ➔ Tier 2,August,2026-08-12,24.0,49.0,+25.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNMTNVB7,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,August,2026-08-12,10.0,20.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNMVIZJ9,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,August,2026-08-12,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNMMBMQ2,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,August,2026-08-12,5.0,25.0,+20.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNSTECW8,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,August,2026-08-12,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNITXER3,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,August,2026-08-12,44.0,54.0,+10.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
 KYNCBUSY4,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,August,2026-08-12,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNDNH2V3,Security,Cloud Security,Tier 3 ➔ Tier 2,August,2026-08-12,29.0,39.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNITXER3,Security,Cloud Security,Tier 3 ➔ Tier 2,August,2026-08-12,29.0,39.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNDNH2V3,Security,Cloud Security,Tier 3 ➔ Tier 2,August,2026-08-12,29.0,39.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNPCJGW8,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,August,2026-08-13,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNPSRYH5,Infrastructure Modernization,Google Cloud Networking,Tier 3 ➔ Tier 2,August,2026-08-13,33.0,38.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNSKWBQ4,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,August,2026-08-13,30.0,35.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNPSRYH5,Infrastructure Modernization,Google Cloud Networking,Tier 3 ➔ Tier 2,August,2026-08-13,33.0,38.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNVJQNC4,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,August,2026-08-14,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNJANIT9,Artificial Intelligence,Gemini Enterprise,Tier 3 ➔ Tier 2,August,2026-08-14,34.0,44.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNRKRIE1,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,August,2026-08-14,14.0,29.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNMMREF0,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,August,2026-08-14,17.0,22.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNJANIT9,Artificial Intelligence,Gemini Enterprise,Tier 3 ➔ Tier 2,August,2026-08-14,34.0,44.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNMTEMB0,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,August,2026-08-14,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNHTMEX8,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,August,2026-08-14,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNVJQNC4,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,August,2026-08-14,49.0,54.0,+5.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
@@ -595,155 +595,157 @@ KYNAKYMB8,Infrastructure Modernization,Google Cloud VMware Engine,Tier 4 ➔ Tie
 KYNSGUXI6,Security,Security Command Center,Tier 4 ➔ Tier 3,August,2026-08-18,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNNBVCV5,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,August,2026-08-19,10.0,20.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNNSBJL4,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,August,2026-08-19,10.0,20.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNAEQKN8,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,August,2026-08-19,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNNBVCV5,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,August,2026-08-19,10.0,20.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNAEQKN8,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,August,2026-08-19,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNVSPMJ3,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,August,2026-08-20,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNHKYEL0,Application Modernization,Google Kubernetes Engine,Tier 2 ➔ Tier 1,August,2026-08-20,49.0,54.0,+5.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
 KYNDKUXE4,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,August,2026-08-20,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNRRPEY1,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,August,2026-08-20,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNVSPMJ3,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,August,2026-08-20,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNDKUNN6,Application Modernization,Cloud Run,Tier 4 ➔ Tier 3,August,2026-08-20,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNRRPEY1,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,August,2026-08-20,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNMBBMU1,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,August,2026-08-20,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNGDRJD5,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,August,2026-08-20,10.0,25.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNDKUNN6,Data & Analytics,Dataflow,Tier 4 ➔ Tier 3,August,2026-08-20,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNPDPNN7,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,August,2026-08-20,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNSMVVR0,Infrastructure Modernization,Google Cloud VMware Engine,Tier 4 ➔ Tier 3,August,2026-08-20,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNUKNNC1,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,August,2026-08-20,30.0,35.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNADNLB6,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,August,2026-08-20,19.0,29.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNRRPEY1,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,August,2026-08-20,19.0,29.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNMBBMU1,Infrastructure Modernization,Google Cloud Networking,Tier 3 ➔ Tier 2,August,2026-08-20,29.0,39.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNRRRMM5,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,August,2026-08-20,49.0,59.0,+10.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
-KYNHKYEL0,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,August,2026-08-20,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNJHIFA9,Infrastructure Modernization,Google Cloud Networking,Tier 3 ➔ Tier 2,August,2026-08-20,29.0,39.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNMBBMU1,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,August,2026-08-20,34.0,44.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNRRRMM5,Infrastructure Modernization,Google Cloud VMware Engine,Tier 3 ➔ Tier 2,August,2026-08-20,34.0,39.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNDKUNN6,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,August,2026-08-20,44.0,54.0,+10.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
-KYNJHIFA9,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,August,2026-08-20,39.0,54.0,+15.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
+KYNRSXZA3,Infrastructure Modernization,Google Cloud Networking,Tier 3 ➔ Tier 2,August,2026-08-20,31.0,36.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNPDPNN7,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,August,2026-08-20,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNAPSLQ0,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,August,2026-08-20,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNSRPGS0,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,August,2026-08-20,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNSPFGM5,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,August,2026-08-20,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNRSXZA3,Infrastructure Modernization,Google Cloud Networking,Tier 3 ➔ Tier 2,August,2026-08-20,31.0,36.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNADNLB6,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,August,2026-08-20,19.0,29.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNRRRMM5,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,August,2026-08-20,49.0,59.0,+10.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
+KYNMBBMU1,Infrastructure Modernization,Google Cloud Networking,Tier 3 ➔ Tier 2,August,2026-08-20,29.0,39.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNJHIFA9,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,August,2026-08-20,39.0,54.0,+15.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
+KYNRRPEY1,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,August,2026-08-20,19.0,29.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNDKUNN6,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,August,2026-08-20,44.0,54.0,+10.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
+KYNJHIFA9,Infrastructure Modernization,Google Cloud Networking,Tier 3 ➔ Tier 2,August,2026-08-20,29.0,39.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNRRPEY1,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,August,2026-08-20,19.0,29.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNHKYEL0,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,August,2026-08-20,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNMBBMU1,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,August,2026-08-20,34.0,44.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNRRRMM5,Infrastructure Modernization,Google Cloud VMware Engine,Tier 3 ➔ Tier 2,August,2026-08-20,34.0,39.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNSPFGM5,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,August,2026-08-20,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNUKNNC1,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,August,2026-08-20,30.0,35.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNRRRMM5,Security,Cloud Security,Tier 4 ➔ Tier 3,August,2026-08-20,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNRRPEY1,Security,Cloud Security,Tier 4 ➔ Tier 3,August,2026-08-20,19.0,29.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNAWUYS0,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,August,2026-08-21,10.0,20.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNVCE721,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,August,2026-08-21,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNNPBCM8,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,August,2026-08-21,10.0,20.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNAWUYS0,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,August,2026-08-21,10.0,20.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNJSLEY6,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,August,2026-08-21,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNAWUYS0,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,August,2026-08-21,10.0,20.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNMMYQY4,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,August,2026-08-25,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNPNWBN6,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,August,2026-08-25,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNVKILE1,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,August,2026-08-25,15.0,30.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNEGLLV2,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,August,2026-08-25,10.0,30.0,+20.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNAVDLD1,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,August,2026-08-25,10.0,25.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNVKILE1,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,August,2026-08-25,15.0,30.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNTRWS10,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,August,2026-08-25,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNRLTJW8,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,August,2026-08-25,18.0,23.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNTRWS10,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,August,2026-08-25,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNTRWS10,Databases,Cloud SQL,Tier 4 ➔ Tier 3,August,2026-08-25,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNSCQLL3,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,August,2026-08-25,10.0,20.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNFF2X30,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,August,2026-08-25,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNSCQLL3,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,August,2026-08-25,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNARFWH7,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,August,2026-08-25,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNKTEZX9,Infrastructure Modernization,Google Cloud Networking,Tier 3 ➔ Tier 2,August,2026-08-25,30.0,35.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNSCQLL3,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,August,2026-08-25,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNSOPJQ4,Infrastructure Modernization,Google Cloud Networking,Tier 3 ➔ Tier 2,August,2026-08-25,30.0,35.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNSCQLL3,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,August,2026-08-25,10.0,20.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNEMPTD3,Security,Cloud Security,Tier 4 ➔ Tier 3,August,2026-08-25,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNAVDLD1,Security,Cloud Security,Tier 4 ➔ Tier 3,August,2026-08-25,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNSAURI8,Application Modernization,Cloud Run,Tier 4 ➔ Tier 3,August,2026-08-26,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNSAURI8,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,August,2026-08-26,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNSAURI8,Application Modernization,Cloud Run,Tier 4 ➔ Tier 3,August,2026-08-26,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNSAURI8,Application Modernization,Apigee API Management,Tier 4 ➔ Tier 3,August,2026-08-26,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNTRWS10,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,August,2026-08-26,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNSAURI8,Artificial Intelligence,AI Applications,Tier 4 ➔ Tier 3,August,2026-08-26,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNGBLHZ6,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,August,2026-08-26,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNSAURI8,Data & Analytics,Dataflow,Tier 4 ➔ Tier 3,August,2026-08-26,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNSAURI8,Artificial Intelligence,AI Applications,Tier 4 ➔ Tier 3,August,2026-08-26,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNTRWS10,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,August,2026-08-26,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNSAURI8,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,August,2026-08-26,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNSAURI8,Data & Analytics,Dataflow,Tier 4 ➔ Tier 3,August,2026-08-26,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNSAURI8,Data & Analytics,Dataproc,Tier 4 ➔ Tier 3,August,2026-08-26,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNSAURI8,Security,Cloud Security,Tier 4 ➔ Tier 3,August,2026-08-26,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNSAURI8,Security,Security Command Center,Tier 4 ➔ Tier 3,August,2026-08-26,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNLBALC8,Application Modernization,Cloud Run,Tier 4 ➔ Tier 3,August,2026-08-27,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNPSEDN6,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,August,2026-08-27,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNLBALC8,Infrastructure Modernization,Google Cloud VMware Engine,Tier 4 ➔ Tier 3,August,2026-08-27,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNPSEDN6,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,August,2026-08-27,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNLBALC8,Security,Cloud Security,Tier 4 ➔ Tier 3,August,2026-08-27,19.0,29.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNKPIEA8,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,August,2026-08-28,8.0,28.0,+20.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNMTFPG0,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,August,2026-08-28,17.0,22.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNEMPTD3,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,August,2026-08-28,14.0,29.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNMTFPG0,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,August,2026-08-28,17.0,22.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNAVBQE5,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,August,2026-08-28,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNPBA0S0,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,August,2026-08-28,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNPBA0S0,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,August,2026-08-28,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNDTWOR7,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,August,2026-08-28,34.0,39.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNPBA0S0,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,August,2026-08-28,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNPVJDN0,Infrastructure Modernization,Google Cloud VMware Engine,Tier 4 ➔ Tier 3,August,2026-08-28,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNDTWOR7,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,August,2026-08-28,34.0,39.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNBETVC3,Security,Cloud Security,Tier 4 ➔ Tier 3,August,2026-08-28,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNAGTAM5,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,August,2026-08-30,5.0,25.0,+20.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNSUXYB5,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,August,2026-08-30,19.0,29.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNDTWOR7,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 2 ➔ Tier 1,August,2026-08-30,44.0,54.0,+10.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
+KYNAGTAM5,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,August,2026-08-30,5.0,25.0,+20.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNMJWMY2,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,August,2026-08-30,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNDSCIC2,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,August,2026-08-30,10.0,20.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNMNZXV4,Artificial Intelligence,Gemini Enterprise,Tier 3 ➔ Tier 2,August,2026-08-30,25.0,35.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNMJWMY2,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,August,2026-08-30,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNDTWOR7,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 2 ➔ Tier 1,August,2026-08-30,44.0,54.0,+10.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
 KYNDTWOR7,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,August,2026-08-30,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNPVJDN0,Infrastructure Modernization,Google Distributed Cloud,Tier 4 ➔ Tier 3,August,2026-08-30,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNFF2X31,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,August,2026-08-30,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNCCCYT5,Infrastructure Modernization,Google Cloud Networking,Tier 3 ➔ Tier 2,August,2026-08-30,30.0,35.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNHPWJA9,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,August,2026-08-30,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNCCCYT5,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,August,2026-08-30,30.0,35.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNYIZAW9,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,August,2026-08-30,16.0,21.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNHPWJA9,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,August,2026-08-30,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNCCCYT5,Infrastructure Modernization,Google Cloud Networking,Tier 3 ➔ Tier 2,August,2026-08-30,30.0,35.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNPVJDN0,Infrastructure Modernization,Google Distributed Cloud,Tier 4 ➔ Tier 3,August,2026-08-30,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNCCCYT5,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,August,2026-08-30,30.0,35.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNRCDHG6,Application Modernization,Cloud Run,Tier 4 ➔ Tier 3,August,2026-08-31,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNDGVKH4,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,August,2026-08-31,12.0,22.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNBETVC3,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,August,2026-08-31,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNYTXOM3,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,August,2026-08-31,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNACANF7,Artificial Intelligence,GECX - CX Agent Studio,Tier 4 ➔ Tier 3,September,2026-09-01,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNAHHXH7,Artificial Intelligence,GECX - CX Agent Studio,Tier 4 ➔ Tier 3,September,2026-09-01,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNMTEMB0,Artificial Intelligence,GECX - CX Agent Studio,Tier 4 ➔ Tier 3,September,2026-09-01,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNFBCJC6,Artificial Intelligence,GECX - CX Agent Studio,Tier 3 ➔ Tier 2,September,2026-09-01,24.0,39.0,+15.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNSSZEZ0,Artificial Intelligence,GECX - CX Agent Studio,Tier 4 ➔ Tier 3,September,2026-09-01,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNMTWFE4,Artificial Intelligence,GECX - CX Agent Studio,Tier 4 ➔ Tier 3,September,2026-09-01,19.0,29.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNFBCJC6,Artificial Intelligence,GECX - CX Agent Studio,Tier 3 ➔ Tier 2,September,2026-09-01,24.0,39.0,+15.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNRIINK5,Artificial Intelligence,GECX - CX Agent Studio,Tier 4 ➔ Tier 3,September,2026-09-01,17.0,32.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNPG3BT0,Artificial Intelligence,GECX - CX Agent Studio,Tier 4 ➔ Tier 3,September,2026-09-01,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNJSFNV3,Artificial Intelligence,GECX - CX Agent Studio,Tier 4 ➔ Tier 3,September,2026-09-01,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNPLNLB3,Artificial Intelligence,GECX - CX Agent Studio,Tier 4 ➔ Tier 3,September,2026-09-01,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNPTLTP6,Artificial Intelligence,GECX - CX Agent Studio,Tier 4 ➔ Tier 3,September,2026-09-01,19.0,34.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNSAMSW3,Artificial Intelligence,GECX - CX Agent Studio,Tier 4 ➔ Tier 3,September,2026-09-01,17.0,27.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNAHHXH7,Artificial Intelligence,GECX - CX Agent Studio,Tier 4 ➔ Tier 3,September,2026-09-01,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNKSICR3,Artificial Intelligence,GECX - CX Agent Studio,Tier 4 ➔ Tier 3,September,2026-09-01,19.0,34.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNPG3BT0,Artificial Intelligence,GECX - CX Agent Studio,Tier 4 ➔ Tier 3,September,2026-09-01,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNMTWFE4,Artificial Intelligence,GECX - CX Agent Studio,Tier 4 ➔ Tier 3,September,2026-09-01,19.0,29.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNSAMSW3,Artificial Intelligence,GECX - CX Agent Studio,Tier 4 ➔ Tier 3,September,2026-09-01,17.0,27.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNPTLTP6,Artificial Intelligence,GECX - CX Agent Studio,Tier 4 ➔ Tier 3,September,2026-09-01,19.0,34.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNUSQVA3,Data & Analytics,BigQuery,Tier 2 ➔ Tier 1,September,2026-09-01,49.0,54.0,+5.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
 KYNBETVC3,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,September,2026-09-01,34.0,39.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNSKWOD9,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,September,2026-09-01,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNPSEDN6,Security,Cloud Security,Tier 4 ➔ Tier 3,September,2026-09-01,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNPWNUA5,Security,Cloud Security,Tier 4 ➔ Tier 3,September,2026-09-02,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNMDOIX5,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,September,2026-09-03,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNAJLOZ0,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,September,2026-09-03,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNACJNZ0,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,September,2026-09-03,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNAJLOZ0,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,September,2026-09-03,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNGMSP41,Application Modernization,Google Kubernetes Engine,Tier 3 ➔ Tier 2,September,2026-09-04,34.0,44.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNGMSP41,Application Modernization,Cloud Run,Tier 4 ➔ Tier 3,September,2026-09-04,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNJJLEI3,Data & Analytics,Looker,Tier 4 ➔ Tier 3,September,2026-09-04,11.0,21.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNJJLEI3,Data & Analytics,Dataflow,Tier 2 ➔ Tier 1,September,2026-09-04,41.0,51.0,+10.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
 KYNJJLEI3,Data & Analytics,BigQuery,Tier 3 ➔ Tier 2,September,2026-09-04,31.0,41.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNGMSP41,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,September,2026-09-04,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNJJLEI3,Data & Analytics,Dataproc,Tier 4 ➔ Tier 3,September,2026-09-04,11.0,21.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNJLZKJ3,Infrastructure Modernization,SAP on Google Cloud,Tier 2 ➔ Tier 1,September,2026-09-04,39.0,59.0,+20.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
+KYNGMSP41,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,September,2026-09-04,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNHCMUC3,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,September,2026-09-04,10.0,20.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNJLZKJ3,Infrastructure Modernization,Google Compute Engine,Tier 2 ➔ Tier 1,September,2026-09-04,49.0,59.0,+10.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
+KYNJLZKJ3,Infrastructure Modernization,SAP on Google Cloud,Tier 2 ➔ Tier 1,September,2026-09-04,39.0,59.0,+20.0,Tier 2,Tier 1,P20220428047,Tier Upgrade,Promoted
 KYNRGTBE9,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,September,2026-09-06,14.0,29.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNPWNUA5,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,September,2026-09-06,19.0,29.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNRGTBE9,Infrastructure Modernization,Google Distributed Cloud,Tier 4 ➔ Tier 3,September,2026-09-06,19.0,29.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNSASUN8,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,September,2026-09-07,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNRGTBE9,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,September,2026-09-07,19.0,29.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNPRCHB9,Workspace,Workspace,Tier 4 ➔ Tier 3,September,2026-09-08,15.0,25.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNHPWJA9,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,September,2026-09-09,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNFKEMZ7,Artificial Intelligence,Gemini Enterprise,Tier 3 ➔ Tier 2,September,2026-09-09,25.0,35.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNSSRZE5,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,September,2026-09-09,10.0,20.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNHPWJA9,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,September,2026-09-09,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNNS0290,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,September,2026-09-10,10.0,20.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNJGDYM5,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,September,2026-09-10,10.0,20.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNKSTDZ2,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,September,2026-09-11,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNSDMEZ5,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 3 ➔ Tier 2,September,2026-09-11,32.0,42.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNSASUN8,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 3 ➔ Tier 2,September,2026-09-11,30.0,35.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNNS0290,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 3 ➔ Tier 2,September,2026-09-11,30.0,35.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNSKSJN1,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 3 ➔ Tier 2,September,2026-09-11,30.0,40.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNKSTDZ2,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,September,2026-09-11,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNSSRZE5,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 3 ➔ Tier 2,September,2026-09-11,25.0,40.0,+15.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
-KYNAHHXH7,Infrastructure Modernization,Google Cloud Networking,Tier 3 ➔ Tier 2,September,2026-09-11,34.0,39.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNNS0290,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 3 ➔ Tier 2,September,2026-09-11,30.0,35.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNMDOIX5,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,September,2026-09-11,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNAHHXH7,Infrastructure Modernization,Google Cloud Networking,Tier 3 ➔ Tier 2,September,2026-09-11,34.0,39.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNJGMFX8,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,September,2026-09-13,14.0,24.0,+10.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNJGMFX8,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,September,2026-09-13,14.0,29.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNJGMFX8,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,September,2026-09-13,14.0,29.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNRGTBE9,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,September,2026-09-13,34.0,39.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNJGMFX8,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,September,2026-09-13,14.0,29.0,+15.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNRGTBE9,Application Modernization,Google Kubernetes Engine,Tier 3 ➔ Tier 2,September,2026-09-14,34.0,39.0,+5.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
 KYNJDMBB2,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,September,2026-09-14,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNPSJTN3,Artificial Intelligence,Gemini Enterprise,Tier 3 ➔ Tier 2,September,2026-09-14,29.0,39.0,+10.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNRGTBE9,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,September,2026-09-14,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNPSJTN3,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,September,2026-09-14,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
 KYNRSMEI0,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,September,2026-09-14,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
-KYNRGTBE9,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,September,2026-09-14,19.0,24.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted
+KYNKSTDZ2,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 3 ➔ Tier 2,September,2026-09-15,20.0,35.0,+15.0,Tier 3,Tier 2,P20220428047,Tier Upgrade,Promoted
+KYNMDOIX5,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,September,2026-09-15,15.0,20.0,+5.0,Tier 4,Tier 3,P20220428047,Tier Upgrade,Promoted

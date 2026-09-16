@@ -2,16 +2,16 @@ Pillar,Solution (Sales Play),Product,Tier 1 Profiles Count,Tier 2 Profiles Count
 Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 Application Modernization,"Migrate, Modernize and Build",Cloud Run,,2,2,🟢 Ready (2 profiles)
 Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,4,4,🟢 Ready (4 DRP / 2 wkls)
-Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,5,6,11,🟢 Ready (11 profiles)
+Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,5,7,12,🟢 Ready (12 profiles)
 Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,2,2,🟢 Ready (2 profiles)
 Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,1,1,🟢 Ready (1 profiles)
 Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
-Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,4,2,6,🟢 Ready (6 profiles)
-Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,4,2,6,🟢 Ready (6 profiles)
+Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,3,4,7,🟢 Ready (7 profiles)
+Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,3,4,7,🟢 Ready (7 profiles)
 Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,1,1,🟢 Ready (1 profiles)
-Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,4,2,6,🟢 Ready (6 profiles)
-Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,4,2,6,🟢 Ready (6 profiles)
+Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,3,4,7,🟢 Ready (7 profiles)
+Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,3,4,7,🟢 Ready (7 profiles)
 Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,2,,2,🟢 Ready (2 profiles)
 Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,,,⚪ No Active Demand
 Data & Analytics,The AI Ready Data Cloud,BigQuery,2,,2,🟢 Ready (2 profiles)
@@ -34,4 +34,4 @@ Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ 
 Security,Agentic Defense with Google Security,Security Command Center,3,,3,🟢 Ready (3 profiles)
 Security,Agentic Defense with Google Security,Security Operations,,,,⚪ No Active Demand
 Security,Secure Innovation with Google Cloud,Cloud Security,2,2,4,🟢 Ready (4 profiles)
-Workspace,Agentic Workplace Transformation,Workspace,6,5,11,🟢 Ready (11 profiles)
+Workspace,Agentic Workplace Transformation,Workspace,7,5,12,🟢 Ready (12 profiles)

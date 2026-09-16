@@ -12,17 +12,17 @@ Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterp
 Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,🔴 Gap (0 DRP / 2 wkls)
 Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,2,2,🟢 Ready (2 profiles)
 Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,2,2,🟢 Ready (2 profiles)
-Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,1,,1,🟢 Ready (1 profiles)
+Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,1,,1,🟡 Constrained (1 DRP / 3 wkls)
 Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,1,1,🟢 Ready (1 profiles)
-Data & Analytics,The AI Ready Data Cloud,BigQuery,1,,1,🟡 Constrained (1 DRP / 3 wkls)
+Data & Analytics,The AI Ready Data Cloud,BigQuery,1,,1,🟢 Ready (1 profiles)
 Data & Analytics,The AI Ready Data Cloud,Dataflow,,1,1,🟢 Ready (1 profiles)
 Data & Analytics,The AI Ready Data Cloud,Dataproc,,,,⚪ No Active Demand
 Data & Analytics,The AI Ready Data Cloud,Looker,,,,⚪ No Active Demand
 Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,,,⚪ No Active Demand
-Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,,,,⚪ No Active Demand
+Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,,,,🔴 Gap (0 DRP / 2 wkls)
 Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,,,,⚪ No Active Demand
 Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,,,⚪ No Active Demand
-Databases,The AI Ready Data Cloud,Cloud SQL,,,,🔴 Gap (0 DRP / 2 wkls)
+Databases,The AI Ready Data Cloud,Cloud SQL,,,,⚪ No Active Demand
 Databases,The AI Ready Data Cloud,Spanner,,,,⚪ No Active Demand
 Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,,,⚪ No Active Demand
 Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,,,⚪ No Active Demand
