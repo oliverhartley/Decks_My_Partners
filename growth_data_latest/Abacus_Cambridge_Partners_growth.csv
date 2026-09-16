@@ -20,7 +20,7 @@ Customer Account Name,Workload Name,Annual Gross Revenue (ARR USD),Stage Movemen
 ,,,,,,,,,,,,,
 "2. DRP GROWTH: PRACTITIONER TIER PROMOTIONS (T4➔T3, T3➔T2, T2➔T1)",,,,,,,,,,,,,
 Tier Transition,July Upgrades,August Upgrades,September Upgrades,Q3 Total Upgrades,Unique Profiles,July % Share,August % Share,September % Share,Top Practice Area,Top Product,Growth Velocity,DRP Partner Key,Status
-Tier 4 ➔ Tier 3,0,2,1,3,2,0.0%,66.7%,33.3%,Artificial Intelligence,Gemini Enterprise Agent Platform,🚀 Steady,P20240324012,Active Progression
+Tier 4 ➔ Tier 3,0,2,1,3,2,0.0%,66.7%,33.3%,Artificial Intelligence,Gemini Enterprise,🚀 Steady,P20240324012,Active Progression
 Tier 3 ➔ Tier 2,0,0,0,0,0,0.0%,0.0%,0.0%,-,-,🌱 Emerging,P20240324012,No Upgrades
 Tier 2 ➔ Tier 1,0,0,0,0,0,0.0%,0.0%,0.0%,-,-,🌱 Emerging,P20240324012,No Upgrades
 TOTAL DRP TIER PROMOTIONS,0,2,1,3,2,0.0%,66.7%,33.3%,-,-,-,-,-
@@ -34,6 +34,6 @@ TOTAL,-,3,0,0,3,0,2,1,2,-,-,-,-
 ,,,,,,,,,,,,,
 PRACTITIONER PROFILES PROGRESSION DETAIL (INDIVIDUAL LEVEL TRANSITIONS),,,,,,,,,,,,,
 Profile ID,Practice Area,Product,Tier Movement,Transition Month,Transition Date,Previous Score,New Score,Score Delta,Previous Tier,New Tier,DRP Partner Key,Promotion Type,Status
-ABANARPR0,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,August,2026-08-07,15.0,30.0,+15.0,Tier 4,Tier 3,P20231019004,Tier Upgrade,Promoted
 ABANARPR0,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,August,2026-08-07,15.0,30.0,+15.0,Tier 4,Tier 3,P20231019004,Tier Upgrade,Promoted
+ABANARPR0,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,August,2026-08-07,15.0,30.0,+15.0,Tier 4,Tier 3,P20231019004,Tier Upgrade,Promoted
 ABAIFGUF8,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,September,2026-09-04,15.0,20.0,+5.0,Tier 4,Tier 3,P20231019004,Tier Upgrade,Promoted
