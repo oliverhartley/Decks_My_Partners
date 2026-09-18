@@ -81,7 +81,7 @@ Rubik,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - C
 Rubik,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
 Rubik,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 1 wkls)
 Rubik,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
-Rubik,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,🔴 Gap (0 DRP / 2 wkls)
+Rubik,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,🔴 Gap (0 DRP / 1 wkls)
 Rubik,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
 Rubik,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
 Rubik,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,,🔴 Gap (0 DRP / 1 wkls)
@@ -151,11 +151,11 @@ Tigabytes,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX
 Tigabytes,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 Tigabytes,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,1,1,🟢 Ready (1 profiles)
 Tigabytes,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
-Tigabytes,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,4,5,9,🟢 Ready (9 profiles)
-Tigabytes,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,4,5,9,🟢 Ready (9 profiles)
+Tigabytes,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,5,4,9,🟢 Ready (9 profiles)
+Tigabytes,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,5,4,9,🟢 Ready (9 profiles)
 Tigabytes,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,1,1,🟢 Ready (1 profiles)
-Tigabytes,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,4,5,9,🟢 Ready (9 profiles)
-Tigabytes,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,4,5,9,🟢 Ready (9 profiles)
+Tigabytes,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,5,4,9,🟢 Ready (9 profiles)
+Tigabytes,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,5,4,9,🟢 Ready (9 profiles)
 Tigabytes,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,2,,2,🟢 Ready (2 profiles)
 Tigabytes,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,,,⚪ No Active Demand
 Tigabytes,Data & Analytics,The AI Ready Data Cloud,BigQuery,2,,2,🟢 Ready (2 profiles)
@@ -178,11 +178,11 @@ Tigabytes,Security,Agentic Defense with Google Security,Google Threat Intelligen
 Tigabytes,Security,Agentic Defense with Google Security,Security Command Center,3,,3,🟢 Ready (3 profiles)
 Tigabytes,Security,Agentic Defense with Google Security,Security Operations,,,,⚪ No Active Demand
 Tigabytes,Security,Secure Innovation with Google Cloud,Cloud Security,2,2,4,🟢 Ready (4 profiles)
-Tigabytes,Workspace,Agentic Workplace Transformation,Workspace,7,6,13,🟢 Ready (13 profiles)
+Tigabytes,Workspace,Agentic Workplace Transformation,Workspace,8,5,13,🟢 Ready (13 profiles)
 Xertica,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,2,2,🟢 Ready (2 profiles)
 Xertica,Application Modernization,"Migrate, Modernize and Build",Cloud Run,3,4,7,🟢 Ready (7 profiles)
 Xertica,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,1,7,8,🟡 Constrained (8 DRP / 19 wkls)
-Xertica,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,9,9,18,🟡 Constrained (18 DRP / 53 wkls)
+Xertica,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,9,10,19,🟡 Constrained (19 DRP / 54 wkls)
 Xertica,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,2,1,3,🟢 Ready (3 profiles)
 Xertica,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,1,1,2,🟢 Ready (2 profiles)
 Xertica,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand

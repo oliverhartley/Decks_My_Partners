@@ -1,6 +1,6 @@
 PARTNER GROWTH & VELOCITY: WORKLOAD STAGE PROGRESSION & DRP CAPABILITY,,,,,,,,,,,,,
 "Partner: Tigabytes | Partner Engineer: Fernando Laguna | Scope: Q3 2026 (July, August, September)",,,,,,,,,,,,,
-Last Sync: 17 - Sep 2026 | Source: Concord BigQuery (Workload History & DRP Master) | Unified 14-Col Schema,,,,,,,,,,,,,
+Last Sync: 18 - Sep 2026 | Source: Concord BigQuery (Workload History & DRP Master) | Unified 14-Col Schema,,,,,,,,,,,,,
 ,,,,,,,,,,,,,
 1. WORKLOAD GROWTH: STAGE ADVANCEMENTS (0-2 ➔ 3 & 3 ➔ 4.1),,,,,,,,,,,,,
 Stage Transition,July (#),July ($ ARR),August (#),August ($ ARR),September (#),September ($ ARR),Q3 Total (#),Q3 Total ($ ARR),Share of Moved Deals,Top Pillar,Avg Deal ARR,Velocity Momentum,Status
@@ -14,10 +14,10 @@ No stage advancements recorded for this partner in Q3 2026 (July - September),,,
 ,,,,,,,,,,,,,
 "2. DRP GROWTH: PRACTITIONER TIER PROMOTIONS (T4➔T3, T3➔T2, T2➔T1)",,,,,,,,,,,,,
 Tier Transition,July Upgrades,August Upgrades,September Upgrades,Q3 Total Upgrades,Unique Profiles,July % Share,August % Share,September % Share,Top Practice Area,Top Product,Growth Velocity,DRP Partner Key,Status
-Tier 4 ➔ Tier 3,22,12,7,41,21,53.7%,29.3%,17.1%,Artificial Intelligence,Gemini Enterprise,🔥 High,P20220602092,Active Progression
+Tier 4 ➔ Tier 3,22,12,8,42,22,52.4%,28.6%,19.0%,Artificial Intelligence,Gemini Enterprise,🔥 High,P20220602092,Active Progression
 Tier 3 ➔ Tier 2,10,13,4,27,12,37.0%,48.1%,14.8%,Artificial Intelligence,Gemini Enterprise,🔥 High,P20220602092,Active Progression
-Tier 2 ➔ Tier 1,8,5,1,14,11,57.1%,35.7%,7.1%,Artificial Intelligence,Gemini Enterprise Agent Platform,🔥 High,P20220602092,Active Progression
-TOTAL DRP TIER PROMOTIONS,40,30,12,82,24,48.8%,36.6%,14.6%,-,-,-,-,-
+Tier 2 ➔ Tier 1,8,5,3,16,11,50.0%,31.2%,18.8%,Artificial Intelligence,Gemini Enterprise Agent Platform,🔥 High,P20220602092,Active Progression
+TOTAL DRP TIER PROMOTIONS,40,30,15,85,25,47.1%,35.3%,17.6%,-,-,-,-,-
 ,,,,,,,,,,,,,
 PRACTICE AREA & PRODUCT TIER PROGRESSION TABLE,,,,,,,,,,,,,
 Practice Area,Product,Tier 4 ➔ Tier 3,Tier 3 ➔ Tier 2,Tier 2 ➔ Tier 1,Total Upgrades,July Upgrades,August Upgrades,September Upgrades,Unique Profiles,DRP Partner Key,Growth Velocity Rating,Primary Upgrade Stage,Status
@@ -28,9 +28,9 @@ Artificial Intelligence,GECX - CCaaS,2,0,0,2,0,0,2,2,P20220602092,🌱 Emerging 
 Artificial Intelligence,GECX - CX Agent Studio,1,1,0,2,0,0,2,2,P20220602092,🌱 Emerging (1-2),Tier 4 ➔ Tier 3,Active
 Artificial Intelligence,GECX - CX Insights,3,0,0,3,0,0,3,3,P20220602092,🚀 Steady Growth (3-9),Tier 4 ➔ Tier 3,Active
 Artificial Intelligence,Gemini Enterprise,11,8,4,23,14,8,1,14,P20220602092,🔥 High Velocity (10+),Tier 4 ➔ Tier 3,Active
-Artificial Intelligence,Gemini Enterprise Agent Platform,5,6,5,16,8,5,3,9,P20220602092,🔥 High Velocity (10+),Tier 3 ➔ Tier 2,Active
+Artificial Intelligence,Gemini Enterprise Agent Platform,5,6,6,17,8,5,4,9,P20220602092,🔥 High Velocity (10+),Tier 3 ➔ Tier 2,Active
 Artificial Intelligence,Gemini Enterprise for Customer Experience,2,2,0,4,2,2,0,3,P20220602092,🚀 Steady Growth (3-9),Tier 4 ➔ Tier 3,Active
-Data & Analytics,BigQuery,1,0,0,1,1,0,0,1,P20220602092,🌱 Emerging (1-2),Tier 4 ➔ Tier 3,Active
+Data & Analytics,BigQuery,2,0,0,2,1,0,1,2,P20220602092,🌱 Emerging (1-2),Tier 4 ➔ Tier 3,Active
 Data & Analytics,Looker,0,0,1,1,1,0,0,1,P20220602092,🌱 Emerging (1-2),Tier 2 ➔ Tier 1,Active
 Databases,Cloud SQL,0,1,0,1,0,1,0,1,P20220602092,🌱 Emerging (1-2),Tier 3 ➔ Tier 2,Active
 Infrastructure Modernization,Google Cloud Networking,1,0,0,1,1,0,0,1,P20220602092,🌱 Emerging (1-2),Tier 4 ➔ Tier 3,Active
@@ -38,13 +38,13 @@ Infrastructure Modernization,Google Cloud VMware Engine,1,0,0,1,0,1,0,1,P2022060
 Infrastructure Modernization,Google Compute Engine,2,2,0,4,2,2,0,4,P20220602092,🚀 Steady Growth (3-9),Tier 4 ➔ Tier 3,Active
 Security,Cloud Security,1,1,0,2,0,2,0,2,P20220602092,🌱 Emerging (1-2),Tier 4 ➔ Tier 3,Active
 Security,Security Command Center,1,0,1,2,1,1,0,2,P20220602092,🌱 Emerging (1-2),Tier 4 ➔ Tier 3,Active
-Workspace,Workspace,5,4,3,12,8,4,0,8,P20220602092,🔥 High Velocity (10+),Tier 4 ➔ Tier 3,Active
-TOTAL,-,41,27,14,82,40,30,12,24,-,-,-,-
+Workspace,Workspace,5,4,4,13,8,4,1,8,P20220602092,🔥 High Velocity (10+),Tier 4 ➔ Tier 3,Active
+TOTAL,-,42,27,16,85,40,30,15,25,-,-,-,-
 ,,,,,,,,,,,,,
 PRACTITIONER PROFILES PROGRESSION DETAIL (INDIVIDUAL LEVEL TRANSITIONS),,,,,,,,,,,,,
 Profile ID,Practice Area,Product,Tier Movement,Transition Month,Transition Date,Previous Score,New Score,Score Delta,Previous Tier,New Tier,DRP Partner Key,Promotion Type,Status
-TIGARMEO8,Artificial Intelligence,Gemini Enterprise,Tier 3 ➔ Tier 2,July,2026-07-01,32.0,37.0,+5.0,Tier 3,Tier 2,P20220602092,Tier Upgrade,Promoted
 TIGJATPQ4,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,July,2026-07-01,15.0,20.0,+5.0,Tier 4,Tier 3,P20220602092,Tier Upgrade,Promoted
+TIGARMEO8,Artificial Intelligence,Gemini Enterprise,Tier 3 ➔ Tier 2,July,2026-07-01,32.0,37.0,+5.0,Tier 3,Tier 2,P20220602092,Tier Upgrade,Promoted
 TIGSMDFT3,Infrastructure Modernization,Google Compute Engine,Tier 3 ➔ Tier 2,July,2026-07-01,33.0,38.0,+5.0,Tier 3,Tier 2,P20220602092,Tier Upgrade,Promoted
 TIGLSCNG9,Artificial Intelligence,Gemini Enterprise for Customer Experience,Tier 4 ➔ Tier 3,July,2026-07-02,19.0,24.0,+5.0,Tier 4,Tier 3,P20220602092,Tier Upgrade,Promoted
 TIGCCQNL3,Workspace,Workspace,Tier 4 ➔ Tier 3,July,2026-07-07,19.0,34.0,+15.0,Tier 4,Tier 3,P20220602092,Tier Upgrade,Promoted
@@ -56,9 +56,9 @@ TIGFMGEB7,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,July,2026-
 TIGCSQQU0,Workspace,Workspace,Tier 4 ➔ Tier 3,July,2026-07-15,19.0,24.0,+5.0,Tier 4,Tier 3,P20220602092,Tier Upgrade,Promoted
 TIGCSQQU0,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,July,2026-07-17,19.0,29.0,+10.0,Tier 4,Tier 3,P20220602092,Tier Upgrade,Promoted
 TIGCSQQU0,Application Modernization,Google Kubernetes Engine,Tier 4 ➔ Tier 3,July,2026-07-22,19.0,24.0,+5.0,Tier 4,Tier 3,P20220602092,Tier Upgrade,Promoted
-TIGCAFLU5,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,July,2026-07-22,10.0,20.0,+10.0,Tier 4,Tier 3,P20220602092,Tier Upgrade,Promoted
-TIGRFRDQ2,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,July,2026-07-22,15.0,20.0,+5.0,Tier 4,Tier 3,P20220602092,Tier Upgrade,Promoted
 TIGARMEO8,Artificial Intelligence,Gemini Enterprise,Tier 2 ➔ Tier 1,July,2026-07-22,47.0,52.0,+5.0,Tier 2,Tier 1,P20220602092,Tier Upgrade,Promoted
+TIGRFRDQ2,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,July,2026-07-22,15.0,20.0,+5.0,Tier 4,Tier 3,P20220602092,Tier Upgrade,Promoted
+TIGCAFLU5,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,July,2026-07-22,10.0,20.0,+10.0,Tier 4,Tier 3,P20220602092,Tier Upgrade,Promoted
 TIGCSQQU0,Infrastructure Modernization,Google Cloud Networking,Tier 4 ➔ Tier 3,July,2026-07-22,19.0,24.0,+5.0,Tier 4,Tier 3,P20220602092,Tier Upgrade,Promoted
 TIGCSQQU0,Infrastructure Modernization,Google Compute Engine,Tier 4 ➔ Tier 3,July,2026-07-22,19.0,24.0,+5.0,Tier 4,Tier 3,P20220602092,Tier Upgrade,Promoted
 TIGUSEIP2,Security,Security Command Center,Tier 2 ➔ Tier 1,July,2026-07-22,48.0,53.0,+5.0,Tier 2,Tier 1,P20220602092,Tier Upgrade,Promoted
@@ -67,10 +67,10 @@ TIGCCJDA4,Workspace,Workspace,Tier 4 ➔ Tier 3,July,2026-07-23,15.0,25.0,+10.0,
 TIGCSQQU0,Application Modernization,Cloud Run,Tier 4 ➔ Tier 3,July,2026-07-24,19.0,24.0,+5.0,Tier 4,Tier 3,P20220602092,Tier Upgrade,Promoted
 TIGGRFYA0,Artificial Intelligence,Gemini Enterprise,Tier 3 ➔ Tier 2,July,2026-07-24,26.0,36.0,+10.0,Tier 3,Tier 2,P20220602092,Tier Upgrade,Promoted
 TIGGRFYA0,Workspace,Workspace,Tier 3 ➔ Tier 2,July,2026-07-24,31.0,46.0,+15.0,Tier 3,Tier 2,P20220602092,Tier Upgrade,Promoted
-TIGABKUE3,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,July,2026-07-25,17.0,22.0,+5.0,Tier 4,Tier 3,P20220602092,Tier Upgrade,Promoted
-TIGABKUE3,Artificial Intelligence,Gemini Enterprise for Customer Experience,Tier 4 ➔ Tier 3,July,2026-07-25,12.0,22.0,+10.0,Tier 4,Tier 3,P20220602092,Tier Upgrade,Promoted
 TIGFSCGF6,Artificial Intelligence,Gemini Enterprise,Tier 3 ➔ Tier 2,July,2026-07-25,34.0,44.0,+10.0,Tier 3,Tier 2,P20220602092,Tier Upgrade,Promoted
 TIGABKUE3,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,July,2026-07-25,17.0,22.0,+5.0,Tier 4,Tier 3,P20220602092,Tier Upgrade,Promoted
+TIGABKUE3,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,July,2026-07-25,17.0,22.0,+5.0,Tier 4,Tier 3,P20220602092,Tier Upgrade,Promoted
+TIGABKUE3,Artificial Intelligence,Gemini Enterprise for Customer Experience,Tier 4 ➔ Tier 3,July,2026-07-25,12.0,22.0,+10.0,Tier 4,Tier 3,P20220602092,Tier Upgrade,Promoted
 TIGABKUE3,Data & Analytics,Looker,Tier 2 ➔ Tier 1,July,2026-07-25,47.0,52.0,+5.0,Tier 2,Tier 1,P20220602092,Tier Upgrade,Promoted
 TIGARMEO8,Workspace,Workspace,Tier 4 ➔ Tier 3,July,2026-07-25,12.0,27.0,+15.0,Tier 4,Tier 3,P20220602092,Tier Upgrade,Promoted
 TIGPHQBE9,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 2 ➔ Tier 1,July,2026-07-26,49.0,54.0,+5.0,Tier 2,Tier 1,P20220602092,Tier Upgrade,Promoted
@@ -80,13 +80,13 @@ TIGRFRDQ2,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 3 ➔ Ti
 TIGRFRDQ2,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,July,2026-07-29,15.0,20.0,+5.0,Tier 4,Tier 3,P20220602092,Tier Upgrade,Promoted
 TIGJRZTT9,Workspace,Workspace,Tier 2 ➔ Tier 1,July,2026-07-29,49.0,54.0,+5.0,Tier 2,Tier 1,P20220602092,Tier Upgrade,Promoted
 TIGFSCGF6,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 3 ➔ Tier 2,July,2026-07-30,34.0,39.0,+5.0,Tier 3,Tier 2,P20220602092,Tier Upgrade,Promoted
+TIGCSQQU0,Artificial Intelligence,Gemini Enterprise,Tier 3 ➔ Tier 2,July,2026-07-31,34.0,39.0,+5.0,Tier 3,Tier 2,P20220602092,Tier Upgrade,Promoted
 TIGFSCGF6,Artificial Intelligence,Gemini Enterprise,Tier 2 ➔ Tier 1,July,2026-07-31,49.0,54.0,+5.0,Tier 2,Tier 1,P20220602092,Tier Upgrade,Promoted
 TIGRFRDQ2,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 2 ➔ Tier 1,July,2026-07-31,45.0,54.0,+9.0,Tier 2,Tier 1,P20220602092,Tier Upgrade,Promoted
-TIGCSQQU0,Artificial Intelligence,Gemini Enterprise,Tier 3 ➔ Tier 2,July,2026-07-31,34.0,39.0,+5.0,Tier 3,Tier 2,P20220602092,Tier Upgrade,Promoted
-TIGFMGEB7,Artificial Intelligence,Gemini Enterprise,Tier 3 ➔ Tier 2,August,2026-08-01,30.0,40.0,+10.0,Tier 3,Tier 2,P20220602092,Tier Upgrade,Promoted
 TIGFMGEB7,Artificial Intelligence,Gemini Enterprise for Customer Experience,Tier 3 ➔ Tier 2,August,2026-08-01,30.0,35.0,+5.0,Tier 3,Tier 2,P20220602092,Tier Upgrade,Promoted
-TIGFMGEB7,Artificial Intelligence,AI Applications,Tier 4 ➔ Tier 3,August,2026-08-02,15.0,20.0,+5.0,Tier 4,Tier 3,P20220602092,Tier Upgrade,Promoted
+TIGFMGEB7,Artificial Intelligence,Gemini Enterprise,Tier 3 ➔ Tier 2,August,2026-08-01,30.0,40.0,+10.0,Tier 3,Tier 2,P20220602092,Tier Upgrade,Promoted
 TIGCSQQU0,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,August,2026-08-02,14.0,24.0,+10.0,Tier 4,Tier 3,P20220602092,Tier Upgrade,Promoted
+TIGFMGEB7,Artificial Intelligence,AI Applications,Tier 4 ➔ Tier 3,August,2026-08-02,15.0,20.0,+5.0,Tier 4,Tier 3,P20220602092,Tier Upgrade,Promoted
 TIGMMMVD2,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,August,2026-08-04,19.0,29.0,+10.0,Tier 4,Tier 3,P20220602092,Tier Upgrade,Promoted
 TIGFMGEB7,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 4 ➔ Tier 3,August,2026-08-04,15.0,20.0,+5.0,Tier 4,Tier 3,P20220602092,Tier Upgrade,Promoted
 TIGFMGEB7,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 3 ➔ Tier 2,August,2026-08-06,30.0,35.0,+5.0,Tier 3,Tier 2,P20220602092,Tier Upgrade,Promoted
@@ -94,9 +94,9 @@ TIGMIMHS2,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,August,202
 TIGCSQQU0,Artificial Intelligence,Gemini Enterprise,Tier 2 ➔ Tier 1,August,2026-08-08,49.0,59.0,+10.0,Tier 2,Tier 1,P20220602092,Tier Upgrade,Promoted
 TIGCSQQU0,Security,Cloud Security,Tier 4 ➔ Tier 3,August,2026-08-08,19.0,24.0,+5.0,Tier 4,Tier 3,P20220602092,Tier Upgrade,Promoted
 TIGCSQQU0,Workspace,Workspace,Tier 3 ➔ Tier 2,August,2026-08-08,34.0,39.0,+5.0,Tier 3,Tier 2,P20220602092,Tier Upgrade,Promoted
-TIGLSCNG9,Artificial Intelligence,Gemini Enterprise,Tier 3 ➔ Tier 2,August,2026-08-09,34.0,49.0,+15.0,Tier 3,Tier 2,P20220602092,Tier Upgrade,Promoted
 TIGLSCNG9,Artificial Intelligence,AI Applications,Tier 4 ➔ Tier 3,August,2026-08-09,19.0,24.0,+5.0,Tier 4,Tier 3,P20220602092,Tier Upgrade,Promoted
 TIGLSCNG9,Artificial Intelligence,Gemini Enterprise for Customer Experience,Tier 3 ➔ Tier 2,August,2026-08-09,34.0,39.0,+5.0,Tier 3,Tier 2,P20220602092,Tier Upgrade,Promoted
+TIGLSCNG9,Artificial Intelligence,Gemini Enterprise,Tier 3 ➔ Tier 2,August,2026-08-09,34.0,49.0,+15.0,Tier 3,Tier 2,P20220602092,Tier Upgrade,Promoted
 TIGCERFA3,Application Modernization,Cloud Run,Tier 4 ➔ Tier 3,August,2026-08-11,19.0,24.0,+5.0,Tier 4,Tier 3,P20220602092,Tier Upgrade,Promoted
 TIGCERFA3,Databases,Cloud SQL,Tier 3 ➔ Tier 2,August,2026-08-11,34.0,39.0,+5.0,Tier 3,Tier 2,P20220602092,Tier Upgrade,Promoted
 TIGFMGEB7,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 2 ➔ Tier 1,August,2026-08-12,35.0,50.0,+15.0,Tier 2,Tier 1,P20220602092,Tier Upgrade,Promoted
@@ -113,15 +113,18 @@ TIGGRFYA0,Artificial Intelligence,Gemini Enterprise,Tier 2 ➔ Tier 1,August,202
 TIGJATPQ4,Security,Security Command Center,Tier 4 ➔ Tier 3,August,2026-08-20,10.0,20.0,+10.0,Tier 4,Tier 3,P20220602092,Tier Upgrade,Promoted
 TIGGRFYA0,Workspace,Workspace,Tier 2 ➔ Tier 1,August,2026-08-20,46.0,51.0,+5.0,Tier 2,Tier 1,P20220602092,Tier Upgrade,Promoted
 TIGICDMG4,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,August,2026-08-26,10.0,20.0,+10.0,Tier 4,Tier 3,P20220602092,Tier Upgrade,Promoted
-TIGLSCNG9,Artificial Intelligence,GECX - CX Agent Studio,Tier 3 ➔ Tier 2,September,2026-09-01,24.0,39.0,+15.0,Tier 3,Tier 2,P20220602092,Tier Upgrade,Promoted
-TIGFMGEB7,Artificial Intelligence,GECX - CX Insights,Tier 4 ➔ Tier 3,September,2026-09-01,15.0,20.0,+5.0,Tier 4,Tier 3,P20220602092,Tier Upgrade,Promoted
-TIGLSCNG9,Artificial Intelligence,GECX - CX Insights,Tier 4 ➔ Tier 3,September,2026-09-01,19.0,24.0,+5.0,Tier 4,Tier 3,P20220602092,Tier Upgrade,Promoted
-TIGFMGEB7,Artificial Intelligence,GECX - CX Agent Studio,Tier 4 ➔ Tier 3,September,2026-09-01,15.0,25.0,+10.0,Tier 4,Tier 3,P20220602092,Tier Upgrade,Promoted
-TIGPHQBE9,Artificial Intelligence,GECX - CCaaS,Tier 4 ➔ Tier 3,September,2026-09-01,19.0,24.0,+5.0,Tier 4,Tier 3,P20220602092,Tier Upgrade,Promoted
 TIGPHQBE9,Artificial Intelligence,GECX - CX Insights,Tier 4 ➔ Tier 3,September,2026-09-01,19.0,24.0,+5.0,Tier 4,Tier 3,P20220602092,Tier Upgrade,Promoted
+TIGLSCNG9,Artificial Intelligence,GECX - CX Agent Studio,Tier 3 ➔ Tier 2,September,2026-09-01,24.0,39.0,+15.0,Tier 3,Tier 2,P20220602092,Tier Upgrade,Promoted
+TIGFMGEB7,Artificial Intelligence,GECX - CX Agent Studio,Tier 4 ➔ Tier 3,September,2026-09-01,15.0,25.0,+10.0,Tier 4,Tier 3,P20220602092,Tier Upgrade,Promoted
+TIGFMGEB7,Artificial Intelligence,GECX - CX Insights,Tier 4 ➔ Tier 3,September,2026-09-01,15.0,20.0,+5.0,Tier 4,Tier 3,P20220602092,Tier Upgrade,Promoted
 TIGDPBYM2,Artificial Intelligence,GECX - CCaaS,Tier 4 ➔ Tier 3,September,2026-09-01,18.0,28.0,+10.0,Tier 4,Tier 3,P20220602092,Tier Upgrade,Promoted
+TIGPHQBE9,Artificial Intelligence,GECX - CCaaS,Tier 4 ➔ Tier 3,September,2026-09-01,19.0,24.0,+5.0,Tier 4,Tier 3,P20220602092,Tier Upgrade,Promoted
+TIGLSCNG9,Artificial Intelligence,GECX - CX Insights,Tier 4 ➔ Tier 3,September,2026-09-01,19.0,24.0,+5.0,Tier 4,Tier 3,P20220602092,Tier Upgrade,Promoted
 TIGFMGEB7,Artificial Intelligence,AI Applications,Tier 3 ➔ Tier 2,September,2026-09-12,30.0,35.0,+5.0,Tier 3,Tier 2,P20220602092,Tier Upgrade,Promoted
 TIGCSQQU0,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 3 ➔ Tier 2,September,2026-09-16,34.0,49.0,+15.0,Tier 3,Tier 2,P20220602092,Tier Upgrade,Promoted
-TIGMIMHS2,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 3 ➔ Tier 2,September,2026-09-16,34.0,44.0,+10.0,Tier 3,Tier 2,P20220602092,Tier Upgrade,Promoted
 TIGRFRDQ2,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 2 ➔ Tier 1,September,2026-09-16,49.0,54.0,+5.0,Tier 2,Tier 1,P20220602092,Tier Upgrade,Promoted
 TIGFGVUR7,Artificial Intelligence,Gemini Enterprise,Tier 4 ➔ Tier 3,September,2026-09-16,5.0,20.0,+15.0,Tier 4,Tier 3,P20220602092,Tier Upgrade,Promoted
+TIGMIMHS2,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 3 ➔ Tier 2,September,2026-09-16,34.0,44.0,+10.0,Tier 3,Tier 2,P20220602092,Tier Upgrade,Promoted
+TIGCSQQU0,Artificial Intelligence,Gemini Enterprise Agent Platform,Tier 2 ➔ Tier 1,September,2026-09-17,49.0,54.0,+5.0,Tier 2,Tier 1,P20220602092,Tier Upgrade,Promoted
+TIGCCOCI9,Data & Analytics,BigQuery,Tier 4 ➔ Tier 3,September,2026-09-17,19.0,24.0,+5.0,Tier 4,Tier 3,P20220602092,Tier Upgrade,Promoted
+TIGCSQQU0,Workspace,Workspace,Tier 2 ➔ Tier 1,September,2026-09-17,44.0,59.0,+15.0,Tier 2,Tier 1,P20220602092,Tier Upgrade,Promoted
