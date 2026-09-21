@@ -110,7 +110,7 @@ Apiux Tecnologia SPA,Workspace,Agentic Workplace Transformation,Workspace,,,,⚪
 Multiedro Serviços de TI Ltda.,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 Multiedro Serviços de TI Ltda.,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
 Multiedro Serviços de TI Ltda.,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,1,1,🟢 Ready (1 DRP / 1 wkls)
-Multiedro Serviços de TI Ltda.,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,2,3,5,🟢 Ready (5 DRP / 3 wkls)
+Multiedro Serviços de TI Ltda.,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,3,3,6,🟢 Ready (6 DRP / 3 wkls)
 Multiedro Serviços de TI Ltda.,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 Multiedro Serviços de TI Ltda.,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 Multiedro Serviços de TI Ltda.,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
@@ -157,9 +157,9 @@ DATALAKERS TECNOLOGIA LTDA,Artificial Intelligence,Scale AI Apps and Agents,AI A
 DATALAKERS TECNOLOGIA LTDA,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,2,,2,🟢 Ready (2 profiles)
 DATALAKERS TECNOLOGIA LTDA,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,2,,2,🟢 Ready (2 profiles)
 DATALAKERS TECNOLOGIA LTDA,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,1,6,7,🟢 Ready (7 DRP / 3 wkls)
-DATALAKERS TECNOLOGIA LTDA,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,4,4,🟢 Ready (4 profiles)
+DATALAKERS TECNOLOGIA LTDA,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,3,3,🟢 Ready (3 profiles)
 DATALAKERS TECNOLOGIA LTDA,Data & Analytics,The AI Ready Data Cloud,BigQuery,1,6,7,🟢 Ready (7 profiles)
-DATALAKERS TECNOLOGIA LTDA,Data & Analytics,The AI Ready Data Cloud,Dataflow,,4,4,🟢 Ready (4 profiles)
+DATALAKERS TECNOLOGIA LTDA,Data & Analytics,The AI Ready Data Cloud,Dataflow,,3,3,🟢 Ready (3 profiles)
 DATALAKERS TECNOLOGIA LTDA,Data & Analytics,The AI Ready Data Cloud,Dataproc,,1,1,🟢 Ready (1 profiles)
 DATALAKERS TECNOLOGIA LTDA,Data & Analytics,The AI Ready Data Cloud,Looker,,,,⚪ No Active Demand
 DATALAKERS TECNOLOGIA LTDA,Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,,,⚪ No Active Demand
@@ -172,7 +172,7 @@ DATALAKERS TECNOLOGIA LTDA,Infrastructure Modernization,Enterprise Platform of C
 DATALAKERS TECNOLOGIA LTDA,Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,,,⚪ No Active Demand
 DATALAKERS TECNOLOGIA LTDA,Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,,,⚪ No Active Demand
 DATALAKERS TECNOLOGIA LTDA,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,,,,⚪ No Active Demand
-DATALAKERS TECNOLOGIA LTDA,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,,2,2,🟢 Ready (2 DRP / 1 wkls)
+DATALAKERS TECNOLOGIA LTDA,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,,1,1,🟢 Ready (1 DRP / 1 wkls)
 DATALAKERS TECNOLOGIA LTDA,Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
 DATALAKERS TECNOLOGIA LTDA,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
 DATALAKERS TECNOLOGIA LTDA,Security,Agentic Defense with Google Security,Security Command Center,,,,⚪ No Active Demand
@@ -244,7 +244,7 @@ SoftwareOne,Infrastructure Modernization,Enterprise Platform of Choice: Oracle,O
 SoftwareOne,Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,1,1,🟢 Ready (1 profiles)
 SoftwareOne,Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,,,⚪ No Active Demand
 SoftwareOne,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,1,15,16,🟢 Ready (16 profiles)
-SoftwareOne,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,3,11,14,🟢 Ready (14 profiles)
+SoftwareOne,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,3,12,15,🟢 Ready (15 profiles)
 SoftwareOne,Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,1,1,🟢 Ready (1 profiles)
 SoftwareOne,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
 SoftwareOne,Security,Agentic Defense with Google Security,Security Command Center,,1,1,🟢 Ready (1 profiles)
@@ -262,11 +262,11 @@ SoftwareOne Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experi
 SoftwareOne Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,1,13,14,🟢 Ready (14 DRP / 1 wkls)
 SoftwareOne Brasil,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,1,13,14,🟢 Ready (14 profiles)
 SoftwareOne Brasil,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,1,1,🟢 Ready (1 profiles)
-SoftwareOne Brasil,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,1,13,14,🟢 Ready (14 profiles)
+SoftwareOne Brasil,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,1,13,14,🟢 Ready (14 DRP / 1 wkls)
 SoftwareOne Brasil,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,1,13,14,🟢 Ready (14 profiles)
 SoftwareOne Brasil,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,1,5,6,🟢 Ready (6 profiles)
 SoftwareOne Brasil,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,3,3,🟢 Ready (3 profiles)
-SoftwareOne Brasil,Data & Analytics,The AI Ready Data Cloud,BigQuery,1,5,6,🟢 Ready (6 profiles)
+SoftwareOne Brasil,Data & Analytics,The AI Ready Data Cloud,BigQuery,1,5,6,🟢 Ready (6 DRP / 1 wkls)
 SoftwareOne Brasil,Data & Analytics,The AI Ready Data Cloud,Dataflow,,3,3,🟢 Ready (3 profiles)
 SoftwareOne Brasil,Data & Analytics,The AI Ready Data Cloud,Dataproc,,,,⚪ No Active Demand
 SoftwareOne Brasil,Data & Analytics,The AI Ready Data Cloud,Looker,,1,1,🟢 Ready (1 profiles)
@@ -280,7 +280,7 @@ SoftwareOne Brasil,Infrastructure Modernization,Enterprise Platform of Choice: O
 SoftwareOne Brasil,Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,1,1,🟢 Ready (1 profiles)
 SoftwareOne Brasil,Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,,,⚪ No Active Demand
 SoftwareOne Brasil,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,1,15,16,🟢 Ready (16 profiles)
-SoftwareOne Brasil,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,3,11,14,🟢 Ready (14 profiles)
+SoftwareOne Brasil,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,3,12,15,🟢 Ready (15 profiles)
 SoftwareOne Brasil,Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,1,1,🟢 Ready (1 profiles)
 SoftwareOne Brasil,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
 SoftwareOne Brasil,Security,Agentic Defense with Google Security,Security Command Center,,1,1,🟢 Ready (1 profiles)
@@ -970,7 +970,7 @@ Algeiba Business Solutions,Security,Agentic Defense with Google Security,Google 
 Algeiba Business Solutions,Security,Agentic Defense with Google Security,Security Command Center,1,,1,🟢 Ready (1 profiles)
 Algeiba Business Solutions,Security,Agentic Defense with Google Security,Security Operations,,,,⚪ No Active Demand
 Algeiba Business Solutions,Security,Secure Innovation with Google Cloud,Cloud Security,1,,1,🟢 Ready (1 profiles)
-Algeiba Business Solutions,Workspace,Agentic Workplace Transformation,Workspace,,1,1,🟢 Ready (1 profiles)
+Algeiba Business Solutions,Workspace,Agentic Workplace Transformation,Workspace,,,,⚪ No Active Demand
 BFS Ingeniería Aplicada,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 BFS Ingeniería Aplicada,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
 BFS Ingeniería Aplicada,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,⚪ No Active Demand
@@ -1083,18 +1083,18 @@ Tigabytes,Application Modernization,"Migrate, Modernize and Build",Apigee API Ma
 Tigabytes,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,2,2,🟢 Ready (2 profiles)
 Tigabytes,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,4,4,🟢 Ready (4 DRP / 2 wkls)
 Tigabytes,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,5,7,12,🟢 Ready (12 profiles)
-Tigabytes,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,2,2,🟢 Ready (2 profiles)
-Tigabytes,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
+Tigabytes,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,3,3,🟢 Ready (3 profiles)
+Tigabytes,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,2,2,🟢 Ready (2 profiles)
 Tigabytes,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,1,1,🟢 Ready (1 profiles)
-Tigabytes,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
+Tigabytes,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,2,2,🟢 Ready (2 profiles)
 Tigabytes,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,5,4,9,🟢 Ready (9 profiles)
 Tigabytes,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,5,4,9,🟢 Ready (9 profiles)
 Tigabytes,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,1,1,🟢 Ready (1 profiles)
 Tigabytes,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,5,4,9,🟢 Ready (9 profiles)
 Tigabytes,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,5,4,9,🟢 Ready (9 profiles)
-Tigabytes,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,2,,2,🟢 Ready (2 profiles)
+Tigabytes,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,2,1,3,🟢 Ready (3 profiles)
 Tigabytes,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,,,⚪ No Active Demand
-Tigabytes,Data & Analytics,The AI Ready Data Cloud,BigQuery,2,,2,🟢 Ready (2 profiles)
+Tigabytes,Data & Analytics,The AI Ready Data Cloud,BigQuery,2,1,3,🟢 Ready (3 profiles)
 Tigabytes,Data & Analytics,The AI Ready Data Cloud,Dataflow,,,,⚪ No Active Demand
 Tigabytes,Data & Analytics,The AI Ready Data Cloud,Dataproc,,,,⚪ No Active Demand
 Tigabytes,Data & Analytics,The AI Ready Data Cloud,Looker,2,,2,🟢 Ready (2 profiles)
@@ -1108,26 +1108,26 @@ Tigabytes,Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Ora
 Tigabytes,Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,,,⚪ No Active Demand
 Tigabytes,Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,,,⚪ No Active Demand
 Tigabytes,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,4,4,8,🟢 Ready (8 profiles)
-Tigabytes,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,4,6,10,🟢 Ready (10 profiles)
+Tigabytes,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,9,1,10,🟢 Ready (10 profiles)
 Tigabytes,Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
 Tigabytes,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
 Tigabytes,Security,Agentic Defense with Google Security,Security Command Center,3,,3,🟢 Ready (3 profiles)
 Tigabytes,Security,Agentic Defense with Google Security,Security Operations,,,,⚪ No Active Demand
 Tigabytes,Security,Secure Innovation with Google Cloud,Cloud Security,2,2,4,🟢 Ready (4 profiles)
-Tigabytes,Workspace,Agentic Workplace Transformation,Workspace,8,5,13,🟢 Ready (13 profiles)
+Tigabytes,Workspace,Agentic Workplace Transformation,Workspace,15,8,23,🟢 Ready (23 profiles)
 Xertica,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,2,2,🟢 Ready (2 profiles)
 Xertica,Application Modernization,"Migrate, Modernize and Build",Cloud Run,3,4,7,🟢 Ready (7 profiles)
 Xertica,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,1,7,8,🟡 Constrained (8 DRP / 19 wkls)
-Xertica,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,9,10,19,🟡 Constrained (19 DRP / 54 wkls)
+Xertica,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,12,8,20,🟡 Constrained (20 DRP / 55 wkls)
 Xertica,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,2,1,3,🟢 Ready (3 profiles)
 Xertica,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,1,1,2,🟢 Ready (2 profiles)
 Xertica,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
 Xertica,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,1,1,2,🟢 Ready (2 profiles)
-Xertica,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,18,17,35,🟢 Ready (35 DRP / 13 wkls)
-Xertica,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,18,17,35,🟢 Ready (35 profiles)
+Xertica,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,18,18,36,🟢 Ready (36 DRP / 14 wkls)
+Xertica,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,18,18,36,🟢 Ready (36 profiles)
 Xertica,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,9,14,23,🟢 Ready (23 DRP / 20 wkls)
-Xertica,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,18,17,35,🟢 Ready (35 profiles)
-Xertica,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,18,17,35,🟢 Ready (35 profiles)
+Xertica,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,18,18,36,🟢 Ready (36 profiles)
+Xertica,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,18,18,36,🟢 Ready (36 profiles)
 Xertica,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,15,2,17,🟢 Ready (17 DRP / 10 wkls)
 Xertica,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,3,6,9,🟢 Ready (9 DRP / 1 wkls)
 Xertica,Data & Analytics,The AI Ready Data Cloud,BigQuery,15,2,17,🟢 Ready (17 profiles)
@@ -1149,7 +1149,7 @@ Xertica,Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪
 Xertica,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,🔴 Gap (0 DRP / 2 wkls)
 Xertica,Security,Agentic Defense with Google Security,Security Command Center,5,6,11,🟢 Ready (11 DRP / 1 wkls)
 Xertica,Security,Agentic Defense with Google Security,Security Operations,,1,1,🟢 Ready (1 profiles)
-Xertica,Security,Secure Innovation with Google Cloud,Cloud Security,5,4,9,🟢 Ready (9 DRP / 1 wkls)
+Xertica,Security,Secure Innovation with Google Cloud,Cloud Security,5,4,9,🟢 Ready (9 profiles)
 Xertica,Workspace,Agentic Workplace Transformation,Workspace,40,6,46,🟢 Ready (46 DRP / 1 wkls)
 CU2 CLOUD TEC STORE SL,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 CU2 CLOUD TEC STORE SL,Application Modernization,"Migrate, Modernize and Build",Cloud Run,6,1,7,🟢 Ready (7 profiles)
@@ -1164,9 +1164,9 @@ CU2 CLOUD TEC STORE SL,Artificial Intelligence,Leverage Generative Media in your
 CU2 CLOUD TEC STORE SL,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,4,2,6,🟢 Ready (6 DRP / 1 wkls)
 CU2 CLOUD TEC STORE SL,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,6,2,8,🟢 Ready (8 profiles)
 CU2 CLOUD TEC STORE SL,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,6,2,8,🟢 Ready (8 profiles)
-CU2 CLOUD TEC STORE SL,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,11,1,12,🟢 Ready (12 DRP / 4 wkls)
+CU2 CLOUD TEC STORE SL,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,10,2,12,🟢 Ready (12 DRP / 4 wkls)
 CU2 CLOUD TEC STORE SL,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,10,2,12,🟢 Ready (12 profiles)
-CU2 CLOUD TEC STORE SL,Data & Analytics,The AI Ready Data Cloud,BigQuery,11,1,12,🟢 Ready (12 profiles)
+CU2 CLOUD TEC STORE SL,Data & Analytics,The AI Ready Data Cloud,BigQuery,10,2,12,🟢 Ready (12 profiles)
 CU2 CLOUD TEC STORE SL,Data & Analytics,The AI Ready Data Cloud,Dataflow,10,2,12,🟢 Ready (12 profiles)
 CU2 CLOUD TEC STORE SL,Data & Analytics,The AI Ready Data Cloud,Dataproc,1,,1,🟢 Ready (1 profiles)
 CU2 CLOUD TEC STORE SL,Data & Analytics,The AI Ready Data Cloud,Looker,6,,6,🟢 Ready (6 profiles)
@@ -1179,13 +1179,13 @@ CU2 CLOUD TEC STORE SL,Databases,The AI Ready Data Cloud,Spanner,,,,⚪ No Activ
 CU2 CLOUD TEC STORE SL,Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,,,⚪ No Active Demand
 CU2 CLOUD TEC STORE SL,Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,1,1,🟢 Ready (1 profiles)
 CU2 CLOUD TEC STORE SL,Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,2,7,9,🟢 Ready (9 profiles)
-CU2 CLOUD TEC STORE SL,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,11,1,12,🟢 Ready (12 profiles)
+CU2 CLOUD TEC STORE SL,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,11,,11,🟢 Ready (11 profiles)
 CU2 CLOUD TEC STORE SL,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,11,,11,🟢 Ready (11 DRP / 1 wkls)
 CU2 CLOUD TEC STORE SL,Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
 CU2 CLOUD TEC STORE SL,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
 CU2 CLOUD TEC STORE SL,Security,Agentic Defense with Google Security,Security Command Center,7,3,10,🟢 Ready (10 DRP / 1 wkls)
 CU2 CLOUD TEC STORE SL,Security,Agentic Defense with Google Security,Security Operations,3,7,10,🟢 Ready (10 DRP / 1 wkls)
-CU2 CLOUD TEC STORE SL,Security,Secure Innovation with Google Cloud,Cloud Security,10,2,12,🟢 Ready (12 profiles)
+CU2 CLOUD TEC STORE SL,Security,Secure Innovation with Google Cloud,Cloud Security,10,1,11,🟢 Ready (11 profiles)
 CU2 CLOUD TEC STORE SL,Workspace,Agentic Workplace Transformation,Workspace,2,,2,🟢 Ready (2 profiles)
 Emergys Mexico,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 Emergys Mexico,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
@@ -1241,7 +1241,7 @@ NXN Consultores,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud"
 NXN Consultores,Data & Analytics,The AI Ready Data Cloud,BigQuery,1,,1,🟢 Ready (1 profiles)
 NXN Consultores,Data & Analytics,The AI Ready Data Cloud,Dataflow,,,,⚪ No Active Demand
 NXN Consultores,Data & Analytics,The AI Ready Data Cloud,Dataproc,,,,⚪ No Active Demand
-NXN Consultores,Data & Analytics,The AI Ready Data Cloud,Looker,,1,1,🟢 Ready (1 DRP / 1 wkls)
+NXN Consultores,Data & Analytics,The AI Ready Data Cloud,Looker,,1,1,🟡 Constrained (1 DRP / 2 wkls)
 NXN Consultores,Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,,,🔴 Gap (0 DRP / 3 wkls)
 NXN Consultores,Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,,,,⚪ No Active Demand
 NXN Consultores,Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,,,,⚪ No Active Demand
@@ -1277,7 +1277,7 @@ Nubosoft Servicios,Data & Analytics,"Migrate, Modernize, and Build with Data Clo
 Nubosoft Servicios,Data & Analytics,The AI Ready Data Cloud,BigQuery,6,4,10,🟢 Ready (10 profiles)
 Nubosoft Servicios,Data & Analytics,The AI Ready Data Cloud,Dataflow,6,2,8,🟢 Ready (8 profiles)
 Nubosoft Servicios,Data & Analytics,The AI Ready Data Cloud,Dataproc,,,,⚪ No Active Demand
-Nubosoft Servicios,Data & Analytics,The AI Ready Data Cloud,Looker,7,2,9,🟢 Ready (9 DRP / 2 wkls)
+Nubosoft Servicios,Data & Analytics,The AI Ready Data Cloud,Looker,7,2,9,🟢 Ready (9 DRP / 1 wkls)
 Nubosoft Servicios,Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,1,,1,🟢 Ready (1 DRP / 1 wkls)
 Nubosoft Servicios,Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,10,3,13,🟢 Ready (13 DRP / 4 wkls)
 Nubosoft Servicios,Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,,,,⚪ No Active Demand
@@ -1293,7 +1293,7 @@ Nubosoft Servicios,Infrastructure Modernization,Sovereignty,Google Distributed C
 Nubosoft Servicios,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
 Nubosoft Servicios,Security,Agentic Defense with Google Security,Security Command Center,1,3,4,🟢 Ready (4 profiles)
 Nubosoft Servicios,Security,Agentic Defense with Google Security,Security Operations,1,2,3,🟢 Ready (3 profiles)
-Nubosoft Servicios,Security,Secure Innovation with Google Cloud,Cloud Security,5,3,8,🟢 Ready (8 DRP / 1 wkls)
+Nubosoft Servicios,Security,Secure Innovation with Google Cloud,Cloud Security,5,4,9,🟢 Ready (9 DRP / 1 wkls)
 Nubosoft Servicios,Workspace,Agentic Workplace Transformation,Workspace,18,4,22,🟢 Ready (22 profiles)
 U CLOUD STORE MÉXICO,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 U CLOUD STORE MÉXICO,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
@@ -1441,23 +1441,23 @@ Noventiq (Softline),Security,Secure Innovation with Google Cloud,Cloud Security,
 Noventiq (Softline),Workspace,Agentic Workplace Transformation,Workspace,9,2,11,🟢 Ready (11 profiles)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,1,1,🟢 Ready (1 DRP / 1 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Application Modernization,"Migrate, Modernize and Build",Cloud Run,10,15,25,🟢 Ready (25 profiles)
-INFORMACIÓN LOCALIZADA SAS (Servinformación),Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,7,12,19,🟡 Constrained (19 DRP / 48 wkls)
-INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,3,3,🟡 Constrained (3 DRP / 55 wkls)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,7,13,20,🟡 Constrained (20 DRP / 46 wkls)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,3,3,🟡 Constrained (3 DRP / 56 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,1,1,🟢 Ready (1 DRP / 1 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,🔴 Gap (0 DRP / 2 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,1,1,🟡 Constrained (1 DRP / 12 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,1,1,🟢 Ready (1 profiles)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,20,15,35,🟢 Ready (35 DRP / 22 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,20,15,35,🟢 Ready (35 profiles)
-INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Scale AI Apps and Agents,AI Applications,6,5,11,🟡 Constrained (11 DRP / 12 wkls)
-INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,20,15,35,🟢 Ready (35 profiles)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Scale AI Apps and Agents,AI Applications,6,5,11,🟡 Constrained (11 DRP / 13 wkls)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,20,15,35,🟢 Ready (35 DRP / 1 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,20,15,35,🟢 Ready (35 profiles)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,20,13,33,🟡 Constrained (33 DRP / 42 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,9,8,17,🟢 Ready (17 DRP / 3 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Data & Analytics,The AI Ready Data Cloud,BigQuery,20,13,33,🟢 Ready (33 profiles)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Data & Analytics,The AI Ready Data Cloud,Dataflow,9,8,17,🟢 Ready (17 profiles)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Data & Analytics,The AI Ready Data Cloud,Dataproc,,,,⚪ No Active Demand
-INFORMACIÓN LOCALIZADA SAS (Servinformación),Data & Analytics,The AI Ready Data Cloud,Looker,18,3,21,🟢 Ready (21 DRP / 9 wkls)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Data & Analytics,The AI Ready Data Cloud,Looker,18,3,21,🟢 Ready (21 DRP / 8 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,,,🔴 Gap (0 DRP / 3 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,,4,4,🟡 Constrained (4 DRP / 5 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,,,,🔴 Gap (0 DRP / 1 wkls)
@@ -1550,12 +1550,12 @@ Gentrop Cloud Brasil,Workspace,Agentic Workplace Transformation,Workspace,23,9,3
 QiNetwork,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,1,1,🟢 Ready (1 profiles)
 QiNetwork,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,1,1,🟢 Ready (1 profiles)
 QiNetwork,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,2,2,🟡 Constrained (2 DRP / 14 wkls)
-QiNetwork,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,5,3,8,🟡 Constrained (8 DRP / 12 wkls)
+QiNetwork,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,5,3,8,🟡 Constrained (8 DRP / 13 wkls)
 QiNetwork,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 QiNetwork,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 QiNetwork,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,🔴 Gap (0 DRP / 2 wkls)
 QiNetwork,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
-QiNetwork,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,5,1,6,🟡 Constrained (6 DRP / 10 wkls)
+QiNetwork,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,5,1,6,🟡 Constrained (6 DRP / 11 wkls)
 QiNetwork,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,5,1,6,🟢 Ready (6 profiles)
 QiNetwork,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,2,,2,🟡 Constrained (2 DRP / 3 wkls)
 QiNetwork,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,5,1,6,🟢 Ready (6 profiles)
@@ -1586,33 +1586,33 @@ QiNetwork,Workspace,Agentic Workplace Transformation,Workspace,7,2,9,🟢 Ready 
 Safetec Informática,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 Safetec Informática,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
 Safetec Informática,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,2,2,🟢 Ready (2 DRP / 1 wkls)
-Safetec Informática,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,2,6,8,🟢 Ready (8 DRP / 8 wkls)
+Safetec Informática,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,4,4,8,🟢 Ready (8 DRP / 8 wkls)
 Safetec Informática,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 Safetec Informática,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 Safetec Informática,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
 Safetec Informática,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
-Safetec Informática,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,6,6,🟢 Ready (6 DRP / 4 wkls)
-Safetec Informática,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,6,6,🟢 Ready (6 profiles)
+Safetec Informática,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,1,5,6,🟢 Ready (6 DRP / 4 wkls)
+Safetec Informática,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,1,5,6,🟢 Ready (6 profiles)
 Safetec Informática,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,🔴 Gap (0 DRP / 3 wkls)
-Safetec Informática,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,6,6,🟢 Ready (6 profiles)
-Safetec Informática,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,6,6,🟢 Ready (6 profiles)
+Safetec Informática,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,1,5,6,🟢 Ready (6 profiles)
+Safetec Informática,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,1,5,6,🟢 Ready (6 profiles)
 Safetec Informática,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,,⚪ No Active Demand
 Safetec Informática,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,2,2,🟢 Ready (2 profiles)
 Safetec Informática,Data & Analytics,The AI Ready Data Cloud,BigQuery,,,,⚪ No Active Demand
 Safetec Informática,Data & Analytics,The AI Ready Data Cloud,Dataflow,,2,2,🟢 Ready (2 profiles)
 Safetec Informática,Data & Analytics,The AI Ready Data Cloud,Dataproc,,,,⚪ No Active Demand
 Safetec Informática,Data & Analytics,The AI Ready Data Cloud,Looker,,,,🔴 Gap (0 DRP / 1 wkls)
-Safetec Informática,Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,,,🔴 Gap (0 DRP / 1 wkls)
+Safetec Informática,Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,,,🔴 Gap (0 DRP / 2 wkls)
 Safetec Informática,Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,,,,⚪ No Active Demand
 Safetec Informática,Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,,,,⚪ No Active Demand
-Safetec Informática,Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,,,🔴 Gap (0 DRP / 1 wkls)
+Safetec Informática,Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,,,⚪ No Active Demand
 Safetec Informática,Databases,The AI Ready Data Cloud,Cloud SQL,,,,⚪ No Active Demand
 Safetec Informática,Databases,The AI Ready Data Cloud,Spanner,,,,⚪ No Active Demand
 Safetec Informática,Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,,,⚪ No Active Demand
 Safetec Informática,Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,,,⚪ No Active Demand
 Safetec Informática,Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,,,⚪ No Active Demand
 Safetec Informática,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,,,,⚪ No Active Demand
-Safetec Informática,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,,,,🔴 Gap (0 DRP / 1 wkls)
+Safetec Informática,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,,,,⚪ No Active Demand
 Safetec Informática,Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
 Safetec Informática,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
 Safetec Informática,Security,Agentic Defense with Google Security,Security Command Center,1,1,2,🟢 Ready (2 profiles)
@@ -1648,7 +1648,7 @@ VPN Soluçoes em TI LTDA (Venha para Nuvem),Infrastructure Modernization,Enterpr
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,,,⚪ No Active Demand
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,,,⚪ No Active Demand
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,2,2,4,🟢 Ready (4 profiles)
-VPN Soluçoes em TI LTDA (Venha para Nuvem),Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,5,1,6,🟡 Constrained (6 DRP / 7 wkls)
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,5,1,6,🟡 Constrained (6 DRP / 8 wkls)
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Security,Agentic Defense with Google Security,Security Command Center,2,,2,🟢 Ready (2 DRP / 1 wkls)
@@ -1658,7 +1658,7 @@ VPN Soluçoes em TI LTDA (Venha para Nuvem),Workspace,Agentic Workplace Transfor
 Comercializadora Zenta Group SPA,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 Comercializadora Zenta Group SPA,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,1,1,🟢 Ready (1 profiles)
 Comercializadora Zenta Group SPA,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,1,1,🟡 Constrained (1 DRP / 7 wkls)
-Comercializadora Zenta Group SPA,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,3,3,🟡 Constrained (3 DRP / 10 wkls)
+Comercializadora Zenta Group SPA,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,3,3,🟡 Constrained (3 DRP / 9 wkls)
 Comercializadora Zenta Group SPA,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 Comercializadora Zenta Group SPA,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 Comercializadora Zenta Group SPA,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
@@ -1766,7 +1766,7 @@ Devaid SPA,Workspace,Agentic Workplace Transformation,Workspace,,,,⚪ No Active
 MadeinWeb S/A,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 MadeinWeb S/A,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
 MadeinWeb S/A,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,🔴 Gap (0 DRP / 5 wkls)
-MadeinWeb S/A,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,2,2,🟡 Constrained (2 DRP / 9 wkls)
+MadeinWeb S/A,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,3,3,🟡 Constrained (3 DRP / 9 wkls)
 MadeinWeb S/A,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 MadeinWeb S/A,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 MadeinWeb S/A,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,🔴 Gap (0 DRP / 1 wkls)
@@ -1827,7 +1827,7 @@ TIVIT COLOMBIA S A S,Databases,The AI Ready Data Cloud,Spanner,,,,⚪ No Active 
 TIVIT COLOMBIA S A S,Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,2,2,🟢 Ready (2 profiles)
 TIVIT COLOMBIA S A S,Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,4,2,6,🟢 Ready (6 profiles)
 TIVIT COLOMBIA S A S,Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,1,1,2,🟢 Ready (2 profiles)
-TIVIT COLOMBIA S A S,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,5,1,6,🟢 Ready (6 profiles)
+TIVIT COLOMBIA S A S,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,5,2,7,🟢 Ready (7 profiles)
 TIVIT COLOMBIA S A S,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,6,1,7,🟢 Ready (7 profiles)
 TIVIT COLOMBIA S A S,Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
 TIVIT COLOMBIA S A S,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
@@ -1874,7 +1874,7 @@ Tech Pulse SPA (Axmos),Workspace,Agentic Workplace Transformation,Workspace,,2,2
 IPNET (Telefônica Cloud),Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 IPNET (Telefônica Cloud),Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
 IPNET (Telefônica Cloud),Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,🔴 Gap (0 DRP / 14 wkls)
-IPNET (Telefônica Cloud),Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,🔴 Gap (0 DRP / 32 wkls)
+IPNET (Telefônica Cloud),Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,🔴 Gap (0 DRP / 35 wkls)
 IPNET (Telefônica Cloud),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 IPNET (Telefônica Cloud),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 IPNET (Telefônica Cloud),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,🔴 Gap (0 DRP / 1 wkls)
@@ -1886,7 +1886,7 @@ IPNET (Telefônica Cloud),Artificial Intelligence,Scale AI Apps and Agents,Gemin
 IPNET (Telefônica Cloud),Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
 IPNET (Telefônica Cloud),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,,🔴 Gap (0 DRP / 7 wkls)
 IPNET (Telefônica Cloud),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,,,🔴 Gap (0 DRP / 2 wkls)
-IPNET (Telefônica Cloud),Data & Analytics,The AI Ready Data Cloud,BigQuery,,,,⚪ No Active Demand
+IPNET (Telefônica Cloud),Data & Analytics,The AI Ready Data Cloud,BigQuery,,,,🔴 Gap (0 DRP / 1 wkls)
 IPNET (Telefônica Cloud),Data & Analytics,The AI Ready Data Cloud,Dataflow,,,,⚪ No Active Demand
 IPNET (Telefônica Cloud),Data & Analytics,The AI Ready Data Cloud,Dataproc,,,,⚪ No Active Demand
 IPNET (Telefônica Cloud),Data & Analytics,The AI Ready Data Cloud,Looker,,,,🔴 Gap (0 DRP / 3 wkls)
@@ -1909,20 +1909,20 @@ IPNET (Telefônica Cloud),Security,Secure Innovation with Google Cloud,Cloud Sec
 IPNET (Telefônica Cloud),Workspace,Agentic Workplace Transformation,Workspace,,,,⚪ No Active Demand
 Kyndryl Brasil,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,1,1,🟢 Ready (1 profiles)
 Kyndryl Brasil,Application Modernization,"Migrate, Modernize and Build",Cloud Run,6,5,11,🟢 Ready (11 profiles)
-Kyndryl Brasil,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,5,30,35,🟢 Ready (35 DRP / 16 wkls)
+Kyndryl Brasil,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,5,31,36,🟢 Ready (36 DRP / 16 wkls)
 Kyndryl Brasil,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,3,31,34,🟢 Ready (34 DRP / 2 wkls)
 Kyndryl Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,3,3,🟢 Ready (3 profiles)
 Kyndryl Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 Kyndryl Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,1,1,🟢 Ready (1 profiles)
 Kyndryl Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
-Kyndryl Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,11,52,63,🟢 Ready (63 DRP / 2 wkls)
-Kyndryl Brasil,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,11,52,63,🟢 Ready (63 profiles)
+Kyndryl Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,11,57,68,🟢 Ready (68 DRP / 2 wkls)
+Kyndryl Brasil,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,11,57,68,🟢 Ready (68 profiles)
 Kyndryl Brasil,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,3,11,14,🟢 Ready (14 DRP / 1 wkls)
-Kyndryl Brasil,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,11,52,63,🟢 Ready (63 profiles)
-Kyndryl Brasil,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,11,52,63,🟢 Ready (63 profiles)
-Kyndryl Brasil,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,4,24,28,🟢 Ready (28 DRP / 7 wkls)
+Kyndryl Brasil,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,11,57,68,🟢 Ready (68 profiles)
+Kyndryl Brasil,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,11,57,68,🟢 Ready (68 profiles)
+Kyndryl Brasil,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,4,25,29,🟢 Ready (29 DRP / 7 wkls)
 Kyndryl Brasil,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,2,10,12,🟢 Ready (12 profiles)
-Kyndryl Brasil,Data & Analytics,The AI Ready Data Cloud,BigQuery,4,24,28,🟢 Ready (28 profiles)
+Kyndryl Brasil,Data & Analytics,The AI Ready Data Cloud,BigQuery,4,25,29,🟢 Ready (29 profiles)
 Kyndryl Brasil,Data & Analytics,The AI Ready Data Cloud,Dataflow,2,10,12,🟢 Ready (12 profiles)
 Kyndryl Brasil,Data & Analytics,The AI Ready Data Cloud,Dataproc,,3,3,🟢 Ready (3 profiles)
 Kyndryl Brasil,Data & Analytics,The AI Ready Data Cloud,Looker,,5,5,🟢 Ready (5 DRP / 1 wkls)
@@ -1935,8 +1935,8 @@ Kyndryl Brasil,Databases,The AI Ready Data Cloud,Spanner,,3,3,🟢 Ready (3 prof
 Kyndryl Brasil,Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,1,3,4,🟢 Ready (4 profiles)
 Kyndryl Brasil,Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,2,3,5,🟢 Ready (5 profiles)
 Kyndryl Brasil,Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,1,19,20,🟢 Ready (20 DRP / 1 wkls)
-Kyndryl Brasil,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,13,72,85,🟢 Ready (85 DRP / 1 wkls)
-Kyndryl Brasil,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,60,115,175,🟢 Ready (175 profiles)
+Kyndryl Brasil,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,13,73,86,🟢 Ready (86 DRP / 1 wkls)
+Kyndryl Brasil,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,60,117,177,🟢 Ready (177 profiles)
 Kyndryl Brasil,Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,1,1,🟢 Ready (1 profiles)
 Kyndryl Brasil,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
 Kyndryl Brasil,Security,Agentic Defense with Google Security,Security Command Center,1,4,5,🟢 Ready (5 profiles)
@@ -1946,16 +1946,16 @@ Kyndryl Brasil,Workspace,Agentic Workplace Transformation,Workspace,,,,⚪ No Ac
 SantoDigital,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,1,2,3,🟢 Ready (3 profiles)
 SantoDigital,Application Modernization,"Migrate, Modernize and Build",Cloud Run,4,8,12,🟢 Ready (12 profiles)
 SantoDigital,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,4,9,13,🟡 Constrained (13 DRP / 28 wkls)
-SantoDigital,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,4,21,25,🟢 Ready (25 DRP / 19 wkls)
+SantoDigital,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,4,24,28,🟢 Ready (28 DRP / 17 wkls)
 SantoDigital,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 SantoDigital,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 SantoDigital,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,🔴 Gap (0 DRP / 4 wkls)
 SantoDigital,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
-SantoDigital,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,13,27,40,🟢 Ready (40 DRP / 15 wkls)
-SantoDigital,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,13,27,40,🟢 Ready (40 profiles)
+SantoDigital,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,13,31,44,🟢 Ready (44 DRP / 14 wkls)
+SantoDigital,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,13,31,44,🟢 Ready (44 profiles)
 SantoDigital,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,1,6,7,🟡 Constrained (7 DRP / 15 wkls)
-SantoDigital,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,13,27,40,🟢 Ready (40 profiles)
-SantoDigital,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,13,27,40,🟢 Ready (40 profiles)
+SantoDigital,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,13,31,44,🟢 Ready (44 profiles)
+SantoDigital,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,13,31,44,🟢 Ready (44 profiles)
 SantoDigital,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,7,4,11,🟡 Constrained (11 DRP / 14 wkls)
 SantoDigital,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,3,5,8,🟢 Ready (8 profiles)
 SantoDigital,Data & Analytics,The AI Ready Data Cloud,BigQuery,7,4,11,🟢 Ready (11 profiles)
@@ -1976,7 +1976,7 @@ SantoDigital,Infrastructure Modernization,"Migrate, Modernize and Build",Google 
 SantoDigital,Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
 SantoDigital,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
 SantoDigital,Security,Agentic Defense with Google Security,Security Command Center,5,5,10,🟢 Ready (10 profiles)
-SantoDigital,Security,Agentic Defense with Google Security,Security Operations,5,1,6,🟢 Ready (6 profiles)
+SantoDigital,Security,Agentic Defense with Google Security,Security Operations,5,1,6,🟢 Ready (6 DRP / 1 wkls)
 SantoDigital,Security,Secure Innovation with Google Cloud,Cloud Security,5,3,8,🟢 Ready (8 profiles)
 SantoDigital,Workspace,Agentic Workplace Transformation,Workspace,5,4,9,🟢 Ready (9 DRP / 1 wkls)
 Sauter Tecnologia,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,🔴 Gap (0 DRP / 2 wkls)

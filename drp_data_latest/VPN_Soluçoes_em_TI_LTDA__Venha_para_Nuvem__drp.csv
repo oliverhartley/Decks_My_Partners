@@ -28,7 +28,7 @@ Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,,,⚪
 Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,,,⚪ No Active Demand
 Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,,,⚪ No Active Demand
 Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,2,2,4,🟢 Ready (4 profiles)
-Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,5,1,6,🟡 Constrained (6 DRP / 7 wkls)
+Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,5,1,6,🟡 Constrained (6 DRP / 8 wkls)
 Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
 Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
 Security,Agentic Defense with Google Security,Security Command Center,2,,2,🟢 Ready (2 DRP / 1 wkls)

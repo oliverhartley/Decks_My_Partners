@@ -2,7 +2,7 @@ Partner Name,Pillar,Solution (Sales Play),Product,Tier 1 Profiles Count,Tier 2 P
 Comercializadora Zenta Group SPA,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 Comercializadora Zenta Group SPA,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,1,1,🟢 Ready (1 profiles)
 Comercializadora Zenta Group SPA,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,1,1,🟡 Constrained (1 DRP / 7 wkls)
-Comercializadora Zenta Group SPA,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,3,3,🟡 Constrained (3 DRP / 10 wkls)
+Comercializadora Zenta Group SPA,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,3,3,🟡 Constrained (3 DRP / 9 wkls)
 Comercializadora Zenta Group SPA,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 Comercializadora Zenta Group SPA,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 Comercializadora Zenta Group SPA,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
@@ -110,7 +110,7 @@ Devaid SPA,Workspace,Agentic Workplace Transformation,Workspace,,,,⚪ No Active
 MadeinWeb S/A,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 MadeinWeb S/A,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
 MadeinWeb S/A,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,🔴 Gap (0 DRP / 5 wkls)
-MadeinWeb S/A,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,2,2,🟡 Constrained (2 DRP / 9 wkls)
+MadeinWeb S/A,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,3,3,🟡 Constrained (3 DRP / 9 wkls)
 MadeinWeb S/A,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 MadeinWeb S/A,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 MadeinWeb S/A,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,🔴 Gap (0 DRP / 1 wkls)
@@ -171,7 +171,7 @@ TIVIT COLOMBIA S A S,Databases,The AI Ready Data Cloud,Spanner,,,,⚪ No Active 
 TIVIT COLOMBIA S A S,Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,2,2,🟢 Ready (2 profiles)
 TIVIT COLOMBIA S A S,Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,4,2,6,🟢 Ready (6 profiles)
 TIVIT COLOMBIA S A S,Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,1,1,2,🟢 Ready (2 profiles)
-TIVIT COLOMBIA S A S,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,5,1,6,🟢 Ready (6 profiles)
+TIVIT COLOMBIA S A S,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,5,2,7,🟢 Ready (7 profiles)
 TIVIT COLOMBIA S A S,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,6,1,7,🟢 Ready (7 profiles)
 TIVIT COLOMBIA S A S,Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
 TIVIT COLOMBIA S A S,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
