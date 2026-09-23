@@ -1,7 +1,7 @@
 Pillar,Solution (Sales Play),Product,Tier 1 Profiles Count,Tier 2 Profiles Count,Total Tier 1 & 2 Profiles,Capacity Status (DRP vs Workloads)
 Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,🔴 Gap (0 DRP / 2 wkls)
 Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
-Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,8,7,15,🟡 Constrained (15 DRP / 17 wkls)
+Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,8,7,15,🟡 Constrained (15 DRP / 18 wkls)
 Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,🔴 Gap (0 DRP / 19 wkls)
 Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
@@ -28,7 +28,7 @@ Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,,,⚪
 Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,1,1,🟢 Ready (1 profiles)
 Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,,,⚪ No Active Demand
 Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,3,11,14,🟢 Ready (14 profiles)
-Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,14,5,19,🟢 Ready (19 DRP / 3 wkls)
+Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,14,5,19,🟢 Ready (19 DRP / 4 wkls)
 Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
 Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
 Security,Agentic Defense with Google Security,Security Command Center,1,2,3,🟢 Ready (3 DRP / 2 wkls)

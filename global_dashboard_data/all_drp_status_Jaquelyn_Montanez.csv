@@ -7,7 +7,7 @@ Noventiq (Softline),Artificial Intelligence,Gemini Enterprise for Customer Exper
 Noventiq (Softline),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 Noventiq (Softline),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,🔴 Gap (0 DRP / 1 wkls)
 Noventiq (Softline),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
-Noventiq (Softline),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,8,8,🟢 Ready (8 DRP / 6 wkls)
+Noventiq (Softline),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,8,8,🟢 Ready (8 DRP / 7 wkls)
 Noventiq (Softline),Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,8,8,🟢 Ready (8 profiles)
 Noventiq (Softline),Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,🔴 Gap (0 DRP / 2 wkls)
 Noventiq (Softline),Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,8,8,🟢 Ready (8 profiles)
@@ -45,7 +45,7 @@ INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Gemini En
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,1,1,🟢 Ready (1 profiles)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,20,15,35,🟢 Ready (35 DRP / 22 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,20,15,35,🟢 Ready (35 profiles)
-INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Scale AI Apps and Agents,AI Applications,6,5,11,🟡 Constrained (11 DRP / 14 wkls)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Scale AI Apps and Agents,AI Applications,6,5,11,🟡 Constrained (11 DRP / 15 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,20,15,35,🟢 Ready (35 DRP / 1 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,20,15,35,🟢 Ready (35 profiles)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,20,13,33,🟡 Constrained (33 DRP / 42 wkls)
@@ -58,7 +58,7 @@ INFORMACIÓN LOCALIZADA SAS (Servinformación),Databases,"Migrate, Modernize, an
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,,4,4,🟡 Constrained (4 DRP / 5 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,,,,🔴 Gap (0 DRP / 1 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,,,⚪ No Active Demand
-INFORMACIÓN LOCALIZADA SAS (Servinformación),Databases,The AI Ready Data Cloud,Cloud SQL,,4,4,🟢 Ready (4 profiles)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Databases,The AI Ready Data Cloud,Cloud SQL,,4,4,🟢 Ready (4 DRP / 1 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Databases,The AI Ready Data Cloud,Spanner,,,,⚪ No Active Demand
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,,,🔴 Gap (0 DRP / 1 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,2,,2,🟢 Ready (2 profiles)
@@ -69,5 +69,5 @@ INFORMACIÓN LOCALIZADA SAS (Servinformación),Infrastructure Modernization,Sove
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Security,Agentic Defense with Google Security,Google Threat Intelligence,1,2,3,🟢 Ready (3 DRP / 3 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Security,Agentic Defense with Google Security,Security Command Center,12,3,15,🟢 Ready (15 DRP / 5 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Security,Agentic Defense with Google Security,Security Operations,7,2,9,🟢 Ready (9 DRP / 1 wkls)
-INFORMACIÓN LOCALIZADA SAS (Servinformación),Security,Secure Innovation with Google Cloud,Cloud Security,12,3,15,🟢 Ready (15 DRP / 4 wkls)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Security,Secure Innovation with Google Cloud,Cloud Security,12,3,15,🟢 Ready (15 DRP / 5 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Workspace,Agentic Workplace Transformation,Workspace,12,,12,🟢 Ready (12 profiles)
