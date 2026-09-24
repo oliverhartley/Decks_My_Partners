@@ -25,13 +25,13 @@ Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,,,⚪ No Active Demand
 Databases,The AI Ready Data Cloud,Cloud SQL,1,3,4,🟢 Ready (4 profiles)
 Databases,The AI Ready Data Cloud,Spanner,,,,⚪ No Active Demand
 Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,2,2,🟢 Ready (2 profiles)
-Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,4,2,6,🟢 Ready (6 profiles)
+Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,4,3,7,🟢 Ready (7 profiles)
 Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,1,1,2,🟢 Ready (2 profiles)
-Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,5,2,7,🟢 Ready (7 profiles)
+Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,6,1,7,🟢 Ready (7 profiles)
 Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,6,1,7,🟢 Ready (7 profiles)
 Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
 Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
 Security,Agentic Defense with Google Security,Security Command Center,5,,5,🟢 Ready (5 profiles)
 Security,Agentic Defense with Google Security,Security Operations,5,,5,🟢 Ready (5 profiles)
-Security,Secure Innovation with Google Cloud,Cloud Security,5,,5,🟢 Ready (5 profiles)
+Security,Secure Innovation with Google Cloud,Cloud Security,5,1,6,🟢 Ready (6 profiles)
 Workspace,Agentic Workplace Transformation,Workspace,,,,⚪ No Active Demand

@@ -24,7 +24,7 @@ Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,,,,⚪ No Acti
 Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,,,⚪ No Active Demand
 Databases,The AI Ready Data Cloud,Cloud SQL,,,,⚪ No Active Demand
 Databases,The AI Ready Data Cloud,Spanner,,,,⚪ No Active Demand
-Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,1,,1,🟢 Ready (1 profiles)
+Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,1,1,2,🟢 Ready (2 profiles)
 Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,,,⚪ No Active Demand
 Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,,,⚪ No Active Demand
 Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,,,,🔴 Gap (0 DRP / 1 wkls)
