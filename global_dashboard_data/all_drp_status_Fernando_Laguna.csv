@@ -9,7 +9,7 @@ Algeiba Business Solutions,Artificial Intelligence,Gemini Enterprise for Custome
 Algeiba Business Solutions,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
 Algeiba Business Solutions,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 2 wkls)
 Algeiba Business Solutions,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
-Algeiba Business Solutions,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,🔴 Gap (0 DRP / 4 wkls)
+Algeiba Business Solutions,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,🔴 Gap (0 DRP / 3 wkls)
 Algeiba Business Solutions,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
 Algeiba Business Solutions,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
 Algeiba Business Solutions,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,,⚪ No Active Demand
@@ -148,7 +148,7 @@ Tigabytes,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,2,
 Tigabytes,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,4,4,🟢 Ready (4 DRP / 2 wkls)
 Tigabytes,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,5,7,12,🟢 Ready (12 profiles)
 Tigabytes,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,3,3,🟢 Ready (3 profiles)
-Tigabytes,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,2,2,🟢 Ready (2 profiles)
+Tigabytes,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,1,1,🟢 Ready (1 profiles)
 Tigabytes,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,1,1,🟢 Ready (1 profiles)
 Tigabytes,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,2,2,🟢 Ready (2 profiles)
 Tigabytes,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,5,4,9,🟢 Ready (9 profiles)
@@ -182,19 +182,19 @@ Tigabytes,Workspace,Agentic Workplace Transformation,Workspace,15,7,22,🟢 Read
 Xertica,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,2,2,🟢 Ready (2 profiles)
 Xertica,Application Modernization,"Migrate, Modernize and Build",Cloud Run,3,4,7,🟢 Ready (7 profiles)
 Xertica,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,1,7,8,🟡 Constrained (8 DRP / 19 wkls)
-Xertica,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,13,8,21,🟡 Constrained (21 DRP / 53 wkls)
+Xertica,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,13,8,21,🟡 Constrained (21 DRP / 55 wkls)
 Xertica,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,2,1,3,🟢 Ready (3 profiles)
 Xertica,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,1,1,2,🟢 Ready (2 profiles)
 Xertica,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
 Xertica,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,1,1,2,🟢 Ready (2 profiles)
-Xertica,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,18,19,37,🟢 Ready (37 DRP / 14 wkls)
-Xertica,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,18,19,37,🟢 Ready (37 profiles)
+Xertica,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,18,20,38,🟢 Ready (38 DRP / 14 wkls)
+Xertica,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,18,20,38,🟢 Ready (38 profiles)
 Xertica,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,9,14,23,🟢 Ready (23 DRP / 20 wkls)
-Xertica,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,18,19,37,🟢 Ready (37 profiles)
-Xertica,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,18,19,37,🟢 Ready (37 profiles)
-Xertica,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,15,3,18,🟢 Ready (18 DRP / 10 wkls)
+Xertica,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,18,20,38,🟢 Ready (38 profiles)
+Xertica,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,18,20,38,🟢 Ready (38 profiles)
+Xertica,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,14,4,18,🟢 Ready (18 DRP / 10 wkls)
 Xertica,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,3,6,9,🟢 Ready (9 DRP / 1 wkls)
-Xertica,Data & Analytics,The AI Ready Data Cloud,BigQuery,15,3,18,🟢 Ready (18 profiles)
+Xertica,Data & Analytics,The AI Ready Data Cloud,BigQuery,14,4,18,🟢 Ready (18 profiles)
 Xertica,Data & Analytics,The AI Ready Data Cloud,Dataflow,3,6,9,🟢 Ready (9 profiles)
 Xertica,Data & Analytics,The AI Ready Data Cloud,Dataproc,,1,1,🟢 Ready (1 profiles)
 Xertica,Data & Analytics,The AI Ready Data Cloud,Looker,11,3,14,🟢 Ready (14 DRP / 1 wkls)
@@ -206,9 +206,9 @@ Xertica,Databases,The AI Ready Data Cloud,Cloud SQL,1,,1,🟢 Ready (1 profiles)
 Xertica,Databases,The AI Ready Data Cloud,Spanner,,,,⚪ No Active Demand
 Xertica,Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,,,⚪ No Active Demand
 Xertica,Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,2,3,5,🟢 Ready (5 profiles)
-Xertica,Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,1,4,5,🟢 Ready (5 profiles)
+Xertica,Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,1,3,4,🟢 Ready (4 profiles)
 Xertica,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,13,5,18,🟢 Ready (18 profiles)
-Xertica,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,35,8,43,🟢 Ready (43 DRP / 6 wkls)
+Xertica,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,35,8,43,🟢 Ready (43 DRP / 7 wkls)
 Xertica,Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
 Xertica,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,🔴 Gap (0 DRP / 2 wkls)
 Xertica,Security,Agentic Defense with Google Security,Security Command Center,5,6,11,🟢 Ready (11 DRP / 1 wkls)
