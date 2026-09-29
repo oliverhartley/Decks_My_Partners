@@ -74,7 +74,7 @@ BFS Ingeniería Aplicada,Workspace,Agentic Workplace Transformation,Workspace,,,
 Rubik,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 Rubik,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
 Rubik,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,⚪ No Active Demand
-Rubik,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,🔴 Gap (0 DRP / 4 wkls)
+Rubik,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,🔴 Gap (0 DRP / 3 wkls)
 Rubik,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 Rubik,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 Rubik,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
@@ -100,7 +100,7 @@ Rubik,Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,
 Rubik,Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,,,⚪ No Active Demand
 Rubik,Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,,,⚪ No Active Demand
 Rubik,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,,,,⚪ No Active Demand
-Rubik,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,,,,🔴 Gap (0 DRP / 1 wkls)
+Rubik,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,,,,🔴 Gap (0 DRP / 2 wkls)
 Rubik,Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
 Rubik,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
 Rubik,Security,Agentic Defense with Google Security,Security Command Center,,,,⚪ No Active Demand
@@ -199,7 +199,7 @@ Xertica,Data & Analytics,The AI Ready Data Cloud,Dataflow,3,6,9,🟢 Ready (9 pr
 Xertica,Data & Analytics,The AI Ready Data Cloud,Dataproc,,1,1,🟢 Ready (1 profiles)
 Xertica,Data & Analytics,The AI Ready Data Cloud,Looker,11,3,14,🟢 Ready (14 DRP / 1 wkls)
 Xertica,Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,,,🔴 Gap (0 DRP / 1 wkls)
-Xertica,Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,1,,1,🟡 Constrained (1 DRP / 3 wkls)
+Xertica,Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,1,,1,🟡 Constrained (1 DRP / 2 wkls)
 Xertica,Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,,,,⚪ No Active Demand
 Xertica,Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,,,⚪ No Active Demand
 Xertica,Databases,The AI Ready Data Cloud,Cloud SQL,1,,1,🟢 Ready (1 profiles)

@@ -120,7 +120,7 @@ Nubosoft Servicios,Artificial Intelligence,Leverage Generative Media in your Bus
 Nubosoft Servicios,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,1,1,🟡 Constrained (1 DRP / 3 wkls)
 Nubosoft Servicios,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
 Nubosoft Servicios,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
-Nubosoft Servicios,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,6,4,10,🟢 Ready (10 DRP / 6 wkls)
+Nubosoft Servicios,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,6,4,10,🟢 Ready (10 DRP / 5 wkls)
 Nubosoft Servicios,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,6,2,8,🟢 Ready (8 profiles)
 Nubosoft Servicios,Data & Analytics,The AI Ready Data Cloud,BigQuery,6,4,10,🟢 Ready (10 profiles)
 Nubosoft Servicios,Data & Analytics,The AI Ready Data Cloud,Dataflow,6,2,8,🟢 Ready (8 profiles)
@@ -135,7 +135,7 @@ Nubosoft Servicios,Databases,The AI Ready Data Cloud,Spanner,,,,⚪ No Active De
 Nubosoft Servicios,Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,,,⚪ No Active Demand
 Nubosoft Servicios,Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,1,1,🟢 Ready (1 profiles)
 Nubosoft Servicios,Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,,,⚪ No Active Demand
-Nubosoft Servicios,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,13,4,17,🟢 Ready (17 profiles)
+Nubosoft Servicios,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,13,4,17,🟢 Ready (17 DRP / 1 wkls)
 Nubosoft Servicios,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,18,3,21,🟢 Ready (21 profiles)
 Nubosoft Servicios,Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
 Nubosoft Servicios,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
@@ -158,7 +158,7 @@ U CLOUD STORE MÉXICO,Artificial Intelligence,Scale AI Apps and Agents,Gemini En
 U CLOUD STORE MÉXICO,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
 U CLOUD STORE MÉXICO,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,,🔴 Gap (0 DRP / 3 wkls)
 U CLOUD STORE MÉXICO,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,,,⚪ No Active Demand
-U CLOUD STORE MÉXICO,Data & Analytics,The AI Ready Data Cloud,BigQuery,,,,⚪ No Active Demand
+U CLOUD STORE MÉXICO,Data & Analytics,The AI Ready Data Cloud,BigQuery,,,,🔴 Gap (0 DRP / 1 wkls)
 U CLOUD STORE MÉXICO,Data & Analytics,The AI Ready Data Cloud,Dataflow,,,,⚪ No Active Demand
 U CLOUD STORE MÉXICO,Data & Analytics,The AI Ready Data Cloud,Dataproc,,,,⚪ No Active Demand
 U CLOUD STORE MÉXICO,Data & Analytics,The AI Ready Data Cloud,Looker,,,,🔴 Gap (0 DRP / 1 wkls)
@@ -218,7 +218,7 @@ UCLOUD STORE COLOMBIA S A S,Workspace,Agentic Workplace Transformation,Workspace
 Growth Partner Network (GPN),Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 Growth Partner Network (GPN),Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
 Growth Partner Network (GPN),Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,🔴 Gap (0 DRP / 8 wkls)
-Growth Partner Network (GPN),Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,🔴 Gap (0 DRP / 4 wkls)
+Growth Partner Network (GPN),Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,🔴 Gap (0 DRP / 5 wkls)
 Growth Partner Network (GPN),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 Growth Partner Network (GPN),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 Growth Partner Network (GPN),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
