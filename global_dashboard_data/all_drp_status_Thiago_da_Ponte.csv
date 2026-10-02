@@ -1,7 +1,7 @@
 Partner Name,Pillar,Solution (Sales Play),Product,Tier 1 Profiles Count,Tier 2 Profiles Count,Total Tier 1 & 2 Profiles,Capacity Status (DRP vs Workloads)
 IPNET (Telefônica Cloud),Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 IPNET (Telefônica Cloud),Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
-IPNET (Telefônica Cloud),Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,🔴 Gap (0 DRP / 14 wkls)
+IPNET (Telefônica Cloud),Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,🔴 Gap (0 DRP / 15 wkls)
 IPNET (Telefônica Cloud),Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,🔴 Gap (0 DRP / 36 wkls)
 IPNET (Telefônica Cloud),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 IPNET (Telefônica Cloud),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
@@ -73,8 +73,8 @@ Kyndryl Brasil,Security,Secure Innovation with Google Cloud,Cloud Security,3,6,9
 Kyndryl Brasil,Workspace,Agentic Workplace Transformation,Workspace,,,,🔴 Gap (0 DRP / 1 wkls)
 SantoDigital,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,1,2,3,🟢 Ready (3 profiles)
 SantoDigital,Application Modernization,"Migrate, Modernize and Build",Cloud Run,4,8,12,🟢 Ready (12 profiles)
-SantoDigital,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,4,10,14,🟡 Constrained (14 DRP / 28 wkls)
-SantoDigital,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,4,29,33,🟢 Ready (33 DRP / 15 wkls)
+SantoDigital,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,4,10,14,🟡 Constrained (14 DRP / 29 wkls)
+SantoDigital,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,4,29,33,🟢 Ready (33 DRP / 16 wkls)
 SantoDigital,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 SantoDigital,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 SantoDigital,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,🔴 Gap (0 DRP / 4 wkls)

@@ -2,7 +2,7 @@ Partner Name,Pillar,Solution (Sales Play),Product,Tier 1 Profiles Count,Tier 2 P
 Admazing Cloud,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 Admazing Cloud,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,1,1,🟢 Ready (1 profiles)
 Admazing Cloud,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,1,,1,🟢 Ready (1 profiles)
-Admazing Cloud,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,🔴 Gap (0 DRP / 7 wkls)
+Admazing Cloud,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,🔴 Gap (0 DRP / 9 wkls)
 Admazing Cloud,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 Admazing Cloud,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 Admazing Cloud,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
@@ -120,9 +120,9 @@ Multiedro Serviços de TI Ltda.,Artificial Intelligence,Leverage Generative Medi
 Multiedro Serviços de TI Ltda.,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,1,1,2,🟢 Ready (2 DRP / 2 wkls)
 Multiedro Serviços de TI Ltda.,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,4,3,7,🟢 Ready (7 profiles)
 Multiedro Serviços de TI Ltda.,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,4,3,7,🟢 Ready (7 profiles)
-Multiedro Serviços de TI Ltda.,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,4,1,5,🟢 Ready (5 DRP / 4 wkls)
+Multiedro Serviços de TI Ltda.,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,5,,5,🟢 Ready (5 DRP / 4 wkls)
 Multiedro Serviços de TI Ltda.,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,3,,3,🟢 Ready (3 profiles)
-Multiedro Serviços de TI Ltda.,Data & Analytics,The AI Ready Data Cloud,BigQuery,4,1,5,🟢 Ready (5 profiles)
+Multiedro Serviços de TI Ltda.,Data & Analytics,The AI Ready Data Cloud,BigQuery,5,,5,🟢 Ready (5 profiles)
 Multiedro Serviços de TI Ltda.,Data & Analytics,The AI Ready Data Cloud,Dataflow,3,,3,🟢 Ready (3 profiles)
 Multiedro Serviços de TI Ltda.,Data & Analytics,The AI Ready Data Cloud,Dataproc,,,,⚪ No Active Demand
 Multiedro Serviços de TI Ltda.,Data & Analytics,The AI Ready Data Cloud,Looker,1,1,2,🟢 Ready (2 DRP / 1 wkls)
@@ -142,11 +142,11 @@ Multiedro Serviços de TI Ltda.,Security,Agentic Defense with Google Security,Go
 Multiedro Serviços de TI Ltda.,Security,Agentic Defense with Google Security,Security Command Center,,,,🔴 Gap (0 DRP / 1 wkls)
 Multiedro Serviços de TI Ltda.,Security,Agentic Defense with Google Security,Security Operations,,,,⚪ No Active Demand
 Multiedro Serviços de TI Ltda.,Security,Secure Innovation with Google Cloud,Cloud Security,,,,⚪ No Active Demand
-Multiedro Serviços de TI Ltda.,Workspace,Agentic Workplace Transformation,Workspace,10,2,12,🟢 Ready (12 profiles)
+Multiedro Serviços de TI Ltda.,Workspace,Agentic Workplace Transformation,Workspace,11,1,12,🟢 Ready (12 profiles)
 DATALAKERS TECNOLOGIA LTDA,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,🔴 Gap (0 DRP / 1 wkls)
 DATALAKERS TECNOLOGIA LTDA,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
 DATALAKERS TECNOLOGIA LTDA,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,⚪ No Active Demand
-DATALAKERS TECNOLOGIA LTDA,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,🔴 Gap (0 DRP / 1 wkls)
+DATALAKERS TECNOLOGIA LTDA,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,⚪ No Active Demand
 DATALAKERS TECNOLOGIA LTDA,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 DATALAKERS TECNOLOGIA LTDA,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 DATALAKERS TECNOLOGIA LTDA,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
@@ -218,16 +218,16 @@ DIGITAL INC TECNOLOGIA E MARKETING LTDA (DP6),Workspace,Agentic Workplace Transf
 SoftwareOne,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 SoftwareOne,Application Modernization,"Migrate, Modernize and Build",Cloud Run,6,6,12,🟢 Ready (12 profiles)
 SoftwareOne,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,7,10,17,🟢 Ready (17 DRP / 1 wkls)
-SoftwareOne,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,12,12,🟢 Ready (12 DRP / 1 wkls)
+SoftwareOne,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,13,13,🟢 Ready (13 DRP / 1 wkls)
 SoftwareOne,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 SoftwareOne,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 SoftwareOne,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
 SoftwareOne,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
-SoftwareOne,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,1,15,16,🟢 Ready (16 DRP / 1 wkls)
-SoftwareOne,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,1,15,16,🟢 Ready (16 profiles)
+SoftwareOne,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,1,17,18,🟢 Ready (18 DRP / 1 wkls)
+SoftwareOne,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,1,17,18,🟢 Ready (18 profiles)
 SoftwareOne,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,1,1,🟢 Ready (1 profiles)
-SoftwareOne,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,1,15,16,🟢 Ready (16 profiles)
-SoftwareOne,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,1,15,16,🟢 Ready (16 profiles)
+SoftwareOne,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,1,17,18,🟢 Ready (18 profiles)
+SoftwareOne,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,1,17,18,🟢 Ready (18 profiles)
 SoftwareOne,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,1,5,6,🟢 Ready (6 profiles)
 SoftwareOne,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,2,2,🟢 Ready (2 profiles)
 SoftwareOne,Data & Analytics,The AI Ready Data Cloud,BigQuery,1,5,6,🟢 Ready (6 profiles)
@@ -254,16 +254,16 @@ SoftwareOne,Workspace,Agentic Workplace Transformation,Workspace,2,4,6,🟢 Read
 SoftwareOne Brasil,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 SoftwareOne Brasil,Application Modernization,"Migrate, Modernize and Build",Cloud Run,6,6,12,🟢 Ready (12 profiles)
 SoftwareOne Brasil,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,7,10,17,🟢 Ready (17 DRP / 2 wkls)
-SoftwareOne Brasil,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,12,12,🟢 Ready (12 profiles)
+SoftwareOne Brasil,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,13,13,🟢 Ready (13 profiles)
 SoftwareOne Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 SoftwareOne Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,🔴 Gap (0 DRP / 1 wkls)
 SoftwareOne Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,🔴 Gap (0 DRP / 1 wkls)
 SoftwareOne Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
-SoftwareOne Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,1,15,16,🟢 Ready (16 DRP / 2 wkls)
-SoftwareOne Brasil,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,1,15,16,🟢 Ready (16 profiles)
+SoftwareOne Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,1,17,18,🟢 Ready (18 DRP / 2 wkls)
+SoftwareOne Brasil,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,1,17,18,🟢 Ready (18 profiles)
 SoftwareOne Brasil,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,1,1,🟢 Ready (1 profiles)
-SoftwareOne Brasil,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,1,15,16,🟢 Ready (16 profiles)
-SoftwareOne Brasil,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,1,15,16,🟢 Ready (16 profiles)
+SoftwareOne Brasil,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,1,17,18,🟢 Ready (18 profiles)
+SoftwareOne Brasil,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,1,17,18,🟢 Ready (18 profiles)
 SoftwareOne Brasil,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,1,5,6,🟢 Ready (6 DRP / 1 wkls)
 SoftwareOne Brasil,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,2,2,🟢 Ready (2 profiles)
 SoftwareOne Brasil,Data & Analytics,The AI Ready Data Cloud,BigQuery,1,5,6,🟢 Ready (6 profiles)
@@ -902,7 +902,7 @@ Valle Group Soluções e Entrenimento Eirelle Me,Workspace,Agentic Workplace Tra
 Autenticare Consultoria e Desenvolvimento de Software Ltda.,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 Autenticare Consultoria e Desenvolvimento de Software Ltda.,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
 Autenticare Consultoria e Desenvolvimento de Software Ltda.,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,⚪ No Active Demand
-Autenticare Consultoria e Desenvolvimento de Software Ltda.,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,4,,4,🟡 Constrained (4 DRP / 9 wkls)
+Autenticare Consultoria e Desenvolvimento de Software Ltda.,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,4,,4,🟡 Constrained (4 DRP / 8 wkls)
 Autenticare Consultoria e Desenvolvimento de Software Ltda.,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 Autenticare Consultoria e Desenvolvimento de Software Ltda.,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 Autenticare Consultoria e Desenvolvimento de Software Ltda.,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand

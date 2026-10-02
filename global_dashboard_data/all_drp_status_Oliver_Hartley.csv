@@ -2,7 +2,7 @@ Partner Name,Pillar,Solution (Sales Play),Product,Tier 1 Profiles Count,Tier 2 P
 Comercializadora Zenta Group SPA,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 Comercializadora Zenta Group SPA,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,1,1,🟢 Ready (1 profiles)
 Comercializadora Zenta Group SPA,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,1,1,🟡 Constrained (1 DRP / 8 wkls)
-Comercializadora Zenta Group SPA,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,4,4,🟡 Constrained (4 DRP / 7 wkls)
+Comercializadora Zenta Group SPA,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,4,4,🟡 Constrained (4 DRP / 8 wkls)
 Comercializadora Zenta Group SPA,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 Comercializadora Zenta Group SPA,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 Comercializadora Zenta Group SPA,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
@@ -110,16 +110,16 @@ Devaid SPA,Workspace,Agentic Workplace Transformation,Workspace,,,,⚪ No Active
 MadeinWeb S/A,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 MadeinWeb S/A,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
 MadeinWeb S/A,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,🔴 Gap (0 DRP / 5 wkls)
-MadeinWeb S/A,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,3,3,🟡 Constrained (3 DRP / 9 wkls)
+MadeinWeb S/A,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,4,4,🟡 Constrained (4 DRP / 10 wkls)
 MadeinWeb S/A,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 MadeinWeb S/A,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 MadeinWeb S/A,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,🔴 Gap (0 DRP / 1 wkls)
 MadeinWeb S/A,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,🔴 Gap (0 DRP / 1 wkls)
-MadeinWeb S/A,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,5,2,7,🟡 Constrained (7 DRP / 9 wkls)
-MadeinWeb S/A,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,5,2,7,🟢 Ready (7 profiles)
+MadeinWeb S/A,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,5,3,8,🟡 Constrained (8 DRP / 9 wkls)
+MadeinWeb S/A,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,5,3,8,🟢 Ready (8 profiles)
 MadeinWeb S/A,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,1,2,3,🟢 Ready (3 DRP / 3 wkls)
-MadeinWeb S/A,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,5,2,7,🟢 Ready (7 profiles)
-MadeinWeb S/A,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,5,2,7,🟢 Ready (7 profiles)
+MadeinWeb S/A,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,5,3,8,🟢 Ready (8 profiles)
+MadeinWeb S/A,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,5,3,8,🟢 Ready (8 profiles)
 MadeinWeb S/A,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,,🔴 Gap (0 DRP / 4 wkls)
 MadeinWeb S/A,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,,,⚪ No Active Demand
 MadeinWeb S/A,Data & Analytics,The AI Ready Data Cloud,BigQuery,,,,⚪ No Active Demand
@@ -208,7 +208,7 @@ Tech Pulse SPA (Axmos),Infrastructure Modernization,Enterprise Platform of Choic
 Tech Pulse SPA (Axmos),Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,,,⚪ No Active Demand
 Tech Pulse SPA (Axmos),Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,3,5,8,🟢 Ready (8 profiles)
 Tech Pulse SPA (Axmos),Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,8,6,14,🟢 Ready (14 DRP / 1 wkls)
-Tech Pulse SPA (Axmos),Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,10,4,14,🟢 Ready (14 DRP / 4 wkls)
+Tech Pulse SPA (Axmos),Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,11,3,14,🟢 Ready (14 DRP / 4 wkls)
 Tech Pulse SPA (Axmos),Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
 Tech Pulse SPA (Axmos),Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
 Tech Pulse SPA (Axmos),Security,Agentic Defense with Google Security,Security Command Center,3,4,7,🟢 Ready (7 DRP / 1 wkls)
