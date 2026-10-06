@@ -2,7 +2,7 @@ Partner Name,Pillar,Solution (Sales Play),Product,Tier 1 Profiles Count,Tier 2 P
 Admazing Cloud,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 Admazing Cloud,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,1,1,🟢 Ready (1 profiles)
 Admazing Cloud,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,1,,1,🟢 Ready (1 profiles)
-Admazing Cloud,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,🔴 Gap (0 DRP / 8 wkls)
+Admazing Cloud,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,🔴 Gap (0 DRP / 7 wkls)
 Admazing Cloud,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 Admazing Cloud,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 Admazing Cloud,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
@@ -172,7 +172,7 @@ DATALAKERS TECNOLOGIA LTDA,Infrastructure Modernization,Enterprise Platform of C
 DATALAKERS TECNOLOGIA LTDA,Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,,,⚪ No Active Demand
 DATALAKERS TECNOLOGIA LTDA,Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,,,⚪ No Active Demand
 DATALAKERS TECNOLOGIA LTDA,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,,,,⚪ No Active Demand
-DATALAKERS TECNOLOGIA LTDA,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,,2,2,🟢 Ready (2 DRP / 1 wkls)
+DATALAKERS TECNOLOGIA LTDA,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,,2,2,🟢 Ready (2 DRP / 2 wkls)
 DATALAKERS TECNOLOGIA LTDA,Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
 DATALAKERS TECNOLOGIA LTDA,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
 DATALAKERS TECNOLOGIA LTDA,Security,Agentic Defense with Google Security,Security Command Center,,,,⚪ No Active Demand
@@ -229,9 +229,9 @@ SoftwareOne,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,1,
 SoftwareOne,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,1,19,20,🟢 Ready (20 profiles)
 SoftwareOne,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,1,19,20,🟢 Ready (20 profiles)
 SoftwareOne,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,1,5,6,🟢 Ready (6 profiles)
-SoftwareOne,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,2,2,🟢 Ready (2 profiles)
+SoftwareOne,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,3,3,🟢 Ready (3 profiles)
 SoftwareOne,Data & Analytics,The AI Ready Data Cloud,BigQuery,1,5,6,🟢 Ready (6 profiles)
-SoftwareOne,Data & Analytics,The AI Ready Data Cloud,Dataflow,,2,2,🟢 Ready (2 profiles)
+SoftwareOne,Data & Analytics,The AI Ready Data Cloud,Dataflow,,3,3,🟢 Ready (3 profiles)
 SoftwareOne,Data & Analytics,The AI Ready Data Cloud,Dataproc,,,,⚪ No Active Demand
 SoftwareOne,Data & Analytics,The AI Ready Data Cloud,Looker,,1,1,🟢 Ready (1 profiles)
 SoftwareOne,Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,,,⚪ No Active Demand
@@ -265,9 +265,9 @@ SoftwareOne Brasil,Artificial Intelligence,Scale AI Apps and Agents,AI Applicati
 SoftwareOne Brasil,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,1,19,20,🟢 Ready (20 profiles)
 SoftwareOne Brasil,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,1,19,20,🟢 Ready (20 profiles)
 SoftwareOne Brasil,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,1,5,6,🟢 Ready (6 DRP / 1 wkls)
-SoftwareOne Brasil,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,2,2,🟢 Ready (2 profiles)
+SoftwareOne Brasil,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,3,3,🟢 Ready (3 profiles)
 SoftwareOne Brasil,Data & Analytics,The AI Ready Data Cloud,BigQuery,1,5,6,🟢 Ready (6 profiles)
-SoftwareOne Brasil,Data & Analytics,The AI Ready Data Cloud,Dataflow,,2,2,🟢 Ready (2 profiles)
+SoftwareOne Brasil,Data & Analytics,The AI Ready Data Cloud,Dataflow,,3,3,🟢 Ready (3 profiles)
 SoftwareOne Brasil,Data & Analytics,The AI Ready Data Cloud,Dataproc,,,,⚪ No Active Demand
 SoftwareOne Brasil,Data & Analytics,The AI Ready Data Cloud,Looker,,1,1,🟢 Ready (1 profiles)
 SoftwareOne Brasil,Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,,,⚪ No Active Demand
@@ -388,7 +388,7 @@ MERITI SRL,Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Or
 MERITI SRL,Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,,,⚪ No Active Demand
 MERITI SRL,Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,1,,1,🟢 Ready (1 profiles)
 MERITI SRL,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,,1,1,🟢 Ready (1 profiles)
-MERITI SRL,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,1,,1,🟢 Ready (1 profiles)
+MERITI SRL,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,1,,1,🟢 Ready (1 DRP / 1 wkls)
 MERITI SRL,Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
 MERITI SRL,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
 MERITI SRL,Security,Agentic Defense with Google Security,Security Command Center,,1,1,🟢 Ready (1 profiles)
