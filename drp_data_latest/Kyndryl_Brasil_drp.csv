@@ -1,7 +1,7 @@
 Pillar,Solution (Sales Play),Product,Tier 1 Profiles Count,Tier 2 Profiles Count,Total Tier 1 & 2 Profiles,Capacity Status (DRP vs Workloads)
 Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,1,1,🟢 Ready (1 profiles)
 Application Modernization,"Migrate, Modernize and Build",Cloud Run,6,7,13,🟢 Ready (13 profiles)
-Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,8,33,41,🟢 Ready (41 DRP / 16 wkls)
+Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,8,33,41,🟢 Ready (41 DRP / 17 wkls)
 Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,4,35,39,🟢 Ready (39 DRP / 3 wkls)
 Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,3,3,🟢 Ready (3 profiles)
 Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
@@ -28,7 +28,7 @@ Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,1,2,3,
 Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,2,3,5,🟢 Ready (5 profiles)
 Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,1,18,19,🟢 Ready (19 DRP / 1 wkls)
 Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,13,86,99,🟢 Ready (99 DRP / 1 wkls)
-Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,61,137,198,🟢 Ready (198 profiles)
+Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,61,138,199,🟢 Ready (199 profiles)
 Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,1,1,🟢 Ready (1 profiles)
 Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
 Security,Agentic Defense with Google Security,Security Command Center,1,4,5,🟢 Ready (5 profiles)
