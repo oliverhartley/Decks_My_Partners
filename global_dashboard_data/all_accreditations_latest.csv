@@ -1,13 +1,11 @@
 Partner Name,Certification / Accreditation Name,Type,Level / Sub Type,Candidate Name,Candidate Email,Issued Date,Expiration Date,Partner Legal Entity
 Admazing Cloud,Google Cloud Certified - Professional Cloud Architect,Technical,Professional Certification,PCP-212680,martin@admazing.cloud,2021-11-20,2027-11-20,Admazing Cloud
-Admazing Cloud,Google Cloud Certified - Professional Cloud Architect,Technical,Professional Certification,PCP-643609,juangui@admazing.cloud,2023-03-02,2027-03-02,Admazing Cloud
 Admazing Cloud,Google Cloud Certified - Professional Cloud Architect,Technical,Professional Certification,PCP-692691,francisco@admazing.cloud,2025-12-08,2027-12-08,Admazing Cloud
 Admazing Cloud,Google Cloud Certified - Professional Cloud Architect,Technical,Professional Certification,PCP-94454,juan@admazing.cloud,2021-06-26,2027-06-26,Admazing Cloud
 Admazing Cloud,Google Cloud Certified - Professional Cloud Database Engineer,Technical,Professional Certification,PCP-212680,martin@admazing.cloud,2023-03-17,2027-02-01,Admazing Cloud
 Admazing Cloud,Google Cloud Certified - Professional Cloud Database Engineer,Technical,Professional Certification,PCP-94454,juan@admazing.cloud,2023-04-17,2027-04-17,Admazing Cloud
 Admazing Cloud,Google Cloud Certified - Professional Cloud DevOps Engineer,Technical,Professional Certification,PCP-212680,martin@admazing.cloud,2025-01-24,2027-01-24,Admazing Cloud
 Admazing Cloud,Google Cloud Certified - Professional Cloud Developer,Technical,Professional Certification,PCP-212680,martin@admazing.cloud,2025-03-10,2027-03-10,Admazing Cloud
-Admazing Cloud,Google Cloud Certified - Professional Machine Learning Engineer,Technical,Professional Certification,PCP-643609,juangui@admazing.cloud,2025-11-14,2027-11-14,Admazing Cloud
 Davinci Technologies S.A.S.,Google Cloud Certified - Cloud Digital Leader,Business,Foundational Level Certification,PCP-488156,orlando.alvarez@davincitech.co,2025-05-12,2028-05-12,Davinci Technologies S.A.S.
 Davinci Technologies S.A.S.,Google Cloud Certified - Cloud Digital Leader,Business,Foundational Level Certification,PCP-517123,david.zambrano@davinci.tech,2024-07-31,2027-07-31,Davinci Technologies S.A.S.
 Davinci Technologies S.A.S.,Google Cloud Certified - Cloud Digital Leader,Business,Foundational Level Certification,PCP-540482,hector.pabon@davinci.tech,2025-11-24,2028-11-24,Davinci Technologies S.A.S.
@@ -482,7 +480,6 @@ Tigabytes,No active accreditations found,-,-,-,-,-,-,-
 Xertica,Google Cloud Certified - Cloud Digital Leader,Business,Foundational Level Certification,PCP-221696,eddy.diaz@xertica.com,2023-09-01,2027-09-01,XERTICA COLOMBIA SAS
 Xertica,Google Cloud Certified - Cloud Digital Leader,Business,Foundational Level Certification,PCP-23494,mario.rivera@xertica.com,2022-12-12,2028-12-12,Xertica Chile SpA
 Xertica,Google Cloud Certified - Cloud Digital Leader,Business,Foundational Level Certification,PCP-382037,mauricio.cano@xertica.com,2023-11-01,2026-11-01,XERTICA BRASIL LTDA
-Xertica,Google Cloud Certified - Cloud Digital Leader,Business,Foundational Level Certification,PCP-382360,farid.caballero@xertica.com,2023-10-06,2026-10-06,Xertica Labs S.A.C.
 Xertica,Google Cloud Certified - Cloud Digital Leader,Business,Foundational Level Certification,PCP-409689,mariely.silva@xertica.com,2024-09-10,2027-09-10,XERTICA
 Xertica,Google Cloud Certified - Cloud Digital Leader,Business,Foundational Level Certification,PCP-421393,cesar.peralta@xertica.com,2025-01-21,2028-01-21,Xertica Labs S.A.C.
 Xertica,Google Cloud Certified - Cloud Digital Leader,Business,Foundational Level Certification,PCP-421416,guilherme.silva@xertica.com,2024-06-28,2027-06-28,XERTICA BRASIL LTDA
@@ -661,7 +658,6 @@ CU2 CLOUD TEC STORE SL,Google Cloud Certified - Cloud Digital Leader,Business,Fo
 CU2 CLOUD TEC STORE SL,Google Cloud Certified - Cloud Digital Leader,Business,Foundational Level Certification,PCP-560241,b.galofre@ucloudglobal.com,2026-02-20,2029-02-20,CU2 CLOUD TEC STORE SL
 CU2 CLOUD TEC STORE SL,Google Cloud Certified - Cloud Digital Leader,Business,Foundational Level Certification,PCP-600594,m.cifuentes@ucloudglobal.com,2025-03-20,2028-03-20,CU2 CLOUD TEC STORE CHILE SPA
 CU2 CLOUD TEC STORE SL,Google Cloud Certified - Cloud Digital Leader,Business,Foundational Level Certification,PCP-626476,a.dasilva@ucloudglobal.com,2025-06-26,2028-06-26,UCLOUD STORE BRASIL TECNOLOGIA DA INFORMACAO LTDA
-CU2 CLOUD TEC STORE SL,Google Cloud Certified - Cloud Digital Leader,Business,Foundational Level Certification,PCP-71872,i.lino@ucloudglobal.com,2022-12-22,2028-12-22,UCLOUD STORE BRASIL TECNOLOGIA DA INFORMACAO LTDA
 CU2 CLOUD TEC STORE SL,Google Cloud Certified - Cloud Digital Leader,Business,Foundational Level Certification,PCP-797436,d.palma@ucloudglobal.com,2025-08-28,2028-08-28,CU2 CLOUD TEC STORE CHILE SPA
 CU2 CLOUD TEC STORE SL,Google Cloud Certified - Associate Cloud Engineer,Technical,Associate Level Certification,PCP-280192,i.gondim@ucloudglobal.com,2022-12-19,2028-07-29,UCLOUD STORE BRASIL TECNOLOGIA DA INFORMACAO LTDA
 CU2 CLOUD TEC STORE SL,Google Cloud Certified - Associate Cloud Engineer,Technical,Associate Level Certification,PCP-559280,e.humel@ucloudglobal.com,2024-09-02,2027-09-02,UCLOUD STORE BRASIL TECNOLOGIA DA INFORMACAO LTDA
@@ -669,14 +665,10 @@ CU2 CLOUD TEC STORE SL,Google Cloud Certified - Professional Cloud Architect,Tec
 CU2 CLOUD TEC STORE SL,Google Cloud Certified - Professional Cloud Architect,Technical,Professional Certification,PCP-559280,e.humel@ucloudglobal.com,2024-10-27,2027-10-27,UCLOUD STORE BRASIL TECNOLOGIA DA INFORMACAO LTDA
 CU2 CLOUD TEC STORE SL,Google Cloud Certified - Professional Cloud Architect,Technical,Professional Certification,PCP-580565,a.thomas@ucloudglobal.com,2022-12-06,2026-12-06,CU2 CLOUD TEC STORE CHILE SPA
 CU2 CLOUD TEC STORE SL,Google Cloud Certified - Professional Cloud Architect,Technical,Professional Certification,PCP-616484,j.medina@ucloudglobal.com,2025-05-09,2027-05-09,CU2 CLOUD TEC STORE CHILE SPA
-CU2 CLOUD TEC STORE SL,Google Cloud Certified - Professional Cloud Architect,Technical,Professional Certification,PCP-71872,i.lino@ucloudglobal.com,2020-12-15,2027-12-27,UCLOUD STORE BRASIL TECNOLOGIA DA INFORMACAO LTDA
 CU2 CLOUD TEC STORE SL,Google Cloud Certified - Professional Cloud Database Engineer,Technical,Professional Certification,PCP-280192,i.gondim@ucloudglobal.com,2024-07-09,2028-07-09,UCLOUD STORE BRASIL TECNOLOGIA DA INFORMACAO LTDA
-CU2 CLOUD TEC STORE SL,Google Cloud Certified - Professional Cloud DevOps Engineer,Technical,Professional Certification,PCP-71872,i.lino@ucloudglobal.com,2025-02-03,2027-02-03,UCLOUD STORE BRASIL TECNOLOGIA DA INFORMACAO LTDA
-CU2 CLOUD TEC STORE SL,Google Cloud Certified - Professional Cloud Network Engineer,Technical,Professional Certification,PCP-71872,i.lino@ucloudglobal.com,2021-12-15,2027-12-15,UCLOUD STORE BRASIL TECNOLOGIA DA INFORMACAO LTDA
 CU2 CLOUD TEC STORE SL,Google Cloud Certified - Professional Cloud Security Engineer,Technical,Professional Certification,PCP-280192,i.gondim@ucloudglobal.com,2025-07-08,2027-07-08,UCLOUD STORE BRASIL TECNOLOGIA DA INFORMACAO LTDA
 CU2 CLOUD TEC STORE SL,Google Cloud Certified - Professional Cloud Security Engineer,Technical,Professional Certification,PCP-559280,e.humel@ucloudglobal.com,2026-02-17,2028-02-17,UCLOUD STORE BRASIL TECNOLOGIA DA INFORMACAO LTDA
 CU2 CLOUD TEC STORE SL,Google Cloud Certified - Professional Cloud Security Engineer,Technical,Professional Certification,PCP-580565,a.thomas@ucloudglobal.com,2026-02-06,2028-02-06,CU2 CLOUD TEC STORE CHILE SPA
-CU2 CLOUD TEC STORE SL,Google Cloud Certified - Professional Cloud Security Engineer,Technical,Professional Certification,PCP-71872,i.lino@ucloudglobal.com,2023-12-02,2027-12-02,UCLOUD STORE BRASIL TECNOLOGIA DA INFORMACAO LTDA
 CU2 CLOUD TEC STORE SL,Google Cloud Certified - Professional Data Engineer,Technical,Professional Certification,PCP-580565,a.thomas@ucloudglobal.com,2025-03-10,2027-03-10,CU2 CLOUD TEC STORE CHILE SPA
 CU2 CLOUD TEC STORE SL,Google Cloud Certified - Professional Data Engineer,Technical,Professional Certification,PCP-616484,j.medina@ucloudglobal.com,2025-11-18,2027-11-18,CU2 CLOUD TEC STORE CHILE SPA
 CU2 CLOUD TEC STORE SL,Google Cloud Certified - Professional Machine Learning Engineer,Technical,Professional Certification,PCP-599475,s.narvaez@ucloudglobal.com,2026-01-25,2028-01-25,CU2 CLOUD TEC STORE CHILE SPA
@@ -996,7 +988,7 @@ INFORMACIÓN LOCALIZADA SAS (Servinformación),Google Cloud Certified - Professi
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Google Cloud Certified - Professional Data Engineer,Technical,Professional Certification,PCP-522834,yerson.zuniga@servinformacion.com,2025-11-08,2027-11-08,INFORMACIÓN LOCALIZADA SAS
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Google Cloud Certified - Professional Data Engineer,Technical,Professional Certification,PCP-523868,estarly.amaya@servinformacion.com,2026-01-21,2028-01-21,INFORMACIÓN LOCALIZADA SAS
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Google Cloud Certified - Professional Data Engineer,Technical,Professional Certification,PCP-524333,natalia.ortega@servinformacion.com,2026-04-17,2028-04-17,INFORMACIÓN LOCALIZADA SAS
-INFORMACIÓN LOCALIZADA SAS (Servinformación),Google Cloud Certified - Professional Data Engineer,Technical,Professional Certification,PCP-528714,camilo.socha@servinformacion.com,2025-02-07,2027-02-07,INFORMACIÓN LOCALIZADA SAS
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Google Cloud Certified - Professional Data Engineer,Technical,Professional Certification,PCP-528714,camilo.socha@servinformacion.com,2025-02-07,2028-02-07,INFORMACIÓN LOCALIZADA SAS
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Google Cloud Certified - Professional Data Engineer,Technical,Professional Certification,PCP-528751,diego.parra@servinformacion.com,2025-02-10,2028-02-10,INFORMACIÓN LOCALIZADA SAS
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Google Cloud Certified - Professional Data Engineer,Technical,Professional Certification,PCP-554749,david.barbosa@servinformacion.com,2026-02-20,2028-02-20,INFORMACIÓN LOCALIZADA SAS
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Google Cloud Certified - Professional Data Engineer,Technical,Professional Certification,PCP-597677,jefferson.vargas@servinformacion.com,2026-06-06,2028-06-06,INFORMACIÓN LOCALIZADA SAS
@@ -1656,7 +1648,6 @@ Kyndryl Brasil,Google Cloud Certified - Cloud Digital Leader,Business,Foundation
 Kyndryl Brasil,Google Cloud Certified - Cloud Digital Leader,Business,Foundational Level Certification,PCP-218645,christopher.hirst@kyndryl.com,2022-06-17,2028-06-17,Kyndryl Ireland
 Kyndryl Brasil,Google Cloud Certified - Cloud Digital Leader,Business,Foundational Level Certification,PCP-218653,grzegorz.gano@kyndryl.com,2022-06-17,2028-05-27,KYNDRYL POLAND SP Z O O
 Kyndryl Brasil,Google Cloud Certified - Cloud Digital Leader,Business,Foundational Level Certification,PCP-219022,ricardo.lavarini-v-tservices@kyndryl.com,2025-08-13,2028-08-13,"Kyndryl, Inc"
-Kyndryl Brasil,Google Cloud Certified - Cloud Digital Leader,Business,Foundational Level Certification,PCP-219073,giovanni.guarnieri-v-tservices@kyndryl.com,2022-06-20,2028-06-20,"Kyndryl, Inc"
 Kyndryl Brasil,Google Cloud Certified - Cloud Digital Leader,Business,Foundational Level Certification,PCP-219094,shan.sunny@kyndryl.com,2022-06-20,2028-06-20,KYNDRYL SOLUTIONS PRIVATE LIMITED
 Kyndryl Brasil,Google Cloud Certified - Cloud Digital Leader,Business,Foundational Level Certification,PCP-219110,kamil.metlewicz@kyndryl.com,2022-06-20,2028-06-20,KYNDRYL POLAND SP Z O O
 Kyndryl Brasil,Google Cloud Certified - Cloud Digital Leader,Business,Foundational Level Certification,PCP-219599,shohei.kanamori@kyndryl.com,2022-11-22,2028-07-11,Kyndryl Japan KK
@@ -2163,7 +2154,6 @@ Kyndryl Brasil,Google Cloud Certified - Cloud Digital Leader,Business,Foundation
 Kyndryl Brasil,Google Cloud Certified - Cloud Digital Leader,Business,Foundational Level Certification,PCP-414410,sandra.capparucci@kyndryl.com,2023-10-02,2027-10-02,KYNDRYL ITALIA S.P.A.
 Kyndryl Brasil,Google Cloud Certified - Cloud Digital Leader,Business,Foundational Level Certification,PCP-414851,rajashekar.davanapally@kyndryl.com,2023-10-04,2027-10-04,KYNDRYL SOLUTIONS PRIVATE LIMITED
 Kyndryl Brasil,Google Cloud Certified - Cloud Digital Leader,Business,Foundational Level Certification,PCP-414951,juan.jose.mendez.zuniga@kyndryl.com,2023-10-05,2027-10-05,Kyndryl
-Kyndryl Brasil,Google Cloud Certified - Cloud Digital Leader,Business,Foundational Level Certification,PCP-415174,yusuke.kamio@kyndryl.com,2023-10-06,2026-10-06,Kyndryl Japan KK
 Kyndryl Brasil,Google Cloud Certified - Cloud Digital Leader,Business,Foundational Level Certification,PCP-415180,bruce.pomerantz@kyndryl.com,2023-10-02,2027-10-02,"Kyndryl, Inc"
 Kyndryl Brasil,Google Cloud Certified - Cloud Digital Leader,Business,Foundational Level Certification,PCP-415406,richard.feherpataky@kyndryl.com,2023-10-05,2027-10-05,Kyndryl Hungary
 Kyndryl Brasil,Google Cloud Certified - Cloud Digital Leader,Business,Foundational Level Certification,PCP-416361,sunil.kumar.t.v@kyndryl.com,2023-10-04,2027-10-04,KYNDRYL SOLUTIONS PRIVATE LIMITED
@@ -2552,7 +2542,7 @@ Kyndryl Brasil,Google Cloud Certified - Cloud Digital Leader,Business,Foundation
 Kyndryl Brasil,Google Cloud Certified - Cloud Digital Leader,Business,Foundational Level Certification,PCP-509570,sameer.mehra@kyndryl.com,2024-03-17,2027-03-17,KYNDRYL SOLUTIONS PRIVATE LIMITED
 Kyndryl Brasil,Google Cloud Certified - Cloud Digital Leader,Business,Foundational Level Certification,PCP-509600,chotiga.choensiridamrong@kyndryl.com,2024-03-12,2028-03-12,Kyndryl (Thailand) Company Limited
 Kyndryl Brasil,Google Cloud Certified - Cloud Digital Leader,Business,Foundational Level Certification,PCP-509620,allan.castro@kyndryl.com,2024-03-13,2027-03-13,Kyndryl Canada
-Kyndryl Brasil,Google Cloud Certified - Cloud Digital Leader,Business,Foundational Level Certification,PCP-509637,michal.malik2@kyndryl.com,2024-03-13,2027-03-13,KYNDRYL POLAND SP Z O O
+Kyndryl Brasil,Google Cloud Certified - Cloud Digital Leader,Business,Foundational Level Certification,PCP-509637,michal.malik2@kyndryl.com,2024-03-13,2028-03-13,KYNDRYL POLAND SP Z O O
 Kyndryl Brasil,Google Cloud Certified - Cloud Digital Leader,Business,Foundational Level Certification,PCP-509728,vidya.prabhu@kyndryl.com,2024-03-07,2027-03-07,KYNDRYL SOLUTIONS PRIVATE LIMITED
 Kyndryl Brasil,Google Cloud Certified - Cloud Digital Leader,Business,Foundational Level Certification,PCP-509932,ashwini.raju@kyndryl.com,2024-07-06,2028-07-06,KYNDRYL SOLUTIONS PRIVATE LIMITED
 Kyndryl Brasil,Google Cloud Certified - Cloud Digital Leader,Business,Foundational Level Certification,PCP-510017,sylviog@kyndryl.com,2024-03-13,2027-03-13,KYNDRYL BRASIL SERVICOS LTDA.
@@ -4038,7 +4028,7 @@ Kyndryl Brasil,Google Cloud Certified - Associate Cloud Engineer,Technical,Assoc
 Kyndryl Brasil,Google Cloud Certified - Associate Cloud Engineer,Technical,Associate Level Certification,PCP-460565,manoj.kumar112@kyndryl.com,2024-02-08,2027-02-08,KYNDRYL SOLUTIONS PRIVATE LIMITED
 Kyndryl Brasil,Google Cloud Certified - Associate Cloud Engineer,Technical,Associate Level Certification,PCP-460735,anoop.sharma@kyndryl.com,2024-02-10,2028-02-10,KYNDRYL SOLUTIONS PRIVATE LIMITED
 Kyndryl Brasil,Google Cloud Certified - Associate Cloud Engineer,Technical,Associate Level Certification,PCP-460840,yatendra.kumar@kyndryl.com,2024-02-10,2028-02-10,KYNDRYL SOLUTIONS PRIVATE LIMITED
-Kyndryl Brasil,Google Cloud Certified - Associate Cloud Engineer,Technical,Associate Level Certification,PCP-460879,pataballa.ramalingeswara.swamy@kyndryl.com,2024-02-10,2027-02-10,KYNDRYL SOLUTIONS PRIVATE LIMITED
+Kyndryl Brasil,Google Cloud Certified - Associate Cloud Engineer,Technical,Associate Level Certification,PCP-460879,pataballa.ramalingeswara.swamy@kyndryl.com,2024-02-10,2028-02-10,KYNDRYL SOLUTIONS PRIVATE LIMITED
 Kyndryl Brasil,Google Cloud Certified - Associate Cloud Engineer,Technical,Associate Level Certification,PCP-462213,annie.lu@kyndryl.com,2024-02-16,2027-02-16,Kyndryl Taiwan Corporation
 Kyndryl Brasil,Google Cloud Certified - Associate Cloud Engineer,Technical,Associate Level Certification,PCP-462216,damodharan.kannan@kyndryl.com,2025-12-19,2028-12-19,KYNDRYL SOLUTIONS PRIVATE LIMITED
 Kyndryl Brasil,Google Cloud Certified - Associate Cloud Engineer,Technical,Associate Level Certification,PCP-462306,priyaranjan.akela@kyndryl.com,2024-02-16,2027-02-16,KYNDRYL SOLUTIONS PRIVATE LIMITED
@@ -4099,7 +4089,7 @@ Kyndryl Brasil,Google Cloud Certified - Associate Cloud Engineer,Technical,Assoc
 Kyndryl Brasil,Google Cloud Certified - Associate Cloud Engineer,Technical,Associate Level Certification,PCP-521182,lukas.mizera@kyndryl.com,2024-12-31,2027-12-31,"Kyndryl, Inc"
 Kyndryl Brasil,Google Cloud Certified - Associate Cloud Engineer,Technical,Associate Level Certification,PCP-521226,ricardo.luvizan@kyndryl.com,2024-05-21,2028-05-21,Kyndryl
 Kyndryl Brasil,Google Cloud Certified - Associate Cloud Engineer,Technical,Associate Level Certification,PCP-521262,thomas.holmes@kyndryl.com,2024-04-30,2027-04-30,"Kyndryl, Inc"
-Kyndryl Brasil,Google Cloud Certified - Associate Cloud Engineer,Technical,Associate Level Certification,PCP-521404,amit.sen@kyndryl.com,2024-05-01,2027-05-01,Kyndryl India Ltd
+Kyndryl Brasil,Google Cloud Certified - Associate Cloud Engineer,Technical,Associate Level Certification,PCP-521404,amit.sen@kyndryl.com,2024-05-01,2028-05-01,Kyndryl India Ltd
 Kyndryl Brasil,Google Cloud Certified - Associate Cloud Engineer,Technical,Associate Level Certification,PCP-521429,vikramsinghrajawat@kyndryl.com,2024-05-02,2027-05-02,KYNDRYL SOLUTIONS PRIVATE LIMITED
 Kyndryl Brasil,Google Cloud Certified - Associate Cloud Engineer,Technical,Associate Level Certification,PCP-521608,sharathcr@kyndryl.com,2024-05-01,2027-05-01,KYNDRYL SOLUTIONS PRIVATE LIMITED
 Kyndryl Brasil,Google Cloud Certified - Associate Cloud Engineer,Technical,Associate Level Certification,PCP-521698,suresh.s1@kyndryl.com,2024-05-02,2027-05-02,KYNDRYL SOLUTIONS PRIVATE LIMITED
@@ -5047,7 +5037,7 @@ Kyndryl Brasil,Google Cloud Certified - Professional Cloud Architect,Technical,P
 Kyndryl Brasil,Google Cloud Certified - Professional Cloud Architect,Technical,Professional Certification,PCP-527883,neeti.chopra1@kyndryl.com,2024-06-01,2027-06-01,Kyndryl solutions pvt ltd
 Kyndryl Brasil,Google Cloud Certified - Professional Cloud Architect,Technical,Professional Certification,PCP-527978,ashutosh.mishra1@kyndryl.com,2025-01-05,2027-01-05,KYNDRYL SOLUTIONS PRIVATE LIMITED
 Kyndryl Brasil,Google Cloud Certified - Professional Cloud Architect,Technical,Professional Certification,PCP-528665,abdul.hamid.sinno@kyndryl.com,2024-12-30,2027-12-30,Kyndryl Canada
-Kyndryl Brasil,Google Cloud Certified - Professional Cloud Architect,Technical,Professional Certification,PCP-529125,sergey.fedorinin@kyndryl.com,2024-06-07,2027-06-07,"Kyndryl Česká republika, spol. s r.o."
+Kyndryl Brasil,Google Cloud Certified - Professional Cloud Architect,Technical,Professional Certification,PCP-529125,sergey.fedorinin@kyndryl.com,2024-06-07,2028-06-07,"Kyndryl Česká republika, spol. s r.o."
 Kyndryl Brasil,Google Cloud Certified - Professional Cloud Architect,Technical,Professional Certification,PCP-529295,narasimharao.muvva@kyndryl.com,2023-02-21,2027-11-29,Kyndryl UK Limited
 Kyndryl Brasil,Google Cloud Certified - Professional Cloud Architect,Technical,Professional Certification,PCP-53098,mohammad.yaqoob@kyndryl.com,2020-07-09,2027-09-01,"Kyndryl, Inc"
 Kyndryl Brasil,Google Cloud Certified - Professional Cloud Architect,Technical,Professional Certification,PCP-534826,bipul.mohan@kyndryl.com,2022-02-25,2028-02-19,KYNDRYL SOLUTIONS PRIVATE LIMITED
@@ -5107,7 +5097,7 @@ Kyndryl Brasil,Google Cloud Certified - Professional Cloud Architect,Technical,P
 Kyndryl Brasil,Google Cloud Certified - Professional Cloud Architect,Technical,Professional Certification,PCP-582520,james.xavier@kyndryl.com,2025-12-17,2027-12-17,KYNDRYL SOLUTIONS PRIVATE LIMITED
 Kyndryl Brasil,Google Cloud Certified - Professional Cloud Architect,Technical,Professional Certification,PCP-582556,anand.iyer@kyndryl.com,2025-12-29,2027-12-29,KYNDRYL SOLUTIONS PRIVATE LIMITED
 Kyndryl Brasil,Google Cloud Certified - Professional Cloud Architect,Technical,Professional Certification,PCP-582560,paul.ponraj.duraiswamy@kyndryl.com,2024-12-30,2026-12-30,KYNDRYL SOLUTIONS PRIVATE LIMITED
-Kyndryl Brasil,Google Cloud Certified - Professional Cloud Architect,Technical,Professional Certification,PCP-582677,jgmendoz@kyndryl.com,2024-12-31,2026-12-31,Kyndryl Colombia S A S
+Kyndryl Brasil,Google Cloud Certified - Professional Cloud Architect,Technical,Professional Certification,PCP-582677,jgmendoz@kyndryl.com,2024-12-31,2027-12-31,Kyndryl Colombia S A S
 Kyndryl Brasil,Google Cloud Certified - Professional Cloud Architect,Technical,Professional Certification,PCP-582766,vinay.misra@kyndryl.com,2025-05-29,2027-05-29,"Kyndryl Česká republika, spol. s r.o."
 Kyndryl Brasil,Google Cloud Certified - Professional Cloud Architect,Technical,Professional Certification,PCP-583165,yousri.chaabane@kyndryl.com,2025-01-02,2028-01-02,KYNDRYL FRANCE
 Kyndryl Brasil,Google Cloud Certified - Professional Cloud Architect,Technical,Professional Certification,PCP-583298,manjeet.singh.sidhu@kyndryl.com,2025-01-03,2027-01-03,Kyndryl International LLC
@@ -5255,7 +5245,6 @@ Kyndryl Brasil,Google Cloud Certified - Professional Cloud Database Engineer,Tec
 Kyndryl Brasil,Google Cloud Certified - Professional Cloud Database Engineer,Technical,Professional Certification,PCP-289701,mukta.dongre@kyndryl.com,2025-12-30,2027-12-30,KYNDRYL SOLUTIONS PRIVATE LIMITED
 Kyndryl Brasil,Google Cloud Certified - Professional Cloud Database Engineer,Technical,Professional Certification,PCP-305742,evelina.angelova@kyndryl.com,2023-10-21,2027-10-21,"Kyndryl, Inc"
 Kyndryl Brasil,Google Cloud Certified - Professional Cloud Database Engineer,Technical,Professional Certification,PCP-392448,petr.szczuka@kyndryl.com,2025-04-24,2027-04-24,"Kyndryl, Inc"
-Kyndryl Brasil,Google Cloud Certified - Professional Cloud Database Engineer,Technical,Professional Certification,PCP-423163,shinya.tanaka@kyndryl.com,2024-10-06,2026-10-06,Kyndryl Japan KK
 Kyndryl Brasil,Google Cloud Certified - Professional Cloud Database Engineer,Technical,Professional Certification,PCP-427454,philippe.le.gac@kyndryl.com,2025-12-22,2027-12-22,KYNDRYL FRANCE
 Kyndryl Brasil,Google Cloud Certified - Professional Cloud Database Engineer,Technical,Professional Certification,PCP-434895,daiki.akimoto@kyndryl.com,2025-02-26,2027-02-26,Kyndryl Japan KK
 Kyndryl Brasil,Google Cloud Certified - Professional Cloud Database Engineer,Technical,Professional Certification,PCP-437042,igor.bursin@kyndryl.com,2026-06-13,2028-06-13,KYNDRYL POLAND SP Z O O
@@ -5644,7 +5633,6 @@ Kyndryl Brasil,Google Cloud Certified - Professional Machine Learning Engineer,T
 Kyndryl Brasil,Google Cloud Certified - Professional Machine Learning Engineer,Technical,Professional Certification,PCP-434895,daiki.akimoto@kyndryl.com,2025-03-11,2027-03-11,Kyndryl Japan KK
 Kyndryl Brasil,Google Cloud Certified - Professional Machine Learning Engineer,Technical,Professional Certification,PCP-435546,andreas.herde@kyndryl.com,2026-02-20,2028-02-20,Kyndryl Deutschland GmbH
 Kyndryl Brasil,Google Cloud Certified - Professional Machine Learning Engineer,Technical,Professional Certification,PCP-451773,poonum.tauro@kyndryl.com,2024-11-18,2026-11-18,KYNDRYL SOLUTIONS PRIVATE LIMITED
-Kyndryl Brasil,Google Cloud Certified - Professional Machine Learning Engineer,Technical,Professional Certification,PCP-458581,pravin.takpire@kyndryl.com,2024-10-06,2026-10-06,KYNDRYL SOLUTIONS PRIVATE LIMITED
 Kyndryl Brasil,Google Cloud Certified - Professional Machine Learning Engineer,Technical,Professional Certification,PCP-525814,natalia.padilla@kyndryl.com,2026-02-17,2028-02-17,"Kyndryl España,S.A.U"
 Kyndryl Brasil,Google Cloud Certified - Professional Machine Learning Engineer,Technical,Professional Certification,PCP-529295,narasimharao.muvva@kyndryl.com,2024-06-07,2028-05-29,Kyndryl UK Limited
 Kyndryl Brasil,Google Cloud Certified - Professional Machine Learning Engineer,Technical,Professional Certification,PCP-555611,yoshio.katayama@kyndryl.com,2025-09-30,2027-09-30,Kyndryl Japan KK

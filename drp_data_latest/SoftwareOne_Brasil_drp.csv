@@ -1,17 +1,17 @@
 Pillar,Solution (Sales Play),Product,Tier 1 Profiles Count,Tier 2 Profiles Count,Total Tier 1 & 2 Profiles,Capacity Status (DRP vs Workloads)
 Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
-Application Modernization,"Migrate, Modernize and Build",Cloud Run,6,6,12,🟢 Ready (12 profiles)
-Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,7,10,17,🟢 Ready (17 DRP / 2 wkls)
+Application Modernization,"Migrate, Modernize and Build",Cloud Run,6,7,13,🟢 Ready (13 profiles)
+Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,7,11,18,🟢 Ready (18 DRP / 2 wkls)
 Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,1,14,15,🟢 Ready (15 profiles)
 Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,🔴 Gap (0 DRP / 1 wkls)
 Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,🔴 Gap (0 DRP / 1 wkls)
 Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
-Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,2,19,21,🟢 Ready (21 DRP / 2 wkls)
-Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,2,19,21,🟢 Ready (21 profiles)
+Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,2,20,22,🟢 Ready (22 DRP / 2 wkls)
+Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,2,20,22,🟢 Ready (22 profiles)
 Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,1,1,🟢 Ready (1 profiles)
-Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,2,19,21,🟢 Ready (21 profiles)
-Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,2,19,21,🟢 Ready (21 profiles)
+Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,2,20,22,🟢 Ready (22 profiles)
+Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,2,20,22,🟢 Ready (22 profiles)
 Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,1,7,8,🟢 Ready (8 DRP / 1 wkls)
 Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,3,3,🟢 Ready (3 profiles)
 Data & Analytics,The AI Ready Data Cloud,BigQuery,1,7,8,🟢 Ready (8 profiles)
@@ -34,4 +34,4 @@ Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ 
 Security,Agentic Defense with Google Security,Security Command Center,,1,1,🟢 Ready (1 profiles)
 Security,Agentic Defense with Google Security,Security Operations,,,,⚪ No Active Demand
 Security,Secure Innovation with Google Cloud,Cloud Security,,4,4,🟢 Ready (4 profiles)
-Workspace,Agentic Workplace Transformation,Workspace,2,4,6,🟢 Ready (6 profiles)
+Workspace,Agentic Workplace Transformation,Workspace,2,5,7,🟢 Ready (7 profiles)
