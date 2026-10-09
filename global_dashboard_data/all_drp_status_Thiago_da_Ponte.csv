@@ -73,7 +73,7 @@ Kyndryl Brasil,Security,Secure Innovation with Google Cloud,Cloud Security,3,6,9
 Kyndryl Brasil,Workspace,Agentic Workplace Transformation,Workspace,,,,🔴 Gap (0 DRP / 1 wkls)
 SantoDigital,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,1,2,3,🟢 Ready (3 profiles)
 SantoDigital,Application Modernization,"Migrate, Modernize and Build",Cloud Run,4,9,13,🟢 Ready (13 profiles)
-SantoDigital,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,4,10,14,🟡 Constrained (14 DRP / 28 wkls)
+SantoDigital,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,4,10,14,🟡 Constrained (14 DRP / 29 wkls)
 SantoDigital,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,4,30,34,🟢 Ready (34 DRP / 15 wkls)
 SantoDigital,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 SantoDigital,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
@@ -100,7 +100,7 @@ SantoDigital,Infrastructure Modernization,Enterprise Platform of Choice: Oracle,
 SantoDigital,Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,1,1,🟢 Ready (1 profiles)
 SantoDigital,Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,2,2,🟢 Ready (2 profiles)
 SantoDigital,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,5,13,18,🟢 Ready (18 profiles)
-SantoDigital,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,13,9,22,🟢 Ready (22 DRP / 14 wkls)
+SantoDigital,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,13,9,22,🟢 Ready (22 DRP / 15 wkls)
 SantoDigital,Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
 SantoDigital,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
 SantoDigital,Security,Agentic Defense with Google Security,Security Command Center,5,5,10,🟢 Ready (10 profiles)

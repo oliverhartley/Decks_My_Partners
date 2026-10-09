@@ -14,7 +14,7 @@ CU2 CLOUD TEC STORE SL,Artificial Intelligence,Scale AI Apps and Agents,Gemini E
 CU2 CLOUD TEC STORE SL,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,6,2,8,🟢 Ready (8 profiles)
 CU2 CLOUD TEC STORE SL,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,11,1,12,🟢 Ready (12 DRP / 4 wkls)
 CU2 CLOUD TEC STORE SL,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,10,2,12,🟢 Ready (12 profiles)
-CU2 CLOUD TEC STORE SL,Data & Analytics,The AI Ready Data Cloud,BigQuery,11,1,12,🟢 Ready (12 profiles)
+CU2 CLOUD TEC STORE SL,Data & Analytics,The AI Ready Data Cloud,BigQuery,11,1,12,🟢 Ready (12 DRP / 1 wkls)
 CU2 CLOUD TEC STORE SL,Data & Analytics,The AI Ready Data Cloud,Dataflow,10,2,12,🟢 Ready (12 profiles)
 CU2 CLOUD TEC STORE SL,Data & Analytics,The AI Ready Data Cloud,Dataproc,1,,1,🟢 Ready (1 profiles)
 CU2 CLOUD TEC STORE SL,Data & Analytics,The AI Ready Data Cloud,Looker,6,,6,🟢 Ready (6 profiles)
@@ -38,7 +38,7 @@ CU2 CLOUD TEC STORE SL,Workspace,Agentic Workplace Transformation,Workspace,2,,2
 Emergys Mexico,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 Emergys Mexico,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
 Emergys Mexico,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,1,1,🟡 Constrained (1 DRP / 4 wkls)
-Emergys Mexico,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,1,1,🟡 Constrained (1 DRP / 2 wkls)
+Emergys Mexico,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,1,1,🟢 Ready (1 profiles)
 Emergys Mexico,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 Emergys Mexico,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 Emergys Mexico,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
@@ -110,7 +110,7 @@ NXN Consultores,Workspace,Agentic Workplace Transformation,Workspace,,,,⚪ No A
 Nubosoft Servicios,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,2,2,4,🟢 Ready (4 profiles)
 Nubosoft Servicios,Application Modernization,"Migrate, Modernize and Build",Cloud Run,9,6,15,🟢 Ready (15 profiles)
 Nubosoft Servicios,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,14,3,17,🟢 Ready (17 DRP / 13 wkls)
-Nubosoft Servicios,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,1,2,3,🟡 Constrained (3 DRP / 7 wkls)
+Nubosoft Servicios,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,1,2,3,🟡 Constrained (3 DRP / 8 wkls)
 Nubosoft Servicios,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 Nubosoft Servicios,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 Nubosoft Servicios,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
@@ -165,7 +165,7 @@ U CLOUD STORE MÉXICO,Data & Analytics,The AI Ready Data Cloud,Looker,,,,🔴 Ga
 U CLOUD STORE MÉXICO,Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,,,⚪ No Active Demand
 U CLOUD STORE MÉXICO,Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,,,,⚪ No Active Demand
 U CLOUD STORE MÉXICO,Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,,,,⚪ No Active Demand
-U CLOUD STORE MÉXICO,Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,,,⚪ No Active Demand
+U CLOUD STORE MÉXICO,Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,,,🔴 Gap (0 DRP / 1 wkls)
 U CLOUD STORE MÉXICO,Databases,The AI Ready Data Cloud,Cloud SQL,,,,⚪ No Active Demand
 U CLOUD STORE MÉXICO,Databases,The AI Ready Data Cloud,Spanner,,,,⚪ No Active Demand
 U CLOUD STORE MÉXICO,Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,,,⚪ No Active Demand
