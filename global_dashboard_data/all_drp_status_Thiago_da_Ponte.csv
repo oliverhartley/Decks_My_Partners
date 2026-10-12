@@ -45,7 +45,7 @@ Kyndryl Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience
 Kyndryl Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
 Kyndryl Brasil,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,12,61,73,🟢 Ready (73 DRP / 2 wkls)
 Kyndryl Brasil,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,12,61,73,🟢 Ready (73 profiles)
-Kyndryl Brasil,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,2,12,14,🟢 Ready (14 DRP / 1 wkls)
+Kyndryl Brasil,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,4,14,18,🟢 Ready (18 DRP / 1 wkls)
 Kyndryl Brasil,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,12,61,73,🟢 Ready (73 profiles)
 Kyndryl Brasil,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,12,61,73,🟢 Ready (73 profiles)
 Kyndryl Brasil,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,5,29,34,🟢 Ready (34 DRP / 7 wkls)
@@ -64,7 +64,7 @@ Kyndryl Brasil,Infrastructure Modernization,Enterprise Platform of Choice: Oracl
 Kyndryl Brasil,Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,2,3,5,🟢 Ready (5 profiles)
 Kyndryl Brasil,Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,1,18,19,🟢 Ready (19 DRP / 1 wkls)
 Kyndryl Brasil,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,13,86,99,🟢 Ready (99 DRP / 1 wkls)
-Kyndryl Brasil,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,61,139,200,🟢 Ready (200 profiles)
+Kyndryl Brasil,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,63,142,205,🟢 Ready (205 profiles)
 Kyndryl Brasil,Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,1,1,🟢 Ready (1 profiles)
 Kyndryl Brasil,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
 Kyndryl Brasil,Security,Agentic Defense with Google Security,Security Command Center,1,4,5,🟢 Ready (5 profiles)
@@ -74,14 +74,14 @@ Kyndryl Brasil,Workspace,Agentic Workplace Transformation,Workspace,,,,🔴 Gap 
 SantoDigital,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,1,2,3,🟢 Ready (3 profiles)
 SantoDigital,Application Modernization,"Migrate, Modernize and Build",Cloud Run,4,9,13,🟢 Ready (13 profiles)
 SantoDigital,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,4,10,14,🟡 Constrained (14 DRP / 29 wkls)
-SantoDigital,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,4,30,34,🟢 Ready (34 DRP / 15 wkls)
+SantoDigital,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,4,31,35,🟢 Ready (35 DRP / 14 wkls)
 SantoDigital,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 SantoDigital,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 SantoDigital,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,🔴 Gap (0 DRP / 4 wkls)
 SantoDigital,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
-SantoDigital,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,14,33,47,🟢 Ready (47 DRP / 15 wkls)
+SantoDigital,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,14,33,47,🟢 Ready (47 DRP / 14 wkls)
 SantoDigital,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,14,33,47,🟢 Ready (47 profiles)
-SantoDigital,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,1,7,8,🟡 Constrained (8 DRP / 15 wkls)
+SantoDigital,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,4,5,9,🟡 Constrained (9 DRP / 15 wkls)
 SantoDigital,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,14,33,47,🟢 Ready (47 profiles)
 SantoDigital,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,14,33,47,🟢 Ready (47 profiles)
 SantoDigital,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,7,5,12,🟡 Constrained (12 DRP / 16 wkls)
@@ -100,7 +100,7 @@ SantoDigital,Infrastructure Modernization,Enterprise Platform of Choice: Oracle,
 SantoDigital,Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,1,1,🟢 Ready (1 profiles)
 SantoDigital,Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,2,2,🟢 Ready (2 profiles)
 SantoDigital,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,5,13,18,🟢 Ready (18 profiles)
-SantoDigital,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,13,9,22,🟢 Ready (22 DRP / 15 wkls)
+SantoDigital,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,14,8,22,🟢 Ready (22 DRP / 15 wkls)
 SantoDigital,Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
 SantoDigital,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
 SantoDigital,Security,Agentic Defense with Google Security,Security Command Center,5,5,10,🟢 Ready (10 profiles)
@@ -136,7 +136,7 @@ Sauter Tecnologia,Infrastructure Modernization,Enterprise Platform of Choice: Or
 Sauter Tecnologia,Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,1,1,🟢 Ready (1 profiles)
 Sauter Tecnologia,Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,,1,1,🟢 Ready (1 profiles)
 Sauter Tecnologia,Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,4,10,14,🟢 Ready (14 profiles)
-Sauter Tecnologia,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,14,6,20,🟢 Ready (20 DRP / 4 wkls)
+Sauter Tecnologia,Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,14,8,22,🟢 Ready (22 DRP / 4 wkls)
 Sauter Tecnologia,Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
 Sauter Tecnologia,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
 Sauter Tecnologia,Security,Agentic Defense with Google Security,Security Command Center,1,2,3,🟢 Ready (3 DRP / 2 wkls)
