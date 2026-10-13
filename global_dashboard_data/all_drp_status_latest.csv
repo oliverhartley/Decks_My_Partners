@@ -110,7 +110,7 @@ Apiux Tecnologia SPA,Workspace,Agentic Workplace Transformation,Workspace,,,,⚪
 Multiedro Serviços de TI Ltda.,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 Multiedro Serviços de TI Ltda.,Application Modernization,"Migrate, Modernize and Build",Cloud Run,1,1,2,🟢 Ready (2 profiles)
 Multiedro Serviços de TI Ltda.,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,1,,1,🟢 Ready (1 DRP / 1 wkls)
-Multiedro Serviços de TI Ltda.,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,7,1,8,🟢 Ready (8 DRP / 2 wkls)
+Multiedro Serviços de TI Ltda.,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,7,2,9,🟢 Ready (9 DRP / 2 wkls)
 Multiedro Serviços de TI Ltda.,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 Multiedro Serviços de TI Ltda.,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 Multiedro Serviços de TI Ltda.,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
@@ -156,9 +156,9 @@ DATALAKERS TECNOLOGIA LTDA,Artificial Intelligence,Leverage Generative Media in 
 DATALAKERS TECNOLOGIA LTDA,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,⚪ No Active Demand
 DATALAKERS TECNOLOGIA LTDA,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,2,,2,🟢 Ready (2 profiles)
 DATALAKERS TECNOLOGIA LTDA,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,2,,2,🟢 Ready (2 profiles)
-DATALAKERS TECNOLOGIA LTDA,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,1,5,6,🟢 Ready (6 DRP / 4 wkls)
+DATALAKERS TECNOLOGIA LTDA,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,1,5,6,🟢 Ready (6 DRP / 5 wkls)
 DATALAKERS TECNOLOGIA LTDA,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,4,4,🟢 Ready (4 profiles)
-DATALAKERS TECNOLOGIA LTDA,Data & Analytics,The AI Ready Data Cloud,BigQuery,1,5,6,🟢 Ready (6 DRP / 1 wkls)
+DATALAKERS TECNOLOGIA LTDA,Data & Analytics,The AI Ready Data Cloud,BigQuery,1,5,6,🟢 Ready (6 profiles)
 DATALAKERS TECNOLOGIA LTDA,Data & Analytics,The AI Ready Data Cloud,Dataflow,,4,4,🟢 Ready (4 profiles)
 DATALAKERS TECNOLOGIA LTDA,Data & Analytics,The AI Ready Data Cloud,Dataproc,,1,1,🟢 Ready (1 profiles)
 DATALAKERS TECNOLOGIA LTDA,Data & Analytics,The AI Ready Data Cloud,Looker,,,,⚪ No Active Demand
@@ -475,12 +475,12 @@ IEBT (Inst. Desenv. Empresas Base Tecnológica),Artificial Intelligence,Gemini E
 IEBT (Inst. Desenv. Empresas Base Tecnológica),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 IEBT (Inst. Desenv. Empresas Base Tecnológica),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
 IEBT (Inst. Desenv. Empresas Base Tecnológica),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
-IEBT (Inst. Desenv. Empresas Base Tecnológica),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 5 wkls)
+IEBT (Inst. Desenv. Empresas Base Tecnológica),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,,,🔴 Gap (0 DRP / 4 wkls)
 IEBT (Inst. Desenv. Empresas Base Tecnológica),Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
-IEBT (Inst. Desenv. Empresas Base Tecnológica),Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,🔴 Gap (0 DRP / 1 wkls)
+IEBT (Inst. Desenv. Empresas Base Tecnológica),Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,,,⚪ No Active Demand
 IEBT (Inst. Desenv. Empresas Base Tecnológica),Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
 IEBT (Inst. Desenv. Empresas Base Tecnológica),Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,,,⚪ No Active Demand
-IEBT (Inst. Desenv. Empresas Base Tecnológica),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,,🔴 Gap (0 DRP / 2 wkls)
+IEBT (Inst. Desenv. Empresas Base Tecnológica),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,,🔴 Gap (0 DRP / 1 wkls)
 IEBT (Inst. Desenv. Empresas Base Tecnológica),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,,,⚪ No Active Demand
 IEBT (Inst. Desenv. Empresas Base Tecnológica),Data & Analytics,The AI Ready Data Cloud,BigQuery,,,,⚪ No Active Demand
 IEBT (Inst. Desenv. Empresas Base Tecnológica),Data & Analytics,The AI Ready Data Cloud,Dataflow,,,,⚪ No Active Demand
@@ -1098,10 +1098,10 @@ Tigabytes,Data & Analytics,The AI Ready Data Cloud,BigQuery,1,2,3,🟢 Ready (3 
 Tigabytes,Data & Analytics,The AI Ready Data Cloud,Dataflow,,,,⚪ No Active Demand
 Tigabytes,Data & Analytics,The AI Ready Data Cloud,Dataproc,,,,⚪ No Active Demand
 Tigabytes,Data & Analytics,The AI Ready Data Cloud,Looker,1,,1,🟢 Ready (1 profiles)
-Tigabytes,Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,,,⚪ No Active Demand
+Tigabytes,Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,,,🔴 Gap (0 DRP / 1 wkls)
 Tigabytes,Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,1,1,2,🟢 Ready (2 profiles)
 Tigabytes,Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,,,,⚪ No Active Demand
-Tigabytes,Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,,,🔴 Gap (0 DRP / 1 wkls)
+Tigabytes,Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,,,⚪ No Active Demand
 Tigabytes,Databases,The AI Ready Data Cloud,Cloud SQL,1,1,2,🟢 Ready (2 profiles)
 Tigabytes,Databases,The AI Ready Data Cloud,Spanner,,,,⚪ No Active Demand
 Tigabytes,Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,2,2,🟢 Ready (2 profiles)
@@ -1149,7 +1149,7 @@ Xertica,Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪
 Xertica,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,🔴 Gap (0 DRP / 2 wkls)
 Xertica,Security,Agentic Defense with Google Security,Security Command Center,5,6,11,🟢 Ready (11 DRP / 1 wkls)
 Xertica,Security,Agentic Defense with Google Security,Security Operations,,1,1,🟢 Ready (1 profiles)
-Xertica,Security,Secure Innovation with Google Cloud,Cloud Security,6,5,11,🟢 Ready (11 profiles)
+Xertica,Security,Secure Innovation with Google Cloud,Cloud Security,6,5,11,🟢 Ready (11 DRP / 1 wkls)
 Xertica,Workspace,Agentic Workplace Transformation,Workspace,41,5,46,🟢 Ready (46 DRP / 1 wkls)
 CU2 CLOUD TEC STORE SL,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 CU2 CLOUD TEC STORE SL,Application Modernization,"Migrate, Modernize and Build",Cloud Run,6,1,7,🟢 Ready (7 profiles)
@@ -1369,7 +1369,7 @@ UCLOUD STORE COLOMBIA S A S,Security,Secure Innovation with Google Cloud,Cloud S
 UCLOUD STORE COLOMBIA S A S,Workspace,Agentic Workplace Transformation,Workspace,,,,⚪ No Active Demand
 Growth Partner Network (GPN),Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 Growth Partner Network (GPN),Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
-Growth Partner Network (GPN),Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,🔴 Gap (0 DRP / 8 wkls)
+Growth Partner Network (GPN),Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,🔴 Gap (0 DRP / 9 wkls)
 Growth Partner Network (GPN),Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,,,🔴 Gap (0 DRP / 4 wkls)
 Growth Partner Network (GPN),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 Growth Partner Network (GPN),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
@@ -1442,17 +1442,17 @@ Noventiq (Softline),Workspace,Agentic Workplace Transformation,Workspace,9,2,11,
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,1,1,🟢 Ready (1 DRP / 1 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Application Modernization,"Migrate, Modernize and Build",Cloud Run,10,16,26,🟢 Ready (26 profiles)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,7,15,22,🟡 Constrained (22 DRP / 44 wkls)
-INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,6,6,🟡 Constrained (6 DRP / 53 wkls)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,6,6,🟡 Constrained (6 DRP / 54 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,1,1,🟢 Ready (1 DRP / 1 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,🔴 Gap (0 DRP / 1 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,1,1,🟡 Constrained (1 DRP / 12 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,1,1,🟢 Ready (1 profiles)
-INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,22,17,39,🟢 Ready (39 DRP / 22 wkls)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,22,17,39,🟢 Ready (39 DRP / 21 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,22,17,39,🟢 Ready (39 profiles)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Scale AI Apps and Agents,AI Applications,6,8,14,🟢 Ready (14 DRP / 14 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,22,17,39,🟢 Ready (39 DRP / 2 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,22,17,39,🟢 Ready (39 profiles)
-INFORMACIÓN LOCALIZADA SAS (Servinformación),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,20,15,35,🟡 Constrained (35 DRP / 41 wkls)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,20,15,35,🟡 Constrained (35 DRP / 40 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,9,9,18,🟢 Ready (18 DRP / 3 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Data & Analytics,The AI Ready Data Cloud,BigQuery,20,15,35,🟢 Ready (35 DRP / 3 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Data & Analytics,The AI Ready Data Cloud,Dataflow,9,9,18,🟢 Ready (18 profiles)
@@ -1549,13 +1549,13 @@ Gentrop Cloud Brasil,Security,Secure Innovation with Google Cloud,Cloud Security
 Gentrop Cloud Brasil,Workspace,Agentic Workplace Transformation,Workspace,23,9,32,🟢 Ready (32 profiles)
 QiNetwork,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,1,1,🟢 Ready (1 profiles)
 QiNetwork,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,1,1,🟢 Ready (1 profiles)
-QiNetwork,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,2,2,🟡 Constrained (2 DRP / 14 wkls)
+QiNetwork,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,2,2,🟡 Constrained (2 DRP / 15 wkls)
 QiNetwork,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,5,3,8,🟡 Constrained (8 DRP / 13 wkls)
 QiNetwork,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 QiNetwork,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 QiNetwork,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,🔴 Gap (0 DRP / 2 wkls)
 QiNetwork,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
-QiNetwork,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,5,2,7,🟡 Constrained (7 DRP / 11 wkls)
+QiNetwork,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,5,2,7,🟡 Constrained (7 DRP / 10 wkls)
 QiNetwork,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,5,2,7,🟢 Ready (7 profiles)
 QiNetwork,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,2,1,3,🟢 Ready (3 DRP / 3 wkls)
 QiNetwork,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,5,2,7,🟢 Ready (7 profiles)
@@ -1621,7 +1621,7 @@ Safetec Informática,Security,Secure Innovation with Google Cloud,Cloud Security
 Safetec Informática,Workspace,Agentic Workplace Transformation,Workspace,16,,16,🟢 Ready (16 profiles)
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Application Modernization,"Migrate, Modernize and Build",Cloud Run,1,1,2,🟢 Ready (2 profiles)
-VPN Soluçoes em TI LTDA (Venha para Nuvem),Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,4,1,5,🟡 Constrained (5 DRP / 7 wkls)
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,4,1,5,🟢 Ready (5 DRP / 5 wkls)
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,2,2,🟡 Constrained (2 DRP / 25 wkls)
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
@@ -1637,7 +1637,7 @@ VPN Soluçoes em TI LTDA (Venha para Nuvem),Data & Analytics,"Migrate, Modernize
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Data & Analytics,The AI Ready Data Cloud,BigQuery,,1,1,🟢 Ready (1 profiles)
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Data & Analytics,The AI Ready Data Cloud,Dataflow,1,,1,🟢 Ready (1 profiles)
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Data & Analytics,The AI Ready Data Cloud,Dataproc,,,,⚪ No Active Demand
-VPN Soluçoes em TI LTDA (Venha para Nuvem),Data & Analytics,The AI Ready Data Cloud,Looker,,,,🔴 Gap (0 DRP / 1 wkls)
+VPN Soluçoes em TI LTDA (Venha para Nuvem),Data & Analytics,The AI Ready Data Cloud,Looker,,,,⚪ No Active Demand
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,,,🔴 Gap (0 DRP / 2 wkls)
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,1,2,3,🟢 Ready (3 DRP / 2 wkls)
 VPN Soluçoes em TI LTDA (Venha para Nuvem),Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,,,,🔴 Gap (0 DRP / 1 wkls)
@@ -1776,7 +1776,7 @@ MadeinWeb S/A,Artificial Intelligence,Leverage Generative Media in your Business
 MadeinWeb S/A,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,1,2,3,🟢 Ready (3 DRP / 3 wkls)
 MadeinWeb S/A,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,6,2,8,🟢 Ready (8 profiles)
 MadeinWeb S/A,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,6,2,8,🟢 Ready (8 profiles)
-MadeinWeb S/A,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,,🔴 Gap (0 DRP / 4 wkls)
+MadeinWeb S/A,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,,🔴 Gap (0 DRP / 3 wkls)
 MadeinWeb S/A,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,,,⚪ No Active Demand
 MadeinWeb S/A,Data & Analytics,The AI Ready Data Cloud,BigQuery,,,,⚪ No Active Demand
 MadeinWeb S/A,Data & Analytics,The AI Ready Data Cloud,Dataflow,,,,⚪ No Active Demand

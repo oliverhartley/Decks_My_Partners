@@ -162,10 +162,10 @@ Tigabytes,Data & Analytics,The AI Ready Data Cloud,BigQuery,1,2,3,🟢 Ready (3 
 Tigabytes,Data & Analytics,The AI Ready Data Cloud,Dataflow,,,,⚪ No Active Demand
 Tigabytes,Data & Analytics,The AI Ready Data Cloud,Dataproc,,,,⚪ No Active Demand
 Tigabytes,Data & Analytics,The AI Ready Data Cloud,Looker,1,,1,🟢 Ready (1 profiles)
-Tigabytes,Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,,,⚪ No Active Demand
+Tigabytes,Databases,"Migrate, Modernize, and Build with Data Cloud",AlloyDB for PostgreSQL,,,,🔴 Gap (0 DRP / 1 wkls)
 Tigabytes,Databases,"Migrate, Modernize, and Build with Data Cloud",Cloud SQL,1,1,2,🟢 Ready (2 profiles)
 Tigabytes,Databases,"Migrate, Modernize, and Build with Data Cloud",Spanner,,,,⚪ No Active Demand
-Tigabytes,Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,,,🔴 Gap (0 DRP / 1 wkls)
+Tigabytes,Databases,The AI Ready Data Cloud,AlloyDB for PostgreSQL,,,,⚪ No Active Demand
 Tigabytes,Databases,The AI Ready Data Cloud,Cloud SQL,1,1,2,🟢 Ready (2 profiles)
 Tigabytes,Databases,The AI Ready Data Cloud,Spanner,,,,⚪ No Active Demand
 Tigabytes,Infrastructure Modernization,Enterprise Platform of Choice: Oracle,Oracle,,2,2,🟢 Ready (2 profiles)
@@ -213,5 +213,5 @@ Xertica,Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪
 Xertica,Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,🔴 Gap (0 DRP / 2 wkls)
 Xertica,Security,Agentic Defense with Google Security,Security Command Center,5,6,11,🟢 Ready (11 DRP / 1 wkls)
 Xertica,Security,Agentic Defense with Google Security,Security Operations,,1,1,🟢 Ready (1 profiles)
-Xertica,Security,Secure Innovation with Google Cloud,Cloud Security,6,5,11,🟢 Ready (11 profiles)
+Xertica,Security,Secure Innovation with Google Cloud,Cloud Security,6,5,11,🟢 Ready (11 DRP / 1 wkls)
 Xertica,Workspace,Agentic Workplace Transformation,Workspace,41,5,46,🟢 Ready (46 DRP / 1 wkls)
