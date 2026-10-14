@@ -1,0 +1,1470 @@
+{
+  "aBJKf000009tZZXOA2": {
+    "history_hash": "2b226ae7ac79975881bab8a2b8d381dd",
+    "summary": "23/03: Parceiro finalizando escopo do caso de uso e SoW; sem atualizações posteriores no histórico."
+  },
+  "aBJ4M00000002gzWAA": {
+    "history_hash": "c320ba2924776717beb160cb308874f8",
+    "summary": "16/09/2022: Foundation concluída pela IPNET; CTO do parceiro e CoE acionados para contornar atraso e acelerar entrega final."
+  },
+  "aBJKf000009oba2OAA": {
+    "history_hash": "d5b6cf3b5d2bd368ee3e773d9a061536",
+    "summary": "26/01: Retomado após stand-by de fim de ano; em alinhamento com parceiro para entrada em produção."
+  },
+  "aBJ4M0000008kVzWAI": {
+    "history_hash": "4f91fbdec071b1196b06a03b17d7e3b3",
+    "summary": "21/02/2024: Roadmap definido, mas projeto atrasado por bloqueios técnicos de infra (Interconnect e Aercosoft/SAP), escalado ao CTO."
+  },
+  "aBJ4M000000GpwHWAS": {
+    "history_hash": "7b08aa27a2ef597873acf1f24fcab68e",
+    "summary": "05/05/2023: Assessment StratoZone (Golden) retido por dependência do antigo parceiro Azure; atuando para destravar TechWin e migração."
+  },
+  "aBJ4M000000LAzYWAW": {
+    "history_hash": "692d2ce7ffce32258d38a4e8bc7f843e",
+    "summary": "18/10/2024: Projeto entregue e concluído em 08/10/2024 após assinatura do contrato Flex."
+  },
+  "aBJKf000009eFahOAE": {
+    "history_hash": "b382b791fed5146fda9420577593f731",
+    "summary": "28/08: Em fase final de levantamento técnico para definição de arquitetura e volumetria de dados (após alinhamento de plano com CEO)."
+  },
+  "aBJ4M0000008l5dWAA": {
+    "history_hash": "91a75e427658dde15beb052a6caa9d40",
+    "summary": "21/02/2024: Em implementação pela ROX, com atraso por bloqueios internos de infra (Interconnect e acesso SAP via Aercosoft), escalado ao CIO."
+  },
+  "aBJKf000008234yOAA": {
+    "history_hash": "a70ad7558ced7ddfd928f4a83f8c6603",
+    "summary": "24/03/2025: Foundation e camada DEV entregues na migração Azure para GCP, gerando US$ 31,2k de consumo nos últimos 30 dias."
+  },
+  "aBJ4M0000008krvWAA": {
+    "history_hash": "1a7588723eeb236b550b398d99ad2921",
+    "summary": "09/10/2023: Após período de trial do Cloud Armor, cliente realizou a subscrição do CAMP."
+  },
+  "aBJKf000009eMfyOAE": {
+    "history_hash": "0619f74848b51a6fe78948f8a8ff8143",
+    "summary": "30/06: EBC em São Paulo agendado para 22/07; sem novas atualizações registradas no histórico."
+  },
+  "aBJKf000009tK9aOAE": {
+    "history_hash": "9ca63b03f6d7dc92311b38e003b26748",
+    "summary": "28/08: Após revisão de roadmap pela nova CTO e processo de RFP, projeto aguarda aprovação final da Diretoria."
+  },
+  "aBJKf000009tOYOOA2": {
+    "history_hash": "8d71d400ba54bf7cf67b120fde65e85f",
+    "summary": "13/08: Cliente em Recuperação Judicial; buscando viabilização via AWT, pendente aprovação das condições comerciais."
+  },
+  "aBJKf000009tbiWOAQ": {
+    "history_hash": "cf1687998b489590ec0e04d7184b9687",
+    "summary": "09/06: Levantamento técnico concluído e proposta apresentada; cobrando parceiro Qinetwork e aguardando retorno do cliente."
+  },
+  "aBJKf000009tIQQOA2": {
+    "history_hash": "962e620ef016a39cf9fdd41790227cb4",
+    "summary": "09/06: Ticket de acesso ao domínio resolvido; parceiro Sauter avançou para a fase de foundation com o cliente."
+  },
+  "aBJKf000000Gou7OAC": {
+    "history_hash": "cdd138e913c7745f91df22a4d89db04e",
+    "summary": "21/03/2025: Cliente aguarda envio da oferta privada (Private Offer) para migrar contrato de ISV on-prem para o Marketplace."
+  },
+  "aBJKf000009eDZSOA2": {
+    "history_hash": "21282ea908eb594b41e427ee554fa5d2",
+    "summary": "05/10: Foundation, segurança e rede concluídos com kickoff realizado; projeto segue para a migração da versão 4.2 após assinatura do contrato."
+  },
+  "aBJKf000009tWEvOAM": {
+    "history_hash": "2841afe26fe63e3c1e6714990d67323c",
+    "summary": "21/09: Reunião técnica realizada entre GCP, Databricks, PSW e Solar Coca-Cola para iniciar levantamento de migração."
+  },
+  "aBJKf000000GouMOAS": {
+    "history_hash": "01086312d878f8b7e363faf7f8f6df2a",
+    "summary": "08/12/2025: Em produção com slots contratados e uso ativo pelo cliente; aplicando melhorias contínuas no fluxo."
+  },
+  "aBJKf000009tOftOAE": {
+    "history_hash": "2b27d7f46b88ea690ee068d0fe069b9d",
+    "summary": "13/08: Projeto on hold após coleta de preços e preparação de TR; aguardando aprovação interna para publicação do Edital."
+  },
+  "aBJKf000009eEZTOA2": {
+    "history_hash": "2f3e23c26837e3c6361a09feb387ca6d",
+    "summary": "28/08: Revisão de escopo na proposta comercial para reapresentação ao cliente na 1ª semana de setembro."
+  },
+  "aBJKf000009eKGXOA2": {
+    "history_hash": "e5d95bdcee640af4862d02393d9af432",
+    "summary": "17/09: Configuração do ambiente concluída após assinatura; cliente finalizando lista de usuários para distribuição de licenças."
+  },
+  "aBJ4M000000L8TpWAK": {
+    "history_hash": "b5395da85f0a1843c93134a075a9259b",
+    "summary": "14/08/2024: 1ª wave homologada para uso interno; fase de lançamento para clientes finais em revisão com ajuste de receita."
+  },
+  "aBJKf000006A8DOOA0": {
+    "history_hash": "fac46c845dc8d3dfc3c2049a30582823",
+    "summary": "Reunião agendada com novo executivo de vendas da Tempest para definição do escopo final de renovação SecOps."
+  },
+  "aBJKf000009eMKMOA2": {
+    "history_hash": "6ef26105b138f4eb65943fdb4bc1339f",
+    "summary": "28/08: Cliente ativou os 150 usuários contratados; parceiro realizando implantação dos conectores."
+  },
+  "aBJ4M00000002gsWAA": {
+    "history_hash": "ac88c530192ba44d5a0d3e819ad4646a",
+    "summary": "19/08/2022: Pendente aprovação de PSO para início do workload."
+  },
+  "aBJ4M000000LAzTWAW": {
+    "history_hash": "922e7acfb9fac50164c2c4f316602c15",
+    "summary": "23/12/2024: MVP entregue pela SantoDigital; cliente manteve apenas o bot da central de atendimento em produção na 1ª wave para avaliar expansão futura."
+  },
+  "aBJKf000009oQyXOAU": {
+    "history_hash": "a99871609f6219ef04028cf04d6dc7b1",
+    "summary": "30/09/2025: Contrato avançou após revisão jurídica e início confirmado pelo parceiro; calculadora revisada para confirmar consumo."
+  },
+  "aBJKf000009eQUGOA2": {
+    "history_hash": "40c84e812346dbfa6269b910c28bf7a6",
+    "summary": "28/08: Reunião técnica agendada para 02/09 visando fechar a 1ª wave de migração."
+  },
+  "aBJKf000009eTdpOAE": {
+    "history_hash": "26f49e51f29a69b68d85962b884109b0",
+    "summary": "01/09: Finalizando validação técnica (TechWin) para apresentação da proposta comercial."
+  },
+  "aBJ4M000000L3k7WAC": {
+    "history_hash": "e3d77cb23e5f05d4aad5612717741453",
+    "summary": "14/11/2024: Entrou em produção em jul/24; aplicando melhorias de classificação/respostas da IA e expandindo para novas marcas (Dona Benta, Sol, Brandini)."
+  },
+  "aBJKf000009oPK2OAM": {
+    "history_hash": "c0cb2dcfe05ea8d8309fc23683816769",
+    "summary": "14/07/2025: Retail Search operante e carga no BigQuery iniciada pela Avenue; dúvidas de importação GA4 endereçadas, aguardando retomada do desenvolvimento."
+  },
+  "aBJKf000009tcKpOAI": {
+    "history_hash": "11e8a256ee8f1cce07e285ddee72c192",
+    "summary": "28/08: POC concluída com sucesso e proposta negociada; aguardando aprovação final da Diretoria para iniciar migração."
+  },
+  "aBJKf000006ACUTOA4": {
+    "history_hash": "3f53f1c6dd5df3370b3be59b0492e319",
+    "summary": "08/09/2025: Após liberação de acessos e aprovação de PSF, reunião de kickoff foi realizada em 05/09 e projeto iniciado."
+  },
+  "aBJKf000009tRT2OAM": {
+    "history_hash": "273d82fee1264b9b17c89d9597f9e38e",
+    "summary": "13/08: MVP/POC concluídos com sucesso; cliente definindo modelo de contratação (licitação ou adesão) após reunião em Belém."
+  },
+  "aBJKf000006AA7mOAG": {
+    "history_hash": "a86fa9e0314303e1a1ab1fcfc592eef8",
+    "summary": "27/03/2025: Solução aprovada nos testes técnicos; em tramitação interna no cliente para aquisição via Comprasnet."
+  },
+  "aBJ4M000000bowTWAQ": {
+    "history_hash": "90083cc51f06b50a8b5af4b4f806db08",
+    "summary": "15/05/2023: Escopo técnico aprovado pelo time de TI após troca de parceiro; pendente assinatura do contrato."
+  },
+  "aBJKf000009tOUvOAM": {
+    "history_hash": "0a3ba66ee6d710c46d0affd26513450e",
+    "summary": "07/06: MVP concluído e proposta comercial apresentada; aguardando retorno da reunião de Diretoria do cliente."
+  },
+  "aBJKf000009swUrOAI": {
+    "history_hash": "b81c8699bff0876df97f7ce9207f6cdb",
+    "summary": "19/09: Implementação iniciada após validação da proposta de MVP pelo cliente."
+  },
+  "aBJKf00000829fgOAA": {
+    "history_hash": "0dff43424dd5f9552938cbeeb33a66f1",
+    "summary": "24/03: Aguardando aprovação do cenário de negócio pelo cliente."
+  },
+  "aBJKf000009t8KhOAI": {
+    "history_hash": "6c2cf624b51758fca95333a84f3a9fa9",
+    "summary": "13/08: Projeto interrompido; processo de pré-vendas ainda não foi iniciado."
+  },
+  "aBJ4M00000002RQWAY": {
+    "history_hash": "cf8deeeac4c136bdd292c04de7586adf",
+    "summary": "16/08: Implementação da workload concluída pelo cliente com sucesso."
+  },
+  "aBJ4M00000002S0WAI": {
+    "history_hash": "dba71718762c8a24e3000e33e84f00a6",
+    "summary": "12/08: Otimização do App Engine concluída; otimizações de Datastore previstas para dezembro."
+  },
+  "aBJ4M0000008sfnWAA": {
+    "history_hash": "44ee8784d976d266bb4ff3827c354448",
+    "summary": "11/03: Kickoff do projeto agendado para a próxima sexta-feira."
+  },
+  "aBJKf0000082TFdOAM": {
+    "history_hash": "27acff0ef88c3ededb889e71275f8ee9",
+    "summary": "17/06: Parceria em negociação; trabalhando para reagendar apresentação com o cliente no próximo mês."
+  },
+  "aBJKf000009oXnbOAE": {
+    "history_hash": "105b5679ca6c28547c48a2edaa9469ad",
+    "summary": "13/10: Projeto totalmente concluído e em ambiente de produção desde 08/10."
+  },
+  "aBJKf000006A7ZnOAK": {
+    "history_hash": "e7eb549bf0dd1a21139f67751473577e",
+    "summary": "22/04: Implementação em fase final, com previsão de entrada em produção até o fim de abril."
+  },
+  "aBJ4M00000002VBWAY": {
+    "history_hash": "03654cd157f8c5e8e2d27395c68fde32",
+    "summary": "03/04: Negócio fechado com o cliente para suporte ao ambiente SAP CAR."
+  },
+  "aBJKf000009dv9lOAA": {
+    "history_hash": "034ebdaaa24b39b0d4a82bd1b68a29ae",
+    "summary": "26/08: Kickoff realizado com o cliente após assinatura do contrato."
+  },
+  "aBJKf000009tTY9OAM": {
+    "history_hash": "429df1a41c15ee1e8f7d1c11946c8e40",
+    "summary": "09/09: Projeto sem prioridade neste trimestre; nova abordagem prevista para o próximo trimestre."
+  },
+  "aBJKf000009t3TnOAI": {
+    "history_hash": "a6784c101adcbf110062361efefa2846",
+    "summary": "26/06: Implementação iniciada; aguardando aceite final do cliente para 02/07."
+  },
+  "aBJ4M0000008gb0WAA": {
+    "history_hash": "f42188e732282665797c8cc89d15c353",
+    "summary": "05/11: Problemas técnicos no VDI; cliente migrou de volta para Microsoft, gerando impacto financeiro."
+  },
+  "aBJ4M00000003KpWAI": {
+    "history_hash": "3264ed30585cca49219f4ab63327a891",
+    "summary": "02/12: Contrato em revisão jurídica; assinatura esperada ainda neste mês."
+  },
+  "aBJKf000008271KOAQ": {
+    "history_hash": "cca2b19bde9686f95e2fcc4f904d4b9c",
+    "summary": "Cliente em processo de migração da infraestrutura local para a OCI."
+  },
+  "aBJKf000009swpzOAA": {
+    "history_hash": "87656b9f220661ebfb98b7ebf40a88bc",
+    "summary": "09/06: Sistema em uso com extração de dados; validando volume total com a equipe de negócios."
+  },
+  "aBJ4M00000002QqWAI": {
+    "history_hash": "9d59a72a040dc8384dec2063b12f55e7",
+    "summary": "Solução aprovada pelo cliente, aguardando conclusão do processo interno de auditoria."
+  },
+  "aBJKf000009dvxMOAQ": {
+    "history_hash": "07c194bb408480af3e95fc988af8ffaf",
+    "summary": "13/03: Migração em curso com previsão de conclusão até o final de março."
+  },
+  "aBJKf000009olmDOAQ": {
+    "history_hash": "272d9345fce2b21e892fbf724f977566",
+    "summary": "29/09: Maurílio analisa informações com o time técnico do Google; retorno com proposta ao cliente previsto para a semana de 13/10."
+  },
+  "aBJ4M0000008hFjWAI": {
+    "history_hash": "4cd8d59f11074b80d99e9b318f39bf9a",
+    "summary": "20/04: Cliente acordou migração do SAP para o GCP, aguardando alinhamento de cronograma."
+  },
+  "aBJKf000009smZ8OAI": {
+    "history_hash": "d42dd39e2e275265ed06a3f3c59faf8d",
+    "summary": "27/12: Implementação iniciada pela IPNET, aguardando retorno da parceira sobre status atual."
+  },
+  "aBJ4M000000PMLCWA4": {
+    "history_hash": "ae598c2baa0603f7e35e383dea2e8396",
+    "summary": "21/11: PoC de Gemini realizada pela parceira Santo Digital e entregue com sucesso."
+  },
+  "aBJ4M000000CwhwWAC": {
+    "history_hash": "97612d1b6033a46fe51a085eea895a35",
+    "summary": "21/06: Solicitados serviços de Landing Zone para regularização do ambiente e segurança do cliente."
+  },
+  "aBJ4M000000PBrqWAG": {
+    "history_hash": "a00920c49c755f6c6a4c3a6742c08a86",
+    "summary": "08/11: PoC iniciada em 07/11, seguindo conforme o cronograma estabelecido."
+  },
+  "aBJ4M000000g7boWAA": {
+    "history_hash": "1b7e605ddbcf172d06febeb22efe04c4",
+    "summary": "01/11: Processo de transferência do Billing ID necessário para assinatura do contrato."
+  },
+  "aBJKf000006ADyZOAW": {
+    "history_hash": "37057773df5d46a4e0f3cc82ca07ce33",
+    "summary": "30/04: Testes finalizados; cliente iniciou a criação dos ambientes de desenvolvimento, homologação e produção."
+  },
+  "aBJKf0000082EGvOAM": {
+    "history_hash": "1bf1f754b00c90b29438db0e62bead63",
+    "summary": "30/06: Workload em fase de dimensionamento (sizing) técnico."
+  },
+  "aBJ4M000000gASaWAM": {
+    "history_hash": "3a30cc0e5f71cd646232a55f978a40d2",
+    "summary": "20/08: Workload em crescimento contínuo; suporte mantido com acompanhamento de consumo e boas práticas."
+  },
+  "aBJKf000004ZMQGOA4": {
+    "history_hash": "baa9ece8b24778521123ce5f3fd94f90",
+    "summary": "11/09: Discovery em andamento; contratos novos pausados até final de setembro devido a definições internas."
+  },
+  "aBJKf000004ZJV9OAO": {
+    "history_hash": "3a330d61a508baeaf930d4fe0942e4ae",
+    "summary": "14/08: Cliente testando GE; definição de licenciamento e estratégia de adoção em curso para assinatura."
+  },
+  "aBJKf000009eLHlOAM": {
+    "history_hash": "3a49a37df0e7065076b25cf4628dc583",
+    "summary": "16/06: Necessário agendar reunião com cliente para aprofundar a demanda identificada."
+  },
+  "aBJKf000009e7pHOAQ": {
+    "history_hash": "c093a8db16cfaa1ba923ce8bcdf97f4d",
+    "summary": "[2026-10-05] Reunião com o cliente e parceiro hoje para alinhamento. Parceiro vai enviar questionário de pré-assessment e eu vou ter reunião até o final da sema..."
+  },
+  "aBJKf0000082CeCOAU": {
+    "history_hash": "958c11b30436d2fb7732be8b586601d9",
+    "summary": "06/03: Agenda definida para 19/03 visando iniciar a implementação do Backup DR."
+  },
+  "aBJKf000009kKHPOA2": {
+    "history_hash": "2896f9a17cb176c681ba2f475482f22c",
+    "summary": "[2026-10-06] Cliente contratou prestador focado no processo de modernização. Vai ser montado um plano de modernização junto com o parceiro."
+  },
+  "aBJKf0000082HgrOAE": {
+    "history_hash": "49c5bb1f447567cafde8f54f4b06337f",
+    "summary": "[2026-10-06] Revisão do plano de adoção do GE refletindo quantidade de licenças e plano do cliente."
+  },
+  "aBJ4M000000LA7WWAW": {
+    "history_hash": "7f68832167be3e711e633faf83b386a0",
+    "summary": "06/03: Diogo Bucci em processo de estruturação do cenário para o projeto."
+  },
+  "aBJ4M000000LC8vWAG": {
+    "history_hash": "be1f48043979a6b6b8b5a8c2d4973623",
+    "summary": "21/11: Projeto entregue com sucesso pela Santo Digital."
+  },
+  "aBJKf000009e5aDOAQ": {
+    "history_hash": "1b8219afcea1fb9d0a5a2900ba41aeb9",
+    "summary": "06/08: Agenda com diretoria focada em IA e GE para definir próximos passos após migração."
+  },
+  "aBJKf000004ZEviOAG": {
+    "history_hash": "7e314ed304d0fc4d8c87e900b2e14612",
+    "summary": "18/05: Reunião técnica com parceiro e cliente pendente para definir GE e reset de GWS."
+  },
+  "aBJ4M000000kBZZWA2": {
+    "history_hash": "e141cc4a24eead7d29676b2f9ac0f2d9",
+    "summary": "04/07: Contrato assinado e kick-off do projeto realizado após conclusão do assessment de segurança."
+  },
+  "aBJKf000009olm8OAA": {
+    "history_hash": "bfa79a32bc8adbc1338a810040e48b0e",
+    "summary": "20/08: Cliente focado na contratação de Apigee; monitorando atualizações com a VPN."
+  },
+  "aBJKf000009tMkDOAU": {
+    "history_hash": "0bd7ecf2c6aa2d36b22368ec73ce3b30",
+    "summary": "04/03: Solução implementada pelo parceiro; aguardando entrada em produção prevista para final de março."
+  },
+  "aBJKf000009kIu0OAE": {
+    "history_hash": "3e7cbf21a1aaa9f32cd131f353ab6999",
+    "summary": "13/09: Avaliar junto ao parceiro e time da conta a necessidade de suporte adicional."
+  },
+  "aBJKf000004ZRdAOAW": {
+    "history_hash": "4023a7d2b8388ea4ff2d53a89cd4795d",
+    "summary": "17/09: Necessário realizar alinhamento com o FSR para definir próximos passos."
+  },
+  "aBJ4M000000Gor6WAC": {
+    "history_hash": "faccb18b360efb46046ab47ddfe12c92",
+    "summary": "07/06 Workload encerrado."
+  },
+  "aBJ4M000000LAXPWA4": {
+    "history_hash": "f97e34910546768e7b1d08a0a0ed23ed",
+    "summary": "17/04 Em fase final de negociação com apoio do parceiro na composição de valores."
+  },
+  "aBJ4M000000LB02WAG": {
+    "history_hash": "f0a3e3f108906b196042620bbd457399",
+    "summary": "13/03 Parceiro apoiando a execução da migração."
+  },
+  "aBJ4M0000008mTMWAY": {
+    "history_hash": "60c332cbf0bc7322be5cc3e50f62ec94",
+    "summary": "05/06 Aguardando validação do cliente para fechamento da POC."
+  },
+  "aBJ4M0000008mTbWAI": {
+    "history_hash": "3dd96c921997a319f874075430558323",
+    "summary": "04/06 POC concluída com sucesso; parceiro buscando viabilizar o fechamento com o cliente."
+  },
+  "aBJ4M000000Gq4vWAC": {
+    "history_hash": "00e8a3450afb7c1988fd2543b9de02f3",
+    "summary": "01/11 Aguardando validação dos próximos passos e aprovação de pricing com o cliente."
+  },
+  "aBJKf0000081za7OAA": {
+    "history_hash": "9949478439d205c766b533a370565738",
+    "summary": "18/06 Deploy aprovado e com cronograma previsto."
+  },
+  "aBJ4M0000008mTWWAY": {
+    "history_hash": "c04e35cbebc9d71679aa55be5f059a26",
+    "summary": "13/03 Cliente em fase de deploy."
+  },
+  "aBJ4M000000TPXzWAO": {
+    "history_hash": "61e4f29fa71a7260329bec4d69cb4f37",
+    "summary": "20/08 Impasse com cliente alegando insatisfação e dificuldade de avanço pós-POC."
+  },
+  "aBJKf00000822ehOAA": {
+    "history_hash": "3093181e4db771f3fe77ab181eaecc5b",
+    "summary": "04/02 Postergado, necessário validar status com a Vanessa."
+  },
+  "aBJ4M0000008m0KWAQ": {
+    "history_hash": "47733b58dab0113594a7a5d2f9f63194",
+    "summary": "21/09 Necessário alinhar próximos passos com a equipe de infraestrutura e parceiro."
+  },
+  "aBJKf00000822fKOAQ": {
+    "history_hash": "3507f923fafcec7763e3dce4df4dd17c",
+    "summary": "30/12 Necessário validar status com a Vanessa."
+  },
+  "aBJKf000006A7YzOAK": {
+    "history_hash": "97372e4408c577f647ba1c5b9c0c4015",
+    "summary": "07/02 Iniciado cronograma de 11 semanas para implementação da solução de IA."
+  },
+  "aBJ4M000000CyiDWAS": {
+    "history_hash": "61def451f7aad29e2f91ad46b01e2d6d",
+    "summary": "10/08 Discovery de negócio finalizado; iniciando implantação do workload."
+  },
+  "aBJKf000009oWleOAE": {
+    "history_hash": "3f624c938dd8cfede10c7f0030c01ba1",
+    "summary": "18/12 Migração agendada para janeiro após expiração de créditos AWS."
+  },
+  "aBJKf000004ZNnzOAG": {
+    "history_hash": "2890daba0b9b8f1b53386963c5e0fb5a",
+    "summary": "12/08 Oportunidade confirmada como Closed Won pelo parceiro."
+  },
+  "aBJKf0000082EHPOA2": {
+    "history_hash": "e50f21951921654cb5237cc3cabc0e13",
+    "summary": "11/07 Em andamento com foco em novas instâncias e crescimento da conta."
+  },
+  "aBJKf000009onjrOAA": {
+    "history_hash": "500d41c9efc123ce8c6eb34cdc9e5b3d",
+    "summary": "05/08 Workload de crescimento orgânico incremental em fase de execução."
+  },
+  "aBJKf000009oVYFOA2": {
+    "history_hash": "763c79b499ea5a212d450f2d2a12a4fa",
+    "summary": "07/04 Projeto adiado pelo cliente; aguardando retomada para definição de proposta."
+  },
+  "aBJKf000009tVF4OAM": {
+    "history_hash": "5571d6597042805803ace7a179b6e51c",
+    "summary": "09/09 Caso será revisado na cadência semanal com a Sauter."
+  },
+  "aBJKf000009oUVKOA2": {
+    "history_hash": "ad35181e29b6beea126283e1e2fbf870",
+    "summary": "22/02 Contrato assinado pelo parceiro e cliente; finalizado."
+  },
+  "aBJKf000009tVTVOA2": {
+    "history_hash": "7655e66dd0ddccbaeeb5bcbdd8884978",
+    "summary": "08/10: Pendente da parceira Sauter para revisão semanal e definição dos casos de uso de IA para o planejamento estratégico."
+  },
+  "aBJKf000009tJZ8OAM": {
+    "history_hash": "1d482392387f8e60bdc1f2371a49e2bb",
+    "summary": "18/08 Revisar plano de adoção com o parceiro."
+  },
+  "aBJ4M000000L5qRWAS": {
+    "history_hash": "35f7ae114673e12dfbcb47e398c58637",
+    "summary": "25/10 Implementação iniciada; aguardando PSF."
+  },
+  "aBJ4M000000TPXLWA4": {
+    "history_hash": "4e9eaa970fcf05aac3572e7fecc3ef51",
+    "summary": "07/06 Em processo de assinatura de contrato commit."
+  },
+  "aBJKf000009ssxBOAQ": {
+    "history_hash": "f2785c2007695c699fa94f6aa48672f5",
+    "summary": "12/02 Cliente aguardando janela para entrada em produção."
+  },
+  "aBJKf000004ZSfWOAW": {
+    "history_hash": "e5ff03bbef2e6ab98c58fb07771e43f5",
+    "summary": "28/09: Cliente avalia padronização com GE para cobrir shortfall de $75k no Q4; aguardamos alinhamento com FSR."
+  },
+  "aBJKf0000082E9aOAE": {
+    "history_hash": "2c789a08076e3201c562f3d4afa5db8f",
+    "summary": "08/08 Workload encerrado por duplicidade."
+  },
+  "aBJKf000009tAsIOAU": {
+    "history_hash": "23a87f1c4ee7eb157583d5a655e8bb20",
+    "summary": "19/05 Projeto em fase de revisão jurídica pelo cliente."
+  },
+  "aBJKf000009eS6GOAU": {
+    "history_hash": "4c976a412ddc87269fb80c87036ed904",
+    "summary": "21/08 Solução aprovada e em fase de implementação em produção."
+  },
+  "aBJKf000009eLfYOAU": {
+    "history_hash": "ae55cd8d353ebe2d6ee5f82e551cea47",
+    "summary": "[2026-10-08] 08/10 [VF] - 2ª onda de expansão do Gemini Enterprise (200 seats). Em acompanhamento com o parceiro VPN Soluções após conclusão da 1ª fase para des..."
+  },
+  "aBJKf000009tSm0OAE": {
+    "history_hash": "76d34ce21c7e051e790786d2240c22a0",
+    "summary": "10/09 - Aguardando ativação de VPN pelo cliente para iniciar PoC de comparação com ChatGPT."
+  },
+  "aBJKf000009oWPYOA2": {
+    "history_hash": "18d64eb7fc06c95f5f78a39066a71581",
+    "summary": "08/12 - Assinatura contratual prevista para janeiro; cronograma ajustado aguardando formalização do cliente."
+  },
+  "aBJKf000009ssVHOAY": {
+    "history_hash": "929618c51e899a8ebb2fb2995eed9a9d",
+    "summary": "15/04 - Migração de OCI para GCP concluída com sucesso pelo parceiro em abril de 2025."
+  },
+  "aBJKf000004ZDzJOAW": {
+    "history_hash": "fe569e268caaade5c73796a0049008b2",
+    "summary": "09/09 - Migração de dados em espera; foco atual em acelerar testes de adoção do GE App."
+  },
+  "aBJKf000004ZQf0OAG": {
+    "history_hash": "07dd65589569b5ece011060cecb1a37d",
+    "summary": "[2026-10-08] 08/10 [VF] - Deep dive técnico de Agent Platform e Model Armor entregue em 17/09 e reunião de alinhamento contratual/pricing realizada em 06/10 com..."
+  },
+  "aBJKf000009eQOIOA2": {
+    "history_hash": "72a417befcc57644f65b0289779995fa",
+    "summary": "Reunião de acompanhamento realizada com o cliente em 07/08."
+  },
+  "aBJKf0000082FvzOAE": {
+    "history_hash": "92d149d032e06c4bb68fc85b4bd1e46a",
+    "summary": "16/12 - Projeto incluído no Recommit, porém sem priorização atual por parte do cliente para início."
+  },
+  "aBJKf000009eQONOA2": {
+    "history_hash": "87ace8c6af4d3f7c53e79c236f00c12e",
+    "summary": "Reunião de alinhamento com o cliente agendada para 07/08."
+  },
+  "aBJKf000009tGOrOAM": {
+    "history_hash": "842a6ed0c79cca329cee003626a47c5e",
+    "summary": "18/08 - Em processo de alinhamento com cliente e parceiro para provisionamento e ativação de licenças."
+  },
+  "aBJ4M000000089NWAQ": {
+    "history_hash": "21f59558b9689a0a68ae7584262c9c95",
+    "summary": "27/06 - Oportunidade encerrada devido a problemas com crédito no contrato do cliente."
+  },
+  "aBJ4M00000002SMWAY": {
+    "history_hash": "dc0b329af3f7a376d51a2b6952113ed8",
+    "summary": "29/08 - Projeto iniciado; parceiro segue com a criação do ambiente para início da migração."
+  },
+  "aBJ4M000000Gq0OWAS": {
+    "history_hash": "a1b046a288ef45fa9e3ee16bc42fcc85",
+    "summary": "23/08 - Projeto finalizado e fechado com o cliente."
+  },
+  "aBJKf000004ZSXIOA4": {
+    "history_hash": "bd17244508db41d01ca2ac8d683467b7",
+    "summary": "28/09: Em ampliação de 400 novas licenças, aguardando alinhamento com o FSR para seguir com a expansão da base."
+  },
+  "aBJ4M000000L8pbWAC": {
+    "history_hash": "5fa5545702e958dcc93ffff196442103",
+    "summary": "17/04 - Engenharia segue realizando testes de viabilidade técnica na plataforma Vertex AI."
+  },
+  "aBJKf00000822fPOAQ": {
+    "history_hash": "43d18cc929e2fac0aa35cfd5439c8d10",
+    "summary": "09/06 Integração com broker da Blip bloqueada; proposta de novo broker requer 3-7 sprints de desenvolvimento."
+  },
+  "aBJ4M0000008w4gWAA": {
+    "history_hash": "523b44900bf881187e65be5dac4680f7",
+    "summary": "07/02 Projeto em homologação com ajustes de UX; aguardando definição de data para entrada em produção."
+  },
+  "aBJKf0000082A71OAE": {
+    "history_hash": "54a0325320634743d7049ce85c3752f1",
+    "summary": "12/06 Projeto em fase de delivery sob responsabilidade da IBM."
+  },
+  "aBJKf000004ZMv8OAG": {
+    "history_hash": "79d8b91bd11cadf366bb9a06eb1b3563",
+    "summary": "04/09 Parceiro apresentará proposta na próxima semana para definir próximos passos."
+  },
+  "aBJKf000004ZK6dOAG": {
+    "history_hash": "b6dec08c912343e227b1847de2de797b",
+    "summary": "11/09 Reunião agendada para próxima semana visando avançar no fechamento do contrato."
+  },
+  "aBJKf000009tKjZOAU": {
+    "history_hash": "b288aba71b95baa6b85a5ac7ddefa095",
+    "summary": "22/12 Delivery iniciado com sucesso; projeto em execução sem bloqueios identificados."
+  },
+  "aBJKf000006MVISOA4": {
+    "history_hash": "40c50997a934c37b37af80118c9e81cb",
+    "summary": "09/12 Fase 1 em execução com conclusão estimada para janeiro de 2026; planejamento da fase 2 pendente."
+  },
+  "aBJKf0000082I03OAE": {
+    "history_hash": "92d24e3c9192e00e4a6eb3df1ccf7236",
+    "summary": "[2026-02-19] 19/02: O Flamengo ainda está avaliando a proposta e as calculadoras junto a diretoria de marketing | [2025-12-09] 09/12: O Flam"
+  },
+  "aBJ4M00000002S4WAI": {
+    "history_hash": "33bb779ae60a91cd80af791ddd6b105f",
+    "summary": "18/08 Negócio fechado com sucesso."
+  },
+  "aBJ4M000000kBZoWAM": {
+    "history_hash": "a8d490ffcd0f590a76f4afa02618fab2",
+    "summary": "15/08 Projeto finalizado com sucesso após conclusão do serviço pela Sauter."
+  },
+  "aBJ4M0000008mMBWAY": {
+    "history_hash": "4afea061ede39919974586ee2e3df841",
+    "summary": "02/10 Aprovação de DAF realizada."
+  },
+  "aBJKf000009e8kqOAA": {
+    "history_hash": "e859e5df3a9b6ff0353f372b828d4c40",
+    "summary": "24/04 Implantação concluída com sucesso; cliente em operação desde 10 de março."
+  },
+  "aBJKf000009tUuGOAU": {
+    "history_hash": "c986789dccc81f8e277648ba3c7d3cb3",
+    "summary": "27/08 Cliente com resistência técnica e uso de concorrente; parceiro buscará reunião de alinhamento em agosto."
+  },
+  "aBJKf000009e8coOAA": {
+    "history_hash": "e8224d87fcd63086c2866f66fb39f9ff",
+    "summary": "27/08 Tentativa de retomada com CIO para discutir conectores, mantendo aproximação técnica."
+  },
+  "aBJ4M000000LBYJWA4": {
+    "history_hash": "d4cbef0a81737f22d7b014f28e171880",
+    "summary": "04/02 Projeto em fase de validação técnica; aguardando alinhamento com parceiro e PSM para início."
+  },
+  "aBJKf00000822yCOAQ": {
+    "history_hash": "011a481c7e0cb1fe15580a6e2f4209e3",
+    "summary": "11/02 Aguardando aprovação do workload de renegociação para iniciar try and buy; board dia 13/02."
+  },
+  "aBJKf00000822yMOAQ": {
+    "history_hash": "cd3ab660ae59bb86f173006af1453d3c",
+    "summary": "14/01 Rollout em estágio inicial após validação com parceiro."
+  },
+  "aBJKf000009sqgSOAQ": {
+    "history_hash": "d921be5cb1cfc8b7147292ee9df4aefe",
+    "summary": "07/03 Aguardando finalização da POC de renegociação de dívidas para prosseguir."
+  },
+  "aBJ4M00000008A6WAI": {
+    "history_hash": "e8e2dbd397ed0812328405fef665b5f2",
+    "summary": "12/12 Parceiro iniciando processo de migração conforme cronograma definido."
+  },
+  "aBJ4M000000089wWAA": {
+    "history_hash": "edb3b27fbf5e43c989554a837d772633",
+    "summary": "26/06 Projeto inviabilizado pela necessidade de melhoria nos valores de serviço de migração."
+  },
+  "aBJKf000009eUqBOAU": {
+    "history_hash": "cd3f05fa4bb0d93f09b87673d72b6973",
+    "summary": "28/09: Em criação de arquiteturas com a Kyndryl para viabilizar a apresentação técnica e garantir o \"technical win\" do cliente."
+  },
+  "aBJKf000009tTZCOA2": {
+    "history_hash": "2541f819ac5ff798391d644e19561fa9",
+    "summary": "[2026-10-08] 08/10 [VF] - Após imersão no Cresol Google Day (17/09), realizado sync em 05/10 com QI Network (Lucas Feitoza) e FSR estruturando o apoio técnico d..."
+  },
+  "aBJKf000009kKoOOAU": {
+    "history_hash": "ad9018f5d3253ad862580fe0ab39184e",
+    "summary": "18/08 Agendamento de reunião com liderança de arquitetura para revisar estratégia de processamento."
+  },
+  "aBJKf000009oRYbOAM": {
+    "history_hash": "bdee3a26569de6b240226bf3114747f9",
+    "summary": "08/12 Implementação de 50 licenças em andamento; meta de conclusão para meados de janeiro."
+  },
+  "aBJKf000009sq1KOAQ": {
+    "history_hash": "2b80413362eb6abf23785e106fb34747",
+    "summary": "13/08 Projeto em produção; time segue em suporte de estabilização por um mês."
+  },
+  "aBJKf000009eTyJOAU": {
+    "history_hash": "26c70f39578a18083f2a55c05a217319",
+    "summary": "10/09 Reunião técnica com parceiro agendada para a semana do dia 21."
+  },
+  "aBJKf000009WAoyOAG": {
+    "history_hash": "54570f781d5999fcb276af17b0454430",
+    "summary": "[2026-10-08] 08/10 [VF] - Em validação comercial e técnica com o parceiro VPN Soluções e FSR para estruturar a proposta definitiva dos 260 assentos de Gemini En..."
+  },
+  "aBJKf000009tdCmOAI": {
+    "history_hash": "734628b10afae061ff3f5fe8f1285948",
+    "summary": "09/06 Parceiro refinando os casos de uso de IA a serem implementados."
+  },
+  "aBJKf0000082E21OAE": {
+    "history_hash": "8d8ddc8a406d92c9ca2fe47ad395d652",
+    "summary": "31/12 Aguardando conclusão da negociação de contrato e engenharia financeira dos tokens."
+  },
+  "aBJKf000009stj5OAA": {
+    "history_hash": "9569521bb2b13170b21259f7462980a0",
+    "summary": "13/06 Projeto alinhado com expectativa de conclusão em julho e início do consumo em agosto."
+  },
+  "aBJKf000004ZFxjOAG": {
+    "history_hash": "a2fc3d746b68d669eb01f9a6f1b1dd27",
+    "summary": "25/05: Alinhando agenda de apresentação do GE com CTO para a segunda semana de junho."
+  },
+  "aBJKf000004ZB2lOAG": {
+    "history_hash": "2355ad2984c2ad12260aae11cca6ec7b",
+    "summary": "26/05: Cliente em negociação de recommit; tratativas de GE e segurança previstas para segunda quinzena de junho."
+  },
+  "aBJKf000004ZHfkOAG": {
+    "history_hash": "f2caeaae1948b8ba96373ce0d97ef698",
+    "summary": "11/09: Aguardando termo de aceite pelo parceiro para iniciar o ramp-up na próxima semana."
+  },
+  "aBJKf000009stjAOAQ": {
+    "history_hash": "4644dd103d76d9319d228b019719971f",
+    "summary": "04/04: Migração das 40 VMs concluída em dezembro/24; workload validado com parceiro uCloud."
+  },
+  "aBJ4M000000g5fNWAQ": {
+    "history_hash": "bfd56c0780575a9185ab9edadc0608dc",
+    "summary": "15/08: Implementação finalizada; aguardando resolução de chamado técnico para colocar em produção."
+  },
+  "aBJ4M000000g6M3WAI": {
+    "history_hash": "2e3eddb12f89347ba5758db69323655b",
+    "summary": "15/08: Implementação concluída; foco atual na finalização da migração dos microsserviços."
+  },
+  "aBJ4M0000008ohWWAQ": {
+    "history_hash": "6aa62470cc95c27b486f6e69ebe50383",
+    "summary": "09/11: Definir a arquitetura do projeto como próximo passo."
+  },
+  "aBJKf000009e7wOOAQ": {
+    "history_hash": "b6dc9453a4a07d3372b11b39c6dddb57",
+    "summary": "28/08: Aguardando dados do cliente para elaborar calculadora de custos após reunião de governança."
+  },
+  "aBJKf000004ZNKxOAO": {
+    "history_hash": "80f45f02c60d0e23e61ce039047f9ce4",
+    "summary": "25/08: Em atualização com parceiro Movti; aguardando retorno para prosseguir."
+  },
+  "aBJKf000009tIxFOAU": {
+    "history_hash": "04a41288729e32052fda0f5c9403c8e9",
+    "summary": "27/08: Reunião com cliente BigBox agendada para 28/08 às 15h."
+  },
+  "aBJKf000006A2RZOA0": {
+    "history_hash": "d7954788776d200609a3bb69c8112220",
+    "summary": "22/10: Fase 1 pronta; aguardando alinhamento do cliente para provisionamento de GSUs de throughput."
+  },
+  "aBJKf000006A2RFOA0": {
+    "history_hash": "91f3f16ab2e46889bcdf4814da2e1bdf",
+    "summary": "10/03: Reunião de status com parceiro em 11/03 para confirmar data final de entrega."
+  },
+  "aBJ4M000000PMNcWAO": {
+    "history_hash": "4aa43185bc0ed48f210bb5bc1511aaf5",
+    "summary": "21/11: Projeto entregue com sucesso pela Santo Digital."
+  },
+  "aBJKf000009tdlNOAQ": {
+    "history_hash": "9c184705667e285aeb94d8e0cb2beeaa",
+    "summary": "08/09: Workload em fase de avaliação pelo cliente."
+  },
+  "aBJKf000009oRXwOAM": {
+    "history_hash": "b17480c81a0b3d3c5d30bc2b28b24632",
+    "summary": "12/08: Nova arquitetura em produção desde maio; foco atual em novos projetos e iniciativas de Analytics."
+  },
+  "aBJKf000009oRagOAE": {
+    "history_hash": "f0ac67757226a9df6deada2ee2cf8ba0",
+    "summary": "08/10: Aguardando OK do cliente para prosseguir com GCP até 31/10 e declinar proposta AWS."
+  },
+  "aBJKf000009eAc7OAE": {
+    "history_hash": "eda527973d3fb5c1a1a3feb8ba196a23",
+    "summary": "04/09: Parceiro de VPN alterado; aguardando definição de orçamento com novo parceiro na próxima semana."
+  },
+  "aBJKf000009e21fOAA": {
+    "history_hash": "97f0b8aa41f963d15f001dda8995d98d",
+    "summary": "21/09: Cliente em fase de análise dos próximos passos do projeto."
+  },
+  "aBJ4M0000008gWeWAI": {
+    "history_hash": "4f6dd4837c9bc747acff46f017702d9c",
+    "summary": "20/04: Cliente migrará ambiente Dev para GCP, seguido pela produção nos próximos três meses."
+  },
+  "aBJ4M000000TQOPWA4": {
+    "history_hash": "bec3dc69e45caf9cce8190b08be60c25",
+    "summary": "30/12: Aguardando confirmação de datas com cliente; pendente estabilização da conexão com banco de dados."
+  },
+  "aBJ4M000000TQOUWA4": {
+    "history_hash": "205cc0c756e6f961bef6d0da91d2e5fa",
+    "summary": "22/11: Workload em espera, com foco atual direcionado à migração Sadalla."
+  },
+  "aBJ4M0000008lboWAA": {
+    "history_hash": "ea638f831e39706068e8677e673f8e37",
+    "summary": "19/10: POC em andamento conforme cronograma estabelecido."
+  },
+  "aBJKf000009okxtOAA": {
+    "history_hash": "7ce24d795ebae95882792ba676ced470",
+    "summary": "05/06: Discovery via Migration Center em curso; dados do cliente serão usados se houver limitações."
+  },
+  "aBJ4M0000008c1mWAA": {
+    "history_hash": "0c0d29dc1ab7b9c48080ab6537814aa5",
+    "summary": "20/03: Ambiente rodando em Sandbox; pendente resolução de erro no Billing ID para visibilidade de receita."
+  },
+  "aBJ4M000000CwTVWA0": {
+    "history_hash": "9fdbcccbcf606b7fcd65ca7929d6eaa9",
+    "summary": "15/05: Cliente preenchendo planilha de ambiente para posterior dimensionamento em GCP."
+  },
+  "aBJ4M000000CwbeWAC": {
+    "history_hash": "e4379a08e8529276f8135476d2df607d",
+    "summary": "16/05: Equipe trabalhando na atualização do SAP TDF com expansão de infraestrutura em GCP."
+  },
+  "aBJ4M0000008c1rWAA": {
+    "history_hash": "734dbc8a075249d7a75b4d03fa90d044",
+    "summary": "20/03: Ambiente em GCP, porém com falha de sistema impedindo o registro de consumo."
+  },
+  "aBJKf000009oVYKOA2": {
+    "history_hash": "b32de226519207b9c24f3dd5ff720b1c",
+    "summary": "23/11: Delivery em andamento pelo parceiro; pendente conclusão do bloco HANA DB."
+  },
+  "aBJ4M000000CzovWAC": {
+    "history_hash": "8ff6149f8682eeb588797882d52a268d",
+    "summary": "13/07: Atualização do SAP TDF concluída com sucesso pelo parceiro."
+  },
+  "aBJKf000009sfshOAA": {
+    "history_hash": "07d9a31b3d040fbe118c51fed95499ac",
+    "summary": "Cliente validando proposta final para dar continuidade ao processo de migração."
+  },
+  "aBJKf000009e21LOAQ": {
+    "history_hash": "b36e4ebf826a5ff5ab169dbda03c5a55",
+    "summary": "18/08: Cliente segue validando a proposta enviada em 14 de agosto."
+  },
+  "aBJKf000009e8cjOAA": {
+    "history_hash": "c57d88ae9278137f563a91e04decfd2a",
+    "summary": "26/08: Aguardando revisão por parte do cliente."
+  },
+  "aBJKf000009eADtOAM": {
+    "history_hash": "2238fd02fae34c116210899141bfdde8",
+    "summary": "[2026-10-08] Parceiro ira começar o trabalho"
+  },
+  "aBJKf000009tTYsOAM": {
+    "history_hash": "eac6bb7b0606dbb7d5163e64a2755240",
+    "summary": "08/06: Cliente testa Gemini Enterprise; validamos compromisso para Q4 com expansão em novembro."
+  },
+  "aBJKf000009eVVEOA2": {
+    "history_hash": "9c952a013e5e7a124312bce1e0715ea5",
+    "summary": "17/09: Parceiro configurará o GE Agent para escalar a adoção conforme os resultados."
+  },
+  "aBJKf000004ZSXDOA4": {
+    "history_hash": "d1efa08cbe6104bd1590c18a49051723",
+    "summary": "28/09: Em negociação com o CEO para validação do valor da plataforma, com alinhamento contínuo junto ao FSR."
+  },
+  "aBJ4M000000L81vWAC": {
+    "history_hash": "27b4d5bfcfe46e80ce5f0b63baa7bbd4",
+    "summary": "01/10: Cliente em trabalho colaborativo com o parceiro."
+  },
+  "aBJKf000009e4JEOAY": {
+    "history_hash": "cbb5e2fa876e98767454bb5a858ca1bd",
+    "summary": "30/07: Parceiro confirmou consumo atual de 100k de BQ pelo cliente."
+  },
+  "aBJKf000009sxHPOAY": {
+    "history_hash": "5c9ede628d85c64f39d1bd3f9c0d236d",
+    "summary": "31/03: Reunião agendada com parceiro, cliente e especialista de IA."
+  },
+  "aBJKf000009skt6OAA": {
+    "history_hash": "1f0c8796756b7e9a0aaa085a4ccbe780",
+    "summary": "31/07: Ajustes finais de migração com Avenue Code; virada prevista para o fim de julho."
+  },
+  "aBJKf000009sksrOAA": {
+    "history_hash": "088e73d4d1835ff3d31536f3ca20a322",
+    "summary": "05/08: Ambiente entregue para testes; migração para produção prevista para o próximo final de semana."
+  },
+  "aBJ4M000000PJVEWA4": {
+    "history_hash": "bb8065c611dcc4f909695beb1245ac06",
+    "summary": "05/06: Projeto agendado para 14/06; parceiro trabalha na assinatura dos SOWs."
+  },
+  "aBJKf000009skswOAA": {
+    "history_hash": "529df20219d796c50dc8a43b7b0f84e8",
+    "summary": "05/05: Implementação em curso com previsão de conclusão na América Latina até setembro."
+  },
+  "aBJ4M0000008pOeWAI": {
+    "history_hash": "c49f5fcfb063a42af3eabcdb9789c089",
+    "summary": "06/06: Parceiro elaborando SOWs para migração dos clientes Bimbo e Mondelez."
+  },
+  "aBJKf000009skt1OAA": {
+    "history_hash": "ca469b97aacd7902004e9c4aa0b817c1",
+    "summary": "19/04: Lançamento Mondelez previsto para junho; ambientes de produção em fase final de preparação."
+  },
+  "aBJKf0000082JXcOAM": {
+    "history_hash": "e32bdf3e383c4d29a417a30978cd439e",
+    "summary": "18/08: Projetos paralisados por cancelamento extrajudicial; comercial avalia atualização de datas ou encerramento dos workloads."
+  },
+  "aBJKf0000082JXhOAM": {
+    "history_hash": "966f24d4dc80f66fa9902e75d530d04a",
+    "summary": "18/08: Projetos paralisados por cancelamento extrajudicial; comercial avalia atualização de datas ou encerramento dos workloads."
+  },
+  "aBJKf000004ZIi4OAG": {
+    "history_hash": "ee477a2f814e080d38e04bafd849f487",
+    "summary": "[2026-10-08] madeinweb is carrying out the project within the client's infrastructure and is already making progress on the data component."
+  },
+  "aBJKf000009eD6LOAU": {
+    "history_hash": "f0dc08f1bc36f97cbb5c0af363327032",
+    "summary": "27/08: Kickoff do projeto agendado para 02/09 com alinhamento das datas de ativação."
+  },
+  "aBJKf000009eMPvOAM": {
+    "history_hash": "1481aab8d7192917d8250301bab2c76f",
+    "summary": "[2026-10-08] ✅ WON em 29/09/2026 (006Kf00000OkmygIAB)"
+  },
+  "aBJ4M000000PLpaWAG": {
+    "history_hash": "3c08daf4017f8a0fb7ccc2b68a5c09f9",
+    "summary": "08/10: Oportunidade concluída (WON) em 29/09/2026, com processo de contratação finalizado com sucesso."
+  },
+  "aBJKf000009eHe2OAE": {
+    "history_hash": "236cd42d02a03aea991d8693756507a2",
+    "summary": "11/09: Contrato submetido para assinatura pelo cliente, com conclusão prevista até 16/09."
+  },
+  "aBJKf000009eLknOAE": {
+    "history_hash": "236cd42d02a03aea991d8693756507a2",
+    "summary": "11/09: Contrato submetido para assinatura pelo cliente, com conclusão prevista até 16/09."
+  },
+  "aBJKf000009obKJOAY": {
+    "history_hash": "013f013e3342211a0d3b28b7a5383f11",
+    "summary": "23/11: Projeto em delivery pelo parceiro, sem atrasos ou pendências técnicas detectadas."
+  },
+  "aBJKf000009oj6fOAA": {
+    "history_hash": "18f02d5b9037c76dc29362715b8fc46d",
+    "summary": "27/08: Contrato encerrado em 30/08; cliente confirmou que não haverá renovação do serviço."
+  },
+  "aBJKf0000082EHeOAM": {
+    "history_hash": "3f031d9c9cd232f713d2b4185fb4fcd9",
+    "summary": "[2026-10-05] Cliente está migrando workloads (chats) do OpenAI para Gemini usando Vertex AI como plataforma. Crescimento de 104% em Set/26, em relação à Ago/26."
+  },
+  "aBJKf0000082EHZOA2": {
+    "history_hash": "dac0935f823442bcb2633e47327f35df",
+    "summary": "[2026-10-05] Cliente está migrando workloads (chats) do OpenAI para Gemini usando Vertex AI como plataforma. Crescimento de 104% em Set/26, em relação à Ago/26."
+  },
+  "aBJKf0000082EHUOA2": {
+    "history_hash": "e3824fffdc4d5a9ef2b9e66f74c942e3",
+    "summary": "22/07: Gemini em produção; cliente reportou ganhos limitados, mas fechou acordo para escalar a operação."
+  },
+  "aBJKf000006Ma3sOAC": {
+    "history_hash": "4481f17b2fed6a86411d15be0fd1eca7",
+    "summary": "08/12: Cliente postergou a priorização da análise técnica e comercial para janeiro de 2026."
+  },
+  "aBJ4M0000008kywWAA": {
+    "history_hash": "d72af1a9ffe0957a0ba5704d735e9de4",
+    "summary": "19/10: Agendar apresentação técnica do especialista Santo para o cliente."
+  },
+  "aBJ4M0000008mPjWAI": {
+    "history_hash": "f034d325f0de706b64c4fd816e12cc59",
+    "summary": "29/01 CIO revisando valores financeiros; aguardando definição de agenda para conclusão da proposta."
+  },
+  "aBJ4M0000008kz1WAA": {
+    "history_hash": "32f72ecf9b35587b8a00f24d8eb8b709",
+    "summary": "30/08 Compras em processo de cotação com três parceiros selecionados."
+  },
+  "aBJKf000009ompmOAA": {
+    "history_hash": "d10be6bc2810e4dadf7af74568af3310",
+    "summary": "19/06 Projeto concluído com sucesso e em operação produtiva."
+  },
+  "aBJKf000006A1BfOAK": {
+    "history_hash": "80f5a65217e3b0f56c5f4253bf2c5718",
+    "summary": "01/11 Migração de bancos em progresso; virada de ambiente agendada para 09 e 10/11."
+  },
+  "aBJKf000006A1BkOAK": {
+    "history_hash": "3aae99e8a49ba48c17c07224e087bc73",
+    "summary": "01/11 Workshops de Foundation reagendados para a semana de 20/11, aguardando confirmação final."
+  },
+  "aBJKf000009stb1OAA": {
+    "history_hash": "723cda019d1aada217642dc1069c23a0",
+    "summary": "26/08 Plataforma em construção contínua com envolvimento dos times internos de produto e fornecedores."
+  },
+  "aBJKf000006MbXJOA0": {
+    "history_hash": "5cad3227a396d09badb39c43f1471376",
+    "summary": "31/12 Fornecedor segue construindo ambiente de laboratório para validação do projeto IA 2.0."
+  },
+  "aBJKf000009eD5NOAU": {
+    "history_hash": "49ec64cef7f6ab8080c9f6a984297f6f",
+    "summary": "26/08 Atividade em fase de aceleração (ramping)."
+  },
+  "aBJKf000006MZMOOA4": {
+    "history_hash": "0156c4227f1fb68bb100ea0d938a6ef3",
+    "summary": "Implementação em curso para migrar atendimento de WhatsApp para chat GWS, com entrega prevista para junho."
+  },
+  "aBJKf000006MZMJOA4": {
+    "history_hash": "5589242cde81338a1d7f975e95d42596",
+    "summary": "13/10 Projeto em estágio final, aguardando aprovação orçamentária do parceiro para implementação das filas adicionais."
+  },
+  "aBJKf000009oaHOOAY": {
+    "history_hash": "1c46fe7b4d39c16c8c7b229fea603d1c",
+    "summary": "31/12 Implementação da plataforma IARI nos cartórios segue conforme o cronograma planejado."
+  },
+  "aBJKf000004ZRclOAG": {
+    "history_hash": "4023a7d2b8388ea4ff2d53a89cd4795d",
+    "summary": "17/09 Aguardando alinhamento de próximos passos com o FSR."
+  },
+  "aBJKf000004ZRKmOAO": {
+    "history_hash": "40550f1aaf063528738fb91dab49c08b",
+    "summary": "25/09 Superados obstáculos técnicos; início da aceleração (ramping) previsto para as próximas duas semanas."
+  },
+  "aBJ4M000000TS9lWAG": {
+    "history_hash": "82c880226599c63d04fec0798d33cf12",
+    "summary": "23/08 Processo de migração iniciado após conclusão da POC."
+  },
+  "aBJ4M000000GrqLWAS": {
+    "history_hash": "509cfc6fed0fbcb048150d75044ce27b",
+    "summary": "23/08 Aguardando separação das empresas para novo compromisso e validação de próximos passos."
+  },
+  "aBJKf000006A8h4OAC": {
+    "history_hash": "a175c421d76ae504955a69b9cd7c8d8f",
+    "summary": "08/12 - Projeto no prazo com migração de VMs avançada; foco atual na transição para o AD."
+  },
+  "aBJKf000009eQnrOAE": {
+    "history_hash": "fd82981f0186aee9fa285ac90e2ddf3a",
+    "summary": "09/09 - Caso será assumido para revisão na cadência semanal com a Movti."
+  },
+  "aBJKf000008243rOAA": {
+    "history_hash": "f6ec27167e30bad48a5f3162250a9fda",
+    "summary": "20/01 - Projeto finalizado; bloqueado pela agenda do cliente para apresentação, com apoio comercial em curso."
+  },
+  "aBJ4M0000008sMqWAI": {
+    "history_hash": "bac6fc401df853ce8937e0d9e477b91f",
+    "summary": "05/02 - Implantação concluída; aguardando agenda do cliente para apresentação com apoio da liderança comercial."
+  },
+  "aBJKf000009eVrKOAU": {
+    "history_hash": "6dbdf86b23607bdded031c8b79962423",
+    "summary": "29/09: EBC agendado para 01/10; o próximo passo é colaborar com um parceiro no desenvolvimento do agente virtual para o cliente."
+  },
+  "aBJKf0000082QhPOAU": {
+    "history_hash": "b36e5dda6fa9a03ed99c37205b4d9695",
+    "summary": "05/06 - Projeto pausado devido à saída do sponsor do cliente; status alterado para 0-2."
+  },
+  "aBJ4M000000PE6OWAW": {
+    "history_hash": "8861a5d52cff2919a759b31dc611b9fc",
+    "summary": "09/09 - Deploy em curso pelo parceiro; expectativa de consumo total de créditos até fim de outubro."
+  },
+  "aBJKf000009slhLOAQ": {
+    "history_hash": "ed7a0d086d349d10989ccda3ef172de7",
+    "summary": "14/07 - Projeto completado; inicia agora período de quatro semanas de operação assistida."
+  },
+  "aBJKf000009sxHUOAY": {
+    "history_hash": "47514aeeb34a6cd83065505cabded376",
+    "summary": "04/04 - Reunião agendada com parceiro, cliente e Ale Alves para alinhamento."
+  },
+  "aBJKf000004ZNZROA4": {
+    "history_hash": "8d9f6ba46c311ed3126f620e0efb7459",
+    "summary": "03/08 - Parceiro prepara cenário para apresentação ao cliente prevista para a segunda semana de agosto."
+  },
+  "aBJKf000004ZRufOAG": {
+    "history_hash": "7cc2a4dabea50a29f39e467dc778ea8d",
+    "summary": "09/09 - Aguardando inventário de consumo e dimensionamento de infraestrutura do cliente para agendar reunião."
+  },
+  "aBJ4M000000bntdWAA": {
+    "history_hash": "066a26fa05b811b2e99cc483bcfbc054",
+    "summary": "11/05 - Pendente validação de status com Vanessa para possível encerramento do projeto."
+  },
+  "aBJKf000009srclOAA": {
+    "history_hash": "93c67c6d8825e8914dd562830d816e64",
+    "summary": "19/08 - Problemas sanados; nova previsão de entrega do parceiro para o final de setembro."
+  },
+  "aBJ4M0000008k5wWAA": {
+    "history_hash": "100bff98fb435a34b5dda75ea8d2412c",
+    "summary": "04/06 - Deployment em curso com atrasos devido a dificuldades técnicas enfrentadas pela Dataside."
+  },
+  "aBJ4M000000L5zOWAS": {
+    "history_hash": "204351b92722d885a7047a32882fa294",
+    "summary": "20/08 - Projeto concluído pelo parceiro; pendente de aprovação e validação final pelo cliente até 22/08."
+  },
+  "aBJKf000004ZJCYOA4": {
+    "history_hash": "7c06a69bbae005820d8c62547e619db9",
+    "summary": "[2026-10-08] Aguardando resposta final do cliente após v2."
+  },
+  "aBJKf000009dvPwOAI": {
+    "history_hash": "0657565ec9bb1be5690fc04d28022e61",
+    "summary": "[2026-10-06] Devido a mudanças na organização e ajustes de estratégia, a migração está prevista para encerrar até final de Out/26 com as últimas 3 aplicações al..."
+  },
+  "aBJ4M000000bo3OWAQ": {
+    "history_hash": "00848c253f8cefb7d9337e614c98f92e",
+    "summary": "08/05: Reunião de revisão de status com o cliente agendada para 21/05."
+  },
+  "aBJ4M0000008mLNWAY": {
+    "history_hash": "7fb85a7bc8e8b6704f11f00301b35693",
+    "summary": "03/06: Em preparação para cut-over em 06/06, após superação de problemas de conectividade."
+  },
+  "aBJKf000004ZRuQOAW": {
+    "history_hash": "e1e74f01d9aab82b6b1d1c6ee3605508",
+    "summary": "08/10: Em alinhamento com cliente e parceiro para realizar demonstração técnica das soluções de segurança e dimensionamento do Google SecOps."
+  },
+  "aBJ4M000000LA0aWAG": {
+    "history_hash": "b4b95b8d0c1cf770698e36a6da3c05b3",
+    "summary": "05/03: Workload aguardando aprovação PSF para avançar."
+  },
+  "aBJKf000004ZMQQOA4": {
+    "history_hash": "2b2437c09b1c140d223b36f1d57eb168",
+    "summary": "17/09: Apresentação da plataforma Gemini e Agent ao CTO em planejamento."
+  },
+  "aBJKf000009dwHYOAY": {
+    "history_hash": "05104261949079ef4b302d1475437598",
+    "summary": "[2026-10-13] Ajuste de início de implementação."
+  },
+  "aBJKf000004ZRukOAG": {
+    "history_hash": "dab762e599a5504b7bc5dd5e416ff6e5",
+    "summary": "09/09: Próxima reunião técnica será agendada conforme disponibilidade de agenda entre cliente e parceiro."
+  },
+  "aBJKf000009stKeOAI": {
+    "history_hash": "e56d5c777aadd7f625ed3b0ecefc6161",
+    "summary": "03/06: Em preparação para cut-over em 06/06, após migração iniciada e problemas resolvidos."
+  },
+  "aBJKf000009sqnTOAQ": {
+    "history_hash": "a8e61c19fd850c402dafbe3f478fd599",
+    "summary": "11/07: Primeiro cutover concluído em 06/06; ambiente migrando em ondas com redes estabilizadas."
+  },
+  "aBJKf000009tEmIOAU": {
+    "history_hash": "b243b94f8b03d734b9959d624e62babb",
+    "summary": "Cliente segue em negociação sobre a parcela do workload a ser migrada."
+  },
+  "aBJKf000009t97eOAA": {
+    "history_hash": "37e7d451feff300ffbaa757a94718133",
+    "summary": "[2026-10-06] Fase final de negociação contratual."
+  },
+  "aBJKf000004ZEsnOAG": {
+    "history_hash": "8a2dff31d4e5a26a286ef9210e9e5d07",
+    "summary": "19/08: Aguardando retorno e confirmação do cliente para prosseguir com a migração."
+  },
+  "aBJKf000009solaOAA": {
+    "history_hash": "4b89a9fe53407cee17d92751214f4bc6",
+    "summary": "07/03: Processo de migração finalizado com sucesso pelo cliente."
+  },
+  "aBJKf000006A8i7OAC": {
+    "history_hash": "146f7131c411ff31e5b9958bb5eb4949",
+    "summary": "20/08 Bianca tenta retomar contato com o cliente para dar sequência à negociação do compromisso."
+  },
+  "aBJ4M000000L8PnWAK": {
+    "history_hash": "ee56b81ee1d8e05a824529292c2d5e7d",
+    "summary": "22/05 O projeto foi impactado pela aquisição da Asis; aguardando definição para próximo ano."
+  },
+  "aBJKf000009tcw0OAA": {
+    "history_hash": "d14f8ab9e1ef2d2f36470f714eef965a",
+    "summary": "[2026-10-08] 08/10 [VF] - Sync técnico realizado em 06/10 sobre Gemini Enterprise Agent Platform e Antigravity. Próximos passos: liberação de ambiente de teste ..."
+  },
+  "aBJ4M0000008ro5WAA": {
+    "history_hash": "09a15967a01e0c75056427b343171b43",
+    "summary": "17/05 Workload em processo de migração para a nova estrutura de faturamento."
+  },
+  "aBJ4M000000L60RWAS": {
+    "history_hash": "34099dde36beb3f55d28576b9982cae1",
+    "summary": "25/10 Processo de fechamento em andamento com o parceiro comercial."
+  },
+  "aBJKf000009tBCKOA2": {
+    "history_hash": "496c13f6bd4493e7b232cb5c7a81271e",
+    "summary": "13/08 Contrato em fase final de assinaturas entre Google e IPNET; aguardando formalização."
+  },
+  "aBJ4M000000TQOKWA4": {
+    "history_hash": "8ebb7017f3ebfa5b4c21559b96d6cf2d",
+    "summary": "23/08 Aguardando fechamento da proposta comercial junto ao cliente e parceiro."
+  },
+  "aBJKf000009kJ2iOAE": {
+    "history_hash": "83ff459b35622ad7c4527d1fb5c14490",
+    "summary": "27/08 Rollout pausado devido a divergências técnicas na URL do produto entre Gemini e Vertex."
+  },
+  "aBJ4M000000bvYiWAI": {
+    "history_hash": "1694542761046d9d640395c73d4a69ad",
+    "summary": "15/08 Configuração de redes finalizada; reunião agendada para discutir migração do ambiente ASSET."
+  },
+  "aBJ4M000000bq8LWAQ": {
+    "history_hash": "dfab5035f45e06039935960a0a0e6728",
+    "summary": "15/08 Migração do ambiente finalizada com sucesso."
+  },
+  "aBJ4M000000bq8aWAA": {
+    "history_hash": "b18fdbfe37f5e12c54d86f1cbba71e37",
+    "summary": "15/08 POC finalizada; início do ambiente de produção programado para janeiro."
+  },
+  "aBJKf000008283MOAQ": {
+    "history_hash": "55b293a608a34a67de621d5a7bd58842",
+    "summary": "05/03 Migração total postergada pelo cliente para o final do segundo trimestre."
+  },
+  "aBJKf000009kJ5cOAE": {
+    "history_hash": "a732119bd7bc49ad5d0b32c26f80c781",
+    "summary": "14/09 Negociações avançadas com expectativa de fechamento no Q3 e início do workload no Q4."
+  },
+  "aBJ4M0000008zOzWAI": {
+    "history_hash": "c8c4faf569300e041d954808c224ced8",
+    "summary": "28/03 Aguardando assinatura do Flex Agreement."
+  },
+  "aBJ4M0000008zOyWAI": {
+    "history_hash": "c8c4faf569300e041d954808c224ced8",
+    "summary": "28/03 Aguardando assinatura do Flex Agreement."
+  },
+  "aBJKf00000827vrOAA": {
+    "history_hash": "51d266833cb4b4f72fb37b5cd968c309",
+    "summary": "30/06: Recommit assinado com início do contrato em 26/06/2025."
+  },
+  "aBJKf000009sly2OAA": {
+    "history_hash": "90415545b6f02e8e34cff682965b41c4",
+    "summary": "19/11: Projeto na Sprint 3 de 4, com entrega final prevista para a segunda semana de dezembro."
+  },
+  "aBJKf000009kIJsOAM": {
+    "history_hash": "7a7d6599aed22d0b3f643b09af77e7e7",
+    "summary": "14/09: Proposta enviada ao cliente, aguardando resposta para avançar com o projeto."
+  },
+  "aBJKf000009kLXiOAM": {
+    "history_hash": "a0f9720f9ef4fc54ba3cbd06b44d033f",
+    "summary": "28/08: POC definida para a Aurum; reunião de estruturação do plano marcada para 01/09."
+  },
+  "aBJKf000004ZBtYOAW": {
+    "history_hash": "79fc1e3324a45830e7b8e9d3c01d45ae",
+    "summary": "21/07: Implementação na fase final após conquista da oportunidade com escopo reduzido de DataLake."
+  },
+  "aBJ4M000000kBZjWAM": {
+    "history_hash": "f1caeb68d659417a7a9c3953d68ea616",
+    "summary": "26/09: Projeto de revisão do ambiente GCP em fase de início após assinatura do Flex Agreement."
+  },
+  "aBJ4M000000kBZeWAM": {
+    "history_hash": "dce872613dbb73d341b21db4cd1f9ccc",
+    "summary": "17/05: Foco atual na finalização do onboard do VertexAI para o MVP de imagem de cassete."
+  },
+  "aBJ4M000000kG5jWAE": {
+    "history_hash": "8eefb1e03c2f19c5bc498581b5a928c5",
+    "summary": "17/05: Projeto em espera aguardando a finalização do projeto de Vertex AI."
+  },
+  "aBJ4M0000008wKyWAI": {
+    "history_hash": "a5d6047f446d2a4782a493572e4f8a9e",
+    "summary": "17/05: Atividade em curso para finalizar o onboard de VertexAI e implementação do FHIR."
+  },
+  "aBJ4M000000L5hKWAS": {
+    "history_hash": "ef6209e44c930d512f2a35ce7b5a9bfc",
+    "summary": "01/11: Pendente última sessão de segurança do foundation para concluir o planejamento da POC."
+  },
+  "aBJKf000009oRY1OAM": {
+    "history_hash": "bfbaf55b23c016e49147be6cfb6081f0",
+    "summary": "27/08: Projeto iniciado em 26/08, com foco atual na implementação de governança e controle de acessos."
+  },
+  "aBJKf000009tEFUOA2": {
+    "history_hash": "bd2262000ba80dd2b7c18879cec9616e",
+    "summary": "26/08: Aguardando retorno do cliente para liberação do trial e início do monitoramento."
+  },
+  "aBJ4M000000L6sOWAS": {
+    "history_hash": "fa49e6d9b3224793d5380263ce1d8bf2",
+    "summary": "19/06: Projeto travado aguardando a aprovação de budget pelo cliente."
+  },
+  "aBJ4M0000008mBIWAY": {
+    "history_hash": "edcbd052996596e190c2872931bb3c0d",
+    "summary": "06/03: Implementação do SCC iniciada com suporte do parceiro."
+  },
+  "aBJKf000009e8ViOAI": {
+    "history_hash": "503aa97238777e4413df49d1f6af9e1b",
+    "summary": "04/05: Migração incerta; recomendado fechar a oportunidade até que o cliente apresente abertura."
+  },
+  "aBJKf000009swQfOAI": {
+    "history_hash": "f9a6d094cb01729041ea1f3cc8eb20f6",
+    "summary": "17/03 - Workload finalizado e encerrado."
+  },
+  "aBJKf000006MVIDOA4": {
+    "history_hash": "9d920c213113576a8f58e862bdc1d743",
+    "summary": "08/10 - Aguardando envio do resultado do script DMA; cliente sem retorno após cobranças."
+  },
+  "aBJKf000009olltOAA": {
+    "history_hash": "00be4d39c1b8793560bfc94632d9b0c1",
+    "summary": "10/09: O cliente analisa os próximos passos para definição da estratégia e continuidade do projeto."
+  },
+  "aBJKf000004ZTi2OAG": {
+    "history_hash": "cf457212222acdd6c823f715d986c740",
+    "summary": "*Se você colar o histórico aqui, posso ajustar para o seu caso específico.*"
+  },
+  "aBJKf000004ZTjAOAW": {
+    "history_hash": "f39588fd955603cdf60c9d528a99de62",
+    "summary": "**24/05: Contrato em fase de assinatura; pendente apenas a formalização final para o fechamento do negócio.**"
+  },
+  "aBJKf000009eMKROA2": {
+    "history_hash": "b4d8b0ca0bfab7b55e9c51b1f7711afc",
+    "summary": "13/08 - Reunião presencial ocorre amanhã em Manaus com o novo time de TI para alinhar a reestruturação e próximos passos técnicos."
+  },
+  "aBJKf000004ZLwLOAW": {
+    "history_hash": "9e516f1d075bcb2f3379090a378aaaba",
+    "summary": "15/05: Reunião com CE realizada para validar a GCP Foundation e demonstrar a Agent Platform; próximo passo é a implementação dos modelos."
+  },
+  "aBJKf000004ZR8bOAG": {
+    "history_hash": "5e95be373e1356a419b22eb91799d221",
+    "summary": "24/05: Reunião presencial com Caio Barbosa (CE) em andamento para aprofundamento técnico e alinhamento das próximas etapas do projeto."
+  },
+  "aBJKf000004ZKiVOAW": {
+    "history_hash": "1b94a1e45775748ad1fed2e21a0f47af",
+    "summary": "[2026-10-08] The client is reviewing it."
+  },
+  "aBJKf000004ZR8gOAG": {
+    "history_hash": "f19ab3a88f853c1a295c47ffb3e3fda8",
+    "summary": "04/09: Reunião presencial com Caio Barbosa (CE) realizada para aprofundamento estratégico no Model Garden, com próximos passos em definição."
+  },
+  "aBJKf000004ZMhwOAG": {
+    "history_hash": "d038f7dea949513f2f463ef82a8c0d34",
+    "summary": "08/10: Proposta de migração SAP IaaS sob análise do cliente; aguardamos fechamento contratual em conjunto com FSR e parceiro para janeiro/2027."
+  },
+  "aBJKf000009ofjwOAA": {
+    "history_hash": "5a2719c7201b1935f7363cfd8fc4e179",
+    "summary": "07/07: Projeto em espera por retorno do cliente sobre questões contratuais e crédito CVC; próxima reunião agendada para 09/07."
+  },
+  "aBJKf000004ZKmgOAG": {
+    "history_hash": "00be4d39c1b8793560bfc94632d9b0c1",
+    "summary": "10/09: O cliente está analisando os próximos passos para definição da estratégia e continuidade do projeto."
+  },
+  "aBJKf000009WCIpOAO": {
+    "history_hash": "5fad1560e42369af6b769208b70a7ab7",
+    "summary": "20/07: Proposta do parceiro em validação pela diretoria; aguardando follow-up em 23/08 para viabilizar entrega em produção até fim de agosto."
+  },
+  "aBJKf000004ZKLOOA4": {
+    "history_hash": "567e06d0fc2638e22128eab52ef7f3f4",
+    "summary": "08/09: Cliente avaliando a proposta; aguardamos o feedback final para prosseguir com a definição do cronograma de implementação."
+  },
+  "aBJKf000009WCjqOAG": {
+    "history_hash": "6448ef99b01089e3b1338e8e3fa1a163",
+    "summary": "08/09: Trial encerrado e 20 licenças Pay-as-you-go ativadas; o projeto segue em operação mensal com acompanhamento do parceiro e time FSM/FSR."
+  },
+  "aBJKf000009WCjlOAG": {
+    "history_hash": "860bca52be03a660a6540becec0e0d33",
+    "summary": "**Status: Recursos da Nuvem para simulação em AODT estão em análise, com foco na definição da viabilidade técnica e próximos passos.**"
+  },
+  "aBJKf000004ZEKROA4": {
+    "history_hash": "0df158e9e57f8e301a367e521fbc5964",
+    "summary": "13/05: Cliente avalia parceiros para seleção final, com definição prevista para 22/05, quando o parceiro será atualizado no Salesforce."
+  },
+  "aBJKf000009eCclOAE": {
+    "history_hash": "f28a3c063d9eb3d7f32b3c8cfe1c29aa",
+    "summary": "09/09: Em revisão de arquitetura para atualização da proposta, com conclusão prevista para 10/09."
+  },
+  "aBJKf000004ZL83OAG": {
+    "history_hash": "480ff5ff799c33e604fa7ef2b486bfce",
+    "summary": "23/09: Renovação paralisada pela Oracle; arquitetura GCP está pronta para migração imediata assim que a proposta concorrente for formalizada."
+  },
+  "aBJKf000004ZPrKOAW": {
+    "history_hash": "783352871ed0c846a8ec4ebf2b46258c",
+    "summary": "[2026-10-06] TP 06/10 - Em contato com parceiro e FSR fui informada que estão em andamento com previsão de entrega ate dezembro para a migração final."
+  },
+  "aBJKf000009e5RjOAI": {
+    "history_hash": "2dcdcb00fc12ee3b1637345efbf567e9",
+    "summary": "11/08: Parceiro finaliza ajustes pendentes; reunião decisiva agendada para o fim de agosto devido ao período de férias executivas."
+  },
+  "aBJKf000004ZHgxOAG": {
+    "history_hash": "1ed444c1af25b88474f3776ec84fbe97",
+    "summary": "08/06: FSR e especialista em contato direto com o cliente para alinhamento da atualização do projeto."
+  },
+  "aBJKf000004ZTk8OAG": {
+    "history_hash": "43cbd490dbf4033fe8a2acdb47e5ddb6",
+    "summary": "*Por favor, envie os dados para que eu possa completar com as informações reais.*"
+  },
+  "aBJKf000009eCPwOAM": {
+    "history_hash": "4d6d6b72db7ba31e7664f6f3acdcb3a3",
+    "summary": "17/09: Cliente iniciará trial de 30 dias dos GE Apps, com configuração via VPN pendente apenas da liberação de licenças."
+  },
+  "aBJKf000004ZLhwOAG": {
+    "history_hash": "0c13422c578c0d2e03458d60a65c19dd",
+    "summary": "16/07: Proposta apresentada e dúvidas do cliente sanadas via e-mail; aguardamos agora a formalização do aceite ou novos desdobramentos."
+  },
+  "aBJKf000004ZHl1OAG": {
+    "history_hash": "ef94a88a796fad0ee62e0bae2bdb87b0",
+    "summary": "15/06: Aguardando retorno do cliente sobre oportunidade de SecOps para definição de cotação ou trial até o final desta semana."
+  },
+  "aBJKf000004ZHrnOAG": {
+    "history_hash": "97e6a6232dee6a668afe1124013f1f03",
+    "summary": "[2026-10-08] TP 08/10 - A POC está andamento. Parceiro etá realizando reuniões com os gestores e com a área de auditoria do Hospital Madre Tereza para definição..."
+  },
+  "aBJKf000004ZGCtOAO": {
+    "history_hash": "16366e3f1f9ea3f3a7590b7b239816f3",
+    "summary": "26/05: Projeto em andamento; a próxima etapa é agendar a reunião entre parceiro e cliente para avançar com a execução."
+  },
+  "aBJKf000004ZIVUOA4": {
+    "history_hash": "d7ba3c66cba1fc24133b3cf872692a88",
+    "summary": "16/06: Desenvolvimento da POC em andamento, com foco na conclusão da fase de prototipagem para validação técnica inicial."
+  },
+  "aBJKf000004ZGCjOAO": {
+    "history_hash": "77c390219c709225df4529026de44d85",
+    "summary": "26/05: Reunião com cliente e parceiro está em fase de agendamento para alinhamento dos próximos passos."
+  },
+  "aBJKf000009tMrxOAE": {
+    "history_hash": "94d3deae331c01ffa002438e721ad2c4",
+    "summary": "16/03: Cliente em fase de análise pelo parceiro, aguardando definição para dar continuidade ao processo de contratação."
+  },
+  "aBJKf000009dx5YOAQ": {
+    "history_hash": "33a0072e67a2c9a2ad9b96700a5a2028",
+    "summary": "15/05: SOW aguardando aprovação final do Google e do cliente para o início dos trabalhos."
+  },
+  "aBJKf000004ZPTcOAO": {
+    "history_hash": "3a2dd949d8efa0c9d74494ddedcd914a",
+    "summary": "31/08: Conta TIER 1 em acompanhamento, aguardando desdobramentos após a reunião de apresentação do parceiro realizada em 21/08."
+  },
+  "aBJKf000009eChqOAE": {
+    "history_hash": "676aa2d6ddf4d9d07b8b75c7562813e3",
+    "summary": "20/04: Alinhamento com o parceiro agendado para definir próximos passos do projeto."
+  },
+  "aBJKf000004ZAg6OAG": {
+    "history_hash": "676aa2d6ddf4d9d07b8b75c7562813e3",
+    "summary": "20/04: Reunião com o parceiro agendada para dar continuidade ao fluxo de trabalho conforme planejado."
+  },
+  "aBJKf000004ZICqOAO": {
+    "history_hash": "c75c44c969a51e73af2e9827bc09807f",
+    "summary": "26/08: A SOW foi enviada ao FSR para aprovação, marcando a retomada da iniciativa pelo cliente."
+  },
+  "aBJKf000004ZGCoOAO": {
+    "history_hash": "16366e3f1f9ea3f3a7590b7b239816f3",
+    "summary": "26/05: O projeto aguarda o agendamento de uma reunião entre parceiro e cliente para viabilizar o avanço das próximas etapas."
+  },
+  "aBJKf000004ZLo7OAG": {
+    "history_hash": "d79e0b5c649ae6e521a6b67e78450ab6",
+    "summary": "23/09: Calculadora revisada em avaliação pelo Head; POC aguarda retorno do coordenador em 28/09 para continuidade e validação técnica."
+  },
+  "aBJKf000004Z9brOAC": {
+    "history_hash": "d3c5fbd3034cf54e5dfb88e0442f9820",
+    "summary": "31/07 - Cliente em férias; aguardando retorno em 08/08 para a reunião estratégica já agendada para o dia 16/08."
+  },
+  "aBJKf000009e5awOAA": {
+    "history_hash": "081048bc3fbbeb7e9ada38b72b6e9c00",
+    "summary": "21/07: Proposta apresentada, mas aguardando resposta da Vanessa; Renan segue realizando cobranças para avançar com o fechamento do negócio."
+  },
+  "aBJKf000009dvZ8OAI": {
+    "history_hash": "df9dc12d175a1ee4302a162e5e41f90e",
+    "summary": "14/05: MVP de propensão a compra no e-commerce está em andamento, com foco na conclusão da implementação técnica atual."
+  },
+  "aBJKf000004ZAgkOAG": {
+    "history_hash": "aefcbf93757e2014966c6c54b755379b",
+    "summary": "16/05: Agenda com o parceiro em alinhamento para viabilizar o avanço das próximas etapas do projeto."
+  },
+  "aBJKf000006MclMOAS": {
+    "history_hash": "0b88437bbff53f653b4f67cd682d5f0c",
+    "summary": "04/08: DSR em acompanhamento com a parceira SantoDigital; aguardamos retorno sobre o provisionamento até a próxima sexta-feira."
+  },
+  "aBJKf000004ZIinOAG": {
+    "history_hash": "36feffbb9c624b2a8a28b11d2f5c9cc5",
+    "summary": "18/09: Validação da calculadora pendente devido à migração do cliente; acompanhamento em curso via WhatsApp para destravar o processo."
+  },
+  "aBJKf000009kMPfOAM": {
+    "history_hash": "80ca8666be28ef8ce44a2e8c0afe7ff3",
+    "summary": "[2026-10-08] Follow up com partner Renato Lopes da Servibrasil"
+  },
+  "aBJKf000009kKHZOA2": {
+    "history_hash": "7553e4dcf837da10e27ad0aeffaabb80",
+    "summary": "[2026-10-13] Cliente está adotando o uso de Agent Platform gradualmente e irá aumentar o consumo com a evolução do projeto de Analytics Modernization"
+  },
+  "aBJKf000009olynOAA": {
+    "history_hash": "ee5c16d1b14bd6bf270a7e3bf79241e8",
+    "summary": "[2026-10-13] Reunião com cliente para avaliar o uso do Agent Platform para acessar modelos da Anthropic via Gateway de modelos"
+  },
+  "aBJKf000009eBBvOAM": {
+    "history_hash": "a7626598f761e964a55b44ace0a6721e",
+    "summary": "[2026-09-30] Estamos buscando contato com cliente e parceiro, mas sem reposta."
+  },
+  "aBJKf000009eCiwOAE": {
+    "history_hash": "7d36aa74be36412c5f5761a7b88139e1",
+    "summary": "[2026-09-09] FSR está liderando projeto, estão conversando quinzenalmente sobre IA e segurança."
+  },
+  "aBJKf000009eQ27OAE": {
+    "history_hash": "074db828e2f62358bfa477840f711ff9",
+    "summary": "[2026-10-07] Enviei mensagem a partner Etelvina, aguardando retorno para alinhamento de datas"
+  },
+  "aBJKf000009eWYEOA2": {
+    "history_hash": "634dbed887a93dff282841613190126d",
+    "summary": "Cliente participou do evento da Movit dia 10/09 e agora BDR esta buscando proxima agenda"
+  },
+  "aBJKf000009eQ22OAE": {
+    "history_hash": "6fa125f6fe7a830fc0d67783c9576485",
+    "summary": "[2026-10-07] Enviei mensagem a partner Etelvina, aguardando retorno para alinhamento de datas"
+  },
+  "aBJKf000004ZDV2OAO": {
+    "history_hash": "cf4fb284116a4d86d9d4de3e48a03fdd",
+    "summary": "[2026-09-30] Nilo (BlueCorp) Irá ao EBC com FSR semana que vem"
+  },
+  "aBJKf000009e7WQOAY": {
+    "history_hash": "0277d6733571110bcf86f47f6f691d59",
+    "summary": "[2026-09-09] Cliente irá amanhã no evento de Segurança da Movit, estão interessado em saber mais do tema."
+  },
+  "aBJKf000004ZLZXOA4": {
+    "history_hash": "cca7cab7c378d0d98ed4b9ad62489c0b",
+    "summary": "13/10: Contrato em fase final de negociação; o início da migração depende exclusivamente da assinatura do documento."
+  },
+  "aBJKf000009kMUVOA2": {
+    "history_hash": "1c9009dd2832690bec43541e7cb8e2a4",
+    "summary": "08/10: Demonstração técnica realizada; aguardando definição do escopo da PoC/rollout em conjunto com FSR e parceiro IPNET/Telefónica."
+  },
+  "aBJKf000009oi19OAA": {
+    "history_hash": "c3a9172861c5170e46fa496561247420",
+    "summary": "[2026-10-08] Client analyzing the next steps."
+  },
+  "aBJKf000006ADwEOAW": {
+    "history_hash": "d54bd45e457a532256bc68e951dc8c30",
+    "summary": "[2026-10-08] 08/10 [VF] - SOW aprovada junto ao parceiro IPNET/Telefónica. FSR (Daniela Benevides) em acompanhamento direto com a diretoria da Wilson Sons para ..."
+  },
+  "aBJKf000009kLyUOAU": {
+    "history_hash": "2f29132ea9ff9deac8ebf0d1331099a7",
+    "summary": "[2026-10-08] 08/10 [VF] - Escopo técnico revisado com o parceiro Movti. Em tratativa executiva (FSR + Movti) junto ao cliente para destravar a aprovação e assin..."
+  },
+  "aBJKf000009kMOSOA2": {
+    "history_hash": "de95b0553c43d91e806dec21709a96c4",
+    "summary": "[2026-10-08] 08/10 [VF] - Reunião de apresentação de proposta e arquitetura agendada para 13/10 às 11h30 com o parceiro ATRA e equipe de BI/TI do Banco Rendimen..."
+  },
+  "aBJKf000009kLGSOA2": {
+    "history_hash": "ad8cbab0fe08e3d9aba5b1fef2136663",
+    "summary": "[2026-10-08] 08/10 [VF] - Proposta em fase final de negociação para fechamento em Q4 junto ao parceiro Compass.UOL (Avenue Code). Acompanhando aprovação comerci..."
+  },
+  "aBJKf000009kLGcOAM": {
+    "history_hash": "42e78114b4fb76574c62cc1a9dd134f4",
+    "summary": "[2026-10-08] 08/10 [VF] - Escopo técnico do Agente de Gameficação validado com parceiro Compass.UOL (Avenue Code). Em negociação comercial final pela FSR para a..."
+  },
+  "aBJKf000009oi14OAA": {
+    "history_hash": "138b2a090888b60e26fc8a499d411b0c",
+    "summary": "[2026-10-08] 08/10 [VF] - Escopo de migração revisado com o parceiro Movti. Aguardando fechamento comercial e assinatura do contrato em Q4 para iniciar o plano ..."
+  },
+  "aBJKf000009eVryOAE": {
+    "history_hash": "92ae6bfa362c234e7b679bf84432d94f",
+    "summary": "[2026-10-08] 08/10 [VF] - Em estruturação conjunta com FSR (Daniel Prudencio) e parceiro QI Network (sync de 05/10) para evolução de novos casos de uso de IA ge..."
+  },
+  "aBJKf000009eVrZOAU": {
+    "history_hash": "1fdb234dfcb0b95279254d410b784f0c",
+    "summary": "[2026-10-08] 08/10 [VF] - Em levantamento e qualificação de novas cargas de infraestrutura GCP com o cliente e FSR (Daniel Prudencio) para compor o estudo técni..."
+  },
+  "aBJKf000009eOiaOAE": {
+    "history_hash": "6e7ba5e7ff416a103f87be30c12b17f8",
+    "summary": "[2026-10-08] 08/10 [VF] - Recorrência técnica GCP agendada com o time da Junto Seguros (José e Nayara) e Daniel Prudencio para 13/10 às 15h30 para revisão da ar..."
+  },
+  "aBJKf000009eUqfOAE": {
+    "history_hash": "a144725c23e3fa683a268b3bc2a7425f",
+    "summary": "[2026-10-08] 08/10 [VF] - Em refinamento técnico dos casos de uso de agentes de IA (Agentics) junto ao parceiro MadeinWeb e cliente para definição de escopo e a..."
+  },
+  "aBJKf000009e3eIOAQ": {
+    "history_hash": "25940010fefa2905523eaf7c987dfc1e",
+    "summary": "[2026-10-08] 08/10 [VF] - Em validação técnica e comercial do Security Command Center (SCC) junto ao parceiro IPNET/Telefónica e FSR (Sarah Tobias) para confirm..."
+  },
+  "aBJKf000004ZTdqOAG": {
+    "history_hash": "c61fbb1723b906cdc9ac5423dd19627b",
+    "summary": "[2026-10-08] ✅ WON em 30/09/2026 (006Kf00000PVPu9IAH)"
+  },
+  "aBJKf000004ZUGnOAO": {
+    "history_hash": "04d15ba19f35d516a7fbff8d47e0d539",
+    "summary": "[2026-10-08] ✅ WON em 30/06/2026 (006Kf00000PNDu0IAH)"
+  },
+  "aBJKf000004ZQKHOA4": {
+    "history_hash": "8e34eb8d26ce5708adde0584465951c4",
+    "summary": "[2026-10-08] Follow up com o partner Roberto Oguma para revisão e alinhamento de data de produção."
+  },
+  "aBJKf000004ZMCiOAO": {
+    "history_hash": "e11e3d101a671248b677785db156ce8f",
+    "summary": "[2026-10-08] 08/10 [VF] - Cadência semanal realizada em 02/10 com Rodrigo Missagia e Renan Valadares alinhando migração de fluxos de IA para Vertex AI, otimizaç..."
+  },
+  "aBJKf000004ZQKCOA4": {
+    "history_hash": "d01c02f4a6dd710114ed48f2f8dab4ef",
+    "summary": "[2026-10-08] Follow up no partner Roberto Oguma"
+  }
+}

@@ -1,0 +1,49 @@
+📊 EXECUTIVE SUMMARY & VELOCITY SCORECARD — DANIEL PRUDENCIO,,,,,,
+FSR: Daniel Prudencio (dprudencio@google.com) | Supporting CE: Victor Hugo Ferreira | PE: Luna Longo | Last Update: 14 - Oct 2026,,,,,,
+,,,,,,
+1. PORTFOLIO VITAL METRICS,,,,,,
+Metric,Value,Share / Detail,Strategic Context,,,
+Total Active Pipeline ARR,"$10,868,687.00",100.0%,Total commercial pipeline under active pursuit across all stages,,,
+Total Active Workloads,43,100.0%,Distinct workloads in Salesforce / Vector,,,
+Partnered Workloads,25,"64.5% ($7,006,387.00)",Deals with attached delivery partner supporting customer technical journey,,,
+Unpartnered Workloads,18,"35.5% ($3,862,300.00)",Deals requiring Brazil partner matchmaking to unblock architecture / delivery,,,
+High Risk & Critical Path Deals,2,"2.6% ($288,000.00)","Priorizacion Q3 deals requiring urgent acceleration, pull-in, or hygiene review",,,
+Dedicated Supporting CE,Victor Hugo Ferreira,Lead CE Partner,Primary Customer Engineering counterpart aligned to FSR pipeline,,,
+,,,,,,
+2. PIPELINE BY COMMERCIAL PROGRESS STAGE,,,,,,
+Commercial Stage,Stage Definition,Workloads (#),Pipeline ARR ($ USD),ARR Share (%),Primary Acceleration Action,
+00-01,00-01: Qualify & Refine,0,$0.00,0.0%,"Complete discovery, align use case, introduce delivery partner early",
+02,02: Tech Eval / Solution Dev,30,"$7,875,740.00",72.5%,"Accelerate architecture sizing, PoC validation with Victor Hugo Ferreira",
+03,03: Proposal & Negotiation,8,"$2,581,576.00",23.8%,"Finalize commercial proposal, commit validation, consumption pull-in",
+04+,04+: Implementation & Won,5,"$411,371.00",3.8%,"Monitor go-live milestones, unblock technical delivery & support tickets",
+TOTAL,All Active Stages,43,"$10,868,687.00",100.0%,Full Commercial Portfolio,
+,,,,,,
+3. PARTNER ENGAGEMENT & DELIVERY CONCENTRATION,,,,,,
+Partner Organization,Standing / Tier,Workloads (#),Pipeline ARR ($ USD),ARR Share (%),Delivery Alignment,
+⚠️ Unpartnered Deals,⚠️ No Partner Attached,18,"$3,862,300.00",35.5%,Immediate opportunity for partner matchmaking,
+KYNDRYL BRASIL SERVICOS LTDA.,Active Delivery Partner,1,"$2,000,000.00",18.4%,Co-selling & delivery tracking,
+Qinetwork Solucoes Tecnologicas Ltda. ME.,Active Delivery Partner,4,"$1,255,620.00",11.6%,Co-selling & delivery tracking,
+MOVTI CLOUD SOLUTIONS LTDA,Active Delivery Partner,1,"$1,200,000.00",11.0%,Co-selling & delivery tracking,
+SAUTER TECNOLOGIA E SERVICOS LTDA,Active Delivery Partner,3,"$944,000.00",8.7%,Co-selling & delivery tracking,
+UCLOUD STORE BRASIL TECNOLOGIA DA INFORMACAO LTDA,Active Delivery Partner,4,"$518,167.00",4.8%,Co-selling & delivery tracking,
+VPN Soluçoes em TI LTDA,Active Delivery Partner,3,"$455,160.00",4.2%,Co-selling & delivery tracking,
+MADEINWEB S/A,Active Delivery Partner,3,"$318,000.00",2.9%,Co-selling & delivery tracking,
+COMPWIRE INFORMATICA LTDA,Active Delivery Partner,1,"$184,440.00",1.7%,Co-selling & delivery tracking,
+TELEFONICA CLOUD E TECNOLOGIA DO BRASIL S.A. (fka IPNET SERVICOS EM NUVEM E DESENVOLVIMENTO DE SISTEMAS LTDA),Active Delivery Partner,1,"$65,000.00",0.6%,Co-selling & delivery tracking,
+Multiedro Serviços de TI Ltda.,Active Delivery Partner,1,"$44,000.00",0.4%,Co-selling & delivery tracking,
+MRP BRASIL TECNOLOGIA E SISTEMAS LTDA.,Active Delivery Partner,1,"$22,000.00",0.2%,Co-selling & delivery tracking,
+SERVIBRASIL SOLUCOES EM TECNOLOGIA DA INFORMACAO LTDA.,Active Delivery Partner,1,$0.00,0.0%,Co-selling & delivery tracking,
+SANTODIGITAL DISTRIBUICAO E CONSULTORIA EM INFORMATICA LTDA,Active Delivery Partner,1,$0.00,0.0%,Co-selling & delivery tracking,
+,,,,,,
+4. TOP 10 STRATEGIC WORKLOADS (RANKED BY ARR),,,,,,
+Workload Name,Customer Account,ARR ($ USD),Progress / Stage,Partner Name,Target Production Date,Business Priority
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000009eUqBOAU/view"", ""[Cresol] #HA"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001hlt6DQAQ/view"", ""Cooperativa Central de Tecnologia e Servicos de Informatica Com Interacao Solidaria - Cres"")","$2,000,000.00",0-2: Tech Eval/Solution Dev,KYNDRYL BRASIL SERVICOS LTDA.,2027-02-22,Low Priority
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000009eQnrOAE/view"", ""[Parana Banco] - #Azure to GCP"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001hc2cLQAQ/view"", ""Paraná Banco S/A"")","$1,200,000.00",0-2: Tech Eval/Solution Dev,MOVTI CLOUD SOLUTIONS LTDA,2027-01-31,Low Priority
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000009tVTVOA2/view"", ""[BRASILTECPAR] #Gemini Enterprise Plus | 3000 seats (Big Bet)"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/001Kf000014S7VTIA0/view"", ""BRASIL TECNOLOGIA E PARTICIPACOES SA"")","$824,000.00",3:  Proposal / Negotiation,SAUTER TECNOLOGIA E SERVICOS LTDA,2026-11-30,Low Priority
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000009tdlNOAQ/view"", ""[Grendene] #Gemini Enterprise | 2K Seats (BIg Bet)"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001hiovdQAA/view"", ""Grendene S/A"")","$600,600.00",0-2: Tech Eval/Solution Dev,⚠️ Unpartnered,2026-11-16,Low Priority
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000009tZ5mOAE/view"", ""[Sicredi] #GCVE"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001hanIwQAI/view"", ""Sicredi Participacoes S/A"")","$500,000.00",0-2: Tech Eval/Solution Dev,⚠️ Unpartnered,2026-10-30,Low Priority
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000009eVryOAE/view"", ""[Cresol] #Gemini Enterprise Plus | Big Dream"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001hlt6DQAQ/view"", ""Cooperativa Central de Tecnologia e Servicos de Informatica Com Interacao Solidaria - Cres"")","$500,000.00",0-2: Tech Eval/Solution Dev,Qinetwork Solucoes Tecnologicas Ltda. ME.,2026-12-28,Low Priority
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000009tTZCOA2/view"", ""[Cresol] #Gemini Enterprise Plus"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001hlt6DQAQ/view"", ""Cooperativa Central de Tecnologia e Servicos de Informatica Com Interacao Solidaria - Cres"")","$500,000.00",3:  Proposal / Negotiation,Qinetwork Solucoes Tecnologicas Ltda. ME.,2026-12-31,Low Priority
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000009ePW1OAM/view"", ""[Atlas Eletrodomesticos] #Casos de Uso Industria"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001hKChiQAG/view"", ""Atlas Indústria de Eletrodomésticos Ltda."")","$400,000.00",0-2: Tech Eval/Solution Dev,⚠️ Unpartnered,2026-11-13,Low Priority
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000009tcw0OAA/view"", ""[Sicredi] #Principalidade (Data Foundation Model)"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001hanIwQAI/view"", ""Sicredi Participacoes S/A"")","$400,000.00",3:  Proposal / Negotiation,⚠️ Unpartnered,2026-11-30,Low Priority
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000009eVrjOAE/view"", ""[Sicredi] #SecOps"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001hanIwQAI/view"", ""Sicredi Participacoes S/A"")","$300,000.00",0-2: Tech Eval/Solution Dev,⚠️ Unpartnered,2026-12-28,Low Priority

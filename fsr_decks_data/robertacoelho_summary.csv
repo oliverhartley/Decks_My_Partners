@@ -1,0 +1,46 @@
+📊 EXECUTIVE SUMMARY & VELOCITY SCORECARD — ROBERTA COELHO,,,,,,
+FSR: Roberta Coelho (robertacoelho@google.com) | Supporting CE: Diego Baldini | PE: Oliver Hartley | Last Update: 14 - Oct 2026,,,,,,
+,,,,,,
+1. PORTFOLIO VITAL METRICS,,,,,,
+Metric,Value,Share / Detail,Strategic Context,,,
+Total Active Pipeline ARR,"$4,397,688.32",100.0%,Total commercial pipeline under active pursuit across all stages,,,
+Total Active Workloads,23,100.0%,Distinct workloads in Salesforce / Vector,,,
+Partnered Workloads,23,"100.0% ($4,397,688.32)",Deals with attached delivery partner supporting customer technical journey,,,
+Unpartnered Workloads,0,0.0% ($0.00),Deals requiring Brazil partner matchmaking to unblock architecture / delivery,,,
+High Risk & Critical Path Deals,8,"23.3% ($1,026,756.32)","Priorizacion Q3 deals requiring urgent acceleration, pull-in, or hygiene review",,,
+Dedicated Supporting CE,Diego Baldini,Lead CE Partner,Primary Customer Engineering counterpart aligned to FSR pipeline,,,
+,,,,,,
+2. PIPELINE BY COMMERCIAL PROGRESS STAGE,,,,,,
+Commercial Stage,Stage Definition,Workloads (#),Pipeline ARR ($ USD),ARR Share (%),Primary Acceleration Action,
+00-01,00-01: Qualify & Refine,0,$0.00,0.0%,"Complete discovery, align use case, introduce delivery partner early",
+02,02: Tech Eval / Solution Dev,11,"$2,223,052.00",50.6%,"Accelerate architecture sizing, PoC validation with Diego Baldini",
+03,03: Proposal & Negotiation,5,"$698,756.32",15.9%,"Finalize commercial proposal, commit validation, consumption pull-in",
+04+,04+: Implementation & Won,7,"$1,475,880.00",33.6%,"Monitor go-live milestones, unblock technical delivery & support tickets",
+TOTAL,All Active Stages,23,"$4,397,688.32",100.0%,Full Commercial Portfolio,
+,,,,,,
+3. PARTNER ENGAGEMENT & DELIVERY CONCENTRATION,,,,,,
+Partner Organization,Standing / Tier,Workloads (#),Pipeline ARR ($ USD),ARR Share (%),Delivery Alignment,
+KYNDRYL BRASIL SERVICOS LTDA.,Active Delivery Partner,3,"$1,666,880.00",37.9%,Co-selling & delivery tracking,
+MADEINWEB S/A,Active Delivery Partner,2,"$595,852.00",13.5%,Co-selling & delivery tracking,
+VPN Soluçoes em TI LTDA,Active Delivery Partner,2,"$434,000.00",9.9%,Co-selling & delivery tracking,
+SAUTER TECNOLOGIA E SERVICOS LTDA,Active Delivery Partner,4,"$412,200.00",9.4%,Co-selling & delivery tracking,
+HVAR CONSULTORIA LTDA ME,Active Delivery Partner,2,"$330,000.00",7.5%,Co-selling & delivery tracking,
+SANTODIGITAL DISTRIBUICAO E CONSULTORIA EM INFORMATICA LTDA,Active Delivery Partner,2,"$233,756.32",5.3%,Co-selling & delivery tracking,
+Qinetwork Solucoes Tecnologicas Ltda. ME.,Active Delivery Partner,2,"$191,000.00",4.3%,Co-selling & delivery tracking,
+XERTICA BRASIL LTDA,Active Delivery Partner,1,"$180,000.00",4.1%,Co-selling & delivery tracking,
+Safetec Informatica Ltda.,Active Delivery Partner,1,"$152,000.00",3.5%,Co-selling & delivery tracking,
+TELEFONICA CLOUD E TECNOLOGIA DO BRASIL S.A. (fka IPNET SERVICOS EM NUVEM E DESENVOLVIMENTO DE SISTEMAS LTDA),Active Delivery Partner,3,"$142,000.00",3.2%,Co-selling & delivery tracking,
+CAFS Prestação de Serviços de Informatica Ltda,Active Delivery Partner,1,"$60,000.00",1.4%,Co-selling & delivery tracking,
+,,,,,,
+4. TOP 10 STRATEGIC WORKLOADS (RANKED BY ARR),,,,,,
+Workload Name,Customer Account,ARR ($ USD),Progress / Stage,Partner Name,Target Production Date,Business Priority
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000009eDZSOA2/view"", ""SolarBR_SAP_IaaS"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001nUZ1mQAG/view"", ""Solar Coca Cola"")","$1,024,000.00",4.2: Ramping / Deliver,KYNDRYL BRASIL SERVICOS LTDA.,2026-10-30,Pull-in
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000009tWEvOAM/view"", ""SolarBR_Data2AI"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001nUZ1mQAG/view"", ""Solar Coca Cola"")","$550,000.00",0-2: Tech Eval/Solution Dev,KYNDRYL BRASIL SERVICOS LTDA.,2027-01-22,Low Priority
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000009eVIAOA2/view"", ""Broadcast_CBF"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001hqeqJQAQ/view"", ""CBF - CONFEDERAÇÃO BRASILEIRA DE FUTEBOL"")","$465,852.00",0-2: Tech Eval/Solution Dev,MADEINWEB S/A,2026-11-30,Low Priority
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000009eMfyOAE/view"", ""Infratakeover_CIBRA"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001hjoZMQAY/view"", ""CIBRAFERTIL - COMPANHIA BRASILEIRA DE FERTILIZANTES"")","$380,000.00",0-2: Tech Eval/Solution Dev,VPN Soluçoes em TI LTDA,2026-11-13,Low Priority
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000009tRT2OAM/view"", ""GeminiEnterprise_BASA"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001hlefIQAQ/view"", ""Banco da Amazonia SA"")","$180,000.00",0-2: Tech Eval/Solution Dev,XERTICA BRASIL LTDA,2026-11-25,Low Priority
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000009eFahOAE/view"", ""RedeBahia_Movetocloud"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001hrInIQAU/view"", ""Televisão Bahia S/A."")","$180,000.00",0-2: Tech Eval/Solution Dev,HVAR CONSULTORIA LTDA ME,2026-10-09,Critical Path
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000009tIQQOA2/view"", ""Alvoar Lacteos - Infraestrutura Corporativa"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00002MSoVeQAL/view"", ""ALVOAR LACTEOS NORDESTE SA"")","$180,000.00",3:  Proposal / Negotiation,SAUTER TECNOLOGIA E SERVICOS LTDA,2026-07-17,High risk
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000009tcKpOAI/view"", ""Migração Monuv_"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001hUL8LQAW/view"", ""Sociedade Fogás Ltda"")","$175,756.32",3:  Proposal / Negotiation,SANTODIGITAL DISTRIBUICAO E CONSULTORIA EM INFORMATICA LTDA,2026-09-30,High risk
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000009tOftOAE/view"", ""Gemini Enterprise DESO"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001hjzPLQAY/view"", ""Companhia de Saneamento de Sergipe Deso"")","$152,000.00",3:  Proposal / Negotiation,Safetec Informatica Ltda.,2026-10-30,Low Priority
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000009eEZTOA2/view"", ""AWT_GE_Condor"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001hipvxQAA/view"", ""Condor"")","$151,000.00",3:  Proposal / Negotiation,Qinetwork Solucoes Tecnologicas Ltda. ME.,2026-10-15,High risk

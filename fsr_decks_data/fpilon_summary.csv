@@ -1,0 +1,49 @@
+📊 EXECUTIVE SUMMARY & VELOCITY SCORECARD — FELIPE PILON,,,,,,
+FSR: Felipe Pilon (fpilon@google.com) | Supporting CE: Diego Baldini | PE: Oliver Hartley | Last Update: 14 - Oct 2026,,,,,,
+,,,,,,
+1. PORTFOLIO VITAL METRICS,,,,,,
+Metric,Value,Share / Detail,Strategic Context,,,
+Total Active Pipeline ARR,"$18,705,839.00",100.0%,Total commercial pipeline under active pursuit across all stages,,,
+Total Active Workloads,76,100.0%,Distinct workloads in Salesforce / Vector,,,
+Partnered Workloads,39,"49.5% ($9,252,839.00)",Deals with attached delivery partner supporting customer technical journey,,,
+Unpartnered Workloads,37,"50.5% ($9,453,000.00)",Deals requiring Brazil partner matchmaking to unblock architecture / delivery,,,
+High Risk & Critical Path Deals,26,"23.1% ($4,317,000.00)","Priorizacion Q3 deals requiring urgent acceleration, pull-in, or hygiene review",,,
+Dedicated Supporting CE,Diego Baldini,Lead CE Partner,Primary Customer Engineering counterpart aligned to FSR pipeline,,,
+,,,,,,
+2. PIPELINE BY COMMERCIAL PROGRESS STAGE,,,,,,
+Commercial Stage,Stage Definition,Workloads (#),Pipeline ARR ($ USD),ARR Share (%),Primary Acceleration Action,
+00-01,00-01: Qualify & Refine,0,$0.00,0.0%,"Complete discovery, align use case, introduce delivery partner early",
+02,02: Tech Eval / Solution Dev,34,"$7,405,532.00",39.6%,"Accelerate architecture sizing, PoC validation with Diego Baldini",
+03,03: Proposal & Negotiation,24,"$4,817,000.00",25.8%,"Finalize commercial proposal, commit validation, consumption pull-in",
+04+,04+: Implementation & Won,18,"$6,483,307.00",34.7%,"Monitor go-live milestones, unblock technical delivery & support tickets",
+TOTAL,All Active Stages,76,"$18,705,839.00",100.0%,Full Commercial Portfolio,
+,,,,,,
+3. PARTNER ENGAGEMENT & DELIVERY CONCENTRATION,,,,,,
+Partner Organization,Standing / Tier,Workloads (#),Pipeline ARR ($ USD),ARR Share (%),Delivery Alignment,
+⚠️ Unpartnered Deals,⚠️ No Partner Attached,37,"$9,453,000.00",50.5%,Immediate opportunity for partner matchmaking,
+MADEINWEB S/A,Active Delivery Partner,10,"$2,185,307.00",11.7%,Co-selling & delivery tracking,
+SERVIBRASIL SOLUCOES EM TECNOLOGIA DA INFORMACAO LTDA.,Active Delivery Partner,1,"$1,500,000.00",8.0%,Co-selling & delivery tracking,
+COMPASS.UOL TECNOLOGIA LTDA AVENUE CODE,Active Delivery Partner,1,"$1,200,000.00",6.4%,Co-selling & delivery tracking,
+MOVTI CLOUD SOLUTIONS LTDA,Active Delivery Partner,12,"$1,095,532.00",5.9%,Co-selling & delivery tracking,
+VPN Soluçoes em TI LTDA,Active Delivery Partner,4,"$635,000.00",3.4%,Co-selling & delivery tracking,
+Qinetwork Solucoes Tecnologicas Ltda. ME.,Active Delivery Partner,3,"$632,000.00",3.4%,Co-selling & delivery tracking,
+KYNDRYL BRASIL SERVICOS LTDA.,Active Delivery Partner,1,"$500,000.00",2.7%,Co-selling & delivery tracking,
+K2M Soluções Ltda.,Active Delivery Partner,1,"$450,000.00",2.4%,Co-selling & delivery tracking,
+Servinformación S.A,Active Delivery Partner,1,"$450,000.00",2.4%,Co-selling & delivery tracking,
+Leega Consultoria e Informática Ltda.,Active Delivery Partner,2,"$430,000.00",2.3%,Co-selling & delivery tracking,
+SEK,Active Delivery Partner,1,"$80,000.00",0.4%,Co-selling & delivery tracking,
+SANTODIGITAL DISTRIBUICAO E CONSULTORIA EM INFORMATICA LTDA,Active Delivery Partner,1,"$60,000.00",0.3%,Co-selling & delivery tracking,
+CLOUD ACE LTDA.,Active Delivery Partner,1,"$35,000.00",0.2%,Co-selling & delivery tracking,
+,,,,,,
+4. TOP 10 STRATEGIC WORKLOADS (RANKED BY ARR),,,,,,
+Workload Name,Customer Account,ARR ($ USD),Progress / Stage,Partner Name,Target Production Date,Business Priority
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000009kMPfOAM/view"", ""infra - CMA Vela"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00002TFXgdQAH/view"", ""Vela LATAM"")","$1,500,000.00",0-2: Tech Eval/Solution Dev,SERVIBRASIL SOLUCOES EM TECNOLOGIA DA INFORMACAO LTDA.,2026-11-10,Low Priority
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf0000082EHZOA2/view"", ""Mutant - Infra AI - Claro"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001hdPtFQAU/view"", ""Mutant"")","$1,464,000.00",4.2: Ramping / Deliver,⚠️ Unpartnered,2026-10-30,Pull-in
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf0000082EHeOAM/view"", ""Mutant - Cloud AI - GRB"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001hdPtFQAU/view"", ""Mutant"")","$1,464,000.00",4.2: Ramping / Deliver,⚠️ Unpartnered,2026-10-30,Pull-in
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf0000082JXcOAM/view"", ""MIgração 2026"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001hc1cdQAA/view"", ""MC1 Tecnologia Ltda"")","$1,200,000.00",4.1: Pre Ramp / Mobilize,COMPASS.UOL TECNOLOGIA LTDA AVENUE CODE,2026-11-26,Pull-in
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf0000082JXhOAM/view"", ""Image Recognition"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001hc1cdQAA/view"", ""MC1 Tecnologia Ltda"")","$600,000.00",3:  Proposal / Negotiation,⚠️ Unpartnered,2027-01-30,Low Priority
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000009kLXYOA2/view"", ""Gemini Platform"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00002TFXgdQAH/view"", ""Vela LATAM"")","$600,000.00",0-2: Tech Eval/Solution Dev,⚠️ Unpartnered,2026-11-27,Low Priority
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000009kIJsOAM/view"", ""Kdl - Car - Infra VM"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00002Jm9xQQAR/view"", ""Vela LATAM"")","$500,000.00",3:  Proposal / Negotiation,KYNDRYL BRASIL SERVICOS LTDA.,2026-10-13,High risk
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000009kNX1OAM/view"", ""AutoGlass - GECX"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001hW5IBQA0/view"", ""AutoGlass"")","$450,000.00",0-2: Tech Eval/Solution Dev,K2M Soluções Ltda.,2026-12-21,Low Priority
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000009kMPaOAM/view"", ""Infra - nova instancia"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001hW5IBQA0/view"", ""AutoGlass"")","$450,000.00",0-2: Tech Eval/Solution Dev,Servinformación S.A,2026-10-28,Low Priority
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000009kIK2OAM/view"", ""Modernizacao Industria"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001htWqyQAE/view"", ""Valgroup"")","$450,000.00",3:  Proposal / Negotiation,MADEINWEB S/A,2026-10-20,High risk

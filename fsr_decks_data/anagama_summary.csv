@@ -1,0 +1,45 @@
+📊 EXECUTIVE SUMMARY & VELOCITY SCORECARD — ANA LUIZA GAMA,,,,,,
+FSR: Ana Luiza Gama (anagama@google.com) | Supporting CE: Diego Baldini | PE: Oliver Hartley | Last Update: 14 - Oct 2026,,,,,,
+,,,,,,
+1. PORTFOLIO VITAL METRICS,,,,,,
+Metric,Value,Share / Detail,Strategic Context,,,
+Total Active Pipeline ARR,"$4,479,887.38",100.0%,Total commercial pipeline under active pursuit across all stages,,,
+Total Active Workloads,22,100.0%,Distinct workloads in Salesforce / Vector,,,
+Partnered Workloads,16,"49.7% ($2,226,500.00)",Deals with attached delivery partner supporting customer technical journey,,,
+Unpartnered Workloads,6,"50.3% ($2,253,387.38)",Deals requiring Brazil partner matchmaking to unblock architecture / delivery,,,
+High Risk & Critical Path Deals,10,"54.5% ($2,439,887.38)","Priorizacion Q3 deals requiring urgent acceleration, pull-in, or hygiene review",,,
+Dedicated Supporting CE,Diego Baldini,Lead CE Partner,Primary Customer Engineering counterpart aligned to FSR pipeline,,,
+,,,,,,
+2. PIPELINE BY COMMERCIAL PROGRESS STAGE,,,,,,
+Commercial Stage,Stage Definition,Workloads (#),Pipeline ARR ($ USD),ARR Share (%),Primary Acceleration Action,
+00-01,00-01: Qualify & Refine,0,$0.00,0.0%,"Complete discovery, align use case, introduce delivery partner early",
+02,02: Tech Eval / Solution Dev,13,"$2,295,487.38",51.2%,"Accelerate architecture sizing, PoC validation with Diego Baldini",
+03,03: Proposal & Negotiation,6,"$2,105,000.00",47.0%,"Finalize commercial proposal, commit validation, consumption pull-in",
+04+,04+: Implementation & Won,3,"$79,400.00",1.8%,"Monitor go-live milestones, unblock technical delivery & support tickets",
+TOTAL,All Active Stages,22,"$4,479,887.38",100.0%,Full Commercial Portfolio,
+,,,,,,
+3. PARTNER ENGAGEMENT & DELIVERY CONCENTRATION,,,,,,
+Partner Organization,Standing / Tier,Workloads (#),Pipeline ARR ($ USD),ARR Share (%),Delivery Alignment,
+⚠️ Unpartnered Deals,⚠️ No Partner Attached,6,"$2,253,387.38",50.3%,Immediate opportunity for partner matchmaking,
+MOVTI CLOUD SOLUTIONS LTDA,Active Delivery Partner,5,"$834,300.00",18.6%,Co-selling & delivery tracking,
+T-SYSTEMS DO BRASIL LTDA,Active Delivery Partner,1,"$600,000.00",13.4%,Co-selling & delivery tracking,
+TELEFONICA CLOUD E TECNOLOGIA DO BRASIL S.A. (fka IPNET SERVICOS EM NUVEM E DESENVOLVIMENTO DE SISTEMAS LTDA),Active Delivery Partner,3,"$327,200.00",7.3%,Co-selling & delivery tracking,
+GEOAMBIENTE SENSORIAMENTO REMOTO LTDA,Active Delivery Partner,2,"$200,000.00",4.5%,Co-selling & delivery tracking,
+SANTODIGITAL DISTRIBUICAO E CONSULTORIA EM INFORMATICA LTDA,Active Delivery Partner,1,"$120,000.00",2.7%,Co-selling & delivery tracking,
+SAUTER TECNOLOGIA E SERVICOS LTDA,Active Delivery Partner,1,"$72,000.00",1.6%,Co-selling & delivery tracking,
+SERVIBRASIL SOLUCOES EM TECNOLOGIA DA INFORMACAO LTDA.,Active Delivery Partner,1,"$57,600.00",1.3%,Co-selling & delivery tracking,
+Ideen Tecnologia LTDA,Active Delivery Partner,1,"$14,400.00",0.3%,Co-selling & delivery tracking,
+CYBERSECURITY LTDA,Active Delivery Partner,1,"$1,000.00",0.0%,Co-selling & delivery tracking,
+,,,,,,
+4. TOP 10 STRATEGIC WORKLOADS (RANKED BY ARR),,,,,,
+Workload Name,Customer Account,ARR ($ USD),Progress / Stage,Partner Name,Target Production Date,Business Priority
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000004ZLwLOAW/view"", ""[CVC] Anthropic Models on GCP"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001hKHCfQAO/view"", ""CVC CORP"")","$900,000.00",3:  Proposal / Negotiation,⚠️ Unpartnered,2026-10-15,High risk
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000004ZR8bOAG/view"", ""Matera - Agent Platform (OCI Baremetal LLM VMs to Model Garden)"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001p3DQCQA2/view"", ""MATERA Systems"")","$720,000.00",0-2: Tech Eval/Solution Dev,⚠️ Unpartnered,2026-10-15,Critical Path
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000004ZOgQOAW/view"", ""SAP RISE"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001hY0BlQAK/view"", ""RODOBENS ADMINISTRADORA E CORRETORA DE SEGUROS LTDA."")","$600,000.00",0-2: Tech Eval/Solution Dev,T-SYSTEMS DO BRASIL LTDA,2027-01-01,Low Priority
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000004ZKiVOAW/view"", ""Gemini Enterprise"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001huASyQAM/view"", ""ASSOCIAÇÃO DOS ADVOGADOS DE SAO PAULO"")","$400,000.00",3:  Proposal / Negotiation,MOVTI CLOUD SOLUTIONS LTDA,2026-11-09,Low Priority
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000004ZLP9OAO/view"", ""Migration of VMs"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001huASyQAM/view"", ""ASSOCIAÇÃO DOS ADVOGADOS DE SAO PAULO"")","$360,000.00",3:  Proposal / Negotiation,MOVTI CLOUD SOLUTIONS LTDA,2026-12-01,Low Priority
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000004ZR8gOAG/view"", ""Matera - Agent Platform (Claude Models)"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001p3DQCQA2/view"", ""MATERA Systems"")","$360,000.00",0-2: Tech Eval/Solution Dev,⚠️ Unpartnered,2026-10-15,Critical Path
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000004ZMhwOAG/view"", ""[Zilor] SAP IaaS"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001htXJTQA2/view"", ""Zilor Energia e Alimentos"")","$240,000.00",3:  Proposal / Negotiation,TELEFONICA CLOUD E TECNOLOGIA DO BRASIL S.A. (fka IPNET SERVICOS EM NUVEM E DESENVOLVIMENTO DE SISTEMAS LTDA),2027-02-01,Hygiene Review
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000009ofjwOAA/view"", ""CVC - Oracle"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001hKHCfQAO/view"", ""CVC CORP"")","$178,387.38",0-2: Tech Eval/Solution Dev,⚠️ Unpartnered,2026-08-31,Critical Path
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000004ZKmgOAG/view"", ""Petz - Gemini Enterprise"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001tuitGQAQ/view"", ""Pet Center Comércio e Participações SA"")","$170,000.00",3:  Proposal / Negotiation,GEOAMBIENTE SENSORIAMENTO REMOTO LTDA,2026-11-30,Low Priority
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000009WCIpOAO/view"", ""TVTEM - Automação do Acervo de Mídia (CEDOC) e Redes Sociais com Vertex AI"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001hipuzQAA/view"", ""Tv Alianca Paulista Ltda"")","$120,000.00",0-2: Tech Eval/Solution Dev,SANTODIGITAL DISTRIBUICAO E CONSULTORIA EM INFORMATICA LTDA,2026-09-30,Critical Path

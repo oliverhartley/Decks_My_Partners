@@ -1,0 +1,363 @@
+{
+  "aBJKf000009kIK2OAM": {
+    "notes": "",
+    "attachments": [],
+    "partner_tech_team": "Leonardo arcenal",
+    "status_tecnico": "",
+    "blocker_tecnico": "",
+    "execution_plan": "",
+    "updated_at": "2026-09-28T17:11:12.731835",
+    "notes_updated_at": "2026-09-28T17:12:57.412004"
+  },
+  "aBJKf000009kKHZOA2": {
+    "notes": "",
+    "attachments": [],
+    "google_tasks": [
+      {
+        "id": "dHkta1UweEJCYXJhVTZVLQ",
+        "title": "Follow up with Felipe on Gemini Platform",
+        "notes": "Customer: AURUM SOFTWARE LTDA\nWorkload: Gemini Platform\nARR: $150k\nGo-Live: 2026-10-10\nVector: https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000009kKHZOA2/view\ntest",
+        "tasklist_id": "Wk1TUWlWYkJUZ1VXMXltNw",
+        "webViewLink": "https://tasks.google.com/task/ty-kU0xBBaraU6U-?sa=6",
+        "created_at": "2026-09-28 17:33"
+      }
+    ]
+  },
+  "aBJKf000009kJ5cOAE": {
+    "notes": "",
+    "attachments": [],
+    "google_tasks": []
+  },
+  "aBJKf000004ZIi4OAG": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "aun tenemos que determinar el problema (BORRAR SOLO TEST)",
+    "updated_at": "2026-10-02T11:23:37.347433"
+  },
+  "aBJKf000004ZDzJOAW": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "top top top top top",
+    "updated_at": "2026-10-02T11:29:23.351972"
+  },
+  "aBJKf000009tcKpOAI": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "test",
+    "updated_at": "2026-10-02T12:12:53.903415"
+  },
+  "aBJKf000009tOUvOAM": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "test",
+    "updated_at": "2026-10-02T12:13:00.265413"
+  },
+  "aBJKf000000GouMOAS": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "test",
+    "updated_at": "2026-10-02T12:13:30.010449"
+  },
+  "aBJKf000009stb1OAA": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "Vanessa vai validar se o projeto está finalizado.",
+    "updated_at": "2026-10-14T15:38:16.884490"
+  },
+  "aBJKf000004ZQFgOAO": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "Alinhar com a Santo para entender revenue",
+    "updated_at": "2026-10-06T19:27:07.730977"
+  },
+  "aBJKf000009kLGXOA2": {
+    "notes": "",
+    "attachments": [],
+    "blocker_tecnico": "Tecnico",
+    "status_tecnico": "Checar com Victor Hugo. Uol Compass/Air Company.ai. Dani precisa de apoio para apoiar parceiro. Alexander Masutti (+55 11 97740-6761 / alexander.masutti@aircompany.ai / alexander.masutti@compasso.com.br). Cliente: dlayton.santos@ancar.com.br (Head de AI da Ancar); verificar com Victor Hugo Ferreira se já mexeu nessas ops, qual o status, se precisa de apoio e se já tem Tech Win e proposta assinada (para preencher checkboxes).",
+    "updated_at": "2026-10-14T15:38:16.884490"
+  },
+  "aBJKf000009kLGcOAM": {
+    "notes": "",
+    "attachments": [],
+    "blocker_tecnico": "Tecnico",
+    "status_tecnico": "Checar com Victor Hugo. Uol Compass/Air Company.ai. Dani precisa de apoio para apoiar parceiro. Alexander Masutti (+55 11 97740-6761 / alexander.masutti@aircompany.ai / alexander.masutti@compasso.com.br); Cliente: dlayton.santos@ancar.com.br (Head de AI da Ancar); verificar com Victor Hugo Ferreira se já mexeu nessas ops, qual o status, se precisa de apoio e se já tem Tech Win e proposta assinada (para preencher checkboxes).",
+    "updated_at": "2026-10-14T15:38:16.884490"
+  },
+  "aBJKf000009kLGSOA2": {
+    "notes": "",
+    "attachments": [],
+    "blocker_tecnico": "Tecnico",
+    "status_tecnico": "Checar com Victor Hugo. Uol Compass/Air Company.ai. Dani precisa de apoio para apoiar parceiro. Alexander Masutti (+55 11 97740-6761 / alexander.masutti@aircompany.ai / alexander.masutti@compasso.com.br); Cliente: dlayton.santos@ancar.com.br (Head de AI da Ancar); verificar com Victor Hugo Ferreira se já mexeu nessas ops, qual o status, se precisa de apoio e se já tem Tech Win e proposta assinada (para preencher checkboxes).",
+    "updated_at": "2026-10-14T15:38:16.884490"
+  },
+  "aBJKf000009olm8OAA": {
+    "notes": "",
+    "attachments": [],
+    "blocker_tecnico": "Tecnico",
+    "status_tecnico": "Checar com Victor Hugo. Dani precisa de apoio para apoiar parceiro. VPN. Etel Mendes (VPN: +55 11 94012-3206 / etelvina.mendes@venhapranuvem.com.br). Felipe Saudades da VPN (+55 61 8189-6466 / felipe.saudades@venhapranuvem.com.br). André Mendes, contato da Ancar, não é muito acessível. José Sales pode ajudar a intermediar.; Cliente: dlayton.santos@ancar.com.br (Head de AI da Ancar); verificar com Victor Hugo Ferreira se já mexeu nessas ops, qual o status, se precisa de apoio e se já tem Tech Win e proposta assinada (para preencher checkboxes).",
+    "updated_at": "2026-10-14T15:38:16.884490"
+  },
+  "aBJKf000009olmNOAQ": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "Checar com Victor Hugo. Uol Compass/Air Company.ai. Alexander Masutti (+55 11 97740-6761 / alexander.masutti@aircompany.ai / alexander.masutti@compasso.com.br); Cliente: dlayton.santos@ancar.com.br (Head de AI da Ancar); Dani não tem certeza se já está de fato em estágio 4. Verificar com Victor Hugo Ferreira o status, se precisa de apoio e se já tem Tech Win e proposta assinada (para preencher checkboxes).",
+    "updated_at": "2026-10-14T15:38:16.884490"
+  },
+  "aBJKf000009kIlNOAU": {
+    "notes": "",
+    "attachments": [],
+    "blocker_tecnico": "Tecnico",
+    "status_tecnico": "Já assinado, precisa implementar. Buscar Mari da Dedalus para criar estratégia de contato com o cliente, que está pouco responsivo. Mari +55 11 96064-0009 Dedalus; mariana.kyrillos@dedalusprime.com.br",
+    "technical_win": true,
+    "proposal_sent": true,
+    "updated_at": "2026-10-14T15:38:16.884490"
+  },
+  "aBJKf000009kLSJOA2": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "Crescimento orgânico, não exige atuação.",
+    "technical_win": true,
+    "proposal_sent": true,
+    "updated_at": "2026-10-14T15:38:16.884490"
+  },
+  "aBJKf0000082E9aOAE": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "Já migrado implementado. Dani aguardando apenas consumo aparecer para alterar.",
+    "technical_win": true,
+    "proposal_sent": true,
+    "updated_at": "2026-10-14T15:38:16.884490"
+  },
+  "aBJKf000009tAsIOAU": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "Já migrado implementado. Dani aguardando apenas consumo aparecer para alterar.",
+    "technical_win": true,
+    "proposal_sent": true,
+    "updated_at": "2026-10-14T15:38:16.884490"
+  },
+  "aBJKf000009kEMTOA2": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "Já migrado implementado. Dani aguardando apenas consumo aparecer para alterar.",
+    "technical_win": true,
+    "proposal_sent": true,
+    "updated_at": "2026-10-14T15:38:16.884490"
+  },
+  "aBJKf000009kEOAOA2": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "Está caminhando. Checar com Etelvina (VPN: +55 11 94012-3206 / etelvina.mendes@venhapranuvem.com.br) se é necessário algum apoio.",
+    "technical_win": true,
+    "proposal_sent": true,
+    "updated_at": "2026-10-14T15:38:16.884490"
+  },
+  "aBJKf000009oi19OAA": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "Tudo no mesmo contrato. Perto de fechar. Já mandou proposta e está em assinatura de contrato. Migração de Azure pra GCP. Acompanhar Movit. Criar cadência com a Movit. verificar com Victor Hugo Ferreira se já mexeu nessas ops",
+    "technical_win": true,
+    "proposal_sent": true,
+    "updated_at": "2026-10-14T15:38:16.884490"
+  },
+  "aBJKf000009kLyUOAU": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "Já implementou. Tudo no mesmo contrato. Perto de fechar. Já mandou proposta e está em assinatura de contrato.",
+    "technical_win": true,
+    "proposal_sent": true,
+    "updated_at": "2026-10-14T15:38:16.884490"
+  },
+  "aBJKf000009kETyOAM": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "Já implementou. Tudo no mesmo contrato. Perto de fechar. Já mandou proposta e está em assinatura de contrato. verificar com Victor Hugo Ferreira se já mexeu nessas ops",
+    "technical_win": true,
+    "proposal_sent": true,
+    "updated_at": "2026-10-14T15:38:16.884490"
+  },
+  "aBJKf0000082I03OAE": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "Tudo no mesmo contrato. Perto de fechar. Já mandou proposta e está em assinatura de contrato. verificar com Victor Hugo Ferreira se já mexeu nessas ops",
+    "technical_win": true,
+    "proposal_sent": true,
+    "updated_at": "2026-10-14T15:38:16.884490"
+  },
+  "aBJKf000009oi14OAA": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "Já implementou. Tudo no mesmo contrato. Perto de fechar. Já mandou proposta e está em assinatura de contrato.",
+    "technical_win": true,
+    "proposal_sent": true,
+    "updated_at": "2026-10-14T15:38:16.884490"
+  },
+  "aBJKf000009swpzOAA": {
+    "notes": "",
+    "attachments": [],
+    "blocker_tecnico": "Tecnico",
+    "status_tecnico": "Checar com Victor Hugo. Victor Hugo envolvido. Migração de Databricks pra GCP (BQ). Parceiro V8, não é muito ativo com Google (Contatos V8: Sílvia Martins silvia.martins@v8.tech +55 11 98271-6680; José Móras jose.moras@v8.tech +55 21 99636-9737; Jonathan Andrade jonathan.andrade@v8.tech CSM). Consultar Victor Hugo Ferreira sobre o status técnico, se precisa de apoio e confirmar Tech Win / proposta assinada.",
+    "technical_win": true,
+    "proposal_sent": true,
+    "updated_at": "2026-10-14T15:38:16.884490"
+  },
+  "aBJKf000009kIXuOAM": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "Closed/Lost",
+    "updated_at": "2026-10-14T15:38:16.884490"
+  },
+  "aBJKf000009kFpMOAU": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "Checar com Victor Hugo. Verificar com Victor Hugo Ferreira o status atual deste workload (em 4.2), se precisa de apoio e se já tem Tech Win e proposta assinada (para preencher checkboxes).",
+    "updated_at": "2026-10-14T15:38:16.884490"
+  },
+  "aBJKf000009kFMKOA2": {
+    "notes": "",
+    "attachments": [],
+    "blocker_tecnico": "Tecnico",
+    "status_tecnico": "Checar com Victor Hugo. Stefanini precisa de enablement técnico. Dani pediu para Victor Hugo fazer Digital Twin. Checar com ele o status atual, de que apoio precisa e confirmar Tech Win / proposta assinada.",
+    "technical_win": true,
+    "proposal_sent": true,
+    "updated_at": "2026-10-14T15:38:16.884490"
+  },
+  "aBJKf000009kFMjOAM": {
+    "notes": "",
+    "attachments": [],
+    "blocker_tecnico": "Tecnico",
+    "status_tecnico": "Checar com Victor Hugo. Stefanini precisa de enablement técnico. Dani pediu para Victor Hugo fazer Digital Twin. Checar com ele o status atual, de que apoio precisa e confirmar Tech Win / proposta assinada.",
+    "technical_win": true,
+    "proposal_sent": true,
+    "updated_at": "2026-10-14T15:38:16.884490"
+  },
+  "aBJKf000009kFMoOAM": {
+    "notes": "",
+    "attachments": [],
+    "blocker_tecnico": "Tecnico",
+    "status_tecnico": "Checar com Victor Hugo. Stefanini precisa de enablement técnico. Dani pediu para Victor Hugo fazer Digital Twin. Checar com ele o status atual, de que apoio precisa e confirmar Tech Win / proposta assinada.",
+    "technical_win": true,
+    "proposal_sent": true,
+    "updated_at": "2026-10-14T15:38:16.884490"
+  },
+  "aBJKf000009kENqOAM": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "SecOps, verificar se conta pras metas de PBO. Verificar com Leonel e Eva se WLs de SecOps precisa ser tirado.",
+    "updated_at": "2026-10-14T15:38:16.884490"
+  },
+  "aBJKf000009kFMtOAM": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "SecOps, verificar se conta pras metas de PBO. Verificar com Leonel e Eva se WLs de SecOps precisa ser tirado.",
+    "updated_at": "2026-10-14T15:38:16.884490"
+  },
+  "aBJKf000009kFMeOAM": {
+    "notes": "",
+    "attachments": [],
+    "blocker_tecnico": "Tecnico",
+    "status_tecnico": "Checar com Victor Hugo. Stefanini precisa de enablement técnico. Dani pediu para Victor Hugo fazer Digital Twin. Checar com ele o status atual, de que apoio precisa e confirmar Tech Win / proposta assinada.",
+    "technical_win": true,
+    "proposal_sent": true,
+    "updated_at": "2026-10-14T15:38:16.884490"
+  },
+  "aBJKf000009kFMZOA2": {
+    "notes": "",
+    "attachments": [],
+    "blocker_tecnico": "Tecnico",
+    "status_tecnico": "Checar com Victor Hugo. Stefanini precisa de enablement técnico. Dani pediu para Victor Hugo fazer Digital Twin. Checar com ele o status atual, de que apoio precisa e confirmar Tech Win / proposta assinada.",
+    "technical_win": true,
+    "proposal_sent": true,
+    "updated_at": "2026-10-14T15:38:16.884490"
+  },
+  "aBJKf000009kFMUOA2": {
+    "notes": "",
+    "attachments": [],
+    "blocker_tecnico": "Tecnico",
+    "status_tecnico": "Checar com Victor Hugo. Stefanini precisa de enablement técnico. Dani pediu para Victor Hugo fazer Digital Twin. Checar com ele o status atual, de que apoio precisa e confirmar Tech Win / proposta assinada.",
+    "technical_win": true,
+    "proposal_sent": true,
+    "updated_at": "2026-10-14T15:38:16.884490"
+  },
+  "aBJKf000006ADwEOAW": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "Em assinatura de contrato. 160K mensal de AWS. Fazer migração de WLs secundários e migrar para GCP pra redução de custo. IPNet. Tamara (Head), Gabriela Garcez. Atualizar Implementation date. Apoio necessário após assinatura de contrato.",
+    "technical_win": true,
+    "proposal_sent": true,
+    "updated_at": "2026-10-14T15:38:16.884490"
+  },
+  "aBJKf000009e7pHOAQ": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "- Reunião com o cliente e parceiro hoje para alinhamento. Parceiro vai enviar questionário de pré-assessment e eu vou ter reunião até o final da semana para discutir o escopo do SOW.",
+    "updated_at": "2026-10-14T15:38:16.884490"
+  },
+  "aBJKf000009kJ9AOAU": {
+    "notes": "",
+    "attachments": [],
+    "partner_technical_email": "",
+    "updated_at": "2026-10-14T15:38:16.884490"
+  },
+  "aBJKf000009eD6QOAU": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "WL de crescimento",
+    "updated_at": "2026-10-14T15:38:16.884490"
+  },
+  "aBJKf000009t97eOAA": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "Fase final de negociação contratual",
+    "updated_at": "2026-10-14T15:38:16.884490"
+  },
+  "aBJKf000009tUuGOAU": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "Plano de adoção em execução",
+    "updated_at": "2026-10-14T15:38:16.884490"
+  },
+  "aBJKf000009eD66OAE": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "WL de crescimento",
+    "updated_at": "2026-10-14T15:38:16.884490"
+  },
+  "aBJKf000009dvPwOAI": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "Migração está em andamento, faltando apenas 3 aplicações e ambiente de backup. Devido a alterações de estratégia do cliente, finalização vai ocorrer até final de Out/26",
+    "updated_at": "2026-10-14T15:38:16.884490"
+  },
+  "aBJKf000009eD5NOAU": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "WL de crescimento",
+    "updated_at": "2026-10-14T15:38:16.884490"
+  },
+  "aBJKf000004ZMQQOA4": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "Avaliar WLs adicionais ao GE",
+    "updated_at": "2026-10-14T15:38:16.884490"
+  },
+  "aBJKf000004ZB27OAG": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "Implementação encerrada e refletindo no actuals desde Agosto.",
+    "updated_at": "2026-10-14T15:38:16.884490"
+  },
+  "aBJKf000009tJZ8OAM": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "Plano de adoção em execução",
+    "updated_at": "2026-10-14T15:38:16.884490"
+  },
+  "aBJKf000009e8euOAA": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "Validar",
+    "updated_at": "2026-10-14T15:38:16.884490"
+  }
+}

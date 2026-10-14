@@ -1,0 +1,49 @@
+📊 EXECUTIVE SUMMARY & VELOCITY SCORECARD — VANESSA MOYSES,,,,,,
+FSR: Vanessa Moyses (vmmoyses@google.com) | Supporting CE: Diego Baldini | PE: Oliver Hartley | Last Update: 14 - Oct 2026,,,,,,
+,,,,,,
+1. PORTFOLIO VITAL METRICS,,,,,,
+Metric,Value,Share / Detail,Strategic Context,,,
+Total Active Pipeline ARR,"$8,471,000.00",100.0%,Total commercial pipeline under active pursuit across all stages,,,
+Total Active Workloads,67,100.0%,Distinct workloads in Salesforce / Vector,,,
+Partnered Workloads,55,"79.6% ($6,743,000.00)",Deals with attached delivery partner supporting customer technical journey,,,
+Unpartnered Workloads,12,"20.4% ($1,728,000.00)",Deals requiring Brazil partner matchmaking to unblock architecture / delivery,,,
+High Risk & Critical Path Deals,24,"27.7% ($2,350,000.00)","Priorizacion Q3 deals requiring urgent acceleration, pull-in, or hygiene review",,,
+Dedicated Supporting CE,Diego Baldini,Lead CE Partner,Primary Customer Engineering counterpart aligned to FSR pipeline,,,
+,,,,,,
+2. PIPELINE BY COMMERCIAL PROGRESS STAGE,,,,,,
+Commercial Stage,Stage Definition,Workloads (#),Pipeline ARR ($ USD),ARR Share (%),Primary Acceleration Action,
+00-01,00-01: Qualify & Refine,0,$0.00,0.0%,"Complete discovery, align use case, introduce delivery partner early",
+02,02: Tech Eval / Solution Dev,29,"$3,316,000.00",39.1%,"Accelerate architecture sizing, PoC validation with Diego Baldini",
+03,03: Proposal & Negotiation,22,"$2,484,000.00",29.3%,"Finalize commercial proposal, commit validation, consumption pull-in",
+04+,04+: Implementation & Won,16,"$2,671,000.00",31.5%,"Monitor go-live milestones, unblock technical delivery & support tickets",
+TOTAL,All Active Stages,67,"$8,471,000.00",100.0%,Full Commercial Portfolio,
+,,,,,,
+3. PARTNER ENGAGEMENT & DELIVERY CONCENTRATION,,,,,,
+Partner Organization,Standing / Tier,Workloads (#),Pipeline ARR ($ USD),ARR Share (%),Delivery Alignment,
+Qinetwork Solucoes Tecnologicas Ltda. ME.,Active Delivery Partner,14,"$2,382,000.00",28.1%,Co-selling & delivery tracking,
+⚠️ Unpartnered Deals,⚠️ No Partner Attached,12,"$1,728,000.00",20.4%,Immediate opportunity for partner matchmaking,
+SOMOS NUVEM DO BRASIL SERVIÇOS DE INTERNET LTDA,Active Delivery Partner,6,"$1,594,000.00",18.8%,Co-selling & delivery tracking,
+SAUTER TECNOLOGIA E SERVICOS LTDA,Active Delivery Partner,6,"$898,000.00",10.6%,Co-selling & delivery tracking,
+SANTODIGITAL DISTRIBUICAO E CONSULTORIA EM INFORMATICA LTDA,Active Delivery Partner,7,"$474,000.00",5.6%,Co-selling & delivery tracking,
+MADEINWEB S/A,Active Delivery Partner,2,"$470,000.00",5.5%,Co-selling & delivery tracking,
+CLOUD ACE LTDA.,Active Delivery Partner,8,"$288,000.00",3.4%,Co-selling & delivery tracking,
+MOVTI CLOUD SOLUTIONS LTDA,Active Delivery Partner,5,"$185,000.00",2.2%,Co-selling & delivery tracking,
+COMPASS.UOL TECNOLOGIA LTDA AVENUE CODE,Active Delivery Partner,1,"$150,000.00",1.8%,Co-selling & delivery tracking,
+GENTROP CLOUD BRASIL LTDA EPP,Active Delivery Partner,1,"$90,000.00",1.1%,Co-selling & delivery tracking,
+SEK,Active Delivery Partner,1,"$70,000.00",0.8%,Co-selling & delivery tracking,
+Datadog,Active Delivery Partner,2,"$62,000.00",0.7%,Co-selling & delivery tracking,
+InventCloud Tecnologia Ltda,Active Delivery Partner,1,"$50,000.00",0.6%,Co-selling & delivery tracking,
+TELEFONICA CLOUD E TECNOLOGIA DO BRASIL S.A. (fka IPNET SERVICOS EM NUVEM E DESENVOLVIMENTO DE SISTEMAS LTDA),Active Delivery Partner,1,"$30,000.00",0.4%,Co-selling & delivery tracking,
+,,,,,,
+4. TOP 10 STRATEGIC WORKLOADS (RANKED BY ARR),,,,,,
+Workload Name,Customer Account,ARR ($ USD),Progress / Stage,Partner Name,Target Production Date,Business Priority
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000004ZTuNOAW/view"", ""Migração WLs AWS_Tenda"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001n6QxmQAE/view"", ""Construtora Tenda S/A."")","$700,000.00",0-2: Tech Eval/Solution Dev,⚠️ Unpartnered,2027-01-15,Low Priority
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000009eD6QOAU/view"", ""Crescimento_FS"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001hkAMdQAM/view"", ""FS Security Serviços de Tecnologia Ltda."")","$500,000.00",4.2: Ramping / Deliver,SOMOS NUVEM DO BRASIL SERVIÇOS DE INTERNET LTDA,2026-12-31,Pull-in
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000004ZLZXOA4/view"", ""Migração SEK_fase 2"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001hWsh6QAC/view"", ""Pátria Investimentos"")","$400,000.00",3:  Proposal / Negotiation,Qinetwork Solucoes Tecnologicas Ltda. ME.,2027-03-31,High risk
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000009stb1OAA/view"", ""SREI_ONR #Q3RevAcc"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001qqD1qQAE/view"", ""OPERADOR NACIONAL DO SISTEMA DE REGISTRO ELETRONICO DE IMOVEIS - ONR"")","$360,000.00",4.2: Ramping / Deliver,SAUTER TECNOLOGIA E SERVICOS LTDA,2026-11-30,Pull-in
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000009t97eOAA/view"", ""Migração AWS/GCP_Sek"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001hWsh6QAC/view"", ""Pátria Investimentos"")","$340,000.00",4.1: Pre Ramp / Mobilize,Qinetwork Solucoes Tecnologicas Ltda. ME.,2026-11-27,Pull-in
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000009tUuGOAU/view"", ""Gemini Enterprise"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001n6QxmQAE/view"", ""Construtora Tenda S/A."")","$324,000.00",4.2: Ramping / Deliver,SOMOS NUVEM DO BRASIL SERVIÇOS DE INTERNET LTDA,2026-10-30,Pull-in
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000009tIxFOAU/view"", ""Migração AWS_BIG BOX"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M000027yvf8QAA/view"", ""GSINIMA"")","$313,000.00",3:  Proposal / Negotiation,Qinetwork Solucoes Tecnologicas Ltda. ME.,2026-12-11,High risk
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000004ZJDMOA4/view"", ""Neo4J_Patria"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001hKJqwQAG/view"", ""Pátria Investimentos"")","$300,000.00",0-2: Tech Eval/Solution Dev,Qinetwork Solucoes Tecnologicas Ltda. ME.,2027-01-29,Hygiene Review
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000004ZTuIOAW/view"", ""Migração OCI_Braveo"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001hcHSrQAM/view"", ""BRAVEO (Tiscoski Distribuidora Comercial Ltda)"")","$300,000.00",0-2: Tech Eval/Solution Dev,⚠️ Unpartnered,2026-12-31,Low Priority
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000009e5aDOAQ/view"", ""OCI Migration_Autopass"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001qK4FJQA0/view"", ""AUTOPASS S.A."")","$300,000.00",0-2: Tech Eval/Solution Dev,MADEINWEB S/A,2026-12-28,Low Priority
