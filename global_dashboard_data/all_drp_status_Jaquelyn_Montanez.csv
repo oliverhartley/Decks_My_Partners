@@ -1,7 +1,7 @@
 Partner Name,Pillar,Solution (Sales Play),Product,Tier 1 Profiles Count,Tier 2 Profiles Count,Total Tier 1 & 2 Profiles,Capacity Status (DRP vs Workloads)
 Noventiq (Softline),Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 Noventiq (Softline),Application Modernization,"Migrate, Modernize and Build",Cloud Run,1,6,7,🟢 Ready (7 profiles)
-Noventiq (Softline),Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,2,2,4,🟡 Constrained (4 DRP / 8 wkls)
+Noventiq (Softline),Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,2,2,4,🟡 Constrained (4 DRP / 10 wkls)
 Noventiq (Softline),Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,4,4,🟡 Constrained (4 DRP / 17 wkls)
 Noventiq (Softline),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 Noventiq (Softline),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
@@ -14,7 +14,7 @@ Noventiq (Softline),Artificial Intelligence,Scale AI Apps and Agents,Gemini Ente
 Noventiq (Softline),Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,8,8,🟢 Ready (8 profiles)
 Noventiq (Softline),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,,🔴 Gap (0 DRP / 3 wkls)
 Noventiq (Softline),Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,,,⚪ No Active Demand
-Noventiq (Softline),Data & Analytics,The AI Ready Data Cloud,BigQuery,,,,⚪ No Active Demand
+Noventiq (Softline),Data & Analytics,The AI Ready Data Cloud,BigQuery,,,,🔴 Gap (0 DRP / 1 wkls)
 Noventiq (Softline),Data & Analytics,The AI Ready Data Cloud,Dataflow,,,,⚪ No Active Demand
 Noventiq (Softline),Data & Analytics,The AI Ready Data Cloud,Dataproc,,,,⚪ No Active Demand
 Noventiq (Softline),Data & Analytics,The AI Ready Data Cloud,Looker,,,,🔴 Gap (0 DRP / 1 wkls)
@@ -38,7 +38,7 @@ Noventiq (Softline),Workspace,Agentic Workplace Transformation,Workspace,9,2,11,
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,1,1,🟢 Ready (1 DRP / 1 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Application Modernization,"Migrate, Modernize and Build",Cloud Run,10,16,26,🟢 Ready (26 profiles)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,7,15,22,🟡 Constrained (22 DRP / 44 wkls)
-INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,6,6,🟡 Constrained (6 DRP / 54 wkls)
+INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,,6,6,🟡 Constrained (6 DRP / 53 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,1,1,🟢 Ready (1 DRP / 1 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,🔴 Gap (0 DRP / 1 wkls)
 INFORMACIÓN LOCALIZADA SAS (Servinformación),Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,1,1,🟡 Constrained (1 DRP / 12 wkls)
