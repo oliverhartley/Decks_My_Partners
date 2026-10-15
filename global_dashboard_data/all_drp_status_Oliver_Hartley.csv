@@ -7,14 +7,14 @@ Comercializadora Zenta Group SPA,Artificial Intelligence,Gemini Enterprise for C
 Comercializadora Zenta Group SPA,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
 Comercializadora Zenta Group SPA,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Agent Studio,,,,⚪ No Active Demand
 Comercializadora Zenta Group SPA,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
-Comercializadora Zenta Group SPA,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,3,3,🟢 Ready (3 DRP / 1 wkls)
+Comercializadora Zenta Group SPA,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,,3,3,🟢 Ready (3 DRP / 2 wkls)
 Comercializadora Zenta Group SPA,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,,3,3,🟢 Ready (3 profiles)
 Comercializadora Zenta Group SPA,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,,1,1,🟡 Constrained (1 DRP / 10 wkls)
-Comercializadora Zenta Group SPA,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,3,3,🟢 Ready (3 DRP / 1 wkls)
+Comercializadora Zenta Group SPA,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,,3,3,🟢 Ready (3 profiles)
 Comercializadora Zenta Group SPA,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,,3,3,🟢 Ready (3 profiles)
-Comercializadora Zenta Group SPA,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,,🔴 Gap (0 DRP / 2 wkls)
+Comercializadora Zenta Group SPA,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,,🔴 Gap (0 DRP / 3 wkls)
 Comercializadora Zenta Group SPA,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",Dataflow,,,,⚪ No Active Demand
-Comercializadora Zenta Group SPA,Data & Analytics,The AI Ready Data Cloud,BigQuery,,,,🔴 Gap (0 DRP / 1 wkls)
+Comercializadora Zenta Group SPA,Data & Analytics,The AI Ready Data Cloud,BigQuery,,,,⚪ No Active Demand
 Comercializadora Zenta Group SPA,Data & Analytics,The AI Ready Data Cloud,Dataflow,,,,⚪ No Active Demand
 Comercializadora Zenta Group SPA,Data & Analytics,The AI Ready Data Cloud,Dataproc,,,,⚪ No Active Demand
 Comercializadora Zenta Group SPA,Data & Analytics,The AI Ready Data Cloud,Looker,,,,⚪ No Active Demand
@@ -109,7 +109,7 @@ Devaid SPA,Security,Secure Innovation with Google Cloud,Cloud Security,,,,⚪ No
 Devaid SPA,Workspace,Agentic Workplace Transformation,Workspace,,,,⚪ No Active Demand
 MadeinWeb S/A,Application Modernization,"Migrate, Modernize and Build",Apigee API Management,,,,⚪ No Active Demand
 MadeinWeb S/A,Application Modernization,"Migrate, Modernize and Build",Cloud Run,,,,⚪ No Active Demand
-MadeinWeb S/A,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,🔴 Gap (0 DRP / 5 wkls)
+MadeinWeb S/A,Application Modernization,"Migrate, Modernize and Build",Google Kubernetes Engine,,,,🔴 Gap (0 DRP / 4 wkls)
 MadeinWeb S/A,Artificial Intelligence,Agentic Workplace Transformation,Gemini Enterprise,1,3,4,🟡 Constrained (4 DRP / 11 wkls)
 MadeinWeb S/A,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - Agent Assist,,,,⚪ No Active Demand
 MadeinWeb S/A,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CCaaS,,,,⚪ No Active Demand
@@ -117,7 +117,7 @@ MadeinWeb S/A,Artificial Intelligence,Gemini Enterprise for Customer Experience,
 MadeinWeb S/A,Artificial Intelligence,Gemini Enterprise for Customer Experience,GECX - CX Insights,,,,⚪ No Active Demand
 MadeinWeb S/A,Artificial Intelligence,Gemini Enterprise for Customer Experience,Gemini Enterprise Agent Platform,6,2,8,🟢 Ready (8 DRP / 8 wkls)
 MadeinWeb S/A,Artificial Intelligence,Leverage Generative Media in your Business,Gemini Enterprise Agent Platform,6,2,8,🟢 Ready (8 profiles)
-MadeinWeb S/A,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,1,2,3,🟢 Ready (3 DRP / 3 wkls)
+MadeinWeb S/A,Artificial Intelligence,Scale AI Apps and Agents,AI Applications,1,2,3,🟢 Ready (3 DRP / 2 wkls)
 MadeinWeb S/A,Artificial Intelligence,Scale AI Apps and Agents,Gemini Enterprise Agent Platform,6,2,8,🟢 Ready (8 profiles)
 MadeinWeb S/A,Artificial Intelligence,Your Business. Your Models.,Gemini Enterprise Agent Platform,6,2,8,🟢 Ready (8 profiles)
 MadeinWeb S/A,Data & Analytics,"Migrate, Modernize, and Build with Data Cloud",BigQuery,,,,🔴 Gap (0 DRP / 3 wkls)
@@ -208,7 +208,7 @@ Tech Pulse SPA (Axmos),Infrastructure Modernization,Enterprise Platform of Choic
 Tech Pulse SPA (Axmos),Infrastructure Modernization,Enterprise Platform of Choice: SAP,SAP on Google Cloud,,,,⚪ No Active Demand
 Tech Pulse SPA (Axmos),Infrastructure Modernization,Enterprise Platform of Choice: VMware,Google Cloud VMware Engine,3,5,8,🟢 Ready (8 profiles)
 Tech Pulse SPA (Axmos),Infrastructure Modernization,"Migrate, Modernize and Build",Google Cloud Networking,8,6,14,🟢 Ready (14 DRP / 1 wkls)
-Tech Pulse SPA (Axmos),Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,11,3,14,🟢 Ready (14 DRP / 4 wkls)
+Tech Pulse SPA (Axmos),Infrastructure Modernization,"Migrate, Modernize and Build",Google Compute Engine,11,4,15,🟢 Ready (15 DRP / 4 wkls)
 Tech Pulse SPA (Axmos),Infrastructure Modernization,Sovereignty,Google Distributed Cloud,,,,⚪ No Active Demand
 Tech Pulse SPA (Axmos),Security,Agentic Defense with Google Security,Google Threat Intelligence,,,,⚪ No Active Demand
 Tech Pulse SPA (Axmos),Security,Agentic Defense with Google Security,Security Command Center,3,4,7,🟢 Ready (7 DRP / 1 wkls)
