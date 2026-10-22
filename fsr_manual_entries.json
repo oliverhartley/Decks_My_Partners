@@ -5,11 +5,13 @@
   },
   "#Analytics_Fogas": {
     "status_tecnico": "test",
-    "updated_at": "2026-10-02T12:13:30.010449"
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "Cristiano Cruz (cristiano.cruz@fogas.com.br)"
   },
   "SREI_ONR #Q3RevAcc": {
     "status_tecnico": "Vanessa vai validar se o projeto está finalizado.",
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "partner_tech_contact": "filipe@sauter.digital"
   },
   "Fundação Dados_Delta": {
     "status_tecnico": "Alinhar com a Santo para entender revenue",
@@ -17,8 +19,14 @@
   },
   "aBJKf000009tZZXOA2": {},
   "JornadaIA_Alvoar_marketing&sales": {},
-  "aBJKf000009tIQQOA2": {},
-  "Alvoar Lacteos - Infraestrutura Corporativa": {},
+  "aBJKf000009tIQQOA2": {
+    "client_tech_contact": "Zeca Branco (zeca@sauter.digital)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Alvoar Lacteos - Infraestrutura Corporativa": {
+    "client_tech_contact": "Zeca Branco (zeca@sauter.digital)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
   "aBJKf000009tRT2OAM": {},
   "GeminiEnterprise_BASA": {},
   "aBJKf000009eMKROA2": {},
@@ -39,8 +47,16 @@
   "Infraecommerce_Nissei": {},
   "aBJKf000009tK9aOAE": {},
   "FSB Holding - Datalake": {},
-  "aBJKf000006AD8YOAW": {},
-  "FSB | Apigee": {},
+  "aBJKf000006AD8YOAW": {
+    "partner_tech_contact": "bruna.marques@ipnet.cloud",
+    "client_tech_contact": "Ricardo Paiva (ricardo.paiva@fsb.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "FSB | Apigee": {
+    "partner_tech_contact": "bruna.marques@ipnet.cloud",
+    "client_tech_contact": "Ricardo Paiva (ricardo.paiva@fsb.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
   "aBJKf000009tOYOOA2": {},
   "Gemini Enterprise_CVLB": {},
   "aBJKf000009eVmyOAE": {},
@@ -63,230 +79,348 @@
   "RedeBahia_Movetocloud": {},
   "aBJKf000004ZNBWOA4": {},
   "Rede Bahia - Fundação de Dados": {},
-  "aBJKf000009kENbOAM": {},
-  "Ancar | SecOps": {},
+  "aBJKf000009kENbOAM": {
+    "client_tech_contact": "Andre Mendes (msuzuki@netsecurity.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Ancar | SecOps": {
+    "client_tech_contact": "Andre Mendes (msuzuki@netsecurity.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
   "aBJKf000009kLGXOA2": {
     "blocker": "Tecnico",
-    "status_tecnico": "Checar com Victor Hugo. Uol Compass/Air Company.ai. Dani precisa de apoio para apoiar parceiro. Alexander Masutti (+55 11 97740-6761 / alexander.masutti@aircompany.ai / alexander.masutti@compasso.com.br). Cliente: dlayton.santos@ancar.com.br (Head de AI da Ancar); verificar com Victor Hugo Ferreira se já mexeu nessas ops, qual o status, se precisa de apoio e se já tem Tech Win e proposta assinada (para preencher checkboxes).",
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "status_tecnico": "Implementado e em produção",
+    "updated_at": "2026-10-22T18:26:18.555669",
+    "client_tech_contact": "Dlayton Santos (dlayton.santos@ancar.com.br)"
   },
   "Ancar | Agentes Aprovação de FAQs": {
     "blocker": "Tecnico",
-    "status_tecnico": "Checar com Victor Hugo. Uol Compass/Air Company.ai. Dani precisa de apoio para apoiar parceiro. Alexander Masutti (+55 11 97740-6761 / alexander.masutti@aircompany.ai / alexander.masutti@compasso.com.br). Cliente: dlayton.santos@ancar.com.br (Head de AI da Ancar); verificar com Victor Hugo Ferreira se já mexeu nessas ops, qual o status, se precisa de apoio e se já tem Tech Win e proposta assinada (para preencher checkboxes).",
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "status_tecnico": "Implementado e em produção",
+    "updated_at": "2026-10-22T18:26:18.555669",
+    "client_tech_contact": "Dlayton Santos (dlayton.santos@ancar.com.br)"
   },
   "aBJKf000009kLGcOAM": {
     "blocker": "Tecnico",
-    "status_tecnico": "Checar com Victor Hugo. Uol Compass/Air Company.ai. Dani precisa de apoio para apoiar parceiro. Alexander Masutti (+55 11 97740-6761 / alexander.masutti@aircompany.ai / alexander.masutti@compasso.com.br); Cliente: dlayton.santos@ancar.com.br (Head de AI da Ancar); verificar com Victor Hugo Ferreira se já mexeu nessas ops, qual o status, se precisa de apoio e se já tem Tech Win e proposta assinada (para preencher checkboxes).",
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "status_tecnico": "Não tem proposta comercial, oportunidade de \"um plus\". Cliente não priorizou e precisa retomar. Isso foi deixado em aberto até o final do ano.",
+    "updated_at": "2026-10-22T18:26:18.555669",
+    "client_tech_contact": "Dlayton Santos (dlayton.santos@ancar.com.br)"
   },
   "Ancar | Agente de Gameficação": {
     "blocker": "Tecnico",
-    "status_tecnico": "Checar com Victor Hugo. Uol Compass/Air Company.ai. Dani precisa de apoio para apoiar parceiro. Alexander Masutti (+55 11 97740-6761 / alexander.masutti@aircompany.ai / alexander.masutti@compasso.com.br); Cliente: dlayton.santos@ancar.com.br (Head de AI da Ancar); verificar com Victor Hugo Ferreira se já mexeu nessas ops, qual o status, se precisa de apoio e se já tem Tech Win e proposta assinada (para preencher checkboxes).",
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "status_tecnico": "Não tem proposta comercial, oportunidade de \"um plus\". Cliente não priorizou e precisa retomar. Isso foi deixado em aberto até o final do ano.",
+    "updated_at": "2026-10-22T18:26:18.555669",
+    "client_tech_contact": "Dlayton Santos (dlayton.santos@ancar.com.br)"
   },
   "aBJKf000009kLGSOA2": {
     "blocker": "Tecnico",
-    "status_tecnico": "Checar com Victor Hugo. Uol Compass/Air Company.ai. Dani precisa de apoio para apoiar parceiro. Alexander Masutti (+55 11 97740-6761 / alexander.masutti@aircompany.ai / alexander.masutti@compasso.com.br); Cliente: dlayton.santos@ancar.com.br (Head de AI da Ancar); verificar com Victor Hugo Ferreira se já mexeu nessas ops, qual o status, se precisa de apoio e se já tem Tech Win e proposta assinada (para preencher checkboxes).",
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "status_tecnico": "Muito perto da oportunidade de gamificação.",
+    "updated_at": "2026-10-22T18:26:18.555669",
+    "client_tech_contact": "Fernando Dos Santos Dos Santos Wanderley (dlayton.santos@ancar.com.br)"
   },
   "Ancar | AI Agentic": {
     "blocker": "Tecnico",
-    "status_tecnico": "Checar com Victor Hugo. Uol Compass/Air Company.ai. Dani precisa de apoio para apoiar parceiro. Alexander Masutti (+55 11 97740-6761 / alexander.masutti@aircompany.ai / alexander.masutti@compasso.com.br); Cliente: dlayton.santos@ancar.com.br (Head de AI da Ancar); verificar com Victor Hugo Ferreira se já mexeu nessas ops, qual o status, se precisa de apoio e se já tem Tech Win e proposta assinada (para preencher checkboxes).",
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "status_tecnico": "Muito perto da oportunidade de gamificação.",
+    "updated_at": "2026-10-22T18:26:18.555669",
+    "client_tech_contact": "Fernando Dos Santos Dos Santos Wanderley (dlayton.santos@ancar.com.br)"
   },
   "aBJKf000009olm8OAA": {
     "blocker": "Tecnico",
     "status_tecnico": "Checar com Victor Hugo. Dani precisa de apoio para apoiar parceiro. VPN. Etel Mendes (VPN: +55 11 94012-3206 / etelvina.mendes@venhapranuvem.com.br). Felipe Saudades da VPN (+55 61 8189-6466 / felipe.saudades@venhapranuvem.com.br). André Mendes, contato da Ancar, não é muito acessível. José Sales pode ajudar a intermediar.; Cliente: dlayton.santos@ancar.com.br (Head de AI da Ancar); verificar com Victor Hugo Ferreira se já mexeu nessas ops, qual o status, se precisa de apoio e se já tem Tech Win e proposta assinada (para preencher checkboxes).",
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "Fernando Dos Santos Dos Santos Wanderley (fernando.wanderley@ancar.com.br)"
   },
   "Ancar | Vertex AI": {
     "blocker": "Tecnico",
     "status_tecnico": "Checar com Victor Hugo. Dani precisa de apoio para apoiar parceiro. VPN. Etel Mendes (VPN: +55 11 94012-3206 / etelvina.mendes@venhapranuvem.com.br). Felipe Saudades da VPN (+55 61 8189-6466 / felipe.saudades@venhapranuvem.com.br). André Mendes, contato da Ancar, não é muito acessível. José Sales pode ajudar a intermediar.; Cliente: dlayton.santos@ancar.com.br (Head de AI da Ancar); verificar com Victor Hugo Ferreira se já mexeu nessas ops, qual o status, se precisa de apoio e se já tem Tech Win e proposta assinada (para preencher checkboxes).",
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "Fernando Dos Santos Dos Santos Wanderley (fernando.wanderley@ancar.com.br)"
   },
   "aBJKf000009olmNOAQ": {
-    "status_tecnico": "Checar com Victor Hugo. Uol Compass/Air Company.ai. Alexander Masutti (+55 11 97740-6761 / alexander.masutti@aircompany.ai / alexander.masutti@compasso.com.br); Cliente: dlayton.santos@ancar.com.br (Head de AI da Ancar); Dani não tem certeza se já está de fato em estágio 4. Verificar com Victor Hugo Ferreira o status, se precisa de apoio e se já tem Tech Win e proposta assinada (para preencher checkboxes).",
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "status_tecnico": "Implementado e em produção",
+    "updated_at": "2026-10-22T18:26:18.555669",
+    "client_tech_contact": "Dlayton Santos (dlayton_santos@ancar.com.br)"
   },
   "Ancar | ANA": {
-    "status_tecnico": "Checar com Victor Hugo. Uol Compass/Air Company.ai. Alexander Masutti (+55 11 97740-6761 / alexander.masutti@aircompany.ai / alexander.masutti@compasso.com.br); Cliente: dlayton.santos@ancar.com.br (Head de AI da Ancar); Dani não tem certeza se já está de fato em estágio 4. Verificar com Victor Hugo Ferreira o status, se precisa de apoio e se já tem Tech Win e proposta assinada (para preencher checkboxes).",
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "status_tecnico": "Implementado e em produção",
+    "updated_at": "2026-10-22T18:26:18.555669",
+    "client_tech_contact": "Dlayton Santos (dlayton_santos@ancar.com.br)"
   },
-  "aBJKf000004ZEviOAG": {},
-  "Ancar - Gemini Enterprise (term Reset GWS / AWT)": {},
+  "aBJKf000004ZEviOAG": {
+    "client_tech_contact": "Fernando Dos Santos Dos Santos Wanderley (rodrigo.okubo@venhapranuvem.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Ancar - Gemini Enterprise (term Reset GWS / AWT)": {
+    "client_tech_contact": "Fernando Dos Santos Dos Santos Wanderley (rodrigo.okubo@venhapranuvem.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
   "aBJKf000009kIlNOAU": {
     "blocker": "Tecnico",
     "status_tecnico": "Já assinado, precisa implementar. Buscar Mari da Dedalus para criar estratégia de contato com o cliente, que está pouco responsivo. Mari +55 11 96064-0009 Dedalus; mariana.kyrillos@dedalusprime.com.br",
     "technical_win": true,
-    "proposal_sent": true,
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "proposal_sent": false,
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "True"
   },
   "ASA | GE": {
     "blocker": "Tecnico",
     "status_tecnico": "Já assinado, precisa implementar. Buscar Mari da Dedalus para criar estratégia de contato com o cliente, que está pouco responsivo. Mari +55 11 96064-0009 Dedalus; mariana.kyrillos@dedalusprime.com.br",
     "technical_win": true,
-    "proposal_sent": true,
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "proposal_sent": false,
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "True"
   },
-  "aBJKf0000082EGvOAM": {},
-  "APIIMf | Secops": {},
+  "aBJKf0000082EGvOAM": {
+    "client_tech_contact": "Luis Tavares (luis.alberto@apiimf.org.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "APIIMf | Secops": {
+    "client_tech_contact": "Luis Tavares (luis.alberto@apiimf.org.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
   "aBJKf000009kLSJOA2": {
     "status_tecnico": "Crescimento orgânico, não exige atuação.",
     "technical_win": true,
-    "proposal_sent": true,
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "proposal_sent": false,
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "True"
   },
   "APIIMF | Expansão Infra": {
     "status_tecnico": "Crescimento orgânico, não exige atuação.",
     "technical_win": true,
-    "proposal_sent": true,
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "proposal_sent": false,
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "True"
   },
   "aBJKf0000082E9aOAE": {
     "status_tecnico": "Já migrado implementado. Dani aguardando apenas consumo aparecer para alterar.",
     "technical_win": true,
-    "proposal_sent": true,
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "proposal_sent": false,
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "True"
   },
   "Focus Textil | SAP IaaS": {
     "status_tecnico": "Já migrado implementado. Dani aguardando apenas consumo aparecer para alterar.",
     "technical_win": true,
-    "proposal_sent": true,
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "proposal_sent": false,
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "True"
   },
   "aBJKf000009tAsIOAU": {
     "status_tecnico": "Já migrado implementado. Dani aguardando apenas consumo aparecer para alterar.",
     "technical_win": true,
-    "proposal_sent": true,
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "proposal_sent": false,
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "True"
   },
   "Focus Textil | Migração Azure": {
     "status_tecnico": "Já migrado implementado. Dani aguardando apenas consumo aparecer para alterar.",
     "technical_win": true,
-    "proposal_sent": true,
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "proposal_sent": false,
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "True"
   },
   "aBJKf000009kEMTOA2": {
     "status_tecnico": "Já migrado implementado. Dani aguardando apenas consumo aparecer para alterar.",
     "technical_win": true,
-    "proposal_sent": true,
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "proposal_sent": false,
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "True"
   },
   "Focus Textil | Gemini Enterprise": {
     "status_tecnico": "Já migrado implementado. Dani aguardando apenas consumo aparecer para alterar.",
     "technical_win": true,
-    "proposal_sent": true,
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "proposal_sent": false,
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "True"
   },
-  "aBJKf000009kMUVOA2": {},
-  "Banco rendimento | Gemini Enterprise": {},
-  "aBJKf000009kLGrOAM": {},
-  "Banco Rendimento | Looker": {},
-  "aBJKf000009kMOSOA2": {},
-  "Banco Rendimento | Resolução 18": {},
-  "aBJKf000004ZQf0OAG": {},
-  "Call Net (Moki) - Custom AI / Agent Platform": {},
-  "aBJKf000009kGe5OAE": {},
-  "Moki | Infra": {},
-  "aBJKf000009kLGmOAM": {},
-  "Granado| Modernização de Dados": {},
+  "aBJKf000009kMUVOA2": {
+    "client_tech_contact": "William Guirado (william.guirado@rendimento.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Banco rendimento | Gemini Enterprise": {
+    "client_tech_contact": "William Guirado (william.guirado@rendimento.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009kLGrOAM": {
+    "client_tech_contact": "Josmar Peixe (caio@metarj.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Banco Rendimento | Looker": {
+    "client_tech_contact": "Josmar Peixe (caio@metarj.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009kMOSOA2": {
+    "client_tech_contact": "William Guirado (josmar.peixe@rendimento.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Banco Rendimento | Resolução 18": {
+    "client_tech_contact": "William Guirado (josmar.peixe@rendimento.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000004ZQf0OAG": {
+    "client_tech_contact": "Guilherme Werneck (guilherme@moki.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Call Net (Moki) - Custom AI / Agent Platform": {
+    "client_tech_contact": "Guilherme Werneck (guilherme@moki.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009kGe5OAE": {
+    "client_tech_contact": "Guilherme Werneck (guilherme@moki.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Moki | Infra": {
+    "client_tech_contact": "Guilherme Werneck (guilherme@moki.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009kLGmOAM": {
+    "client_tech_contact": "Haroldo Proença (lcruz@granadophebo.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Granado| Modernização de Dados": {
+    "client_tech_contact": "Haroldo Proença (lcruz@granadophebo.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
   "aBJKf000009kEOAOA2": {
     "status_tecnico": "Está caminhando. Checar com Etelvina (VPN: +55 11 94012-3206 / etelvina.mendes@venhapranuvem.com.br) se é necessário algum apoio.",
     "technical_win": true,
-    "proposal_sent": true,
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "proposal_sent": false,
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "True"
   },
   "Granado | ML Precificacao Ecommerce": {
     "status_tecnico": "Está caminhando. Checar com Etelvina (VPN: +55 11 94012-3206 / etelvina.mendes@venhapranuvem.com.br) se é necessário algum apoio.",
     "technical_win": true,
-    "proposal_sent": true,
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "proposal_sent": false,
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "True"
   },
   "aBJKf000009oi19OAA": {
     "status_tecnico": "Tudo no mesmo contrato. Perto de fechar. Já mandou proposta e está em assinatura de contrato. Migração de Azure pra GCP. Acompanhar Movit. Criar cadência com a Movit. verificar com Victor Hugo Ferreira se já mexeu nessas ops",
     "technical_win": true,
-    "proposal_sent": true,
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "proposal_sent": false,
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "True"
   },
   "Flamengo | Azure": {
     "status_tecnico": "Tudo no mesmo contrato. Perto de fechar. Já mandou proposta e está em assinatura de contrato. Migração de Azure pra GCP. Acompanhar Movit. Criar cadência com a Movit. verificar com Victor Hugo Ferreira se já mexeu nessas ops",
     "technical_win": true,
-    "proposal_sent": true,
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "proposal_sent": false,
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "True"
   },
-  "aBJKf000009kLH1OAM": {},
-  "Flamengo | Agente Virtual": {},
+  "aBJKf000009kLH1OAM": {
+    "client_tech_contact": "Rafael Cardoso Dos Santos (rafael.santos@flamengo.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Flamengo | Agente Virtual": {
+    "client_tech_contact": "Rafael Cardoso Dos Santos (rafael.santos@flamengo.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
   "aBJKf000009kLyUOAU": {
     "status_tecnico": "Já implementou. Tudo no mesmo contrato. Perto de fechar. Já mandou proposta e está em assinatura de contrato.",
     "technical_win": true,
-    "proposal_sent": true,
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "proposal_sent": false,
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "True"
   },
   "Flamengo | Datalake Futebol": {
     "status_tecnico": "Já implementou. Tudo no mesmo contrato. Perto de fechar. Já mandou proposta e está em assinatura de contrato.",
     "technical_win": true,
-    "proposal_sent": true,
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "proposal_sent": false,
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "True"
   },
   "aBJKf000009kETyOAM": {
     "status_tecnico": "Já implementou. Tudo no mesmo contrato. Perto de fechar. Já mandou proposta e está em assinatura de contrato. verificar com Victor Hugo Ferreira se já mexeu nessas ops",
     "technical_win": true,
-    "proposal_sent": true,
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "proposal_sent": false,
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "True"
   },
   "Flamengo | Hub Digital": {
     "status_tecnico": "Já implementou. Tudo no mesmo contrato. Perto de fechar. Já mandou proposta e está em assinatura de contrato. verificar com Victor Hugo Ferreira se já mexeu nessas ops",
     "technical_win": true,
-    "proposal_sent": true,
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "proposal_sent": false,
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "True"
   },
   "aBJKf0000082I03OAE": {
     "status_tecnico": "Tudo no mesmo contrato. Perto de fechar. Já mandou proposta e está em assinatura de contrato. verificar com Victor Hugo Ferreira se já mexeu nessas ops",
     "technical_win": true,
-    "proposal_sent": true,
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "proposal_sent": false,
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "True"
   },
   "Flamengo | Marketing": {
     "status_tecnico": "Tudo no mesmo contrato. Perto de fechar. Já mandou proposta e está em assinatura de contrato. verificar com Victor Hugo Ferreira se já mexeu nessas ops",
     "technical_win": true,
-    "proposal_sent": true,
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "proposal_sent": false,
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "True"
   },
   "aBJKf000009oi14OAA": {
     "status_tecnico": "Já implementou. Tudo no mesmo contrato. Perto de fechar. Já mandou proposta e está em assinatura de contrato.",
     "technical_win": true,
-    "proposal_sent": true,
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "proposal_sent": false,
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "True"
   },
   "Flamengo | AWS": {
     "status_tecnico": "Já implementou. Tudo no mesmo contrato. Perto de fechar. Já mandou proposta e está em assinatura de contrato.",
     "technical_win": true,
-    "proposal_sent": true,
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "proposal_sent": false,
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "True"
   },
-  "aBJKf000009olmDOAQ": {},
-  "Clubpetro | AlloyDB": {},
+  "aBJKf000009olmDOAQ": {
+    "client_tech_contact": "Dalton Alvarenga (dalton.alvarenga@familiapires.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Clubpetro | AlloyDB": {
+    "client_tech_contact": "Dalton Alvarenga (dalton.alvarenga@familiapires.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
   "aBJKf000009swpzOAA": {
     "blocker": "Tecnico",
     "status_tecnico": "Checar com Victor Hugo. Victor Hugo envolvido. Migração de Databricks pra GCP (BQ). Parceiro V8, não é muito ativo com Google (Contatos V8: Sílvia Martins silvia.martins@v8.tech +55 11 98271-6680; José Móras jose.moras@v8.tech +55 21 99636-9737; Jonathan Andrade jonathan.andrade@v8.tech CSM). Consultar Victor Hugo Ferreira sobre o status técnico, se precisa de apoio e confirmar Tech Win / proposta assinada.",
     "technical_win": true,
-    "proposal_sent": true,
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "proposal_sent": false,
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "True"
   },
   "ECAD - Criação de datalake": {
     "blocker": "Tecnico",
     "status_tecnico": "Checar com Victor Hugo. Victor Hugo envolvido. Migração de Databricks pra GCP (BQ). Parceiro V8, não é muito ativo com Google (Contatos V8: Sílvia Martins silvia.martins@v8.tech +55 11 98271-6680; José Móras jose.moras@v8.tech +55 21 99636-9737; Jonathan Andrade jonathan.andrade@v8.tech CSM). Consultar Victor Hugo Ferreira sobre o status técnico, se precisa de apoio e confirmar Tech Win / proposta assinada.",
     "technical_win": true,
-    "proposal_sent": true,
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "proposal_sent": false,
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "True"
   },
-  "aBJKf000009kLOWOA2": {},
-  "Brasil Card | SecOps": {},
-  "aBJKf000009eAc7OAE": {},
-  "BRASIL CARD #GEMINI ENTERPRISE": {},
-  "aBJKf000009okxtOAA": {},
-  "IRB | Migração de AWS": {},
+  "aBJKf000009kLOWOA2": {
+    "client_tech_contact": "João Paulo Machado De Lima (joaomachado@grupoadrianocobuccio.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Brasil Card | SecOps": {
+    "client_tech_contact": "João Paulo Machado De Lima (joaomachado@grupoadrianocobuccio.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009eAc7OAE": {
+    "client_tech_contact": "Ricardo Bacule (ricardobacule@grupoadrianocobuccio.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "BRASIL CARD #GEMINI ENTERPRISE": {
+    "client_tech_contact": "Ricardo Bacule (ricardobacule@grupoadrianocobuccio.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009okxtOAA": {
+    "client_tech_contact": "Brunno Freitas (mauricio.fernandes@dedalusprime.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "IRB | Migração de AWS": {
+    "client_tech_contact": "Brunno Freitas (mauricio.fernandes@dedalusprime.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
   "aBJKf000009ogbFOAQ": {},
   "IRB | Seguro de Vidas": {},
   "aBJKf000009kIXuOAM": {
@@ -299,211 +433,428 @@
   },
   "aBJKf000009kFpMOAU": {
     "status_tecnico": "Checar com Victor Hugo. Verificar com Victor Hugo Ferreira o status atual deste workload (em 4.2), se precisa de apoio e se já tem Tech Win e proposta assinada (para preencher checkboxes).",
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "José Geraldo da Geraldo (josegeraldo@rubeus.com.br)"
   },
   "Rubeus | Org": {
     "status_tecnico": "Checar com Victor Hugo. Verificar com Victor Hugo Ferreira o status atual deste workload (em 4.2), se precisa de apoio e se já tem Tech Win e proposta assinada (para preencher checkboxes).",
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "José Geraldo da Geraldo (josegeraldo@rubeus.com.br)"
   },
   "aBJKf000009kFMKOA2": {
     "blocker": "Tecnico",
     "status_tecnico": "Checar com Victor Hugo. Stefanini precisa de enablement técnico. Dani pediu para Victor Hugo fazer Digital Twin. Checar com ele o status atual, de que apoio precisa e confirmar Tech Win / proposta assinada.",
     "technical_win": true,
-    "proposal_sent": true,
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "proposal_sent": false,
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "True"
   },
   "Stefanini | Inteligenti": {
     "blocker": "Tecnico",
     "status_tecnico": "Checar com Victor Hugo. Stefanini precisa de enablement técnico. Dani pediu para Victor Hugo fazer Digital Twin. Checar com ele o status atual, de que apoio precisa e confirmar Tech Win / proposta assinada.",
     "technical_win": true,
-    "proposal_sent": true,
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "proposal_sent": false,
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "True"
   },
   "aBJKf000009kFMjOAM": {
     "blocker": "Tecnico",
     "status_tecnico": "Checar com Victor Hugo. Stefanini precisa de enablement técnico. Dani pediu para Victor Hugo fazer Digital Twin. Checar com ele o status atual, de que apoio precisa e confirmar Tech Win / proposta assinada.",
     "technical_win": true,
-    "proposal_sent": true,
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "proposal_sent": false,
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "True"
   },
   "Stefanini | Inspiring": {
     "blocker": "Tecnico",
     "status_tecnico": "Checar com Victor Hugo. Stefanini precisa de enablement técnico. Dani pediu para Victor Hugo fazer Digital Twin. Checar com ele o status atual, de que apoio precisa e confirmar Tech Win / proposta assinada.",
     "technical_win": true,
-    "proposal_sent": true,
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "proposal_sent": false,
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "True"
   },
   "aBJKf000009kFMoOAM": {
     "blocker": "Tecnico",
     "status_tecnico": "Checar com Victor Hugo. Stefanini precisa de enablement técnico. Dani pediu para Victor Hugo fazer Digital Twin. Checar com ele o status atual, de que apoio precisa e confirmar Tech Win / proposta assinada.",
     "technical_win": true,
-    "proposal_sent": true,
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "proposal_sent": false,
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "True"
   },
   "Stefanini | A11": {
     "blocker": "Tecnico",
     "status_tecnico": "Checar com Victor Hugo. Stefanini precisa de enablement técnico. Dani pediu para Victor Hugo fazer Digital Twin. Checar com ele o status atual, de que apoio precisa e confirmar Tech Win / proposta assinada.",
     "technical_win": true,
-    "proposal_sent": true,
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "proposal_sent": false,
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "True"
   },
   "aBJKf000009kENqOAM": {
     "status_tecnico": "SecOps, verificar se conta pras metas de PBO. Verificar com Leonel e Eva se WLs de SecOps precisa ser tirado.",
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "Marcelo Ciasca (fabio.baia@stefaninicyber.com)"
   },
   "Stefanini | SOC": {
     "status_tecnico": "SecOps, verificar se conta pras metas de PBO. Verificar com Leonel e Eva se WLs de SecOps precisa ser tirado.",
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "Marcelo Ciasca (fabio.baia@stefaninicyber.com)"
   },
   "aBJKf000009kFMtOAM": {
     "status_tecnico": "SecOps, verificar se conta pras metas de PBO. Verificar com Leonel e Eva se WLs de SecOps precisa ser tirado.",
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "Fábio Baía (fabio.baia@stefaninicyber.com)"
   },
   "Stefanini | NOC": {
     "status_tecnico": "SecOps, verificar se conta pras metas de PBO. Verificar com Leonel e Eva se WLs de SecOps precisa ser tirado.",
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "Fábio Baía (fabio.baia@stefaninicyber.com)"
   },
   "aBJKf000009kFMeOAM": {
     "blocker": "Tecnico",
     "status_tecnico": "Checar com Victor Hugo. Stefanini precisa de enablement técnico. Dani pediu para Victor Hugo fazer Digital Twin. Checar com ele o status atual, de que apoio precisa e confirmar Tech Win / proposta assinada.",
     "technical_win": true,
-    "proposal_sent": true,
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "proposal_sent": false,
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "True"
   },
   "Stefanini | TPZ": {
     "blocker": "Tecnico",
     "status_tecnico": "Checar com Victor Hugo. Stefanini precisa de enablement técnico. Dani pediu para Victor Hugo fazer Digital Twin. Checar com ele o status atual, de que apoio precisa e confirmar Tech Win / proposta assinada.",
     "technical_win": true,
-    "proposal_sent": true,
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "proposal_sent": false,
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "True"
   },
   "aBJKf000009kFMZOA2": {
     "blocker": "Tecnico",
     "status_tecnico": "Checar com Victor Hugo. Stefanini precisa de enablement técnico. Dani pediu para Victor Hugo fazer Digital Twin. Checar com ele o status atual, de que apoio precisa e confirmar Tech Win / proposta assinada.",
     "technical_win": true,
-    "proposal_sent": true,
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "proposal_sent": false,
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "True"
   },
   "Stefanini | NewM": {
     "blocker": "Tecnico",
     "status_tecnico": "Checar com Victor Hugo. Stefanini precisa de enablement técnico. Dani pediu para Victor Hugo fazer Digital Twin. Checar com ele o status atual, de que apoio precisa e confirmar Tech Win / proposta assinada.",
     "technical_win": true,
-    "proposal_sent": true,
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "proposal_sent": false,
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "True"
   },
   "aBJKf000009kFMUOA2": {
     "blocker": "Tecnico",
     "status_tecnico": "Checar com Victor Hugo. Stefanini precisa de enablement técnico. Dani pediu para Victor Hugo fazer Digital Twin. Checar com ele o status atual, de que apoio precisa e confirmar Tech Win / proposta assinada.",
     "technical_win": true,
-    "proposal_sent": true,
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "proposal_sent": false,
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "True"
   },
   "Stefanini | Woopi": {
     "blocker": "Tecnico",
     "status_tecnico": "Checar com Victor Hugo. Stefanini precisa de enablement técnico. Dani pediu para Victor Hugo fazer Digital Twin. Checar com ele o status atual, de que apoio precisa e confirmar Tech Win / proposta assinada.",
     "technical_win": true,
-    "proposal_sent": true,
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "proposal_sent": false,
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "True"
   },
-  "aBJKf000009olltOAA": {},
-  "VR | GE": {},
-  "aBJKf000009kENlOAM": {},
-  "Wilson Sons | Wiz": {},
+  "aBJKf000009olltOAA": {
+    "client_tech_contact": "Gustavo Gerolamo (rodrigo.okubo@venhapranuvem.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "VR | GE": {
+    "client_tech_contact": "Gustavo Gerolamo (rodrigo.okubo@venhapranuvem.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009kENlOAM": {
+    "client_tech_contact": "Ivanir Gabriel (anderson.souza@wilsonsons.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Wilson Sons | Wiz": {
+    "client_tech_contact": "Ivanir Gabriel (anderson.souza@wilsonsons.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
   "aBJKf000006ADwEOAW": {
     "status_tecnico": "Em assinatura de contrato. 160K mensal de AWS. Fazer migração de WLs secundários e migrar para GCP pra redução de custo. IPNet. Tamara (Head), Gabriela Garcez. Atualizar Implementation date. Apoio necessário após assinatura de contrato.",
     "technical_win": true,
-    "proposal_sent": true,
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "proposal_sent": false,
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "True"
   },
   "Wilson Sons | Infra": {
     "status_tecnico": "Em assinatura de contrato. 160K mensal de AWS. Fazer migração de WLs secundários e migrar para GCP pra redução de custo. IPNet. Tamara (Head), Gabriela Garcez. Atualizar Implementation date. Apoio necessário após assinatura de contrato.",
     "technical_win": true,
-    "proposal_sent": true,
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "proposal_sent": false,
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "True"
   },
-  "aBJKf000009eBAOOA2": {},
-  "Hinode - GE para consultores": {},
-  "aBJKf000004ZIi4OAG": {},
-  "Marisa Commit Direcr 3Y": {},
-  "aBJKf000009e21LOAQ": {},
-  "Lorenzetti - Commit 3 anos": {},
-  "aBJKf000004ZOnqOAG": {},
-  "Lorenzetti - Commit Final": {},
+  "aBJKf000009eBAOOA2": {
+    "client_tech_contact": "Eliane Higino (eliane.higino@hndlabs.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Hinode - GE para consultores": {
+    "client_tech_contact": "Eliane Higino (eliane.higino@hndlabs.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000004ZIi4OAG": {
+    "client_tech_contact": "Andre Luiz Ocana Da Silva (andre.ocana@marisa.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Marisa Commit Direcr 3Y": {
+    "client_tech_contact": "Andre Luiz Ocana Da Silva (andre.ocana@marisa.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009e21LOAQ": {
+    "partner_tech_contact": "Franz Beckenbauer Ribeiro (franz.ribeiro@leega.com.br)",
+    "client_tech_contact": "Cristiane Reis (sergioduo@lorenzetti.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Lorenzetti - Commit 3 anos": {
+    "partner_tech_contact": "Franz Beckenbauer Ribeiro (franz.ribeiro@leega.com.br)",
+    "client_tech_contact": "Cristiane Reis (sergioduo@lorenzetti.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000004ZOnqOAG": {
+    "client_tech_contact": "Sergio Duo (sergioduo@lorenzetti.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Lorenzetti - Commit Final": {
+    "client_tech_contact": "Sergio Duo (sergioduo@lorenzetti.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
   "aBJKf000004ZSplOAG": {},
   "Smart Fit - GE": {},
-  "aBJKf000009eADtOAM": {},
-  "Lorenzetti - Gemini Enterprise commit": {},
-  "aBJKf000004ZMv8OAG": {},
-  "Castrillon - Migracao Oracle": {},
-  "aBJKf000004ZTi2OAG": {},
-  "Grupo Hinode Recommit final": {},
-  "aBJKf000009e21fOAA": {},
-  "Grupo Hinode - Recommit 3Y": {},
-  "aBJKf000009e8cjOAA": {},
-  "Lorenzetti - Opp Chão de Fabrica": {},
-  "aBJKf000004ZP22OAG": {},
-  "Vert Capital - Commit": {},
-  "aBJKf000004ZI3FOAW": {},
-  "Hinode - app consultores + apigee": {},
-  "aBJKf000004ZTjAOAW": {},
-  "Hinode - Recommit Final 3Y": {},
-  "aBJKf000004ZDzJOAW": {},
-  "Bullla - Recommit": {},
+  "aBJKf000009eADtOAM": {
+    "client_tech_contact": "Cristiane Reis (marcio.krauser@lorenzetti.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Lorenzetti - Gemini Enterprise commit": {
+    "client_tech_contact": "Cristiane Reis (marcio.krauser@lorenzetti.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000004ZMv8OAG": {
+    "client_tech_contact": "Anderson Rodrigues (anderson.rodrigues@castrillon.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Castrillon - Migracao Oracle": {
+    "client_tech_contact": "Anderson Rodrigues (anderson.rodrigues@castrillon.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000004ZTi2OAG": {
+    "client_tech_contact": "Eliane Higino (eliane.higino@hndlabs.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Grupo Hinode Recommit final": {
+    "client_tech_contact": "Eliane Higino (eliane.higino@hndlabs.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009e21fOAA": {
+    "client_tech_contact": "Eliane Higino (eliane.higino@hndlabs.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Grupo Hinode - Recommit 3Y": {
+    "client_tech_contact": "Eliane Higino (eliane.higino@hndlabs.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009e8cjOAA": {
+    "client_tech_contact": "Cristiane Reis (sergioduo@lorenzetti.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Lorenzetti - Opp Chão de Fabrica": {
+    "client_tech_contact": "Cristiane Reis (sergioduo@lorenzetti.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000004ZP22OAG": {
+    "client_tech_contact": "Danilo Indelicato (danil.indelicato@vert-capital.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Vert Capital - Commit": {
+    "client_tech_contact": "Danilo Indelicato (danil.indelicato@vert-capital.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000004ZI3FOAW": {
+    "client_tech_contact": "Eliane Higino (eliane.higino@hndlabs.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Hinode - app consultores + apigee": {
+    "client_tech_contact": "Eliane Higino (eliane.higino@hndlabs.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000004ZTjAOAW": {
+    "client_tech_contact": "Eliane Higino (eliane.higino@hndlabs.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Hinode - Recommit Final 3Y": {
+    "client_tech_contact": "Eliane Higino (eliane.higino@hndlabs.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000004ZDzJOAW": {
+    "client_tech_contact": "Wagner Silva (mauro.gomide@bullla.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Bullla - Recommit": {
+    "client_tech_contact": "Wagner Silva (mauro.gomide@bullla.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
   "aBJKf000004ZNzHOAW": {},
   "Zaraplast - GE": {},
-  "aBJKf000009eB3yOAE": {},
-  "FRST - Recommit": {},
+  "aBJKf000009eB3yOAE": {
+    "client_tech_contact": "Saulo Takashi Barros Aoki (aoki.saulo@cloud-ace.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "FRST - Recommit": {
+    "client_tech_contact": "Saulo Takashi Barros Aoki (aoki.saulo@cloud-ace.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
   "aBJKf000004ZP3oOAG": {},
   "Bioenergia Reommit": {},
-  "aBJKf000004ZOUtOAO": {},
-  "Penha - Commit 3Y": {},
-  "aBJKf000009dv9lOAA": {},
-  "Vulcabras - Vertex AI": {},
+  "aBJKf000004ZOUtOAO": {
+    "client_tech_contact": "Giuliano Lavoura (giuliano@penha.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Penha - Commit 3Y": {
+    "client_tech_contact": "Giuliano Lavoura (giuliano@penha.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009dv9lOAA": {
+    "client_tech_contact": "Marlon Rosa (vanderleia.mello@vulcabras.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Vulcabras - Vertex AI": {
+    "client_tech_contact": "Marlon Rosa (vanderleia.mello@vulcabras.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
   "aBJKf000004ZNz7OAG": {},
   "Grupo Smart Fit - GE": {},
-  "aBJKf000004ZK6dOAG": {},
-  "Castrillon - Gemini Enterprise": {},
+  "aBJKf000004ZK6dOAG": {
+    "client_tech_contact": "Anderson Rodrigues (anderson.rodrigues@castrillon.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Castrillon - Gemini Enterprise": {
+    "client_tech_contact": "Anderson Rodrigues (anderson.rodrigues@castrillon.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
   "aBJKf000009tK0TOAU": {},
   "Prati - SAP": {},
   "aBJKf000004ZM2EOAW": {},
   "Hinode - GE interno": {},
-  "aBJKf000004ZKUEOA4": {},
-  "Queima Diaria - Commit 3Y": {},
-  "aBJKf000004ZDtfOAG": {},
-  "Bullla - Gemini Enterprise": {},
-  "aBJKf000009e3qCOAQ": {},
-  "Lorenzetti - data lake": {},
-  "aBJKf000009e3m2OAA": {},
-  "Neobpo - SECOPS": {},
-  "aBJKf000009eCcHOAU": {},
-  "Bullla - Data Analytics": {},
+  "aBJKf000004ZKUEOA4": {
+    "client_tech_contact": "Ronan Paulo (ronan.paulo@queimadiaria.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Queima Diaria - Commit 3Y": {
+    "client_tech_contact": "Ronan Paulo (ronan.paulo@queimadiaria.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000004ZDtfOAG": {
+    "client_tech_contact": "Mauro Gomide (mauro.gomide@bullla.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Bullla - Gemini Enterprise": {
+    "client_tech_contact": "Mauro Gomide (mauro.gomide@bullla.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009e3qCOAQ": {
+    "client_tech_contact": "Marcio Krauser (marcio.krauser@lorenzetti.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Lorenzetti - data lake": {
+    "client_tech_contact": "Marcio Krauser (marcio.krauser@lorenzetti.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009e3m2OAA": {
+    "client_tech_contact": "Thiago Tassele (thiago_tassele@logicalit.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Neobpo - SECOPS": {
+    "client_tech_contact": "Thiago Tassele (thiago_tassele@logicalit.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009eCcHOAU": {
+    "client_tech_contact": "Nielsen Rechia",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Bullla - Data Analytics": {
+    "client_tech_contact": "Nielsen Rechia",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
   "aBJKf000009e2NlOAI": {},
   "Bacio - AI": {},
   "aBJKf000009e4M3OAI": {},
   "Entrepay - Ideen - Data Lake": {},
-  "aBJKf000004ZHfkOAG": {},
-  "Grupo Penha - Chat Penha AI": {},
-  "aBJKf000009e0HvOAI": {},
-  "LORENZETTI  -  LOOKER": {},
-  "aBJKf000009e3eIOAQ": {},
-  "SCC Reciclare": {},
-  "aBJKf000004ZEMIOA4": {},
-  "Gestão DG - Gemini Ent": {},
-  "aBJKf000009eOwhOAE": {},
-  "Marisa - Inteligencia de Mercado": {},
-  "aBJKf0000082EHZOA2": {},
-  "Mutant - Infra AI - Claro": {},
-  "aBJKf0000082EHeOAM": {},
-  "Mutant - Cloud AI - GRB": {},
+  "aBJKf000004ZHfkOAG": {
+    "client_tech_contact": "Giuliano Lavoura (giuliano@penha.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Grupo Penha - Chat Penha AI": {
+    "client_tech_contact": "Giuliano Lavoura (giuliano@penha.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009e0HvOAI": {
+    "client_tech_contact": "Marcio Krauser (marcio.krauser@lorenzetti.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "LORENZETTI  -  LOOKER": {
+    "client_tech_contact": "Marcio Krauser (marcio.krauser@lorenzetti.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009e3eIOAQ": {
+    "client_tech_contact": "Claudia Garbin (claudia@reciclarequalidade.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "SCC Reciclare": {
+    "client_tech_contact": "Claudia Garbin (claudia@reciclarequalidade.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000004ZEMIOA4": {
+    "client_tech_contact": "Diego Alves (diego@bioenergia.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Gestão DG - Gemini Ent": {
+    "client_tech_contact": "Diego Alves (diego@bioenergia.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009eOwhOAE": {
+    "client_tech_contact": "Anselmo Sousa (anselmo.sousa@marisa.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Marisa - Inteligencia de Mercado": {
+    "client_tech_contact": "Anselmo Sousa (anselmo.sousa@marisa.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf0000082EHZOA2": {
+    "client_tech_contact": "Lucas Bachmann Bachmann Feitoza (lucas.feitoza@qinetwork.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Mutant - Infra AI - Claro": {
+    "client_tech_contact": "Lucas Bachmann Bachmann Feitoza (lucas.feitoza@qinetwork.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf0000082EHeOAM": {
+    "client_tech_contact": "Lucas Bachmann Bachmann Feitoza (lucas.feitoza@qinetwork.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Mutant - Cloud AI - GRB": {
+    "client_tech_contact": "Lucas Bachmann Bachmann Feitoza (lucas.feitoza@qinetwork.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
   "aBJKf0000082JXcOAM": {},
   "MIgração 2026": {},
   "aBJKf0000082JXhOAM": {},
   "Image Recognition": {},
-  "aBJKf000009kLXYOA2": {},
+  "aBJKf000009kLXYOA2": {
+    "client_tech_contact": "Leonel Danczuk Danczuk (acosta@velalatam.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
   "aBJKf000009kIJsOAM": {},
   "Kdl - Car - Infra VM": {},
-  "aBJKf000009kMPaOAM": {},
-  "Infra - nova instancia": {},
+  "aBJKf000009kMPaOAM": {
+    "client_tech_contact": "",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Infra - nova instancia": {
+    "client_tech_contact": "",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
   "aBJKf000009kNX1OAM": {},
   "AutoGlass - GECX": {},
   "aBJKf000009on9UOAQ": {},
@@ -520,35 +871,55 @@
   "fast2mine - Infra AI - Minas": {},
   "aBJKf000009kNZgOAM": {},
   "Intelbras - Azure2GCP": {},
-  "aBJKf000009kJ2xOAE": {},
-  "Analytics": {},
+  "aBJKf000009kJ2xOAE": {
+    "blocker": "Comercial",
+    "status_tecnico": "Workload depende da evolução das negociações com time de Ads.",
+    "updated_at": "2026-10-22T18:26:18.555669"
+  },
+  "Analytics": {
+    "blocker": "Comercial",
+    "status_tecnico": "Workload depende da evolução das negociações com time de Ads.",
+    "updated_at": "2026-10-22T18:26:18.555669"
+  },
   "aBJKf000009kMQOOA2": {},
   "aBJKf000009omBNOAY": {},
   "AutoGlass - Gemini Enterprise": {},
   "aBJKf000009kMPuOAM": {},
   "aBJKf000009kJ5XOAU": {},
   "Jornada Comercial / Atendimento": {},
-  "aBJKf000009kKHPOA2": {},
+  "aBJKf000009kKHPOA2": {
+    "status_tecnico": "Cliente contratou recurso dedicado para executar essa migração.",
+    "updated_at": "2026-10-22T18:26:18.555669"
+  },
   "aBJKf000009onv9OAA": {},
   "aBJKf000009kNZWOA2": {},
   "Bernhoeft - Infra Mod / AI": {},
-  "aBJKf000009onjrOAA": {},
-  "BLUECORP - Infra Modernizationn Incremental": {},
+  "aBJKf000009onjrOAA": {
+    "status_tecnico": "Sem pendências técnicas.",
+    "updated_at": "2026-10-22T18:26:18.555669"
+  },
+  "BLUECORP - Infra Modernizationn Incremental": {
+    "status_tecnico": "Sem pendências técnicas.",
+    "updated_at": "2026-10-22T18:26:18.555669"
+  },
   "aBJKf000009kJ6QOAU": {},
   "BI - Agent": {},
   "aBJKf000009kIJxOAM": {},
   "Intelbras - Modernizacao Industria - Negocios": {},
-  "aBJKf000009kLXiOAM": {},
+  "aBJKf000009kLXiOAM": {
+    "client_tech_contact": "Leonel Danczuk Danczuk (acosta@velalatam.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
   "aBJKf000009kMPkOAM": {},
   "infra GCP": {},
   "aBJKf000009kJ2iOAE": {},
   "aBJKf000009e7pHOAQ": {
-    "status_tecnico": "- Reunião com o cliente e parceiro hoje para alinhamento. Parceiro vai enviar questionário de pré-assessment e eu vou ter reunião até o final da semana para discutir o escopo do SOW.",
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "status_tecnico": "Leega enviou SOW hoje para implementação",
+    "updated_at": "2026-10-22T18:26:18.555669"
   },
   "Aurum - Analytics": {
-    "status_tecnico": "- Reunião com o cliente e parceiro hoje para alinhamento. Parceiro vai enviar questionário de pré-assessment e eu vou ter reunião até o final da semana para discutir o escopo do SOW.",
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "status_tecnico": "Leega enviou SOW hoje para implementação",
+    "updated_at": "2026-10-22T18:26:18.555669"
   },
   "aBJKf000009kKHZOA2": {},
   "aBJKf000009kNLPOA2": {},
@@ -568,10 +939,21 @@
   "Climatempo - CDP": {},
   "aBJKf000009kMIeOAM": {},
   "Dynamox - Gemini Enterprise": {},
-  "aBJKf000009om0yOAA": {},
+  "aBJKf000009om0yOAA": {
+    "client_tech_contact": "",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
   "aBJKf000009olynOAA": {},
-  "aBJKf000009kKoOOAU": {},
-  "Database - Dynamox": {},
+  "aBJKf000009kKoOOAU": {
+    "blocker": "Tecnico",
+    "status_tecnico": "Reunião cliente para definição de arquitetura",
+    "updated_at": "2026-10-22T18:26:18.555669"
+  },
+  "Database - Dynamox": {
+    "blocker": "Tecnico",
+    "status_tecnico": "Reunião cliente para definição de arquitetura",
+    "updated_at": "2026-10-22T18:26:18.555669"
+  },
   "aBJKf000009kIu0OAE": {},
   "AutoGlass - Abertura Sinistro": {},
   "aBJKf000009eLHlOAM": {},
@@ -579,9 +961,18 @@
   "aBJKf000009kKUnOAM": {},
   "AI - Vertex Ai": {},
   "aBJKf000009kMPQOA2": {},
-  "aBJKf0000082HgrOAE": {},
-  "Aurum #AgentSpace": {},
-  "aBJKf000009kMPVOA2": {},
+  "aBJKf0000082HgrOAE": {
+    "status_tecnico": "Atualizado para 4.3",
+    "updated_at": "2026-10-22T18:26:18.555669"
+  },
+  "Aurum #AgentSpace": {
+    "status_tecnico": "Atualizado para 4.3",
+    "updated_at": "2026-10-22T18:26:18.555669"
+  },
+  "aBJKf000009kMPVOA2": {
+    "client_tech_contact": "",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
   "aBJKf000009kKUsOAM": {},
   "Seguranca": {},
   "aBJKf0000082E21OAE": {},
@@ -624,19 +1015,21 @@
   "Migração SEK_fase 2": {},
   "aBJKf000009stb1OAA": {
     "status_tecnico": "Vanessa vai validar se o projeto está finalizado.",
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "partner_tech_contact": "filipe@sauter.digital"
   },
   "aBJKf000009t97eOAA": {
-    "status_tecnico": "Fase final de negociação contratual",
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "status_tecnico": "Fase final de negociação contratual. Problemas pra cirar maquinas.",
+    "updated_at": "2026-10-15T17:11:52.029779"
   },
   "Migração AWS/GCP_Sek": {
-    "status_tecnico": "Fase final de negociação contratual",
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "status_tecnico": "Fase final de negociação contratual. Problemas pra cirar maquinas.",
+    "updated_at": "2026-10-15T17:11:52.029779"
   },
   "aBJKf000009tUuGOAU": {
     "status_tecnico": "Plano de adoção em execução",
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": ""
   },
   "aBJKf000009tIxFOAU": {},
   "Migração AWS_BIG BOX": {},
@@ -650,8 +1043,14 @@
   "SAPRaise_Tenda": {},
   "aBJKf000004ZISzOAO": {},
   "SAP Delta Sementes": {},
-  "aBJKf000006MVIDOA4": {},
-  "WPS - Database #Q3RevAcc": {},
+  "aBJKf000006MVIDOA4": {
+    "client_tech_contact": "Arnaldo Cesar Caetano Caetano (arnaldo@wps-sa.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "WPS - Database #Q3RevAcc": {
+    "client_tech_contact": "Arnaldo Cesar Caetano Caetano (arnaldo@wps-sa.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
   "aBJKf000009eD66OAE": {
     "status_tecnico": "WL de crescimento",
     "updated_at": "2026-10-14T15:38:16.884490"
@@ -662,11 +1061,15 @@
   },
   "aBJKf000009dvPwOAI": {
     "status_tecnico": "Migração está em andamento, faltando apenas 3 aplicações e ambiente de backup. Devido a alterações de estratégia do cliente, finalização vai ocorrer até final de Out/26",
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "partner_tech_contact": "lucas.feitoza@qinetwork.com.br",
+    "client_tech_contact": "Angelo Figaro"
   },
   "migraçao": {
     "status_tecnico": "Migração está em andamento, faltando apenas 3 aplicações e ambiente de backup. Devido a alterações de estratégia do cliente, finalização vai ocorrer até final de Out/26",
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "partner_tech_contact": "lucas.feitoza@qinetwork.com.br",
+    "client_tech_contact": "Angelo Figaro"
   },
   "aBJKf000009e8ViOAI": {},
   "Migração AWS - Perto/WPS": {},
@@ -722,11 +1125,13 @@
   "GE_Myralis": {},
   "aBJKf000004ZB27OAG": {
     "status_tecnico": "Implementação encerrada e refletindo no actuals desde Agosto.",
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "Michel Souza (michel.souza@myralis.com.br)"
   },
   "Apigee_Myralis": {
     "status_tecnico": "Implementação encerrada e refletindo no actuals desde Agosto.",
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "Michel Souza (michel.souza@myralis.com.br)"
   },
   "aBJKf000009dwHYOAY": {},
   "Migração Dommus": {},
@@ -740,8 +1145,14 @@
   "AMOR SAUDE - GEMINI ENTERPRISE (MIGRATION FROM OPENAI)": {},
   "aBJKf000004ZQQAOA4": {},
   "SCC+SEcOps": {},
-  "aBJKf000004ZRufOAG": {},
-  "WINITY - MIGRAÇÃO AZURE": {},
+  "aBJKf000004ZRufOAG": {
+    "client_tech_contact": "Christian De Aguiar (christian.aguiar@winity.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "WINITY - MIGRAÇÃO AZURE": {
+    "client_tech_contact": "Christian De Aguiar (christian.aguiar@winity.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
   "aBJKf000004ZRuQOAW": {},
   "WINITY - SECOPS": {},
   "aBJKf000004ZMiuOAG": {},
@@ -752,11 +1163,13 @@
   "WPS_SecOps": {},
   "aBJKf000009tJZ8OAM": {
     "status_tecnico": "Plano de adoção em execução",
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "Marcio Manfre"
   },
   "GeminiEnt_Braveo": {
     "status_tecnico": "Plano de adoção em execução",
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "Marcio Manfre"
   },
   "aBJKf000009e8euOAA": {
     "status_tecnico": "Validar",
@@ -784,12 +1197,24 @@
   "BIG BOX #INFRA": {},
   "aBJKf000004ZSXDOA4": {},
   "Agentplatform_Lazarim": {},
-  "aBJKf000004ZRukOAG": {},
-  "WINITY TELECOM - AGENT PLATFORM": {},
+  "aBJKf000004ZRukOAG": {
+    "client_tech_contact": "Christian De Aguiar (christian.aguiar@winity.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "WINITY TELECOM - AGENT PLATFORM": {
+    "client_tech_contact": "Christian De Aguiar (christian.aguiar@winity.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
   "aBJKf000004ZMifOAG": {},
   "GE Vortex": {},
-  "aBJKf000009tEFUOA2": {},
-  "WPS - Looker": {},
+  "aBJKf000009tEFUOA2": {
+    "client_tech_contact": "Arnaldo Cesar Caetano Caetano (arnaldo@wps-sa.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "WPS - Looker": {
+    "client_tech_contact": "Arnaldo Cesar Caetano Caetano (arnaldo@wps-sa.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
   "aBJKf000004ZJMPOA4": {},
   "Gemini Ent Atakarejo": {},
   "aBJKf000004ZMizOAG": {},
@@ -896,50 +1321,183 @@
   "Angeloni - Inteligência para o Varejo Consumer Genoma": {},
   "aBJKf000009oRagOAE": {},
   "Grendene_New Workloads": {},
-  "aBJKf000009WCjqOAG": {},
-  "Estapar - Gemini Enterprise - Crossell #AWTSP #M26": {},
-  "aBJKf000004ZKiVOAW": {},
-  "aBJKf000004ZLP9OAO": {},
-  "Migration of VMs": {},
-  "aBJKf000004ZKLOOA4": {},
-  "Gemini Enterprise - 300 users": {},
-  "aBJKf000004ZLwLOAW": {},
-  "[CVC] Anthropic Models on GCP": {},
+  "aBJKf000009WCjqOAG": {
+    "client_tech_contact": "Marcio Camurati (marcio.camurati@estapar.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Estapar - Gemini Enterprise - Crossell #AWTSP #M26": {
+    "client_tech_contact": "Marcio Camurati (marcio.camurati@estapar.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000004ZKiVOAW": {
+    "client_tech_contact": "Helton Germano (helton.germano@aasp.org.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000004ZLP9OAO": {
+    "client_tech_contact": "Romulo Simas (romulo.simas@movti.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Migration of VMs": {
+    "client_tech_contact": "Romulo Simas (romulo.simas@movti.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000004ZKLOOA4": {
+    "client_tech_contact": "Guilherme Lima (a.rocha@sauter.digital)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Gemini Enterprise - 300 users": {
+    "client_tech_contact": "Guilherme Lima (a.rocha@sauter.digital)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000004ZLwLOAW": {
+    "client_tech_contact": "Pedro Ivo Faria Do Amaral (pivoamaral@gmail.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "[CVC] Anthropic Models on GCP": {
+    "client_tech_contact": "Pedro Ivo Faria Do Amaral (pivoamaral@gmail.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
   "aBJKf000009ofjwOAA": {},
   "CVC - Oracle": {},
-  "aBJKf000004ZTT2OAO": {},
-  "[Salon Line] Terraform - AI": {},
-  "aBJKf000009e43VOAQ": {},
-  "SalonLine - Gemini Enterprise": {},
-  "aBJKf000009e3dAOAQ": {},
-  "Tok&Stok - Gen AI": {},
-  "aBJKf000009eSWiOAM": {},
-  "CPQD #VERTEXAI #GCP #OUT": {},
-  "aBJKf000009WCjlOAG": {},
-  "CPQD | GCP - Incremental Project": {},
-  "aBJKf000004ZR8bOAG": {},
-  "Matera - Agent Platform (OCI Baremetal LLM VMs to Model Garden)": {},
-  "aBJKf000004ZR8gOAG": {},
-  "Matera - Agent Platform (Claude Models)": {},
-  "aBJKf000004ZQGyOAO": {},
-  "[Matera] Gemini Enterprise": {},
-  "aBJKf000004ZKmgOAG": {},
-  "Petz - Gemini Enterprise": {},
-  "aBJKf000004ZKdQOAW": {},
-  "Petz - Agent Platform - Antigravity & Embedding": {},
-  "aBJKf000004ZOgQOAW": {},
-  "SAP RISE": {},
-  "aBJKf000009WCIpOAO": {},
-  "TVTEM - Automação do Acervo de Mídia (CEDOC) e Redes Sociais com Vertex AI": {},
-  "aBJKf000009e9d5OAA": {},
-  "Band -  Website Migration": {},
-  "aBJKf000009e7C5OAI": {},
-  "Band Vibra - Website Infra": {},
-  "aBJKf000004ZReIOAW": {},
-  "aBJKf000004ZMhwOAG": {},
-  "[Zilor] SAP IaaS": {},
-  "aBJKf000004ZKlsOAG": {},
-  "Zilor - Gemini Enterprise": {},
+  "aBJKf000004ZTT2OAO": {
+    "partner_tech_contact": "Lucas Cruz (cruz.lucas@cloud-ace.com)",
+    "client_tech_contact": "Marcos Moia (cruz.lucas@cloud-ace.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "[Salon Line] Terraform - AI": {
+    "partner_tech_contact": "Lucas Cruz (cruz.lucas@cloud-ace.com)",
+    "client_tech_contact": "Marcos Moia (cruz.lucas@cloud-ace.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009e43VOAQ": {
+    "client_tech_contact": "Bruno Pinho (bruno.pinho@servinformacion.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "SalonLine - Gemini Enterprise": {
+    "client_tech_contact": "Bruno Pinho (bruno.pinho@servinformacion.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009e3dAOAQ": {
+    "client_tech_contact": "Tiago Cunha (tiago.cunha@tokstok.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Tok&Stok - Gen AI": {
+    "client_tech_contact": "Tiago Cunha (tiago.cunha@tokstok.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009eSWiOAM": {
+    "client_tech_contact": "Eduardo Pugliesi (epugliesi@cpqd.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "CPQD #VERTEXAI #GCP #OUT": {
+    "client_tech_contact": "Eduardo Pugliesi (epugliesi@cpqd.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009WCjlOAG": {
+    "client_tech_contact": "Jeferson Correa (jefersonc@cpqd.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "CPQD | GCP - Incremental Project": {
+    "client_tech_contact": "Jeferson Correa (jefersonc@cpqd.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000004ZR8bOAG": {
+    "partner_tech_contact": "Caio Barbosa",
+    "client_tech_contact": "Marcos Souza (marcos.souza@matera.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Matera - Agent Platform (OCI Baremetal LLM VMs to Model Garden)": {
+    "partner_tech_contact": "Caio Barbosa",
+    "client_tech_contact": "Marcos Souza (marcos.souza@matera.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000004ZR8gOAG": {
+    "partner_tech_contact": "Caio Barbosa",
+    "client_tech_contact": "Marcos Souza (marcos.souza@matera.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Matera - Agent Platform (Claude Models)": {
+    "partner_tech_contact": "Caio Barbosa",
+    "client_tech_contact": "Marcos Souza (marcos.souza@matera.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000004ZQGyOAO": {
+    "client_tech_contact": "Marcos Souza (victor.tosta@ipnet.cloud)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "[Matera] Gemini Enterprise": {
+    "client_tech_contact": "Marcos Souza (victor.tosta@ipnet.cloud)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000004ZKmgOAG": {
+    "client_tech_contact": "Fernando Machado Ouverney Diniz (fernando.ouverney@petz.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Petz - Gemini Enterprise": {
+    "client_tech_contact": "Fernando Machado Ouverney Diniz (fernando.ouverney@petz.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000004ZKdQOAW": {
+    "client_tech_contact": "Fernando Machado Ouverney Diniz (fernando.ouverney@petz.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Petz - Agent Platform - Antigravity & Embedding": {
+    "client_tech_contact": "Fernando Machado Ouverney Diniz (fernando.ouverney@petz.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000004ZOgQOAW": {
+    "client_tech_contact": "Daniela Zanfolin Zanfolin (pietro.di.micio@sap.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "SAP RISE": {
+    "client_tech_contact": "Daniela Zanfolin Zanfolin (pietro.di.micio@sap.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009WCIpOAO": {
+    "client_tech_contact": "Daniel Fernandes (daniel.fernandes@tvtem.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "TVTEM - Automação do Acervo de Mídia (CEDOC) e Redes Sociais com Vertex AI": {
+    "client_tech_contact": "Daniel Fernandes (daniel.fernandes@tvtem.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009e9d5OAA": {
+    "client_tech_contact": "Romulo Simas (romulo.simas@movti.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Band -  Website Migration": {
+    "client_tech_contact": "Romulo Simas (romulo.simas@movti.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009e7C5OAI": {
+    "client_tech_contact": "Eduardo Endo (endo@vibra.digital)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Band Vibra - Website Infra": {
+    "client_tech_contact": "Eduardo Endo (endo@vibra.digital)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000004ZReIOAW": {
+    "partner_tech_contact": "Bruna Esposito (bruna.esposito@visioncybersecurity.com)",
+    "client_tech_contact": "Euler Macedo (asantos@band.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000004ZMhwOAG": {
+    "client_tech_contact": "Fernando Jose Da Silva (alexandre.alencar@ipnet.cloud)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "[Zilor] SAP IaaS": {
+    "client_tech_contact": "Fernando Jose Da Silva (alexandre.alencar@ipnet.cloud)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000004ZKlsOAG": {
+    "client_tech_contact": "Fernando Jose Da Silva (alexandre.alencar@ipnet.cloud)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Zilor - Gemini Enterprise": {
+    "client_tech_contact": "Fernando Jose Da Silva (alexandre.alencar@ipnet.cloud)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
   "aBJKf000004ZL8SOAW": {},
   "Winback OCI - Sada": {},
   "aBJKf000004ZTdqOAG": {},
@@ -1014,8 +1572,14 @@
   "ValeCard #GeminiEnterprise #GCP #OUT": {},
   "aBJKf000004ZLwfOAG": {},
   "Secops - WKL": {},
-  "aBJKf000004ZLo7OAG": {},
-  "Callink - Projeto de Dados": {},
+  "aBJKf000004ZLo7OAG": {
+    "client_tech_contact": "Sely Da Costa (sely.costa@callink.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Callink - Projeto de Dados": {
+    "client_tech_contact": "Sely Da Costa (sely.costa@callink.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
   "aBJKf000004ZLFnOAO": {},
   "Ambiente de Dados - Looker": {},
   "aBJKf000004ZMD7OAO": {},
@@ -1028,8 +1592,16 @@
   "BiQ - Customer Genoma - Marketing": {},
   "aBJKf000004ZAgkOAG": {},
   "SINAGRO #LOOKER #GCP #OUT": {},
-  "aBJKf000006MclMOAS": {},
-  "CVortex - Vertex AI Gemini": {},
+  "aBJKf000006MclMOAS": {
+    "partner_tech_contact": "ricardo.delfrate@santodigital.com.br",
+    "client_tech_contact": "Michael Henrique (michael.henrique@cvortex.io)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "CVortex - Vertex AI Gemini": {
+    "partner_tech_contact": "ricardo.delfrate@santodigital.com.br",
+    "client_tech_contact": "Michael Henrique (michael.henrique@cvortex.io)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
   "aBJKf000004ZMD2OAO": {},
   "Sinagro - Infra =- Azure": {},
   "aBJKf000004ZIinOAG": {},
@@ -1047,5 +1619,1822 @@
   "aBJKf000004ZLZ8OAO": {},
   "Opportunity AeC  #GeminiEnterprise #GCP #OUT": {},
   "aBJKf000004ZLy7OAG": {},
-  "Analise de Videos": {}
+  "Analise de Videos": {},
+  "aBJKf000009kOrSOAU": {
+    "client_tech_contact": "Orlando Andreotti (romulo.simas@movti.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Focus Textil | Ambiente Bolha SAP Rise": {
+    "client_tech_contact": "Orlando Andreotti (romulo.simas@movti.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009on4UOAQ": {
+    "partner_tech_contact": "Gustavo Bravo",
+    "client_tech_contact": "Marcilio Calado (caio@metarj.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Wilson Sons | Gemini Enterprise": {
+    "partner_tech_contact": "Gustavo Bravo",
+    "client_tech_contact": "Marcilio Calado (caio@metarj.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009kMPfOAM": {},
+  "infra - CMA Vela": {},
+  "aBJKf000009e7VwOAI": {},
+  "Serttel - SCC": {},
+  "aBJKf000009eBBvOAM": {},
+  "Sudoeste - Segurança": {},
+  "aBJKf000009eCiwOAE": {},
+  "Maratá - secops": {},
+  "aBJKf000009eQ27OAE": {},
+  "Magnum - SCC": {},
+  "aBJKf000009eWYEOA2": {},
+  "Innovaro - SecOps + Wiz": {},
+  "aBJKf000009eA7lOAE": {},
+  "Bionexo - SCC": {},
+  "aBJKf000009eQ22OAE": {},
+  "Magnum - CloudAmor": {},
+  "aBJKf000004ZDV2OAO": {},
+  "Nilo - SCC": {},
+  "aBJKf000009e7WQOAY": {},
+  "Innovaro - SCC": {},
+  "aBJKf000004ZUgHOAW": {},
+  "Vale Card - Winback OCI": {},
+  "aBJKf000004ZUGnOAO": {},
+  "Novos Servidores": {},
+  "aBJKf000004ZUgROAW": {},
+  "Callink - Ambiente AWS": {},
+  "aBJKf000004ZUgqOAG": {
+    "client_tech_contact": "Romulo Simas (romulo.simas@movti.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Seculus - SAP": {
+    "client_tech_contact": "Romulo Simas (romulo.simas@movti.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000004ZQKHOA4": {},
+  "BE GROWTH BRASIL - MOVTI - WIZ": {},
+  "aBJKf000004ZUgMOAW": {
+    "client_tech_contact": "Celso Caparica (celso@qinetwor.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Bamaq - Winback OCI": {
+    "client_tech_contact": "Celso Caparica (celso@qinetwor.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000004ZUgNOAW": {
+    "client_tech_contact": "Sely Da Costa (sely.costa@callink.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Plataforma de IA e Fabrica de Agentes": {
+    "client_tech_contact": "Sely Da Costa (sely.costa@callink.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000004ZQKCOA4": {},
+  "MSSP - BE GROWTH BRASIL INTERNET S.A. - MOVTI CLOUD SOLUTIONS LTDA -  SecOps Sta": {},
+  "aBJKf000009skt6OAA": {
+    "partner_tech_contact": "leticia.nobre@avenuecode.com",
+    "client_tech_contact": "Julio Fabio Fabio De Oliveira Chagas (julio.fabio@mc1.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "MC1 - Pepsico": {
+    "partner_tech_contact": "leticia.nobre@avenuecode.com",
+    "client_tech_contact": "Julio Fabio Fabio De Oliveira Chagas (julio.fabio@mc1.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009kJ5hOAE": {},
+  "aBJKf000009sksrOAA": {
+    "partner_tech_contact": "leticia.nobre@avenuecode.com",
+    "client_tech_contact": "Julio Fabio Fabio De Oliveira Chagas (julio.fabio@mc1.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "MC1 - BIMBO": {
+    "partner_tech_contact": "leticia.nobre@avenuecode.com",
+    "client_tech_contact": "Julio Fabio Fabio De Oliveira Chagas (julio.fabio@mc1.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009oYl7OAE": {
+    "client_tech_contact": "Lucas Bachmann Bachmann Feitoza (lucas.feitoza@qinetwork.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Mutant - Agentspace": {
+    "client_tech_contact": "Lucas Bachmann Bachmann Feitoza (lucas.feitoza@qinetwork.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000PJVEWA4": {
+    "partner_tech_contact": "leticia.nobre@avenuecode.com",
+    "client_tech_contact": "Julio Fabio Fabio De Oliveira Chagas (julio.fabio@mc1.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "MC1 - Coexistência_Pepsico": {
+    "partner_tech_contact": "leticia.nobre@avenuecode.com",
+    "client_tech_contact": "Julio Fabio Fabio De Oliveira Chagas (julio.fabio@mc1.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf0000082EHUOA2": {
+    "client_tech_contact": "Lucas Bachmann Bachmann Feitoza (lucas.feitoza@qinetwork.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Mutant - Infra AI - Estacio": {
+    "client_tech_contact": "Lucas Bachmann Bachmann Feitoza (lucas.feitoza@qinetwork.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf0000082EHPOA2": {
+    "client_tech_contact": "Victor Marcondes (vmarcondes@nilo.co)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009skt1OAA": {
+    "partner_tech_contact": "leticia.nobre@avenuecode.com",
+    "client_tech_contact": "Julio Fabio Fabio De Oliveira Chagas (julio.fabio@mc1.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "MC1 - Mondelez": {
+    "partner_tech_contact": "leticia.nobre@avenuecode.com",
+    "client_tech_contact": "Julio Fabio Fabio De Oliveira Chagas (julio.fabio@mc1.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009skswOAA": {
+    "partner_tech_contact": "leticia.nobre@avenuecode.com",
+    "client_tech_contact": "Julio Fabio Fabio De Oliveira Chagas (julio.fabio@mc1.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "MC1 - HEINEKEN": {
+    "partner_tech_contact": "leticia.nobre@avenuecode.com",
+    "client_tech_contact": "Julio Fabio Fabio De Oliveira Chagas (julio.fabio@mc1.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009siZ9OAI": {
+    "client_tech_contact": "Rafael Goulart (tiago.muza@aurum.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009sly2OAA": {
+    "partner_tech_contact": "alan@santodigital.com.br",
+    "client_tech_contact": "Alan Pires (alan@santodigital.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Infra - Move to Cloud": {
+    "partner_tech_contact": "alan@santodigital.com.br",
+    "client_tech_contact": "Alan Pires (alan@santodigital.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009e4JEOAY": {},
+  "Leo Madeiras - BQ": {},
+  "aBJ4M0000008pOeWAI": {
+    "partner_tech_contact": "leticia.nobre@avenuecode.com",
+    "client_tech_contact": "Julio Fabio Fabio De Oliveira Chagas (julio.fabio@mc1.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "MC1_NewProductOnGCP": {
+    "partner_tech_contact": "leticia.nobre@avenuecode.com",
+    "client_tech_contact": "Julio Fabio Fabio De Oliveira Chagas (julio.fabio@mc1.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf00000827vrOAA": {
+    "client_tech_contact": "Alan Pires Araujo (alan@santodigital.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Contimatic - ReCommit #Q3CloseAcc": {
+    "client_tech_contact": "Alan Pires Araujo (alan@santodigital.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009oWleOAE": {
+    "client_tech_contact": "Paulo Nascimento (lopes.felipe@cloud-ace.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "InfratakeoverAWS_GCP": {
+    "client_tech_contact": "Paulo Nascimento (lopes.felipe@cloud-ace.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000008283MOAQ": {
+    "client_tech_contact": "Elinton Machado (elinton.machado@fontec.inf.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Fontec - Data Management": {
+    "client_tech_contact": "Elinton Machado (elinton.machado@fontec.inf.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000L3S3WAK": {
+    "client_tech_contact": "Tayan Lima Cordeiro (tayan.cordeiro@unipar.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Manutenção - Membrana": {
+    "client_tech_contact": "Tayan Lima Cordeiro (tayan.cordeiro@unipar.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000PDjeWAG": {
+    "partner_tech_contact": "vgallafrio@madeinweb.com.br",
+    "client_tech_contact": "Vinicius Gallafrio (vgallafrio@madeinweb.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Padtec_Analytics#GenAI": {
+    "partner_tech_contact": "vgallafrio@madeinweb.com.br",
+    "client_tech_contact": "Vinicius Gallafrio (vgallafrio@madeinweb.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009eA7bOAE": {},
+  "Serttel - Secops": {},
+  "aBJKf0000082CeCOAU": {
+    "client_tech_contact": "Rafael Goulart (rafael.goulart@aurum.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Backup & DR": {
+    "client_tech_contact": "Rafael Goulart (rafael.goulart@aurum.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009oj6fOAA": {},
+  "Mutant - GE Seat Activation Ramp (Opp:006Kf00000Lzu4PIAR)": {},
+  "aBJKf000008271KOAQ": {},
+  "Migration GCP to OCI": {},
+  "aBJKf000009oba2OAA": {
+    "partner_tech_contact": "ivitoriano@sauter.digital",
+    "client_tech_contact": "Rodrigo Smania Spillere (ssouza@uolinc.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "GrupoCVLB_Enriquecimento de catalogo&Veomarketing_JornadaIA": {
+    "partner_tech_contact": "ivitoriano@sauter.digital",
+    "client_tech_contact": "Rodrigo Smania Spillere (ssouza@uolinc.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009occTOAQ": {
+    "client_tech_contact": "Rodrigo Smania Spillere (rodrigospillere@lebiscuit.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "DM_Migração bancoAWS_GCP_GrupoCVLB": {
+    "client_tech_contact": "Rodrigo Smania Spillere (rodrigospillere@lebiscuit.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M0000008l5dWAA": {
+    "partner_tech_contact": "mathias.brem@roxpartner.com",
+    "client_tech_contact": "Kenia Milene Galiego (giuliano.testoni@tdsynnex.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Casa & Video #GCP #InfraLegado #DataManagement": {
+    "partner_tech_contact": "mathias.brem@roxpartner.com",
+    "client_tech_contact": "Kenia Milene Galiego (giuliano.testoni@tdsynnex.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M00000002gzWAA": {
+    "partner_tech_contact": "raphael.fontaine@ipnet.cloud",
+    "client_tech_contact": "Alex Granado (alex.granado@diceconsulting.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Seac Sergipe Administradora de Cartoes e Servicos S/A - Data Analytics": {
+    "partner_tech_contact": "raphael.fontaine@ipnet.cloud",
+    "client_tech_contact": "Alex Granado (alex.granado@diceconsulting.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000008234yOAA": {
+    "partner_tech_contact": "ivitoriano@sauter.digital",
+    "client_tech_contact": "Rodrigo Smania Spillere (ssouza@uolinc.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Le Biscuit - Azure Infra Takeover": {
+    "partner_tech_contact": "ivitoriano@sauter.digital",
+    "client_tech_contact": "Rodrigo Smania Spillere (ssouza@uolinc.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000LAzYWAW": {
+    "partner_tech_contact": "thelma.goncalves@santodigital.com.br",
+    "client_tech_contact": "Vinicius Da Costa Amanajas (thelma.goncalves@santodigital.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Cortex_Salesforce Aço Cearense": {
+    "partner_tech_contact": "thelma.goncalves@santodigital.com.br",
+    "client_tech_contact": "Vinicius Da Costa Amanajas (thelma.goncalves@santodigital.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000000GouMOAS": {
+    "status_tecnico": "test",
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "client_tech_contact": "Cristiano Cruz (cristiano.cruz@fogas.com.br)"
+  },
+  "aBJ4M00000002gsWAA": {
+    "client_tech_contact": "Caio Inacio (caio@ipnet.cloud)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "COMPANHIA DE SANEAMENTO DE ALAGOAS - InfraMod": {
+    "client_tech_contact": "Caio Inacio (caio@ipnet.cloud)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M0000008kVzWAI": {
+    "partner_tech_contact": "mathias.brem@roxpartner.com",
+    "client_tech_contact": "Kenia Milene Galiego (giuliano.testoni@tdsynnex.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "InfraMod_Analytics_Casa&video": {
+    "partner_tech_contact": "mathias.brem@roxpartner.com",
+    "client_tech_contact": "Kenia Milene Galiego (giuliano.testoni@tdsynnex.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000006ACUTOA4": {
+    "partner_tech_contact": "ivitoriano@sauter.digital",
+    "client_tech_contact": "Mario Sales (ssouza@uolinc.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "GrupoCVLB_Analytics": {
+    "partner_tech_contact": "ivitoriano@sauter.digital",
+    "client_tech_contact": "Mario Sales (ssouza@uolinc.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000000Gou7OAC": {
+    "client_tech_contact": "Mario Sales (ssouza@uoldiveo.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "#marketplace_GrupoCVLB_Aercosoft": {
+    "client_tech_contact": "Mario Sales (ssouza@uoldiveo.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M0000008krvWAA": {
+    "client_tech_contact": "Alan Barros (alan.junior@sudoesteinformatica.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Cloud Armor_Sudoeste_Security": {
+    "client_tech_contact": "Alan Barros (alan.junior@sudoesteinformatica.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000bowTWAQ": {
+    "partner_tech_contact": "thelma.goncalves@santodigital.com.br",
+    "client_tech_contact": "Leonardo Campos (leonardo.campos@gcb.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "GCB_infraMOD": {
+    "partner_tech_contact": "thelma.goncalves@santodigital.com.br",
+    "client_tech_contact": "Leonardo Campos (leonardo.campos@gcb.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009oPK2OAM": {
+    "client_tech_contact": "Lucas Testa (ssouza@uolinc.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Grupo CVLB Projeto Vitrines Inteligentes #RetailRecommendations": {
+    "client_tech_contact": "Lucas Testa (ssouza@uolinc.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000L3k7WAC": {
+    "client_tech_contact": "Luciano Bortoluzzi (luciano.bortoluzzi@jmacedo.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "BOT_AI #BR #INB/OC #": {
+    "client_tech_contact": "Luciano Bortoluzzi (luciano.bortoluzzi@jmacedo.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000006A8DOOA0": {
+    "client_tech_contact": "Oberlandy José Do Nascimento Nascimento (amanda.borges@tempest.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Security_SolarBR_Secops": {
+    "client_tech_contact": "Oberlandy José Do Nascimento Nascimento (amanda.borges@tempest.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000L8TpWAK": {
+    "partner_tech_contact": "renato.rocha@redinnovations.com.br",
+    "client_tech_contact": "Atilla Arruda (atilla.arruda@solonetwork.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "#Flex_Infra_Security_Solutis_BOT AI": {
+    "partner_tech_contact": "renato.rocha@redinnovations.com.br",
+    "client_tech_contact": "Atilla Arruda (atilla.arruda@solonetwork.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000GpwHWAS": {
+    "client_tech_contact": "Yuri Barreto (yuri@golden-technologia.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "InfraMOD_MULVI_GCP": {
+    "client_tech_contact": "Yuri Barreto (yuri@golden-technologia.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009oQyXOAU": {
+    "client_tech_contact": "Vinicius Da Costa Amanajas (anderson.martins@acocearense.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "AI_customersretention_AçoCearense": {
+    "client_tech_contact": "Vinicius Da Costa Amanajas (anderson.martins@acocearense.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000LAzTWAW": {
+    "partner_tech_contact": "thelma.goncalves@santodigital.com.br",
+    "client_tech_contact": "Massilon Vasconcelos (thelma.goncalves@santodigital.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Analytics_AI_3Corações": {
+    "partner_tech_contact": "thelma.goncalves@santodigital.com.br",
+    "client_tech_contact": "Massilon Vasconcelos (thelma.goncalves@santodigital.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000006AA7mOAG": {
+    "client_tech_contact": "Macgayver Souza Marques (mm@solonetwork.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "CAGECE_CodeAssist": {
+    "client_tech_contact": "Macgayver Souza Marques (mm@solonetwork.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000L5qRWAS": {
+    "client_tech_contact": "Marcio Manfre",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Investidas Lake_Braveo": {
+    "client_tech_contact": "Marcio Manfre",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M00000002SMWAY": {},
+  "RIOGaleão - SAP": {},
+  "aBJKf000009oaHOOAY": {
+    "partner_tech_contact": "fabricio.bressan@tigabytes.com",
+    "client_tech_contact": "Renato Freitas (renato.freitas@onr.org.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "ONR | IARI Matriculas - Fase 2": {
+    "partner_tech_contact": "fabricio.bressan@tigabytes.com",
+    "client_tech_contact": "Renato Freitas (renato.freitas@onr.org.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009tEpkOAE": {
+    "client_tech_contact": "Gil Matos",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Projeto KUBO _ ONR": {
+    "client_tech_contact": "Gil Matos",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000006MbXJOA0": {
+    "partner_tech_contact": "filipe@sauter.digital",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "ONR | IARI 2.0 Marketplace": {
+    "partner_tech_contact": "filipe@sauter.digital",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009sqnTOAQ": {},
+  "Migração Restante fora Chile": {},
+  "aBJ4M0000008mLNWAY": {
+    "partner_tech_contact": "lucas.feitoza@qinetwork.com.br",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Infra Modernization_Pátria - Entel Chile": {
+    "partner_tech_contact": "lucas.feitoza@qinetwork.com.br",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009dzSwOAI": {},
+  "Projeto Onix_ONR": {},
+  "aBJKf000009e8WbOAI": {
+    "client_tech_contact": "Igor Gomes",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Precificação_Tenda": {
+    "client_tech_contact": "Igor Gomes",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009sqgSOAQ": {
+    "partner_tech_contact": "ademir.junior@gavb.com.br",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009stKeOAI": {},
+  "Migrações AWS+Azure_Patria": {},
+  "aBJ4M000000089wWAA": {
+    "client_tech_contact": "Igor Silva Gomes (igoiiir.gomes@tenda.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Migração OCI": {
+    "client_tech_contact": "Igor Silva Gomes (igoiiir.gomes@tenda.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000LAXFWA4": {
+    "partner_tech_contact": "paschoal.neto@somosnuvem.com.br",
+    "client_tech_contact": "Mauro Fiore (mauro@lavoro.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Lavoro_LLM": {
+    "partner_tech_contact": "paschoal.neto@somosnuvem.com.br",
+    "client_tech_contact": "Mauro Fiore (mauro@lavoro.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000Gor6WAC": {
+    "client_tech_contact": "Ricardo Andrez (ricardo.andrez@arizona.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "SAP": {
+    "client_tech_contact": "Ricardo Andrez (ricardo.andrez@arizona.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M00000008A6WAI": {
+    "client_tech_contact": "Igor Silva Gomes (igoiiir.gomes@tenda.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "DR Tenda": {
+    "client_tech_contact": "Igor Silva Gomes (igoiiir.gomes@tenda.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000bo3OWAQ": {
+    "partner_tech_contact": "bruno.pedroso@platformbuilders.io",
+    "client_tech_contact": "Marcos Strobel (marcos.strobel@lavoroagro.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Lavoro - ERP-  Datalake e Infra": {
+    "partner_tech_contact": "bruno.pedroso@platformbuilders.io",
+    "client_tech_contact": "Marcos Strobel (marcos.strobel@lavoroagro.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000L6sOWAS": {
+    "client_tech_contact": "Rafael Fusco Siqueira Pinto Pinto",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Crescimento Infra_WPS": {
+    "client_tech_contact": "Rafael Fusco Siqueira Pinto Pinto",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000LBYJWA4": {},
+  "Migração DL AWS_Tenda": {},
+  "aBJKf000009tKjZOAU": {
+    "partner_tech_contact": "andre.junior@devskin.com",
+    "client_tech_contact": "Flavia Darin Dymond",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Migração Ciranda": {
+    "partner_tech_contact": "andre.junior@devskin.com",
+    "client_tech_contact": "Flavia Darin Dymond",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009e8d3OAA": {},
+  "Migração Tascom": {},
+  "aBJ4M000000TQOPWA4": {
+    "partner_tech_contact": "caio@ipnet.cloud",
+    "client_tech_contact": "Amaury Guerra (amaury.guerra@hospitalhmais.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "DataLake_H+": {
+    "partner_tech_contact": "caio@ipnet.cloud",
+    "client_tech_contact": "Amaury Guerra (amaury.guerra@hospitalhmais.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000LC8vWAG": {
+    "partner_tech_contact": "alan@santodigital.com",
+    "client_tech_contact": "Zilda Hessel",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Gen AI_#LLM": {
+    "partner_tech_contact": "alan@santodigital.com",
+    "client_tech_contact": "Zilda Hessel",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000TPXLWA4": {
+    "client_tech_contact": "Ricardo Alves Miranda (guilherme.cioffi@braveo.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "partner_tech_contact": "gabriela.campos@platformbuilders.io"
+  },
+  "aBJKf000009t4qPOAQ": {
+    "client_tech_contact": "Medcomerce *",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "crowdstrike_Elpha": {
+    "client_tech_contact": "Medcomerce *",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000L8PnWAK": {
+    "client_tech_contact": "Kleber Ilario (kleber.ilario@asisit.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Overage_Asis": {
+    "client_tech_contact": "Kleber Ilario (kleber.ilario@asisit.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009tL1ZOAU": {},
+  "Marketplace_elfa": {},
+  "aBJKf0000081za7OAA": {
+    "client_tech_contact": "Ricardo Andrez (ricardo.andrez@arizona.global)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "DW Financeiro_AZ": {
+    "client_tech_contact": "Ricardo Andrez (ricardo.andrez@arizona.global)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000TPXzWAO": {
+    "client_tech_contact": "Mauricio Nagaoka (ricardo.andrez@arizona.global)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "BIG Query": {
+    "client_tech_contact": "Mauricio Nagaoka (ricardo.andrez@arizona.global)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000Gq0OWAS": {
+    "client_tech_contact": "Leandro Marques (ipnet Serviços) (leandro.servicos@ipnet.cloud)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009eD2TOAU": {
+    "client_tech_contact": "Marco Fontenelle (marcofontenelle@riogaleao.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Crescimento_Rio Galeao": {
+    "client_tech_contact": "Marco Fontenelle (marcofontenelle@riogaleao.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000006Ma3sOAC": {
+    "partner_tech_contact": "jaderson.oliveira@santodigital.com.br",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Myralis - Migração VM": {
+    "partner_tech_contact": "jaderson.oliveira@santodigital.com.br",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M0000008mPjWAI": {
+    "client_tech_contact": "Denis Carnevalli (denis.carnevalli@myralis.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Looker_Myralis": {
+    "client_tech_contact": "Denis Carnevalli (denis.carnevalli@myralis.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000GrqLWAS": {
+    "client_tech_contact": "Elvis Silva",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "App Modernization": {
+    "client_tech_contact": "Elvis Silva",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000TS9lWAG": {
+    "client_tech_contact": "Elvis Silva (elvis@app7sistemas.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Aloy_PagBr": {
+    "client_tech_contact": "Elvis Silva (elvis@app7sistemas.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000TQOKWA4": {
+    "client_tech_contact": "Geovana Crema (geovana.crema@entrepay.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Datalake_Istoé": {
+    "client_tech_contact": "Geovana Crema (geovana.crema@entrepay.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009tEmIOAU": {},
+  "[Patria] Migração Brasil VM para GCE": {},
+  "aBJKf000009eCMTOA2": {
+    "client_tech_contact": "Marco Fontenelle",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Gemini Ent_Rio Galeao": {
+    "client_tech_contact": "Marco Fontenelle",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M0000008kywWAA": {
+    "client_tech_contact": "Denis Leopoldino Carnevalli (everton.rodrigues@myralis.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Myralis_#GenAi": {
+    "client_tech_contact": "Denis Leopoldino Carnevalli (everton.rodrigues@myralis.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf00000822yCOAQ": {
+    "partner_tech_email": "",
+    "updated_at": "2026-10-15T17:11:52.029779"
+  },
+  "aBJKf00000822yMOAQ": {
+    "partner_tech_contact": "ademir.junior@gavb.com.br",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Renegociação de Dividas_Tenda_ #LLM": {
+    "partner_tech_contact": "ademir.junior@gavb.com.br",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf0000081yohOAA": {
+    "partner_tech_contact": "samuel.barbos@platformbuilders.io",
+    "client_tech_contact": "Angelo Figaro",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Pátria - DL primeira fase_Patria #Datalake": {
+    "partner_tech_contact": "samuel.barbos@platformbuilders.io",
+    "client_tech_contact": "Angelo Figaro",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000006MZMOOA4": {
+    "partner_tech_contact": "adriana.machado@blueshift.com.br",
+    "client_tech_contact": "Renato Freitas (renato.freitas@onr.org.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "ONR | Ag Conversacionais | Chat GWS": {
+    "partner_tech_contact": "adriana.machado@blueshift.com.br",
+    "client_tech_contact": "Renato Freitas (renato.freitas@onr.org.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000bntdWAA": {},
+  "[Patria] Lavoro - Jornada de Dados": {},
+  "aBJKf0000081ytwOAA": {
+    "client_tech_contact": "Kleber Tolezani",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "DL_Tres Editorial": {
+    "client_tech_contact": "Kleber Tolezani",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M0000008mTbWAI": {
+    "client_tech_contact": "Ricardo Andrez (ricardo.andrez@arizona.global)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Az Produções #Looker #Datalake": {
+    "client_tech_contact": "Ricardo Andrez (ricardo.andrez@arizona.global)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M0000008mTMWAY": {
+    "client_tech_contact": "Ricardo Andrez",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "GKE_Infra Mod_AZ": {
+    "client_tech_contact": "Ricardo Andrez",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000LA7WWAW": {
+    "client_tech_contact": "Zilda Hessel (rafael.ambrus@autopass.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Apigee_Overage": {
+    "client_tech_contact": "Zilda Hessel (rafael.ambrus@autopass.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009srclOAA": {},
+  "Incorta_Patria": {},
+  "aBJ4M000000L9pDWAS": {
+    "client_tech_contact": "Rafael Lohman (rafael.lohman@mobcall.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "GKE_Mobcall": {
+    "client_tech_contact": "Rafael Lohman (rafael.lohman@mobcall.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000LAXPWA4": {},
+  "Armor/WAF_AZ": {},
+  "aBJKf000009sxEGOAY": {
+    "partner_tech_contact": "adelia.altran@netsecurity.com.br",
+    "client_tech_contact": "Wilder Martins (wilder.martins@exa.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Secops_EXA": {
+    "partner_tech_contact": "adelia.altran@netsecurity.com.br",
+    "client_tech_contact": "Wilder Martins (wilder.martins@exa.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000004ZIiOOAW": {},
+  "crescimento_Microsoft": {},
+  "aBJ4M0000008k5wWAA": {
+    "partner_tech_contact": "heraldo.teixeira@platformbuilders.io",
+    "client_tech_contact": "Claudionor Junior",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "AWS Migration - LAKE": {
+    "partner_tech_contact": "heraldo.teixeira@platformbuilders.io",
+    "client_tech_contact": "Claudionor Junior",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M0000008mBIWAY": {
+    "partner_tech_contact": "glikas@somosnuvem.com.br",
+    "client_tech_contact": "Arnaldo Cesar Caetano Caetano (rafael@wps-sa.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "SCC + Armor_WPS": {
+    "partner_tech_contact": "glikas@somosnuvem.com.br",
+    "client_tech_contact": "Arnaldo Cesar Caetano Caetano (rafael@wps-sa.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009e8kqOAA": {
+    "client_tech_contact": "Igor Gomes (galessio@tenda.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Marketplace DataDog": {
+    "client_tech_contact": "Igor Gomes (galessio@tenda.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf00000821CvOAI": {},
+  "Migração Workload Infra_Braveo": {},
+  "aBJ4M000000L5zOWAS": {
+    "client_tech_contact": "Angelo Figaro (andre.goncalves@platformbuilders.io)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "DataLake Private_Patria": {
+    "client_tech_contact": "Angelo Figaro (andre.goncalves@platformbuilders.io)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000LB02WAG": {},
+  "Migração OCI- GCP_AZ": {},
+  "aBJ4M000000L60RWAS": {
+    "client_tech_contact": "André Cardozo (cassioalcantara@editora3.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Apigee2_Portal Dev": {
+    "client_tech_contact": "André Cardozo (cassioalcantara@editora3.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009sz5eOAA": {},
+  "Suporte Enhanced_ASIS": {},
+  "aBJ4M000000Gq4vWAC": {
+    "client_tech_contact": "Ricardo Andrez (ricardo.andrez@arizona.global)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Cortex_Arizona": {
+    "client_tech_contact": "Ricardo Andrez (ricardo.andrez@arizona.global)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf00000822fPOAQ": {
+    "partner_tech_contact": "leonardo.bertoncini@avenuecode.com",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "AI_Rio Galeão_BOT Aeroporto": {
+    "partner_tech_contact": "leonardo.bertoncini@avenuecode.com",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009e5ZjOAI": {
+    "client_tech_contact": "Marco Fontenelle (marcofontenelle@riogaleao.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Cortex_Rio Galeao": {
+    "client_tech_contact": "Marco Fontenelle (marcofontenelle@riogaleao.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000TQOUWA4": {
+    "client_tech_contact": "Amaury Guerra (amaury.guerrero@opty.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "GenAI": {
+    "client_tech_contact": "Amaury Guerra (amaury.guerrero@opty.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M0000008kz1WAA": {
+    "client_tech_contact": "Denis Leopoldino Carnevalli",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Myralis_Armor": {
+    "client_tech_contact": "Denis Leopoldino Carnevalli",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009t0uFOAQ": {},
+  "Expansão_PAGBR": {},
+  "aBJ4M000000L81vWAC": {
+    "client_tech_contact": "Lucas Lazarim (rogerio.bassete@microwork.inf.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Cloud Storage_Lazarin": {
+    "client_tech_contact": "Lucas Lazarim (rogerio.bassete@microwork.inf.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M0000008mTWWAY": {
+    "client_tech_contact": "Ricardo Andrez (ricardo.andrez@arizona.global)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Dataflow_AZ": {
+    "client_tech_contact": "Ricardo Andrez (ricardo.andrez@arizona.global)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009tBCKOA2": {
+    "client_tech_contact": "Kleber Tolezani",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "AgentSpace_Istoé": {
+    "client_tech_contact": "Kleber Tolezani",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000L8pbWAC": {
+    "client_tech_contact": "Marco Aurelio Fontenelle Moreira (marcomoreira@riogaleao.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "GenAI_Projeto Gol_Rio Galeão": {
+    "client_tech_contact": "Marco Aurelio Fontenelle Moreira (marcomoreira@riogaleao.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf00000821K1OAI": {
+    "partner_tech_contact": "gabi@arki1.com",
+    "client_tech_contact": "Diego Domingues (diego@n2bbrasil.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Looker_N2B": {
+    "partner_tech_contact": "gabi@arki1.com",
+    "client_tech_contact": "Diego Domingues (diego@n2bbrasil.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000006MZMJOA4": {
+    "partner_tech_contact": "adriana.machado@blueshift.com.br",
+    "client_tech_contact": "Renato Freitas (renato.freitas@onr.org.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "[CES AI]ONR- #CA - Filas Adicionais": {
+    "partner_tech_contact": "adriana.machado@blueshift.com.br",
+    "client_tech_contact": "Renato Freitas (renato.freitas@onr.org.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M0000008lC5WAI": {
+    "client_tech_contact": "Eduardo Tosta (cassioalcantara@editora3.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Apigee_Portal Desenvolvedor": {
+    "client_tech_contact": "Eduardo Tosta (cassioalcantara@editora3.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000LA0aWAG": {
+    "partner_tech_contact": "heraldo.teixeira@platformbuilders.io",
+    "client_tech_contact": "Angelo Figaro Egido",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "DL parte 1 RH_Patria": {
+    "partner_tech_contact": "heraldo.teixeira@platformbuilders.io",
+    "client_tech_contact": "Angelo Figaro Egido",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000L7JZWA0": {
+    "client_tech_contact": "Adm - Julio Shnaider Gejer (usc.jgejer@totalpass.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Total Pass Firebase": {
+    "client_tech_contact": "Adm - Julio Shnaider Gejer (usc.jgejer@totalpass.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M0000008lCAWAY": {
+    "client_tech_contact": "Eduardo Tosta (cassioalcantara@editora3.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Pipeline CA/CD_Isto é": {
+    "client_tech_contact": "Eduardo Tosta (cassioalcantara@editora3.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009swQfOAI": {},
+  "Datadog_WPS": {},
+  "aBJKf000009ssxBOAQ": {},
+  "Rollover_Braveo": {},
+  "aBJ4M0000008lboWAA": {
+    "partner_tech_contact": "heraldo.teixeira@platformbuilders.io",
+    "client_tech_contact": "Amaury Guerra",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "BQ + AI_Iniciativas_H+": {
+    "partner_tech_contact": "heraldo.teixeira@platformbuilders.io",
+    "client_tech_contact": "Amaury Guerra",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf00000825DnOAI": {},
+  "Virada SQL_to BQ": {},
+  "aBJ4M0000008mMBWAY": {
+    "client_tech_contact": "Igor Silva Gomes (igoiiir.gomes@tenda.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "SCC_Hubhawk": {
+    "client_tech_contact": "Igor Silva Gomes (igoiiir.gomes@tenda.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000089NWAQ": {},
+  "Creditos Rio Galeão": {},
+  "aBJKf000009kIkPOAU": {
+    "client_tech_contact": "Wiliam Pinho Pinho Da Silva Rodrigues (romulo.simas@movti.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Verzani | DR": {
+    "client_tech_contact": "Wiliam Pinho Pinho Da Silva Rodrigues (romulo.simas@movti.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000004ZUyQOAW": {
+    "client_tech_contact": "Aline Barbosa (aline.barbosa@bp.org.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "[BP] Video Storage": {
+    "client_tech_contact": "Aline Barbosa (aline.barbosa@bp.org.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000004ZUxmOAG": {
+    "client_tech_contact": "Marcos Moretti (roberto.oguma@movti.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "[Verzani] Architecture Modernization": {
+    "client_tech_contact": "Marcos Moretti (roberto.oguma@movti.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000006A22FOAS": {
+    "client_tech_contact": "Vitor Hugo Pessoa Monteiro (tony@sauter.digital)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Zona Sul - GenAI - Dionisio": {
+    "client_tech_contact": "Vitor Hugo Pessoa Monteiro (tony@sauter.digital)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000kBZeWAM": {
+    "client_tech_contact": "Alexandre Cohen (caio@ipnet.cloud)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Veustec | Vertex AI": {
+    "client_tech_contact": "Alexandre Cohen (caio@ipnet.cloud)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000006A2RFOA0": {
+    "client_tech_contact": "Carlos Almeida (rodrigo.okubo@venhapranuvem.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Genial BOT": {
+    "client_tech_contact": "Carlos Almeida (rodrigo.okubo@venhapranuvem.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000006A2RZOA0": {
+    "client_tech_contact": "Carlos Almeida (rodrigo.okubo@venhapranuvem.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Genial | Assistente Virtual Fase 1, 2 e 3": {
+    "client_tech_contact": "Carlos Almeida (rodrigo.okubo@venhapranuvem.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M0000008w4gWAA": {
+    "client_tech_contact": "Haroldo Proença (r.blancas@ucloudglobal.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Granado - Granado AI": {
+    "client_tech_contact": "Haroldo Proença (r.blancas@ucloudglobal.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000g6M3WAI": {
+    "client_tech_contact": "Rafael Ferreira (emerson@sauter.digital)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Mills GKE": {
+    "client_tech_contact": "Rafael Ferreira (emerson@sauter.digital)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000bq8LWAQ": {
+    "client_tech_contact": "Gabriel Arrigoni (rodrigo.okubo@venhapranuvem.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000bvYiWAI": {
+    "client_tech_contact": "Gabriel Arrigoni (rodrigo.okubo@venhapranuvem.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000bq8aWAA": {
+    "client_tech_contact": "Gabriel Arrigoni (rodrigo.okubo@venhapranuvem.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Transfero - GKE": {
+    "client_tech_contact": "Gabriel Arrigoni (rodrigo.okubo@venhapranuvem.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000kBZZWA2": {
+    "client_tech_contact": "Fernando Dos Santos Dos Santos Wanderley (caio@ipnet.cloud)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Ancar SCC (Matriz)": {
+    "client_tech_contact": "Fernando Dos Santos Dos Santos Wanderley (caio@ipnet.cloud)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000kBZjWAM": {
+    "client_tech_contact": "Alexandre Cohen (caio@ipnet.cloud)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Veustec - SCC": {
+    "client_tech_contact": "Alexandre Cohen (caio@ipnet.cloud)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000kBZoWAM": {
+    "client_tech_contact": "Eduardo Izepe (dupe+eduardo.izepe@comexport.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Comex - GKE": {
+    "client_tech_contact": "Eduardo Izepe (dupe+eduardo.izepe@comexport.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000g7boWAA": {
+    "client_tech_contact": "Felippe Piazza (felippe.piazza@adgrowth.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Adaction - Looker": {
+    "client_tech_contact": "Felippe Piazza (felippe.piazza@adgrowth.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf0000082DJyOAM": {
+    "client_tech_contact": "Leonardo Tristão (danilo.silva@reseller.gthink.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Flamengo | Asset M25": {
+    "client_tech_contact": "Leonardo Tristão (danilo.silva@reseller.gthink.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M0000008sfnWAA": {
+    "client_tech_contact": "Rodrigo Okubo (rodrigo.okubo@venhapranuvem.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Perfect Pay - DA": {
+    "client_tech_contact": "Rodrigo Okubo (rodrigo.okubo@venhapranuvem.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M0000008wKyWAI": {
+    "client_tech_contact": "Alexandre Cohen (caio@ipnet.cloud)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "VEUS - Analise de Exames": {
+    "client_tech_contact": "Alexandre Cohen (caio@ipnet.cloud)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M0000008ro5WAA": {
+    "client_tech_contact": "Rubenir Tavares (tony@sauter.digital)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Zona Sul - Analytics": {
+    "client_tech_contact": "Rubenir Tavares (tony@sauter.digital)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf00000829fgOAA": {
+    "client_tech_contact": "Nelson Neto (nelson.cypriano@vr.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "VR | Maps": {
+    "client_tech_contact": "Nelson Neto (nelson.cypriano@vr.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009kEMxOAM": {
+    "client_tech_contact": "Haroldo Proença (rodrigo.okubo@venhapranuvem.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Granado | ML": {
+    "client_tech_contact": "Haroldo Proença (rodrigo.okubo@venhapranuvem.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000006ADyZOAW": {
+    "client_tech_contact": "Giancarlo Pesce D'Angelo (giancarlo.dangelo@asa.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "ASA | Spanner": {
+    "client_tech_contact": "Giancarlo Pesce D'Angelo (giancarlo.dangelo@asa.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009onfLOAQ": {
+    "client_tech_contact": "Luis Tavares (luis.tavares@apiimf.org.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "APIIMF | Produção": {
+    "client_tech_contact": "Luis Tavares (luis.tavares@apiimf.org.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M00000002QxWAI": {},
+  "ALIVE APP LTDA. - Data Analytics": {},
+  "aBJKf000006ADyeOAG": {
+    "client_tech_contact": "Giancarlo Pesce D'Angelo (giancarlo.dangelo@asa.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "ASA | Credenciadora": {
+    "client_tech_contact": "Giancarlo Pesce D'Angelo (giancarlo.dangelo@asa.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M00000002gVWAQ": {},
+  "Comexport Trading Comércio Exterior Ltda - InfraMod": {},
+  "aBJKf000006MVISOA4": {
+    "client_tech_contact": "Rafael Cardoso Dos Santos (rafael.santos@flamengo.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Flamengo - Data Analytics": {
+    "client_tech_contact": "Rafael Cardoso Dos Santos (rafael.santos@flamengo.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M0000008zOyWAI": {
+    "client_tech_contact": "Wilson De Oliveira (rodrigo.okubo@venhapranuvem.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Vega Migração AWS": {
+    "client_tech_contact": "Wilson De Oliveira (rodrigo.okubo@venhapranuvem.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000006A1BfOAK": {
+    "client_tech_contact": "Daniel Checchia (caio@ipnet.cloud)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Nasajon Banco de Dados": {
+    "client_tech_contact": "Daniel Checchia (caio@ipnet.cloud)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M00000002QqWAI": {
+    "client_tech_contact": "Ceres Rohana (ceres.rohana@aditum.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "ADITUM PAGAMENTOS LTDA - Marketplace": {
+    "client_tech_contact": "Ceres Rohana (ceres.rohana@aditum.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009ompmOAA": {
+    "client_tech_contact": "José Formiga (caio@metarj.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Nasajon | Novo workload AWS": {
+    "client_tech_contact": "José Formiga (caio@metarj.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000006A8i7OAC": {
+    "client_tech_contact": "Matheus Amaral (matheusamaral@rubeus.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Rubeus - Cloud SQL Enterprise for MySQL": {
+    "client_tech_contact": "Matheus Amaral (matheusamaral@rubeus.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000kG5jWAE": {
+    "client_tech_contact": "Alexandre Cohen (caio@ipnet.cloud)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "VEUS GKE": {
+    "client_tech_contact": "Alexandre Cohen (caio@ipnet.cloud)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M0000008zOzWAI": {
+    "client_tech_contact": "Wilson De Oliveira (rodrigo.okubo@venhapranuvem.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Vega Checkout - Infra": {
+    "client_tech_contact": "Wilson De Oliveira (rodrigo.okubo@venhapranuvem.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M00000002S4WAI": {
+    "client_tech_contact": "Eduardo Izepe (dupe+eduardo.izepe@comexport.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Comexport Trading Comércio Exterior Ltda - Mongo": {
+    "client_tech_contact": "Eduardo Izepe (dupe+eduardo.izepe@comexport.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M00000002SvWAI": {
+    "client_tech_contact": "David Jourdain (david@goapp.pet)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Go App Servicos Online do Brasil Ltda - Analytics": {
+    "client_tech_contact": "David Jourdain (david@goapp.pet)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000g7EfWAI": {
+    "client_tech_contact": "Thiago Mattos (thiago@redeparcerias.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "ISV / Gitlab": {
+    "client_tech_contact": "Thiago Mattos (thiago@redeparcerias.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf0000082A71OAE": {
+    "client_tech_contact": "Andre Papa (pbellas@granado.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Granado | SAP Rise": {
+    "client_tech_contact": "Andre Papa (pbellas@granado.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M0000008w4lWAA": {
+    "client_tech_contact": "Renan Martins Câmara (r.blancas@ucloudglobal.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Granado PDV": {
+    "client_tech_contact": "Renan Martins Câmara (r.blancas@ucloudglobal.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M0000008ohWWAQ": {
+    "client_tech_contact": "Davy Martins Meireles (davy.meireles@mills.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Mills GKE & APIGEE Site DR": {
+    "client_tech_contact": "Davy Martins Meireles (davy.meireles@mills.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M0000008ro0WAA": {
+    "client_tech_contact": "Rubenir Tavares (tony@sauter.digital)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Zona Sul - Infra [Cloud Armor, VoiP, GKE]": {
+    "client_tech_contact": "Rubenir Tavares (tony@sauter.digital)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000gASaWAM": {},
+  "APIIMF | Nova Infra Escriturario": {},
+  "aBJKf000006A1BkOAK": {
+    "client_tech_contact": "Daniel Checchia (caio@ipnet.cloud)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Nasajon Infra": {
+    "client_tech_contact": "Daniel Checchia (caio@ipnet.cloud)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000006A1BpOAK": {
+    "client_tech_contact": "Renan Martins Câmara (r.blancas@ucloudglobal.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Granado Datamesh": {
+    "client_tech_contact": "Renan Martins Câmara (r.blancas@ucloudglobal.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf0000082FKAOA2": {
+    "client_tech_contact": "Haroldo Proença (hproenca@granadophebo.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Granado I Data Normalization AI": {
+    "client_tech_contact": "Haroldo Proença (hproenca@granadophebo.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000g5fNWAQ": {
+    "client_tech_contact": "Rafael Ferreira (emerson@sauter.digital)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Mills - Apigee PAYG": {
+    "client_tech_contact": "Rafael Ferreira (emerson@sauter.digital)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M0000008sMqWAI": {
+    "client_tech_contact": "Marcos Oliveira (rodrigo.okubo@venhapranuvem.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Paylivre | INFRA": {
+    "client_tech_contact": "Marcos Oliveira (rodrigo.okubo@venhapranuvem.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000008243rOAA": {
+    "client_tech_contact": "Marcos Ooliveira (rodrigo.okubo@venhapranuvem.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Play Livre - GenAI": {
+    "client_tech_contact": "Marcos Ooliveira (rodrigo.okubo@venhapranuvem.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf0000082Ca5OAE": {
+    "client_tech_contact": "Giancarlo Pesce D'Angelo (paulo.parcesepe@asa.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "ASA Ambiente DEV": {
+    "client_tech_contact": "Giancarlo Pesce D'Angelo (paulo.parcesepe@asa.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000006A7ZnOAK": {
+    "client_tech_contact": "Diego Panno (diego.panno@sapura.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "SAPURA - Cloud Storage": {
+    "client_tech_contact": "Diego Panno (diego.panno@sapura.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf0000082FK5OAM": {
+    "client_tech_contact": "Haroldo Proença (hproenca@granadophebo.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Granado I Bigquery": {
+    "client_tech_contact": "Haroldo Proença (hproenca@granadophebo.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009eD6LOAU": {
+    "client_tech_contact": "Andre Luiz Ocana Da Silva (andre.ocana@marisa.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Marisa - GE": {
+    "client_tech_contact": "Andre Luiz Ocana Da Silva (andre.ocana@marisa.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009stjAOAQ": {
+    "client_tech_contact": "Bruno Pinheiro Dos Santos (bruno.pinheiro@om30.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "G4 Solutions - Modernizacao Infra": {
+    "client_tech_contact": "Bruno Pinheiro Dos Santos (bruno.pinheiro@om30.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M0000008qK4WAI": {},
+  "OM30 DC Migration UCloud": {},
+  "aBJKf000009sq1KOAQ": {
+    "client_tech_contact": "Leonardo Grilo (grilo@entrepay.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Migração Entrepay": {
+    "client_tech_contact": "Leonardo Grilo (grilo@entrepay.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000004ZUxrOAG": {},
+  "Commit - 3Y": {},
+  "aBJKf000004ZNnzOAG": {},
+  "Bioenergia - Recommit": {},
+  "aBJKf000009dvxMOAQ": {},
+  "Vidalink - migracao eua BR": {},
+  "aBJKf000009stj5OAA": {},
+  "FRST - Migracao AWS": {},
+  "aBJKf000009solaOAA": {
+    "client_tech_contact": "Claudio Santos (claudio.santos@santodigital.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Reciclare - Flex": {
+    "client_tech_contact": "Claudio Santos (claudio.santos@santodigital.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009sxHUOAY": {},
+  "Agentspace - Prati": {},
+  "aBJKf000004ZBtYOAW": {
+    "client_tech_contact": "Danilo Indelicato (danil.indelicato@vert-capital.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Vert - Databricks Migration": {
+    "client_tech_contact": "Danilo Indelicato (danil.indelicato@vert-capital.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000004ZECmOAO": {
+    "client_tech_contact": "Diego Alves (diego@bioenergia.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Bioenergia - Commit AWS Migration": {
+    "client_tech_contact": "Diego Alves (diego@bioenergia.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009ssVHOAY": {},
+  "Bullla - Oracle Migration": {},
+  "aBJ4M000000PBrqWAG": {
+    "client_tech_contact": "Claudio Santos (bridge@reseller.santodigital.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Crave - POC GenAI": {
+    "client_tech_contact": "Claudio Santos (bridge@reseller.santodigital.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009sxHPOAY": {},
+  "Matrix - Agentspace": {},
+  "aBJKf000009stYqOAI": {},
+  "Bullla - datadog": {},
+  "aBJKf000009slhLOAQ": {
+    "client_tech_contact": "Paulo Prado (paulo.prado@pratidonaduzzi.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Prati - Data project": {
+    "client_tech_contact": "Paulo Prado (paulo.prado@pratidonaduzzi.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009t8KhOAI": {},
+  "Ricardo Almeida - MigraçãoOnPremise_SWO": {},
+  "aBJKf000009sx2KOAQ": {},
+  "infra - Noxxon Sat": {},
+  "aBJKf000009oXnbOAE": {
+    "client_tech_contact": "Maria Júlia Brilhante (maria.julia@castrillon.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Projeto de Dados - Supply Castrillon": {
+    "client_tech_contact": "Maria Júlia Brilhante (maria.julia@castrillon.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009tHcgOAE": {
+    "client_tech_contact": "Pedro Muniz",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "FRST Agentspace": {
+    "client_tech_contact": "Pedro Muniz",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009t3TnOAI": {
+    "client_tech_contact": "Valdemar Castilho",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Iguatemi - Vertex IA - chatbot": {
+    "client_tech_contact": "Valdemar Castilho",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009smZ8OAI": {
+    "client_tech_contact": "Ramiro Souza Silva (ramirosilva@jhsf.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "JHSF": {
+    "client_tech_contact": "Ramiro Souza Silva (ramirosilva@jhsf.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009eYz7OAE": {},
+  "SAP RISE_BEMOL": {},
+  "Segmentação de Personas_Tenda_ #LLM": {
+    "partner_tech_contact": "ademir.junior@gavb.com.br",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Datalake": {
+    "client_tech_contact": "Ricardo Alves Miranda (guilherme.cioffi@braveo.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "partner_tech_contact": "gabriela.campos@platformbuilders.io"
+  },
+  "aBJ4M0000008c1mWAA": {
+    "client_tech_contact": "Juliano Silva (juliano.silva@inbetta.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Bettanin_SAP Sandbox_GCP": {
+    "client_tech_contact": "Juliano Silva (juliano.silva@inbetta.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000CwTVWA0": {
+    "partner_tech_contact": "carlos.eduardo@santodigital.com.br",
+    "client_tech_contact": "Claudio Santos (claudio.santos@santodigital.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Inbetta - SAP BW on GCP": {
+    "partner_tech_contact": "carlos.eduardo@santodigital.com.br",
+    "client_tech_contact": "Claudio Santos (claudio.santos@santodigital.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M0000008gb0WAA": {
+    "partner_tech_contact": "renato.takata@venhapranuvem.com.br",
+    "client_tech_contact": "Alexsandro Ribeiro (renato.takata@venhapranuvem.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Osklen - DC Exit to GCP": {
+    "partner_tech_contact": "renato.takata@venhapranuvem.com.br",
+    "client_tech_contact": "Alexsandro Ribeiro (renato.takata@venhapranuvem.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000006A8h4OAC": {
+    "partner_tech_contact": "camila.maione@avenuecode.com",
+    "client_tech_contact": "Junia Fonseca Pereira (junia.fonseca@avenuecode.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Junto Seguros S/A - On Prem to GCP": {
+    "partner_tech_contact": "camila.maione@avenuecode.com",
+    "client_tech_contact": "Junia Fonseca Pereira (junia.fonseca@avenuecode.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M00000002RQWAY": {},
+  "AZION PRESTACAO DE SERVICOS EM TECNOLOGIA E TELECOMUNICACOES LTDA. - AppMod": {},
+  "aBJKf000009obKJOAY": {
+    "partner_tech_contact": "m.zavilinski@ucloudglobal.com",
+    "client_tech_contact": "Leonardo Moura (b.serra@brasil.ucloudglobal.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Multilog #GCVE": {
+    "partner_tech_contact": "m.zavilinski@ucloudglobal.com",
+    "client_tech_contact": "Leonardo Moura (b.serra@brasil.ucloudglobal.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M00000002VBWAY": {
+    "partner_tech_contact": "carlos.eduardo@santodigital.com.br",
+    "client_tech_contact": "Cleidi Dayane Soberansky",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Sim Rede - Infra SAP CAR": {
+    "partner_tech_contact": "carlos.eduardo@santodigital.com.br",
+    "client_tech_contact": "Cleidi Dayane Soberansky",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000CyiDWAS": {
+    "client_tech_contact": "João Paulo Rodrigues (giuliano.testoni@tdsynnex.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Barigui Veiculos_Data Lake & Analytics": {
+    "client_tech_contact": "João Paulo Rodrigues (giuliano.testoni@tdsynnex.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000006MZEyOAO": {
+    "client_tech_contact": "Fabio Kimura (f.kimura@ucloudglobal.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Positivo - VM": {
+    "client_tech_contact": "Fabio Kimura (f.kimura@ucloudglobal.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000PE6OWAW": {
+    "client_tech_contact": "Fabio Kimura (f.kimura@ucloudglobal.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Positivo Ed - AWS to GCP": {
+    "client_tech_contact": "Fabio Kimura (f.kimura@ucloudglobal.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009oVT5OAM": {},
+  "Loi Brasil _ Inframode": {},
+  "aBJ4M000000L5hKWAS": {
+    "partner_tech_contact": "jorge.almeida@ipnet.cloud",
+    "client_tech_contact": "Juliano Mertins (juliano.mertins@vibra.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "VIBRA #ANALYTICS #CORTEX&Foundation_IPNET": {
+    "partner_tech_contact": "jorge.almeida@ipnet.cloud",
+    "client_tech_contact": "Juliano Mertins (juliano.mertins@vibra.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M0000008c1rWAA": {
+    "client_tech_contact": "Juliano Silva (juliano.silva@inbetta.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Bettanin_SAP TDF_GCP": {
+    "client_tech_contact": "Juliano Silva (juliano.silva@inbetta.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000CwhwWAC": {
+    "client_tech_contact": "Kelvin França (kelvin.franca@ailos.coop.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Ailos_Recaptcha Enterprise": {
+    "client_tech_contact": "Kelvin França (kelvin.franca@ailos.coop.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009sfshOAA": {
+    "client_tech_contact": "Juliano Silva (juliano.silva@inbetta.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Bettanin_Migração VMs": {
+    "client_tech_contact": "Juliano Silva (juliano.silva@inbetta.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M0000008hFjWAI": {
+    "partner_tech_contact": "thiago.lenzi@ipnet.cloud",
+    "client_tech_contact": "Franciane Luz (brian@ipnet.cloud)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Nordware_SAP B1 to GCP": {
+    "partner_tech_contact": "thiago.lenzi@ipnet.cloud",
+    "client_tech_contact": "Franciane Luz (brian@ipnet.cloud)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000PMNcWAO": {
+    "partner_tech_contact": "carlos.eduardo@santodigital.com.br",
+    "client_tech_contact": "Daniel Araujo Gandolfi (daniel.araujo@grendene.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Grendene_Recommendations AI": {
+    "partner_tech_contact": "carlos.eduardo@santodigital.com.br",
+    "client_tech_contact": "Daniel Araujo Gandolfi (daniel.araujo@grendene.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009oRY1OAM": {
+    "client_tech_contact": "Fabio Silva (fabiocs@vibraenergia.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Vibra_Vibra Foods (Datalake)": {
+    "client_tech_contact": "Fabio Silva (fabiocs@vibraenergia.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009swUrOAI": {
+    "partner_tech_contact": "wagner@qinetwork.com.br",
+    "client_tech_contact": "Dieison Willian Casarotto (dieisoncasarotto@migrate.info)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Migrate - BQ": {
+    "partner_tech_contact": "wagner@qinetwork.com.br",
+    "client_tech_contact": "Dieison Willian Casarotto (dieisoncasarotto@migrate.info)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009oRYbOAM": {
+    "client_tech_contact": "Emerson Lima (emerson@sauter.digital)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Dynamox_Agentspace": {
+    "client_tech_contact": "Emerson Lima (emerson@sauter.digital)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000CzovWAC": {
+    "client_tech_contact": "Rafael Gandolfi De Moura (rafael.moura@inbetta.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Bettanin - Novo Upgrade SAP TDF": {
+    "client_tech_contact": "Rafael Gandolfi De Moura (rafael.moura@inbetta.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000CwbeWAC": {
+    "client_tech_contact": "Juliano Silva (juliano.silva@inbetta.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Bettanin_UPGRADE_SAP TDF": {
+    "client_tech_contact": "Juliano Silva (juliano.silva@inbetta.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009oUVKOA2": {
+    "partner_tech_contact": "lfilipe@sauter.digital",
+    "client_tech_contact": "Evelyn Cristini Martins (e.martins@sauter.digital)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Brasiltecpar #Gemini Enterprise": {
+    "partner_tech_contact": "lfilipe@sauter.digital",
+    "client_tech_contact": "Evelyn Cristini Martins (e.martins@sauter.digital)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M0000008gWeWAI": {
+    "client_tech_contact": "Djiovani Douglas (djiovani@lunelli.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Lunelli - Infra Linx to GCP": {
+    "client_tech_contact": "Djiovani Douglas (djiovani@lunelli.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009oVYKOA2": {
+    "client_tech_contact": "Juliano Juliano Godoi (juliano.godoi@inbetta.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Inbetta #Backup & DR": {
+    "client_tech_contact": "Juliano Juliano Godoi (juliano.godoi@inbetta.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009tMkDOAU": {
+    "client_tech_contact": "Gabriel Veloso (gabriel.veloso@atlas.ind.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Atlas Eletrodomesticos #Gemini Enterprise 3.0 (Fase1)": {
+    "client_tech_contact": "Gabriel Veloso (gabriel.veloso@atlas.ind.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000006A7YzOAK": {
+    "partner_tech_contact": "mathias.brem@roxpartner.com",
+    "client_tech_contact": "João Paulo Rodrigues (joao.rodrigues@grupobarigui.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "BARIGUI - Vertex AI": {
+    "partner_tech_contact": "mathias.brem@roxpartner.com",
+    "client_tech_contact": "João Paulo Rodrigues (joao.rodrigues@grupobarigui.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000006A7YlOAK": {
+    "partner_tech_contact": "mercia.oliveira@avenuecode.com",
+    "client_tech_contact": "Jean Carlos Pachla (jean.pachla@acertapromotora.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Acerta - Vertex AI": {
+    "partner_tech_contact": "mercia.oliveira@avenuecode.com",
+    "client_tech_contact": "Jean Carlos Pachla (jean.pachla@acertapromotora.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M00000003KpWAI": {
+    "client_tech_contact": "Diogo Silveira (ti.diogo@unimedpg.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Unimed Ponta Grossa_Backup_Geo New Logo": {
+    "client_tech_contact": "Diogo Silveira (ti.diogo@unimedpg.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009oRXwOAM": {
+    "client_tech_contact": "Diego Siegert (diego.siegert@grendene.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Grendene_Analytics_Incremental_NovaArquitetura": {
+    "client_tech_contact": "Diego Siegert (diego.siegert@grendene.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M000000PMLCWA4": {
+    "partner_tech_contact": "carlos.eduardo@santodigital.com.br",
+    "client_tech_contact": "Daniel Reginatto (daniel@redrive.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Redrive_Gemini Pro": {
+    "partner_tech_contact": "carlos.eduardo@santodigital.com.br",
+    "client_tech_contact": "Daniel Reginatto (daniel@redrive.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJ4M00000002S0WAI": {},
+  "Clinicorp_Architecture Optimization": {},
+  "Transfero - Matrix": {
+    "client_tech_contact": "Gabriel Arrigoni (rodrigo.okubo@venhapranuvem.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000004Z9bmOAC": {
+    "client_tech_contact": "Gustavo Cavalcanti (gustavo.cavalcanti@aec.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Billing AEC": {
+    "client_tech_contact": "Gustavo Cavalcanti (gustavo.cavalcanti@aec.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000004ZLx4OAG": {},
+  "PrimeBuilder - Novo Escopo": {},
+  "aBJKf000009eCPOOA2": {
+    "client_tech_contact": "Maria Victoria Rodrigues Campos (victoria.rodrigues@gentrop.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009e9oSOAQ": {
+    "partner_tech_contact": "Admin uCloud Store (admin@brasil.ucloudglobal.com)",
+    "client_tech_contact": "Felipe Augusto Cardoso (a.dasilveira@ucloudstore.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Nova Estrutura - VP": {
+    "partner_tech_contact": "Admin uCloud Store (admin@brasil.ucloudglobal.com)",
+    "client_tech_contact": "Felipe Augusto Cardoso (a.dasilveira@ucloudstore.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000006MbXOOA0": {
+    "client_tech_contact": "Rodrigo Voice Manager (rodrigo.martins@voicemanager.cloud)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Metodo Telecom - New VMs 2": {
+    "client_tech_contact": "Rodrigo Voice Manager (rodrigo.martins@voicemanager.cloud)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000004ZIU2OAO": {},
+  "Novos Clientes - Crescimento de Infra": {},
+  "aBJKf000009eCRsOAM": {
+    "partner_tech_contact": "Admin uCloud Store (admin@brasil.ucloudglobal.com)",
+    "client_tech_contact": "Felipe Augusto Cardoso (a.dasilveira@ucloudstore.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Ambiente Banco VP": {
+    "partner_tech_contact": "Admin uCloud Store (admin@brasil.ucloudglobal.com)",
+    "client_tech_contact": "Felipe Augusto Cardoso (a.dasilveira@ucloudstore.com)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000009eBlrOAE": {
+    "partner_tech_contact": "lucas.feitoza@qinetwork.com.br",
+    "client_tech_contact": "Celso Caparica (celso@qinetwork.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "Bamaq - Infra GCP": {
+    "partner_tech_contact": "lucas.feitoza@qinetwork.com.br",
+    "client_tech_contact": "Celso Caparica (celso@qinetwork.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000004ZLw6OAG": {},
+  "GE p Marketing": {},
+  "SecOps": {
+    "partner_tech_contact": "Bruna Esposito (bruna.esposito@visioncybersecurity.com)",
+    "client_tech_contact": "Euler Macedo (asantos@band.com.br)",
+    "updated_at": "2026-10-20T13:03:57.190485"
+  },
+  "aBJKf000004ZVPlOAO": {},
+  "GE - 700 seats": {},
+  "aBJKf000004ZVTsOAO": {},
+  "Helbor - GE": {},
+  "aBJKf000009eZBrOAM": {},
+  "[GE] 132 Licenses Renewal": {},
+  "aBJKf000009dym5OAA": {},
+  "MRS: Logistica Consultoria Ltda #GCP #SecOps": {}
 }

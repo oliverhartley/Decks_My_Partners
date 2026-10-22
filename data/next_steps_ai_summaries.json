@@ -1,7 +1,7 @@
 {
   "aBJKf000009tZZXOA2": {
-    "history_hash": "2b226ae7ac79975881bab8a2b8d381dd",
-    "summary": "23/03: Parceiro finalizando escopo do caso de uso e SoW; sem atualizações posteriores no histórico."
+    "history_hash": "501192ce0a65d3560694a7608bb433c1",
+    "summary": "21/10 - Projeto em pausa devido à priorização do SAP RISE pelo cliente; aguarda definição de nova data de início."
   },
   "aBJ4M00000002gzWAA": {
     "history_hash": "c320ba2924776717beb160cb308874f8",
@@ -68,8 +68,8 @@
     "summary": "05/10: Foundation, segurança e rede concluídos com kickoff realizado; projeto segue para a migração da versão 4.2 após assinatura do contrato."
   },
   "aBJKf000009tWEvOAM": {
-    "history_hash": "2841afe26fe63e3c1e6714990d67323c",
-    "summary": "21/09: Reunião técnica realizada entre GCP, Databricks, PSW e Solar Coca-Cola para iniciar levantamento de migração."
+    "history_hash": "4476988e9d868afac033d8f16b1b0535",
+    "summary": "19/10: Kyndryl PSF aprovada; foco atual na habilitação do parceiro e finalização da arquitetura Databricks para kickoff em 29/11."
   },
   "aBJKf000000GouMOAS": {
     "history_hash": "01086312d878f8b7e363faf7f8f6df2a",
@@ -84,8 +84,8 @@
     "summary": "28/08: Revisão de escopo na proposta comercial para reapresentação ao cliente na 1ª semana de setembro."
   },
   "aBJKf000009eKGXOA2": {
-    "history_hash": "e5d95bdcee640af4862d02393d9af432",
-    "summary": "17/09: Configuração do ambiente concluída após assinatura; cliente finalizando lista de usuários para distribuição de licenças."
+    "history_hash": "d6650933a7b663eadae817fe851d3e7d",
+    "summary": "15/10: Discovery técnico agendado para terça-feira visa integrar suíte Microsoft e acelerar a adoção de Gemini em Supply e Marketing."
   },
   "aBJ4M000000L8TpWAK": {
     "history_hash": "b5395da85f0a1843c93134a075a9259b",
@@ -112,8 +112,8 @@
     "summary": "30/09/2025: Contrato avançou após revisão jurídica e início confirmado pelo parceiro; calculadora revisada para confirmar consumo."
   },
   "aBJKf000009eQUGOA2": {
-    "history_hash": "40c84e812346dbfa6269b910c28bf7a6",
-    "summary": "28/08: Reunião técnica agendada para 02/09 visando fechar a 1ª wave de migração."
+    "history_hash": "0412016213f34d816ec32e6831dd957b",
+    "summary": "15/10: Projeto pronto e repriorizado para a Copa 2027; foco atual em reunião com novo interlocutor para destravar a execução."
   },
   "aBJKf000009eTdpOAE": {
     "history_hash": "26f49e51f29a69b68d85962b884109b0",
@@ -128,16 +128,16 @@
     "summary": "14/07/2025: Retail Search operante e carga no BigQuery iniciada pela Avenue; dúvidas de importação GA4 endereçadas, aguardando retomada do desenvolvimento."
   },
   "aBJKf000009tcKpOAI": {
-    "history_hash": "11e8a256ee8f1cce07e285ddee72c192",
-    "summary": "28/08: POC concluída com sucesso e proposta negociada; aguardando aprovação final da Diretoria para iniciar migração."
+    "history_hash": "f537649a79df7cfedee20cee5f4f8f9f",
+    "summary": "19/10: SantoDigital ajustará a proposta e Roberta agendará reunião com o cliente para viabilizar infraestrutura de 1.000 câmeras."
   },
   "aBJKf000006ACUTOA4": {
     "history_hash": "3f53f1c6dd5df3370b3be59b0492e319",
     "summary": "08/09/2025: Após liberação de acessos e aprovação de PSF, reunião de kickoff foi realizada em 05/09 e projeto iniciado."
   },
   "aBJKf000009tRT2OAM": {
-    "history_hash": "273d82fee1264b9b17c89d9597f9e38e",
-    "summary": "13/08: MVP/POC concluídos com sucesso; cliente definindo modelo de contratação (licitação ou adesão) após reunião em Belém."
+    "history_hash": "a94e27bc88a579dbf51e82b2f567b898",
+    "summary": "14/10: O projeto encontra-se em processo licitatório, aguardando a conclusão desta etapa para definir os próximos passos da contratação pelo Banco da Amazônia."
   },
   "aBJKf000006AA7mOAG": {
     "history_hash": "a86fa9e0314303e1a1ab1fcfc592eef8",
@@ -280,16 +280,16 @@
     "summary": "16/06: Necessário agendar reunião com cliente para aprofundar a demanda identificada."
   },
   "aBJKf000009e7pHOAQ": {
-    "history_hash": "c093a8db16cfaa1ba923ce8bcdf97f4d",
-    "summary": "[2026-10-05] Reunião com o cliente e parceiro hoje para alinhamento. Parceiro vai enviar questionário de pré-assessment e eu vou ter reunião até o final da sema..."
+    "history_hash": "2033df545219d00e6d8389463f1a66c0",
+    "summary": "[2026-10-20] Parceiro enviou SOW hoje para o cliente."
   },
   "aBJKf0000082CeCOAU": {
     "history_hash": "958c11b30436d2fb7732be8b586601d9",
     "summary": "06/03: Agenda definida para 19/03 visando iniciar a implementação do Backup DR."
   },
   "aBJKf000009kKHPOA2": {
-    "history_hash": "2896f9a17cb176c681ba2f475482f22c",
-    "summary": "[2026-10-06] Cliente contratou prestador focado no processo de modernização. Vai ser montado um plano de modernização junto com o parceiro."
+    "history_hash": "37f6a4745c84d36e771056465c64a744",
+    "summary": "[2026-10-20] CE compartilhou um guia macro para a migração e está fazendo cadência com Alex, especialista do cliente responsável pela migração."
   },
   "aBJKf0000082HgrOAE": {
     "history_hash": "49c5bb1f447567cafde8f54f4b06337f",
@@ -440,8 +440,8 @@
     "summary": "28/09: Cliente avalia padronização com GE para cobrir shortfall de $75k no Q4; aguardamos alinhamento com FSR."
   },
   "aBJKf0000082E9aOAE": {
-    "history_hash": "2c789a08076e3201c562f3d4afa5db8f",
-    "summary": "08/08 Workload encerrado por duplicidade."
+    "history_hash": "858296c92f52fa739bba4c1916197def",
+    "summary": "20/10: Workload em migração híbrida (IaaS e RISE); o foco atual é manter a execução do plano definido."
   },
   "aBJKf000009tAsIOAU": {
     "history_hash": "23a87f1c4ee7eb157583d5a655e8bb20",
@@ -484,8 +484,8 @@
     "summary": "16/12 - Projeto incluído no Recommit, porém sem priorização atual por parte do cliente para início."
   },
   "aBJKf000009eQONOA2": {
-    "history_hash": "87ace8c6af4d3f7c53e79c236f00c12e",
-    "summary": "Reunião de alinhamento com o cliente agendada para 07/08."
+    "history_hash": "02d66c84f1565af8f759d3b17fbd4075",
+    "summary": "14/10: Projeto em desenvolvimento interno pela equipe da Climatempo, sem bloqueios reportados até o momento."
   },
   "aBJKf000009tGOrOAM": {
     "history_hash": "842a6ed0c79cca329cee003626a47c5e",
@@ -592,16 +592,16 @@
     "summary": "26/06 Projeto inviabilizado pela necessidade de melhoria nos valores de serviço de migração."
   },
   "aBJKf000009eUqBOAU": {
-    "history_hash": "cd3f05fa4bb0d93f09b87673d72b6973",
-    "summary": "28/09: Em criação de arquiteturas com a Kyndryl para viabilizar a apresentação técnica e garantir o \"technical win\" do cliente."
+    "history_hash": "d81076376210851758e10890ec717949",
+    "summary": "19/10: Kyndryl valida cenários técnicos com o cliente para apresentação da proposta comercial e conquista da decisão técnica."
   },
   "aBJKf000009tTZCOA2": {
     "history_hash": "2541f819ac5ff798391d644e19561fa9",
     "summary": "[2026-10-08] 08/10 [VF] - Após imersão no Cresol Google Day (17/09), realizado sync em 05/10 com QI Network (Lucas Feitoza) e FSR estruturando o apoio técnico d..."
   },
   "aBJKf000009kKoOOAU": {
-    "history_hash": "ad9018f5d3253ad862580fe0ab39184e",
-    "summary": "18/08 Agendamento de reunião com liderança de arquitetura para revisar estratégia de processamento."
+    "history_hash": "cd73e41a744f2440e9a864929d92339f",
+    "summary": "[2026-10-20] Reunião cliente para definição de arquitetura"
   },
   "aBJKf000009oRYbOAM": {
     "history_hash": "bdee3a26569de6b240226bf3114747f9",
@@ -972,8 +972,8 @@
     "summary": "03/08 - Parceiro prepara cenário para apresentação ao cliente prevista para a segunda semana de agosto."
   },
   "aBJKf000004ZRufOAG": {
-    "history_hash": "7cc2a4dabea50a29f39e467dc778ea8d",
-    "summary": "09/09 - Aguardando inventário de consumo e dimensionamento de infraestrutura do cliente para agendar reunião."
+    "history_hash": "30fe0c45593d305bf998f7d7d57c90de",
+    "summary": "15/10: Aguardamos retorno do cliente sobre o consumo da infraestrutura Azure até 20/10 para prosseguir com o dimensionamento no GCP."
   },
   "aBJ4M000000bntdWAA": {
     "history_hash": "066a26fa05b811b2e99cc483bcfbc054",
@@ -1024,8 +1024,8 @@
     "summary": "[2026-10-13] Ajuste de início de implementação."
   },
   "aBJKf000004ZRukOAG": {
-    "history_hash": "dab762e599a5504b7bc5dd5e416ff6e5",
-    "summary": "09/09: Próxima reunião técnica será agendada conforme disponibilidade de agenda entre cliente e parceiro."
+    "history_hash": "2603ad913c258465f5380bf93e03043e",
+    "summary": "15/10: Foco atual no dimensionamento do ambiente Azure no GCP, com reunião técnica estratégica prevista para o final deste mês."
   },
   "aBJKf000009stKeOAI": {
     "history_hash": "e56d5c777aadd7f625ed3b0ecefc6161",
@@ -1044,8 +1044,8 @@
     "summary": "[2026-10-06] Fase final de negociação contratual."
   },
   "aBJKf000004ZEsnOAG": {
-    "history_hash": "8a2dff31d4e5a26a286ef9210e9e5d07",
-    "summary": "19/08: Aguardando retorno e confirmação do cliente para prosseguir com a migração."
+    "history_hash": "93a8258ae0ada4a0282ab3fef95e57a2",
+    "summary": "19/10: Em alinhamento com a SantoDigital para recontatar o cliente e validar o interesse na migração para Gemini Enterprise ou despriorização."
   },
   "aBJKf000009solaOAA": {
     "history_hash": "4b89a9fe53407cee17d92751214f4bc6",
@@ -1168,16 +1168,16 @@
     "summary": "06/03: Implementação do SCC iniciada com suporte do parceiro."
   },
   "aBJKf000009e8ViOAI": {
-    "history_hash": "503aa97238777e4413df49d1f6af9e1b",
-    "summary": "04/05: Migração incerta; recomendado fechar a oportunidade até que o cliente apresente abertura."
+    "history_hash": "82f5b494d791bdc81a7a1f5fd9fbc673",
+    "summary": "[2026-10-19] Alinhando com Vanessa Moyses e parceiro Somos Nuvem definição sobre manutenção ou encerramento do WL/Opp, dado que cliente não deu abertura para mi..."
   },
   "aBJKf000009swQfOAI": {
     "history_hash": "f9a6d094cb01729041ea1f3cc8eb20f6",
     "summary": "17/03 - Workload finalizado e encerrado."
   },
   "aBJKf000006MVIDOA4": {
-    "history_hash": "9d920c213113576a8f58e862bdc1d743",
-    "summary": "08/10 - Aguardando envio do resultado do script DMA; cliente sem retorno após cobranças."
+    "history_hash": "02e90de55c1030a269fe999da47b26a1",
+    "summary": "20/10: Projeto pausado aguardando envio do resultado do script do DMA; cliente não responde aos contatos de follow-up realizados."
   },
   "aBJKf000009olltOAA": {
     "history_hash": "00be4d39c1b8793560bfc94632d9b0c1",
@@ -1196,20 +1196,20 @@
     "summary": "13/08 - Reunião presencial ocorre amanhã em Manaus com o novo time de TI para alinhar a reestruturação e próximos passos técnicos."
   },
   "aBJKf000004ZLwLOAW": {
-    "history_hash": "9e516f1d075bcb2f3379090a378aaaba",
-    "summary": "15/05: Reunião com CE realizada para validar a GCP Foundation e demonstrar a Agent Platform; próximo passo é a implementação dos modelos."
+    "history_hash": "2fc499827b77bbd526221c366d8777b6",
+    "summary": "19/10: Proposta com FSP enviada ao cliente; aguardando retorno para dar continuidade ao projeto e validar a implementação da plataforma."
   },
   "aBJKf000004ZR8bOAG": {
-    "history_hash": "5e95be373e1356a419b22eb91799d221",
-    "summary": "24/05: Reunião presencial com Caio Barbosa (CE) em andamento para aprofundamento técnico e alinhamento das próximas etapas do projeto."
+    "history_hash": "7649e2ed3ac49095f62ba9b633748a42",
+    "summary": "[2026-10-19] [2026-10-19] Slip +30d (-> 2026-11-18): Meeting in person with Caio Barbosa (CE) to deep dive"
   },
   "aBJKf000004ZKiVOAW": {
     "history_hash": "1b94a1e45775748ad1fed2e21a0f47af",
     "summary": "[2026-10-08] The client is reviewing it."
   },
   "aBJKf000004ZR8gOAG": {
-    "history_hash": "f19ab3a88f853c1a295c47ffb3e3fda8",
-    "summary": "04/09: Reunião presencial com Caio Barbosa (CE) realizada para aprofundamento estratégico no Model Garden, com próximos passos em definição."
+    "history_hash": "1697c7fa74c0ec3cfa312bc147a5562a",
+    "summary": "[2026-10-19] [2026-10-19] Slip +30d (-> 2026-11-18): Meeting in person with Caio Barbosa (CE) to deep dive on Model Garden"
   },
   "aBJKf000004ZMhwOAG": {
     "history_hash": "d038f7dea949513f2f463ef82a8c0d34",
@@ -1256,8 +1256,8 @@
     "summary": "[2026-10-06] TP 06/10 - Em contato com parceiro e FSR fui informada que estão em andamento com previsão de entrega ate dezembro para a migração final."
   },
   "aBJKf000009e5RjOAI": {
-    "history_hash": "2dcdcb00fc12ee3b1637345efbf567e9",
-    "summary": "11/08: Parceiro finaliza ajustes pendentes; reunião decisiva agendada para o fim de agosto devido ao período de férias executivas."
+    "history_hash": "38355cc3caa204065dab60a23061dc3a",
+    "summary": "[2026-10-19] TP 19/10 - FUP parceiro."
   },
   "aBJKf000004ZHgxOAG": {
     "history_hash": "1ed444c1af25b88474f3776ec84fbe97",
@@ -1284,8 +1284,8 @@
     "summary": "[2026-10-08] TP 08/10 - A POC está andamento. Parceiro etá realizando reuniões com os gestores e com a área de auditoria do Hospital Madre Tereza para definição..."
   },
   "aBJKf000004ZGCtOAO": {
-    "history_hash": "16366e3f1f9ea3f3a7590b7b239816f3",
-    "summary": "26/05: Projeto em andamento; a próxima etapa é agendar a reunião entre parceiro e cliente para avançar com a execução."
+    "history_hash": "d6524b04bd72d20e9d4796001c11e139",
+    "summary": "[2026-10-19] [2026-10-19] Slip +30d (-> 2026-11-18): TP 26/5 - Agendar reunião do parceiro e cliente para avançar com o projeto."
   },
   "aBJKf000004ZIVUOA4": {
     "history_hash": "d7ba3c66cba1fc24133b3cf872692a88",
@@ -1348,8 +1348,8 @@
     "summary": "04/08: DSR em acompanhamento com a parceira SantoDigital; aguardamos retorno sobre o provisionamento até a próxima sexta-feira."
   },
   "aBJKf000004ZIinOAG": {
-    "history_hash": "36feffbb9c624b2a8a28b11d2f5c9cc5",
-    "summary": "18/09: Validação da calculadora pendente devido à migração do cliente; acompanhamento em curso via WhatsApp para destravar o processo."
+    "history_hash": "18873d6506301ab5131805b70c73ee36",
+    "summary": "[2026-10-19] TP 19/10 - Chamei novamente o João para saber se teremos evolução no projeto, anteriormente ele me informou que estavam com dificuldades de retomar..."
   },
   "aBJKf000009kMPfOAM": {
     "history_hash": "80ca8666be28ef8ce44a2e8c0afe7ff3",
@@ -1372,8 +1372,8 @@
     "summary": "[2026-09-09] FSR está liderando projeto, estão conversando quinzenalmente sobre IA e segurança."
   },
   "aBJKf000009eQ27OAE": {
-    "history_hash": "074db828e2f62358bfa477840f711ff9",
-    "summary": "[2026-10-07] Enviei mensagem a partner Etelvina, aguardando retorno para alinhamento de datas"
+    "history_hash": "8f08b15104eb5a2422a05098d9171eaf",
+    "summary": "13/10: Projeto aguarda retorno de férias do cliente para definição do dimensionamento em alinhamento com a parceira Etelvina."
   },
   "aBJKf000009eWYEOA2": {
     "history_hash": "634dbed887a93dff282841613190126d",
@@ -1416,12 +1416,12 @@
     "summary": "[2026-10-08] 08/10 [VF] - Reunião de apresentação de proposta e arquitetura agendada para 13/10 às 11h30 com o parceiro ATRA e equipe de BI/TI do Banco Rendimen..."
   },
   "aBJKf000009kLGSOA2": {
-    "history_hash": "ad8cbab0fe08e3d9aba5b1fef2136663",
-    "summary": "[2026-10-08] 08/10 [VF] - Proposta em fase final de negociação para fechamento em Q4 junto ao parceiro Compass.UOL (Avenue Code). Acompanhando aprovação comerci..."
+    "history_hash": "688d352ce3962f79b55a1dd5bcec6f97",
+    "summary": "[2026-10-20] [LL] Customer not prioritizing WL at the moment. Partner will re-engage customer and bring answer on Oct/26."
   },
   "aBJKf000009kLGcOAM": {
-    "history_hash": "42e78114b4fb76574c62cc1a9dd134f4",
-    "summary": "[2026-10-08] 08/10 [VF] - Escopo técnico do Agente de Gameficação validado com parceiro Compass.UOL (Avenue Code). Em negociação comercial final pela FSR para a..."
+    "history_hash": "4a86f4925f333bbe6a1aba4159995e06",
+    "summary": "20/10: Cliente pausou o projeto; parceiro reengajará em 26/10 para definir continuidade após validação técnica do escopo pelo parceiro."
   },
   "aBJKf000009oi14OAA": {
     "history_hash": "138b2a090888b60e26fc8a499d411b0c",
@@ -1464,7 +1464,63 @@
     "summary": "[2026-10-08] 08/10 [VF] - Cadência semanal realizada em 02/10 com Rodrigo Missagia e Renan Valadares alinhando migração de fluxos de IA para Vertex AI, otimizaç..."
   },
   "aBJKf000004ZQKCOA4": {
-    "history_hash": "d01c02f4a6dd710114ed48f2f8dab4ef",
-    "summary": "[2026-10-08] Follow up no partner Roberto Oguma"
+    "history_hash": "83b1bc141efa040ff5999beaafa21cca",
+    "summary": "[2026-10-15] Enviei novo follow up ao partner MOVTI"
+  },
+  "aBJKf000009eA7bOAE": {
+    "history_hash": "5711cc7e3b2d17c023b2bb87df7dc37e",
+    "summary": "[2026-10-09] WLK Closed Won"
+  },
+  "aBJKf000004ZLP9OAO": {
+    "history_hash": "ebf21760947070920d8bd646690c7e45",
+    "summary": "14/10: Reunião com a diretoria agendada para a próxima segunda-feira para definir os próximos passos do projeto."
+  },
+  "aBJKf000004ZTT2OAO": {
+    "history_hash": "1a181ee3cd9323360031538925ad6800",
+    "summary": "[2026-10-20] [2026-10-20] fmoz: Run-rate abaixo de USD5k/mês, nesse pace de consumo, o ARR estimado ficará entorno de USD60k/ano.."
+  },
+  "aBJKf000004ZLw6OAG": {
+    "history_hash": "6f819b8e32d82e561da1fce0d36d46d4",
+    "summary": "20/08: Licenças GE já ativas e em uso pelo cliente, concluindo a etapa de implementação do projeto."
+  },
+  "aBJKf000009eYz7OAE": {
+    "history_hash": "ae8f10c321337b644ff6e782340b3ed9",
+    "summary": "16/10 - Incentivo em aprovação; próxima etapa é a apresentação durante o Google Day com o cliente."
+  },
+  "aBJKf000004ZLx4OAG": {
+    "history_hash": "86c2b2169d373f0e143d6c784665f985",
+    "summary": "[2026-09-29] TP 29/09 - Parceiro enviou a SOW para validação."
+  },
+  "aBJKf000009eD6QOAU": {
+    "history_hash": "df8ca04f7c225596a074c0feba3d566e",
+    "summary": "19/10: Workload em ramp-up com a Somos Nuvem; monitoramos expansão no GKE/Cloud Run para go-live planejado em dezembro de 2026."
+  },
+  "aBJKf000004ZO3xOAG": {
+    "history_hash": "0b52f32e012a12d54063f9da4fafb343",
+    "summary": "[2026-10-19] Contratação via Cloud Marketplace concluída e implementada com sucesso em conjunto com o parceiro Datadog. Workload em produção e gerando consumo."
+  },
+  "aBJKf000009eZBrOAM": {
+    "history_hash": "06ce5654c3a2bd703973a04cd0ba332c",
+    "summary": "[LL] Define strategy with partner to increase adoption before renewal"
+  },
+  "aBJKf000009dym5OAA": {
+    "history_hash": "9f86cd466ab294f67f2af138fd0f3090",
+    "summary": "[2026-10-19] [2026-10-19] fmoz: Oportunidade vinculada marcada como Closed Lost; encerrando workload correspondente."
+  },
+  "aBJKf000004ZLy7OAG": {
+    "history_hash": "3d759be8bc57ab3b54bbc26c36929fb6",
+    "summary": "[2026-10-19] [2026-10-19] fmoz: Revisão técnica em andamento; Fazer review de escopo."
+  },
+  "aBJKf000009kJ2nOAE": {
+    "history_hash": "cf6f3a9f31450797c2a82e479209069b",
+    "summary": "[2026-10-20] Hoje tivemos uma reunião com o time Marketing para iniciar a POC de execução via GE e Antigravity, o que vai gerar consumo de tokens via Agent Plat..."
+  },
+  "aBJKf000009olmNOAQ": {
+    "history_hash": "46a34f306d3fcbe7cb7a8fd4964d2b26",
+    "summary": "20/10: Projeto integralmente implementado e migração concluída com sucesso, encerrando as atividades previstas para esta etapa."
+  },
+  "aBJKf000009e21pOAA": {
+    "history_hash": "37da48cb91430fa4ee7f522a40c9b654",
+    "summary": "[2026-10-20] [2026-10-20] Slip +30d (-> 2026-11-19): Cronograma reprogramado (+30d)."
   }
 }
