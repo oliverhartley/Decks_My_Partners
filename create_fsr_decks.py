@@ -24,6 +24,7 @@ import subprocess
 import time
 
 sys.path.append("/usr/local/google/home/oliverhartley/jetski-workspace/Decks_My_Partners")
+os.environ["GOOGLE_CLOUD_PROJECT"] = "ohl-ge-demo-gen"
 from update_all_partner_decks import (
     get_account_tier, parse_expert_requests, get_latest_update_str, make_hyperlink, norm_str, extract_hyperlink_label
 )
@@ -146,9 +147,10 @@ FOLLOWUP_HEADERS = [
     "Workload Partner",                 # Col 14 (O)
     "Workload Owner Email",             # Col 15 (P)
     "Primary CE Technical Owner Email", # Col 16 (Q)
-    "Partner Technical Owner Email",    # Col 17 (R)
-    "Technical win",                    # Col 18 (S)
-    "Propousal sent to client"          # Col 19 (T)
+    "Partner Technical Contact",        # Col 17 (R)
+    "Client Technical Contact",         # Col 18 (S)
+    "Technical win",                    # Col 19 (T)
+    "Propousal sent to client"          # Col 20 (U)
 ]
 
 FOLLOWUP_COL_WIDTHS = {
@@ -169,9 +171,10 @@ FOLLOWUP_COL_WIDTHS = {
     14: 240, # Workload Partner
     15: 200, # Workload Owner Email
     16: 200, # Primary CE Technical Owner Email
-    17: 220, # Partner Technical Owner Email
-    18: 130, # Technical win
-    19: 170  # Propousal sent to client
+    17: 240, # Partner Technical Contact
+    18: 240, # Client Technical Contact
+    19: 130, # Technical win
+    20: 170  # Propousal sent to client
 }
 
 MATCHMAKER_HEADERS = [
@@ -182,34 +185,36 @@ MATCHMAKER_HEADERS = [
     "Workload Progress",                # Col 4 (E)
     "Primary Pillar",                   # Col 5 (F)
     "Key Products / Solution",          # Col 6 (G)
-    "Top Proposed Partner 1",           # Col 7 (H)
-    "Partner 1 Standing & Bench",       # Col 8 (I)
-    "Partner 1 Selection Logic",        # Col 9 (J)
-    "Alternative Partner 2",            # Col 10 (K)
-    "Partner 2 Standing & Bench",       # Col 11 (L)
-    "Partner 2 Selection Logic",        # Col 12 (M)
-    "Target Production Date",           # Col 13 (N)
-    "Opportunity Name",                 # Col 14 (O)
-    "Next Steps"                        # Col 15 (P)
+    "Opportunity Partner",              # Col 7 (H)
+    "Top Proposed Partner 1",           # Col 8 (I)
+    "Partner 1 Standing & Bench",       # Col 9 (J)
+    "Partner 1 Selection Logic",        # Col 10 (K)
+    "Alternative Partner 2",            # Col 11 (L)
+    "Partner 2 Standing & Bench",       # Col 12 (M)
+    "Partner 2 Selection Logic",        # Col 13 (N)
+    "Target Production Date",           # Col 14 (O)
+    "Opportunity Name",                 # Col 15 (P)
+    "Next Steps"                        # Col 16 (Q)
 ]
 
 MATCHMAKER_COL_WIDTHS = {
-    0: 280,
-    1: 90,
-    2: 260,
-    3: 150,
-    4: 170,
-    5: 180,
-    6: 220,
-    7: 240,
-    8: 200,
-    9: 340,
-    10: 240,
-    11: 200,
-    12: 340,
-    13: 140,
-    14: 260,
-    15: 350
+    0: 280,  # Customer Account Name
+    1: 90,   # Account Tier
+    2: 260,  # Workload Name
+    3: 150,  # Annual Gross Revenue (ARR USD)
+    4: 170,  # Workload Progress
+    5: 180,  # Primary Pillar
+    6: 220,  # Key Products / Solution
+    7: 250,  # Opportunity Partner
+    8: 240,  # Top Proposed Partner 1
+    9: 200,  # Partner 1 Standing & Bench
+    10: 340, # Partner 1 Selection Logic
+    11: 240, # Alternative Partner 2
+    12: 200, # Partner 2 Standing & Bench
+    13: 340, # Partner 2 Selection Logic
+    14: 140, # Target Production Date
+    15: 260, # Opportunity Name
+    16: 350  # Next Steps
 }
 
 SUMMARY_COL_WIDTHS = {
@@ -310,14 +315,15 @@ def fetch_existing_fsr_manual_entries(ssid):
                 status_tecnico = get_col(r, "Status Tecnico")
                 blocker_tecnico = get_col(r, "Blocker Tecnico")
                 plano_execucao = get_col(r, "Plano de Execução")
-                partner_tech_email = get_col(r, "Partner Technical Owner Email")
+                partner_tech_contact = get_col(r, "Partner Technical Contact") or get_col(r, "Partner Technical Owner Email")
+                client_tech_contact = get_col(r, "Client Technical Contact")
                 tech_win_raw = get_col(r, "Technical win")
                 prop_sent_raw = get_col(r, "Propousal sent to client") or get_col(r, "Proposal sent to client")
 
                 tech_win_bool = str(tech_win_raw).strip().upper() == "TRUE"
                 prop_sent_bool = str(prop_sent_raw).strip().upper() == "TRUE"
 
-                if any([notes_tasks, blocker, solution, ask_fsr, status_tecnico, blocker_tecnico, plano_execucao, partner_tech_email, tech_win_bool, prop_sent_bool]):
+                if any([notes_tasks, blocker, solution, ask_fsr, status_tecnico, blocker_tecnico, plano_execucao, partner_tech_contact, client_tech_contact, tech_win_bool, prop_sent_bool]):
                     entries[wname] = {
                         "notes_tasks": notes_tasks,
                         "blocker": blocker,
@@ -326,7 +332,9 @@ def fetch_existing_fsr_manual_entries(ssid):
                         "status_tecnico": status_tecnico,
                         "blocker_tecnico": blocker_tecnico,
                         "plano_execucao": plano_execucao,
-                        "partner_tech_email": partner_tech_email,
+                        "partner_tech_contact": partner_tech_contact,
+                        "partner_tech_email": partner_tech_contact,
+                        "client_tech_contact": client_tech_contact,
                         "technical_win": tech_win_bool,
                         "proposal_sent": prop_sent_bool
                     }
@@ -435,12 +443,11 @@ def build_fsr_deck(fsr_cfg, cache, prio_map, user_data, existing_manual=None, ou
     all_workloads = cache.get("fsr_workloads", [])
     candidates = cache.get("candidate_partners", [])
 
-    # Filter for this FSR, excluding stage 4.3 (Migrated/Implemented)
+    # Filter for this FSR (including stage 4.3 Migrated/Implemented, implementation date >= 2026-07-01)
     wkls = [
         w for w in all_workloads
         if (w.get("workload_owner_username") == fsr_user or norm_str(w.get("workload_owner_name")) == norm_str(fsr_name))
-        and not (w.get("workload_progress") or "").strip().startswith("4.3")
-        and "4.3" not in (w.get("workload_progress") or "")
+        and (w.get("begin_migration_date") or "") >= "2026-07-01"
     ]
     
     # Sort by ARR descending
@@ -463,7 +470,7 @@ def build_fsr_deck(fsr_cfg, cache, prio_map, user_data, existing_manual=None, ou
     r1 = ["FSR:", f"{fsr_name} ({fsr_email})", "", "", "Supporting CE:", supporting_ce, "Last Update:", DATE_FORMATTED] + [""] * (num_cols - 8)
     # Rows 2-4: Row 3 alert note to alert users of stage 4.3 removal & Opportunity Stage addition
     r2 = [""] * num_cols
-    alert_note_text = "📢 UPDATE: Workloads in stage 4.3 (Migrated/Implemented) have been removed. Added new field 'Opportunity Stage' between ARR and Workload Progress."
+    alert_note_text = "📢 UPDATE: Workloads in stage 4.3 (Migrated/Implemented) are now included. Added new field 'Opportunity Stage' between ARR and Workload Progress."
     r3 = [alert_note_text] + [""] * (num_cols - 1)
     r4 = [""] * num_cols
     # Row 5: Column Headers (20 cols total)
@@ -534,7 +541,26 @@ def build_fsr_deck(fsr_cfg, cache, prio_map, user_data, existing_manual=None, ou
 
         blocker_val = m_entry.get("blocker") or u_info.get("blocker_tecnico") or ""
         status_tecnico_val = m_entry.get("status_tecnico") or u_info.get("status_tecnico") or ""
-        partner_tech_email = m_entry.get("partner_tech_email") or w.get("partner_technical_email") or ""
+        partner_tech_val = (
+            m_entry.get("partner_tech_contact")
+            or m_entry.get("partner_tech_email")
+            or u_info.get("partner_technical_contact")
+            or u_info.get("partner_technical_email")
+            or w.get("partner_technical_contact")
+            or w.get("partner_technical_email")
+            or ""
+        )
+        if partner_tech_val and "@" in partner_tech_val and "(" not in partner_tech_val:
+            p_name = w.get("partner_technical_name") or ""
+            if p_name:
+                partner_tech_val = f"{p_name} ({partner_tech_val})"
+
+        client_tech_val = (
+            m_entry.get("client_tech_contact")
+            or u_info.get("client_technical_contact")
+            or w.get("client_technical_contact")
+            or ""
+        )
 
         def to_bool_str(val):
             if isinstance(val, bool):
@@ -571,9 +597,10 @@ def build_fsr_deck(fsr_cfg, cache, prio_map, user_data, existing_manual=None, ou
             wkl_partner_cell,           # 14 (O): Workload Partner
             owner_email,                # 15 (P): Workload Owner Email
             ce_email,                   # 16 (Q): Primary CE Technical Owner Email
-            partner_tech_email,         # 17 (R): Partner Technical Owner Email
-            tech_win_val,               # 18 (S): Technical win (Checkbox)
-            prop_sent_val               # 19 (T): Propousal sent to client (Checkbox)
+            partner_tech_val,           # 17 (R): Partner Technical Contact
+            client_tech_val,            # 18 (S): Client Technical Contact
+            tech_win_val,               # 19 (T): Technical win (Checkbox)
+            prop_sent_val               # 20 (U): Propousal sent to client (Checkbox)
         ]
         followup_rows.append(row_data)
 
@@ -745,14 +772,20 @@ def build_fsr_deck(fsr_cfg, cache, prio_map, user_data, existing_manual=None, ou
     # -------------------------------------------------------------
     # 3. TAB 3: Unpartnered_Matchmaker CSV
     # -------------------------------------------------------------
+    num_m_cols = len(MATCHMAKER_HEADERS)
     match_rows = [
-        [f"🤝 UNPARTNERED DEALS & BRAZIL PARTNER MATCHMAKER — {fsr_name.upper()}", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
-        ["Deals lacking an attached delivery partner. Candidate Brazil partners ranked by certified DRP bench, product expertise, and delivery track record.", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
-        ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
+        [f"🤝 UNPARTNERED DEALS & BRAZIL PARTNER MATCHMAKER — {fsr_name.upper()}"] + [""] * (num_m_cols - 1),
+        ["Deals lacking an attached delivery partner. Candidate Brazil partners ranked by certified DRP bench, product expertise, and delivery track record."] + [""] * (num_m_cols - 1),
+        [""] * num_m_cols,
         list(MATCHMAKER_HEADERS)
     ]
 
-    for uw in unpartnered_wkls:
+    if not unpartnered_wkls:
+        match_rows.append([
+            f"🎉 100% Partnered Portfolio — All {len(wkls)} active workloads (${total_arr:,.2f} ARR) have attached delivery partners. Zero unpartnered deals requiring matchmaking."
+        ] + [""] * (num_m_cols - 1))
+    else:
+        for uw in unpartnered_wkls:
         uw_id = uw.get("workload_id") or ""
         uw_name = uw.get("workload_name") or ""
         uw_aid = uw.get("sfdc_account_id") or ""
@@ -788,6 +821,14 @@ def build_fsr_deck(fsr_cfg, cache, prio_map, user_data, existing_manual=None, ou
         else:
             p2_name, p2_bench, p2_logic = "-", "-", "-"
 
+        opp_pid = uw.get("opportunity_partner_id") or ""
+        opp_pname = uw.get("opportunity_partner_name") or ""
+        if opp_pname:
+            opp_p_url = f"https://vector.lightning.force.com/lightning/r/Account/{opp_pid}/view" if opp_pid else ""
+            opp_partner_cell = make_hyperlink(opp_p_url, opp_pname) if opp_p_url else opp_pname
+        else:
+            opp_partner_cell = ""
+
         match_rows.append([
             acc_cell,
             uw_tier,
@@ -796,6 +837,7 @@ def build_fsr_deck(fsr_cfg, cache, prio_map, user_data, existing_manual=None, ou
             uw_prog,
             uw_pillar,
             uw_prods,
+            opp_partner_cell,
             p1_name,
             p1_bench,
             p1_logic,
@@ -880,7 +922,7 @@ def deploy_fsr_deck(deck_info):
         print("Clearing old data and conditional formatting...")
         subprocess.run([GSHEETS, "mutate", "clear", ssid, "'Follow_up'!A1:AJ2000"], capture_output=True)
         subprocess.run([GSHEETS, "mutate", "clear", ssid, "'Executive_Summary'!A1:G500"], capture_output=True)
-        subprocess.run([GSHEETS, "mutate", "clear", ssid, "'Unpartnered_Matchmaker'!A1:P2000"], capture_output=True)
+        subprocess.run([GSHEETS, "mutate", "clear", ssid, "'Unpartnered_Matchmaker'!A1:Z2000"], capture_output=True)
 
         try:
             res_info = subprocess.run([GSHEETS, "readonly", "info", ssid, "--json"], capture_output=True, text=True)
@@ -956,13 +998,19 @@ def deploy_fsr_deck(deck_info):
 
     # 4. Import CSVs
     print(f"Importing Follow_up data ({p_cols} columns)...")
-    subprocess.run([GSHEETS, "mutate", "import-csv", ssid, followup_csv, "--sheet", "Follow_up"], capture_output=True)
+    res_f = subprocess.run([GSHEETS, "mutate", "import-csv", ssid, followup_csv, "--sheet", "Follow_up"], capture_output=True, text=True)
+    if res_f.returncode != 0:
+        print(f"ERROR importing Follow_up: {res_f.stderr}")
 
     print("Importing Executive_Summary data...")
-    subprocess.run([GSHEETS, "mutate", "import-csv", ssid, summary_csv, "--sheet", "Executive_Summary"], capture_output=True)
+    res_s = subprocess.run([GSHEETS, "mutate", "import-csv", ssid, summary_csv, "--sheet", "Executive_Summary"], capture_output=True, text=True)
+    if res_s.returncode != 0:
+        print(f"ERROR importing Executive_Summary: {res_s.stderr}")
 
     print("Importing Unpartnered_Matchmaker data...")
-    subprocess.run([GSHEETS, "mutate", "import-csv", ssid, matchmaker_csv, "--sheet", "Unpartnered_Matchmaker"], capture_output=True)
+    res_m = subprocess.run([GSHEETS, "mutate", "import-csv", ssid, matchmaker_csv, "--sheet", "Unpartnered_Matchmaker"], capture_output=True, text=True)
+    if res_m.returncode != 0:
+        print(f"ERROR importing Unpartnered_Matchmaker: {res_m.stderr}")
 
     # Cleanup default Sheet1 if exists
     cleanup_default_sheet(ssid)
@@ -996,10 +1044,10 @@ def deploy_fsr_deck(deck_info):
     sid_summary = s_info["sheetId"]
     s_rows = max(s_total_rows, s_info["rowCount"])
 
-    m_info = grid_info.get("Unpartnered_Matchmaker", {"sheetId": sid_matchmaker, "rowCount": m_total_rows, "columnCount": 16})
+    m_info = grid_info.get("Unpartnered_Matchmaker", {"sheetId": sid_matchmaker, "rowCount": m_total_rows, "columnCount": len(MATCHMAKER_HEADERS)})
     sid_matchmaker = m_info["sheetId"]
     m_rows = max(m_total_rows, m_info["rowCount"])
-    m_cols = 16
+    m_cols = len(MATCHMAKER_HEADERS)
 
     # -------------------------------------------------------------
     # 5. Format Follow_up Tab (15 columns, minimal formatting)
@@ -1041,6 +1089,24 @@ def deploy_fsr_deck(deck_info):
             {"unmergeCells": {"range": {"sheetId": sid_followup, "startRowIndex": 0, "endRowIndex": min(10, f_rows), "startColumnIndex": 0, "endColumnIndex": p_cols}}},
             # Maintain Row 1 merge & formatting
             {"mergeCells": {"range": {"sheetId": sid_followup, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 1, "endColumnIndex": 4}, "mergeType": "MERGE_ALL"}},
+            {
+                "updateCells": {
+                    "range": {"sheetId": sid_followup, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 0, "endColumnIndex": 8},
+                    "rows": [{
+                        "values": [
+                            {"userEnteredValue": {"stringValue": "FSR:"}},
+                            {"userEnteredValue": {"stringValue": f"{fsr_name} ({fsr_email})"}},
+                            {"userEnteredValue": {"stringValue": ""}},
+                            {"userEnteredValue": {"stringValue": ""}},
+                            {"userEnteredValue": {"stringValue": "Supporting CE:"}},
+                            {"userEnteredValue": {"stringValue": supporting_ce}},
+                            {"userEnteredValue": {"stringValue": "Last Update:"}},
+                            {"userEnteredValue": {"stringValue": DATE_FORMATTED}}
+                        ]
+                    }],
+                    "fields": "userEnteredValue"
+                }
+            },
             {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 0, "endColumnIndex": 1}, "cell": {"userEnteredFormat": {"textFormat": {"bold": True, "foregroundColor": {"red": 0.37, "green": 0.39, "blue": 0.41}}, "horizontalAlignment": "RIGHT"}}, "fields": "userEnteredFormat(textFormat,horizontalAlignment)"}},
             {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 1, "endColumnIndex": 4}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.91, "green": 0.94, "blue": 1.0}, "textFormat": {"bold": True, "fontSize": 11, "foregroundColor": {"red": 0.10, "green": 0.45, "blue": 0.91}}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
             {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 4, "endColumnIndex": 5}, "cell": {"userEnteredFormat": {"textFormat": {"bold": True, "foregroundColor": {"red": 0.37, "green": 0.39, "blue": 0.41}}, "horizontalAlignment": "RIGHT"}}, "fields": "userEnteredFormat(textFormat,horizontalAlignment)"}},
@@ -1064,7 +1130,7 @@ def deploy_fsr_deck(deck_info):
                             "verticalAlignment": "MIDDLE",
                             "wrapStrategy": "CLIP"
                         },
-                        "note": "Workloads in stage 4.3 (Migrated/Implemented) have been removed. Added new field 'Opportunity Stage' between ARR and Workload Progress."
+                        "note": "Workloads in stage 4.3 (Migrated/Implemented) are now included. Added new field 'Opportunity Stage' between ARR and Workload Progress."
                     },
                     "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment,verticalAlignment,wrapStrategy),note"
                 }
@@ -1097,10 +1163,10 @@ def deploy_fsr_deck(deck_info):
                     }
                 }
             },
-            # Col 18 (S) & Col 19 (T): Checkboxes for 'Technical win' and 'Propousal sent to client'
+            # Col 19 (T) & Col 20 (U): Checkboxes for 'Technical win' and 'Propousal sent to client'
             {
                 "setDataValidation": {
-                    "range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 18, "endColumnIndex": 20},
+                    "range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 19, "endColumnIndex": 21},
                     "rule": {
                         "condition": {
                             "type": "BOOLEAN"
@@ -1112,7 +1178,7 @@ def deploy_fsr_deck(deck_info):
             },
             {
                 "repeatCell": {
-                    "range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 18, "endColumnIndex": 20},
+                    "range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 19, "endColumnIndex": 21},
                     "cell": {
                         "userEnteredValue": {"boolValue": False},
                         "userEnteredFormat": {
@@ -1152,7 +1218,7 @@ def deploy_fsr_deck(deck_info):
     for r_idx in deck_info.get("true_tech_wins", []):
         batch_followup["requests"].append({
             "updateCells": {
-                "range": {"sheetId": sid_followup, "startRowIndex": r_idx, "endRowIndex": r_idx + 1, "startColumnIndex": 18, "endColumnIndex": 19},
+                "range": {"sheetId": sid_followup, "startRowIndex": r_idx, "endRowIndex": r_idx + 1, "startColumnIndex": 19, "endColumnIndex": 20},
                 "rows": [{"values": [{"userEnteredValue": {"boolValue": True}}]}],
                 "fields": "userEnteredValue"
             }
@@ -1160,7 +1226,7 @@ def deploy_fsr_deck(deck_info):
     for r_idx in deck_info.get("true_prop_sents", []):
         batch_followup["requests"].append({
             "updateCells": {
-                "range": {"sheetId": sid_followup, "startRowIndex": r_idx, "endRowIndex": r_idx + 1, "startColumnIndex": 19, "endColumnIndex": 20},
+                "range": {"sheetId": sid_followup, "startRowIndex": r_idx, "endRowIndex": r_idx + 1, "startColumnIndex": 20, "endColumnIndex": 21},
                 "rows": [{"values": [{"userEnteredValue": {"boolValue": True}}]}],
                 "fields": "userEnteredValue"
             }
@@ -1306,29 +1372,31 @@ def deploy_fsr_deck(deck_info):
             # Row 4: Header row
             {"repeatCell": {"range": {"sheetId": sid_matchmaker, "startRowIndex": 3, "endRowIndex": 4, "startColumnIndex": 0, "endColumnIndex": m_cols}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.102, "green": 0.451, "blue": 0.910}, "textFormat": {"bold": True, "fontSize": 10, "foregroundColor": {"red": 1.0, "green": 1.0, "blue": 1.0}}, "horizontalAlignment": "CENTER", "verticalAlignment": "MIDDLE", "wrapStrategy": "WRAP"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment,verticalAlignment,wrapStrategy)"}},
 
-            # Left align: Account (0), Workload (2), Logic 1 (9), Logic 2 (12), Opp (14), Next Steps (15)
+            # Left align: Account (0), Workload (2), Opp Partner (7), Partner 1 (8), Logic 1 (10), Partner 2 (11), Logic 2 (13), Opp (15), Next Steps (16)
             {"repeatCell": {"range": {"sheetId": sid_matchmaker, "startRowIndex": 4, "endRowIndex": m_rows, "startColumnIndex": 0, "endColumnIndex": 1}, "cell": {"userEnteredFormat": {"horizontalAlignment": "LEFT", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
             {"repeatCell": {"range": {"sheetId": sid_matchmaker, "startRowIndex": 4, "endRowIndex": m_rows, "startColumnIndex": 2, "endColumnIndex": 3}, "cell": {"userEnteredFormat": {"horizontalAlignment": "LEFT", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
-            {"repeatCell": {"range": {"sheetId": sid_matchmaker, "startRowIndex": 4, "endRowIndex": m_rows, "startColumnIndex": 7, "endColumnIndex": 8}, "cell": {"userEnteredFormat": {"horizontalAlignment": "LEFT", "textFormat": {"bold": True}, "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,textFormat,wrapStrategy)"}},
-            {"repeatCell": {"range": {"sheetId": sid_matchmaker, "startRowIndex": 4, "endRowIndex": m_rows, "startColumnIndex": 9, "endColumnIndex": 10}, "cell": {"userEnteredFormat": {"horizontalAlignment": "LEFT", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
-            {"repeatCell": {"range": {"sheetId": sid_matchmaker, "startRowIndex": 4, "endRowIndex": m_rows, "startColumnIndex": 10, "endColumnIndex": 11}, "cell": {"userEnteredFormat": {"horizontalAlignment": "LEFT", "textFormat": {"bold": True}, "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,textFormat,wrapStrategy)"}},
-            {"repeatCell": {"range": {"sheetId": sid_matchmaker, "startRowIndex": 4, "endRowIndex": m_rows, "startColumnIndex": 12, "endColumnIndex": 13}, "cell": {"userEnteredFormat": {"horizontalAlignment": "LEFT", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
-            {"repeatCell": {"range": {"sheetId": sid_matchmaker, "startRowIndex": 4, "endRowIndex": m_rows, "startColumnIndex": 14, "endColumnIndex": 16}, "cell": {"userEnteredFormat": {"horizontalAlignment": "LEFT", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
+            {"repeatCell": {"range": {"sheetId": sid_matchmaker, "startRowIndex": 4, "endRowIndex": m_rows, "startColumnIndex": 7, "endColumnIndex": 8}, "cell": {"userEnteredFormat": {"horizontalAlignment": "LEFT", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
+            {"repeatCell": {"range": {"sheetId": sid_matchmaker, "startRowIndex": 4, "endRowIndex": m_rows, "startColumnIndex": 8, "endColumnIndex": 9}, "cell": {"userEnteredFormat": {"horizontalAlignment": "LEFT", "textFormat": {"bold": True}, "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,textFormat,wrapStrategy)"}},
+            {"repeatCell": {"range": {"sheetId": sid_matchmaker, "startRowIndex": 4, "endRowIndex": m_rows, "startColumnIndex": 10, "endColumnIndex": 11}, "cell": {"userEnteredFormat": {"horizontalAlignment": "LEFT", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
+            {"repeatCell": {"range": {"sheetId": sid_matchmaker, "startRowIndex": 4, "endRowIndex": m_rows, "startColumnIndex": 11, "endColumnIndex": 12}, "cell": {"userEnteredFormat": {"horizontalAlignment": "LEFT", "textFormat": {"bold": True}, "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,textFormat,wrapStrategy)"}},
+            {"repeatCell": {"range": {"sheetId": sid_matchmaker, "startRowIndex": 4, "endRowIndex": m_rows, "startColumnIndex": 13, "endColumnIndex": 14}, "cell": {"userEnteredFormat": {"horizontalAlignment": "LEFT", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
+            {"repeatCell": {"range": {"sheetId": sid_matchmaker, "startRowIndex": 4, "endRowIndex": m_rows, "startColumnIndex": 15, "endColumnIndex": 17}, "cell": {"userEnteredFormat": {"horizontalAlignment": "LEFT", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
 
-            # Center align: Tier (1), Progress (4), Pillar (5), Bench (8, 11), Prod Date (13)
+            # Center align: Tier (1), Progress (4), Pillar (5), Bench (9, 12), Prod Date (14)
             {"repeatCell": {"range": {"sheetId": sid_matchmaker, "startRowIndex": 4, "endRowIndex": m_rows, "startColumnIndex": 1, "endColumnIndex": 2}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
             {"repeatCell": {"range": {"sheetId": sid_matchmaker, "startRowIndex": 4, "endRowIndex": m_rows, "startColumnIndex": 4, "endColumnIndex": 7}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
-            {"repeatCell": {"range": {"sheetId": sid_matchmaker, "startRowIndex": 4, "endRowIndex": m_rows, "startColumnIndex": 8, "endColumnIndex": 9}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
-            {"repeatCell": {"range": {"sheetId": sid_matchmaker, "startRowIndex": 4, "endRowIndex": m_rows, "startColumnIndex": 11, "endColumnIndex": 12}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
-            {"repeatCell": {"range": {"sheetId": sid_matchmaker, "startRowIndex": 4, "endRowIndex": m_rows, "startColumnIndex": 13, "endColumnIndex": 14}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
+            {"repeatCell": {"range": {"sheetId": sid_matchmaker, "startRowIndex": 4, "endRowIndex": m_rows, "startColumnIndex": 9, "endColumnIndex": 10}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
+            {"repeatCell": {"range": {"sheetId": sid_matchmaker, "startRowIndex": 4, "endRowIndex": m_rows, "startColumnIndex": 12, "endColumnIndex": 13}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
+            {"repeatCell": {"range": {"sheetId": sid_matchmaker, "startRowIndex": 4, "endRowIndex": m_rows, "startColumnIndex": 14, "endColumnIndex": 15}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER", "wrapStrategy": "CLIP"}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy)"}},
 
             # Currency Format: ARR (Col 3)
             {"repeatCell": {"range": {"sheetId": sid_matchmaker, "startRowIndex": 4, "endRowIndex": m_rows, "startColumnIndex": 3, "endColumnIndex": 4}, "cell": {"userEnteredFormat": {"horizontalAlignment": "RIGHT", "wrapStrategy": "CLIP", "numberFormat": {"type": "CURRENCY", "pattern": "$#,##0.00"}}}, "fields": "userEnteredFormat(horizontalAlignment,wrapStrategy,numberFormat)"}},
 
-            # Hyperlinks styling
+            # Hyperlinks styling: Account (0), Workload (2), Opp Partner (7), Opp (15)
             {"repeatCell": {"range": {"sheetId": sid_matchmaker, "startRowIndex": 4, "endRowIndex": m_rows, "startColumnIndex": 0, "endColumnIndex": 1}, "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}}, "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"}},
             {"repeatCell": {"range": {"sheetId": sid_matchmaker, "startRowIndex": 4, "endRowIndex": m_rows, "startColumnIndex": 2, "endColumnIndex": 3}, "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}}, "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"}},
-            {"repeatCell": {"range": {"sheetId": sid_matchmaker, "startRowIndex": 4, "endRowIndex": m_rows, "startColumnIndex": 14, "endColumnIndex": 15}, "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}}, "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"}},
+            {"repeatCell": {"range": {"sheetId": sid_matchmaker, "startRowIndex": 4, "endRowIndex": m_rows, "startColumnIndex": 7, "endColumnIndex": 8}, "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}}, "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"}},
+            {"repeatCell": {"range": {"sheetId": sid_matchmaker, "startRowIndex": 4, "endRowIndex": m_rows, "startColumnIndex": 15, "endColumnIndex": 16}, "cell": {"userEnteredFormat": {"textFormat": {"underline": True, "foregroundColor": {"red": 0.0667, "green": 0.3333, "blue": 0.8000}}}}, "fields": "userEnteredFormat.textFormat(underline,foregroundColor)"}},
 
             # Borders
             {
@@ -1373,6 +1441,36 @@ def deploy_fsr_deck(deck_info):
             "updateDimensionProperties": {
                 "range": {"sheetId": sid_matchmaker, "dimension": "COLUMNS", "startIndex": c_idx, "endIndex": c_idx + 1},
                 "properties": {"pixelSize": width},
+                "fields": "pixelSize"
+            }
+        })
+
+    # Format 100% partnered banner if no unpartnered workloads
+    if deck_info.get("unpartnered_count", 0) == 0:
+        batch_matchmaker["requests"].append({
+            "mergeCells": {
+                "range": {"sheetId": sid_matchmaker, "startRowIndex": 4, "endRowIndex": 5, "startColumnIndex": 0, "endColumnIndex": m_cols},
+                "mergeType": "MERGE_ALL"
+            }
+        })
+        batch_matchmaker["requests"].append({
+            "repeatCell": {
+                "range": {"sheetId": sid_matchmaker, "startRowIndex": 4, "endRowIndex": 5, "startColumnIndex": 0, "endColumnIndex": 1},
+                "cell": {
+                    "userEnteredFormat": {
+                        "backgroundColor": {"red": 0.902, "green": 0.957, "blue": 0.918},
+                        "textFormat": {"foregroundColor": {"red": 0.075, "green": 0.451, "blue": 0.200}, "bold": True, "fontSize": 11},
+                        "horizontalAlignment": "CENTER",
+                        "verticalAlignment": "MIDDLE"
+                    }
+                },
+                "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment,verticalAlignment)"
+            }
+        })
+        batch_matchmaker["requests"].append({
+            "updateDimensionProperties": {
+                "range": {"sheetId": sid_matchmaker, "dimension": "ROWS", "startIndex": 4, "endIndex": 5},
+                "properties": {"pixelSize": 40},
                 "fields": "pixelSize"
             }
         })
