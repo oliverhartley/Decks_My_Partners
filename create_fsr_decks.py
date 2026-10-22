@@ -237,7 +237,7 @@ def get_grid_info(ssid):
     for s in data.get("sheets", []):
         props = s.get("properties", {})
         grid_info[props.get("title")] = {
-            "sheetId": props.get("sheetId", 0),
+            "sheetId": props.get("sheetId") or 0,
             "rowCount": props.get("gridProperties", {}).get("rowCount", 1000),
             "columnCount": props.get("gridProperties", {}).get("columnCount", 26)
         }
@@ -786,23 +786,23 @@ def build_fsr_deck(fsr_cfg, cache, prio_map, user_data, existing_manual=None, ou
         ] + [""] * (num_m_cols - 1))
     else:
         for uw in unpartnered_wkls:
-        uw_id = uw.get("workload_id") or ""
-        uw_name = uw.get("workload_name") or ""
-        uw_aid = uw.get("sfdc_account_id") or ""
-        uw_aname = uw.get("account_name") or ""
-        uw_opp_id = uw.get("opportunity_id") or ""
-        uw_opp_name = uw.get("opportunity_name") or ""
-        uw_arr = float(uw.get("annual_gross_revenue") or 0.0)
-        uw_prog = uw.get("workload_progress") or ""
-        uw_pillar = uw.get("pillar") or ""
-        uw_prods = ", ".join(uw.get("key_workload_products") or []) or uw.get("workload_solutions") or "Cloud Architecture"
-        uw_pdate = str(uw.get("production_date") or "").strip()
-        uw_ns = (uw.get("next_steps") or "").replace("\r\n", " ").replace("\n", " ").strip()
-        uw_tier = get_account_tier(uw_id, uw_aid, uw_aname, uw.get("segment"))
+            uw_id = uw.get("workload_id") or ""
+            uw_name = uw.get("workload_name") or ""
+            uw_aid = uw.get("sfdc_account_id") or ""
+            uw_aname = uw.get("account_name") or ""
+            uw_opp_id = uw.get("opportunity_id") or ""
+            uw_opp_name = uw.get("opportunity_name") or ""
+            uw_arr = float(uw.get("annual_gross_revenue") or 0.0)
+            uw_prog = uw.get("workload_progress") or ""
+            uw_pillar = uw.get("pillar") or ""
+            uw_prods = ", ".join(uw.get("key_workload_products") or []) or uw.get("workload_solutions") or "Cloud Architecture"
+            uw_pdate = str(uw.get("production_date") or "").strip()
+            uw_ns = (uw.get("next_steps") or "").replace("\r\n", " ").replace("\n", " ").strip()
+            uw_tier = get_account_tier(uw_id, uw_aid, uw_aname, uw.get("segment"))
 
-        acc_cell = make_hyperlink(f"https://vector.lightning.force.com/lightning/r/Account/{uw_aid}/view", uw_aname) if uw_aid else uw_aname
-        wkl_cell = make_hyperlink(f"https://vector.lightning.force.com/lightning/r/Workload__c/{uw_id}/view", uw_name) if uw_id else uw_name
-        opp_cell = make_hyperlink(f"https://vector.lightning.force.com/lightning/r/Opportunity/{uw_opp_id}/view", uw_opp_name) if uw_opp_id else uw_opp_name
+            acc_cell = make_hyperlink(f"https://vector.lightning.force.com/lightning/r/Account/{uw_aid}/view", uw_aname) if uw_aid else uw_aname
+            wkl_cell = make_hyperlink(f"https://vector.lightning.force.com/lightning/r/Workload__c/{uw_id}/view", uw_name) if uw_id else uw_name
+            opp_cell = make_hyperlink(f"https://vector.lightning.force.com/lightning/r/Opportunity/{uw_opp_id}/view", uw_opp_name) if uw_opp_id else uw_opp_name
 
         matches = match_partners_for_workload(uw, candidates)
         if len(matches) >= 1:
@@ -1037,16 +1037,16 @@ def deploy_fsr_deck(deck_info):
     # Fetch actual grid dimensions
     grid_info = get_grid_info(ssid)
     f_info = grid_info.get("Follow_up", {"sheetId": sid_followup, "rowCount": f_total_rows, "columnCount": p_cols})
-    sid_followup = f_info["sheetId"]
-    f_rows = max(f_total_rows, f_info["rowCount"])
+    sid_followup = f_info.get("sheetId") or 0
+    f_rows = max(f_total_rows, f_info.get("rowCount", 1000))
 
     s_info = grid_info.get("Executive_Summary", {"sheetId": sid_summary, "rowCount": s_total_rows, "columnCount": 7})
-    sid_summary = s_info["sheetId"]
-    s_rows = max(s_total_rows, s_info["rowCount"])
+    sid_summary = s_info.get("sheetId") or 0
+    s_rows = max(s_total_rows, s_info.get("rowCount", 1000))
 
     m_info = grid_info.get("Unpartnered_Matchmaker", {"sheetId": sid_matchmaker, "rowCount": m_total_rows, "columnCount": len(MATCHMAKER_HEADERS)})
-    sid_matchmaker = m_info["sheetId"]
-    m_rows = max(m_total_rows, m_info["rowCount"])
+    sid_matchmaker = m_info.get("sheetId") or 0
+    m_rows = max(m_total_rows, m_info.get("rowCount", 1000))
     m_cols = len(MATCHMAKER_HEADERS)
 
     # -------------------------------------------------------------
@@ -1085,8 +1085,8 @@ def deploy_fsr_deck(deck_info):
                     "innerVertical": {"style": "NONE"}
                 }
             },
-            # Unmerge top rows (clears merges on rows 1-10)
-            {"unmergeCells": {"range": {"sheetId": sid_followup, "startRowIndex": 0, "endRowIndex": min(10, f_rows), "startColumnIndex": 0, "endColumnIndex": p_cols}}},
+            # Unmerge ALL rows across sheet to clear any old merges
+            {"unmergeCells": {"range": {"sheetId": sid_followup, "startRowIndex": 0, "endRowIndex": f_rows, "startColumnIndex": 0, "endColumnIndex": p_cols}}},
             # Maintain Row 1 merge & formatting
             {"mergeCells": {"range": {"sheetId": sid_followup, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 1, "endColumnIndex": 4}, "mergeType": "MERGE_ALL"}},
             {
