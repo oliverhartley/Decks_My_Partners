@@ -5,7 +5,7 @@ import os
 import sys
 import datetime
 
-sys.path.append("/usr/local/google/home/oliverhartley/jetski-workspace/Decks_My_Partners")
+sys.path.append("/usr/local/google/home/oliverhartley/jetski-workspace/fsr-wkld-decks")
 from query_bq import run_query
 
 GSHEETS = "/google/bin/releases/gemini-agents-gsheets/gsheets"

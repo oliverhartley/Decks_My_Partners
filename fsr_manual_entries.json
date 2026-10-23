@@ -1095,10 +1095,22 @@
     "status_tecnico": "Avaliar WLs adicionais ao GE",
     "updated_at": "2026-10-14T15:38:16.884490"
   },
-  "aBJKf000004ZOgBOAW": {},
-  "Solis Investimentos_Migração parte 2": {},
-  "aBJKf000004ZJCYOA4": {},
-  "Solis Investimentos_Migração": {},
+  "aBJKf000004ZOgBOAW": {
+    "client_tech_contact": "Delano Macêdo (delano.macedo@solisinvestimentos.com.br)",
+    "updated_at": "2026-10-23T17:44:59.390120"
+  },
+  "Solis Investimentos_Migração parte 2": {
+    "client_tech_contact": "Delano Macêdo (delano.macedo@solisinvestimentos.com.br)",
+    "updated_at": "2026-10-23T17:44:59.390120"
+  },
+  "aBJKf000004ZJCYOA4": {
+    "client_tech_contact": "Delano Macêdo (delano.macedo@solisinvestimentos.com.br)",
+    "updated_at": "2026-10-23T17:44:59.390120"
+  },
+  "Solis Investimentos_Migração": {
+    "client_tech_contact": "Delano Macêdo (delano.macedo@solisinvestimentos.com.br)",
+    "updated_at": "2026-10-23T17:44:59.390120"
+  },
   "aBJKf000004ZJNQOA4": {},
   "Migração AWS": {},
   "aBJKf000004ZQ8VOAW": {},
@@ -3436,5 +3448,26 @@
   "aBJKf000009eZBrOAM": {},
   "[GE] 132 Licenses Renewal": {},
   "aBJKf000009dym5OAA": {},
-  "MRS: Logistica Consultoria Ltda #GCP #SecOps": {}
+  "MRS: Logistica Consultoria Ltda #GCP #SecOps": {},
+  "aBJKf000004ZVYYOA4": {},
+  "Consumo de API": {},
+  "aBJKf000004ZVbNOAW": {},
+  "GE_Solis": {},
+  "aBJKf000004ZVegOAG": {},
+  "aBJKf000004ZVeHOAW": {},
+  "GE_WPS": {},
+  "aBJKf000004ZVeROAW": {},
+  "Crescimento WPS": {},
+  "aBJKf000004ZVXBOA4": {},
+  "GE_Mobcall": {},
+  "aBJKf000004ZVeWOAW": {},
+  "Smart Fit - Commit 3Y": {},
+  "aBJKf000004ZVeqOAG": {},
+  "Blue sevice - recommit": {},
+  "aBJKf000009onjSOAQ": {},
+  "Mangum Tires (Reifen) - Infra Modernization": {},
+  "aBJKf000009onuzOAA": {},
+  "Innovaro - Infra Modernization": {},
+  "aBJKf000009kLL3OAM": {},
+  "Cloud SQL": {}
 }

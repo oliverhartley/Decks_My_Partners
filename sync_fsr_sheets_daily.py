@@ -29,7 +29,7 @@ import sys
 import time
 import subprocess
 
-BASE_DIR = "/usr/local/google/home/oliverhartley/jetski-workspace/Decks_My_Partners"
+BASE_DIR = "/usr/local/google/home/oliverhartley/jetski-workspace/fsr-wkld-decks"
 
 
 def main():
@@ -55,8 +55,16 @@ def main():
     subprocess.run([sys.executable, os.path.join(BASE_DIR, "extract_copilot_data.py")], check=True)
 
     # Step 3: Build and deploy all 8 FSR Action Trackers + update Drive caches
-    print("\n[Step 3/3] Updating all 8 Brazil FSR Google Sheets & Command Center caches (create_fsr_decks.py)...")
+    print("\n[Step 3/4] Updating all 8 Brazil FSR Google Sheets & Command Center caches (create_fsr_decks.py)...")
     subprocess.run([sys.executable, os.path.join(BASE_DIR, "create_fsr_decks.py")], check=True)
+
+    # Step 4: Build and deploy Oliver Hartley FSR Rollup Dashboard
+    print("\n[Step 4/5] Updating Oliver Hartley FSR Rollup Management Dashboard (build_oliver_fsr_rollup.py)...")
+    subprocess.run([sys.executable, os.path.join(BASE_DIR, "build_oliver_fsr_rollup.py")], check=True)
+
+    # Step 5: Update Date_Changes tab across Oliver Hartley FSRs and Rollup Dashboard
+    print("\n[Step 5/5] Updating 'Date_Changes' tab across 4 FSR Action Trackers & Rollup (date_changes_tab.py)...")
+    subprocess.run([sys.executable, os.path.join(BASE_DIR, "date_changes_tab.py")], check=True)
 
     elapsed = (time.time() - start_ts) / 60.0
     print("\n" + "=" * 70)

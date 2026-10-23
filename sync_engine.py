@@ -22,7 +22,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 from copilot_engine import enrich_portfolio_cache
 
-BASE_DIR = "/usr/local/google/home/oliverhartley/jetski-workspace/Decks_My_Partners"
+BASE_DIR = "/usr/local/google/home/oliverhartley/jetski-workspace/fsr-wkld-decks"
 GSHEETS = "/google/bin/releases/gemini-agents-gsheets/gsheets"
 
 PORTFOLIO_CACHE_FILE = os.path.join(BASE_DIR, "data", "portfolio_cache.json")
@@ -45,9 +45,10 @@ FSR_SHEET_CONFIGS = [
 FIELD_SPECS = [
     {"key": "blocker", "user_key": "blocker_tecnico", "col_idx": 10, "header": "Cual es el bloqueo?", "is_bool": False},
     {"key": "status_tecnico", "user_key": "status_tecnico", "col_idx": 11, "header": "Status Tecnico", "is_bool": False},
-    {"key": "partner_tech_email", "user_key": "partner_technical_email", "col_idx": 17, "header": "Partner Technical Owner Email", "is_bool": False},
-    {"key": "technical_win", "user_key": "technical_win", "col_idx": 18, "header": "Technical win", "is_bool": True},
-    {"key": "proposal_sent", "user_key": "proposal_sent", "col_idx": 19, "header": "Propousal sent to client", "is_bool": True},
+    {"key": "partner_tech_contact", "user_key": "partner_technical_contact", "col_idx": 17, "header": "Partner Technical Contact", "is_bool": False},
+    {"key": "client_tech_contact", "user_key": "client_technical_contact", "col_idx": 18, "header": "Client Technical Contact", "is_bool": False},
+    {"key": "technical_win", "user_key": "technical_win", "col_idx": 19, "header": "Technical win", "is_bool": True},
+    {"key": "proposal_sent", "user_key": "proposal_sent", "col_idx": 20, "header": "Propousal sent to client", "is_bool": True},
 ]
 
 
@@ -168,7 +169,9 @@ def read_sheet_followup_state(cfg):
             vals = {}
             for spec in FIELD_SPECS:
                 c_idx = col_map.get(spec["header"], spec["col_idx"])
-                if spec["key"] == "proposal_sent" and c_idx not in col_map.values():
+                if spec["key"] == "partner_tech_contact" and spec["header"] not in col_map:
+                    c_idx = col_map.get("Partner Technical Owner Email", spec["col_idx"])
+                if spec["key"] == "proposal_sent" and spec["header"] not in col_map:
                     c_idx = col_map.get("Proposal sent to client", spec["col_idx"])
                 raw_v = r[c_idx] if c_idx < len(r) else ""
                 vals[spec["key"]] = norm_val(raw_v, spec["is_bool"])
@@ -243,8 +246,10 @@ def sync_bidirectional(fsr_filter=None):
     workloads = portfolio.get("fsr_workloads", [])
     wname_to_wid = {}
     triplet_to_wid = {}
-    wid_to_default_email = {}
-    wname_to_default_email = {}
+    wid_to_default_partner = {}
+    wid_to_default_client = {}
+    wname_to_default_partner = {}
+    wname_to_default_client = {}
     wname_counts = {}
     for w in workloads:
         wn = (w.get("workload_name") or "").strip()
@@ -257,9 +262,12 @@ def sync_bidirectional(fsr_filter=None):
         if wn and wid:
             wname_to_wid[wn] = wid
             triplet_to_wid[(uname, aname, oname, wn)] = wid
-            def_email = (w.get("partner_technical_email") or "").strip()
-            wid_to_default_email[wid] = def_email
-            wname_to_default_email[wn] = def_email
+            def_p = (w.get("partner_technical_contact") or w.get("partner_technical_email") or "").strip()
+            def_c = (w.get("client_technical_contact") or "").strip()
+            wid_to_default_partner[wid] = def_p
+            wid_to_default_client[wid] = def_c
+            wname_to_default_partner[wn] = def_p
+            wname_to_default_client[wn] = def_c
 
     manual_entries = load_json_safe(MANUAL_FILE, {})
     user_data = load_json_safe(USER_DATA_FILE, {})
@@ -306,7 +314,8 @@ def sync_bidirectional(fsr_filter=None):
                 or triplet_to_wid.get((uname, aname, oname, wname))
                 or (wname_to_wid.get(wname, "") if wname_counts.get(wname, 0) <= 1 else "")
             )
-            default_bq_email = wid_to_default_email.get(wid) or wname_to_default_email.get(wname, "")
+            default_bq_partner = wid_to_default_partner.get(wid) or wname_to_default_partner.get(wname, "")
+            default_bq_client = wid_to_default_client.get(wid) or wname_to_default_client.get(wname, "")
             is_unique_wname = wname_counts.get(wname, 0) <= 1
             primary_key = wid if wid else row_key
 
@@ -328,10 +337,14 @@ def sync_bidirectional(fsr_filter=None):
                 # Resolve current local value
                 if fkey in m_entry:
                     raw_l = m_entry.get(fkey)
+                elif fkey == "partner_tech_contact" and "partner_tech_email" in m_entry:
+                    raw_l = m_entry.get("partner_tech_email")
                 elif ukey in u_entry:
                     raw_l = u_entry.get(ukey)
-                elif fkey == "partner_tech_email":
-                    raw_l = default_bq_email
+                elif fkey == "partner_tech_contact":
+                    raw_l = default_bq_partner
+                elif fkey == "client_tech_contact":
+                    raw_l = default_bq_client
                 else:
                     raw_l = False if is_bool else ""
                 l_val = norm_val(raw_l, is_bool)
@@ -502,7 +515,7 @@ SLIM_WORKLOAD_KEYS = [
     "ai_summary_next_steps", "is_partnered",
     "opportunity_partner", "opportunity_partner_id",
     "workload_partner",
-    "partner_technical_email", "primary_ce_email", "workload_owner_email",
+    "partner_technical_email", "partner_technical_contact", "client_technical_contact", "primary_ce_email", "workload_owner_email",
     "fsr_name", "fsr_ldap",
     "pdm_owner", "supporting_ce", "technical_win", "proposal_sent"
 ]

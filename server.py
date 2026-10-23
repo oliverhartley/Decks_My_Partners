@@ -16,7 +16,7 @@ import subprocess
 from datetime import datetime
 from http.server import ThreadingHTTPServer, SimpleHTTPRequestHandler
 
-BASE_DIR = "/usr/local/google/home/oliverhartley/jetski-workspace/Decks_My_Partners"
+BASE_DIR = "/usr/local/google/home/oliverhartley/jetski-workspace/fsr-wkld-decks"
 WEB_DIR = os.path.join(BASE_DIR, "web")
 DATA_FILE = os.path.join(BASE_DIR, "data", "enriched_portfolio.json")
 FOCUS_FILE = os.path.join(BASE_DIR, "data", "focus_workloads.json")

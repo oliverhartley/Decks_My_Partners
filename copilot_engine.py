@@ -371,7 +371,7 @@ def compute_predictive_capacity_matrix(cache_data):
 
 def enrich_portfolio_cache():
     import os
-    base_dir = "/usr/local/google/home/oliverhartley/jetski-workspace/Decks_My_Partners"
+    base_dir = "/usr/local/google/home/oliverhartley/jetski-workspace/fsr-wkld-decks"
     cache_path = os.path.join(base_dir, "data", "portfolio_cache.json")
     ai_summaries_path = os.path.join(base_dir, "data", "next_steps_ai_summaries.json")
     manual_entries_path = os.path.join(base_dir, "fsr_manual_entries.json")
@@ -442,10 +442,20 @@ def enrich_portfolio_cache():
 
         w['blocker'] = ud.get('blocker_tecnico') or m_entry.get('blocker') or ''
         w['status_tecnico'] = ud.get('status_tecnico') or m_entry.get('status_tecnico') or ''
-        w['partner_technical_email'] = (
-            ud.get('partner_technical_email')
+        w['partner_technical_contact'] = (
+            ud.get('partner_technical_contact')
+            or m_entry.get('partner_tech_contact')
             or m_entry.get('partner_tech_email')
+            or ud.get('partner_technical_email')
+            or w.get('partner_technical_contact')
             or w.get('partner_technical_email')
+            or ''
+        )
+        w['partner_technical_email'] = w['partner_technical_contact']
+        w['client_technical_contact'] = (
+            ud.get('client_technical_contact')
+            or m_entry.get('client_tech_contact')
+            or w.get('client_technical_contact')
             or ''
         )
         raw_tw = ud.get('technical_win') if 'technical_win' in ud else m_entry.get('technical_win')

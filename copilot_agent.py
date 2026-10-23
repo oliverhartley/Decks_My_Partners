@@ -10,7 +10,7 @@ import subprocess
 from datetime import datetime
 from copilot_engine import enrich_portfolio_cache, match_partners_for_workload
 
-BASE_DIR = "/usr/local/google/home/oliverhartley/jetski-workspace/Decks_My_Partners"
+BASE_DIR = "/usr/local/google/home/oliverhartley/jetski-workspace/fsr-wkld-decks"
 ENRICHED_FILE = os.path.join(BASE_DIR, "data", "enriched_portfolio.json")
 MANUAL_FILE = os.path.join(BASE_DIR, "fsr_manual_entries.json")
 USER_DATA_FILE = os.path.join(BASE_DIR, "data", "workload_user_data.json")

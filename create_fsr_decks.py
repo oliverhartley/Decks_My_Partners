@@ -23,7 +23,7 @@ import datetime
 import subprocess
 import time
 
-sys.path.append("/usr/local/google/home/oliverhartley/jetski-workspace/Decks_My_Partners")
+sys.path.append("/usr/local/google/home/oliverhartley/jetski-workspace/fsr-wkld-decks")
 os.environ["GOOGLE_CLOUD_PROJECT"] = "ohl-ge-demo-gen"
 from update_all_partner_decks import (
     get_account_tier, parse_expert_requests, get_latest_update_str, make_hyperlink, norm_str, extract_hyperlink_label
@@ -366,7 +366,7 @@ def get_color_rank(status):
         return 9  # White / None / Unprioritized
 
 
-AI_SUMMARIES_FILE = "/usr/local/google/home/oliverhartley/jetski-workspace/Decks_My_Partners/data/next_steps_ai_summaries.json"
+AI_SUMMARIES_FILE = "/usr/local/google/home/oliverhartley/jetski-workspace/fsr-wkld-decks/data/next_steps_ai_summaries.json"
 GENERATE_BIN = "/google/bin/releases/gemini-agents-generate/generate"
 
 
@@ -859,6 +859,7 @@ def build_fsr_deck(fsr_cfg, cache, prio_map, user_data, existing_manual=None, ou
         "fsr_email": fsr_email,
         "fsr_user": fsr_user,
         "fsr_title": fsr_title,
+        "supporting_ce": supporting_ce,
         "folder_id": folder_id,
         "pe_name": pe_name,
         "total_workloads": len(wkls),
@@ -888,6 +889,7 @@ def deploy_fsr_deck(deck_info):
     m_total_rows = deck_info["matchmaker_row_count"]
     target_folder_id = deck_info.get("folder_id", OLIVER_FOLDER_ID)
     pe_name = deck_info.get("pe_name", "Oliver Hartley")
+    supporting_ce = deck_info.get("supporting_ce", "Diego Baldini")
 
     print(f"\n========================================================")
     print(f"Creating / Updating Spreadsheet for: {fsr_title}")

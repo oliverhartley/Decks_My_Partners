@@ -20,7 +20,7 @@ import re
 import time
 import subprocess
 
-BASE_DIR = "/usr/local/google/home/oliverhartley/jetski-workspace/Decks_My_Partners"
+BASE_DIR = "/usr/local/google/home/oliverhartley/jetski-workspace/fsr-wkld-decks"
 sys.path.insert(0, BASE_DIR)
 os.environ["GOOGLE_CLOUD_PROJECT"] = "ohl-ge-demo-gen"
 

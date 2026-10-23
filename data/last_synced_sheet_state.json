@@ -1508,7 +1508,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "Marcio Ferreira Da Silva (marcio.ferreira@exa.com.br)"
   },
   "Migração SEK_fase 2": {
     "blocker": "",
@@ -1706,7 +1706,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "Ricardo Bolognesi (ricardo.paula@onr.org.br)"
   },
   "GE_ATHENA": {
     "blocker": "",
@@ -1750,8 +1750,8 @@
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
-    "partner_tech_contact": "Vanessa Moyses",
-    "client_tech_contact": "Angelo Figaro (angelo.figaro@patria.com.br)"
+    "partner_tech_contact": "",
+    "client_tech_contact": "Delano Macêdo (delano.macedo@solisinvestimentos.com.br)"
   },
   "Solis Investimentos_Migração": {
     "blocker": "",
@@ -1760,7 +1760,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Angelo Figaro (angelo.figaro@patria.com.br)"
+    "client_tech_contact": "Delano Macêdo (delano.macedo@solisinvestimentos.com.br)"
   },
   "Novos WL para Commit_Patria": {
     "blocker": "",
@@ -1849,7 +1849,7 @@
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
-    "partner_tech_contact": "DIEGO BALDIN",
+    "partner_tech_contact": "Diego Baldin",
     "client_tech_contact": "Ricardo Bolognesi (ricardo.paula@onr.org.br)"
   },
   "Lavoro - ERP-  Datalake e Infra": {
@@ -2084,7 +2084,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Angelo Figaro (angelo.figaro@patria.com.br)"
+    "client_tech_contact": "Rodrigo Scaloppi (andre.silva@santodigital.com.br)"
   },
   "Migração Dommus": {
     "blocker": "",
@@ -3102,7 +3102,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "Douglas Zanatta Ulian (douglas.ulian@gruporbs.com.br)"
   },
   "[Embraco | Nidec] #Projetos de IA": {
     "blocker": "",
@@ -5927,7 +5927,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "Marcio Ferreira Da Silva (marcio.ferreira@exa.com.br)"
   },
   "aBJKf000004ZLZXOA4": {
     "blocker": "",
@@ -6062,7 +6062,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "Ricardo Bolognesi (ricardo.paula@onr.org.br)"
   },
   "aBJKf000004ZMQGOA4": {
     "blocker": "",
@@ -6106,8 +6106,8 @@
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
-    "partner_tech_contact": "Vanessa Moyses",
-    "client_tech_contact": "Angelo Figaro (angelo.figaro@patria.com.br)"
+    "partner_tech_contact": "",
+    "client_tech_contact": "Delano Macêdo (delano.macedo@solisinvestimentos.com.br)"
   },
   "aBJKf000004ZJCYOA4": {
     "blocker": "",
@@ -6116,7 +6116,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Angelo Figaro (angelo.figaro@patria.com.br)"
+    "client_tech_contact": "Delano Macêdo (delano.macedo@solisinvestimentos.com.br)"
   },
   "aBJKf000004ZJNQOA4": {
     "blocker": "",
@@ -6151,7 +6151,7 @@
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
-    "partner_tech_contact": "DIEGO BALDIN",
+    "partner_tech_contact": "Diego Baldin",
     "client_tech_contact": "Ricardo Bolognesi (ricardo.paula@onr.org.br)"
   },
   "aBJKf000004ZMQuOAO": {
@@ -6251,7 +6251,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Angelo Figaro (angelo.figaro@patria.com.br)"
+    "client_tech_contact": "Rodrigo Scaloppi (andre.silva@santodigital.com.br)"
   },
   "aBJKf000009e5a3OAA": {
     "blocker": "",
@@ -6753,7 +6753,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "Douglas Zanatta Ulian (douglas.ulian@gruporbs.com.br)"
   },
   "aBJKf000009tdCmOAI": {
     "blocker": "",
@@ -7361,7 +7361,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Arabela Cueto (arcueto@stefanini.com)"
+    "client_tech_contact": "Adriano Cavalcante (adriano.cavalcante@latam.stefanini.com)"
   },
   "Refrescos Bandeirantes Industria #MigraçãoSAP #GCP #OUT": {
     "blocker": "",
@@ -7370,7 +7370,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Arabela Cueto (arcueto@stefanini.com)"
+    "client_tech_contact": "Adriano Cavalcante (adriano.cavalcante@latam.stefanini.com)"
   },
   "aBJKf000004ZLwBOAW": {
     "blocker": "",
@@ -10930,7 +10930,7 @@
     "blocker": "",
     "status_tecnico": "",
     "partner_tech_contact": "",
-    "client_tech_contact": "Bruno Sousa Sousa (bruno.sousa@mrs.com.br)",
+    "client_tech_contact": "Romulo Simas (romulo.simas@gthink.com.br)",
     "technical_win": false,
     "proposal_sent": false
   },
@@ -10938,7 +10938,184 @@
     "blocker": "",
     "status_tecnico": "",
     "partner_tech_contact": "",
-    "client_tech_contact": "Bruno Sousa Sousa (bruno.sousa@mrs.com.br)",
+    "client_tech_contact": "Romulo Simas (romulo.simas@gthink.com.br)",
+    "technical_win": false,
+    "proposal_sent": false
+  },
+  "aBJKf000004ZVYYOA4": {
+    "blocker": "",
+    "status_tecnico": "",
+    "partner_tech_contact": "",
+    "client_tech_contact": "Alline Antóquio (alline.antoquio@gentrop.com)",
+    "technical_win": false,
+    "proposal_sent": false
+  },
+  "Consumo de API": {
+    "blocker": "",
+    "status_tecnico": "",
+    "partner_tech_contact": "",
+    "client_tech_contact": "Alline Antóquio (alline.antoquio@gentrop.com)",
+    "technical_win": false,
+    "proposal_sent": false
+  },
+  "aBJKf000004ZVbNOAW": {
+    "blocker": "",
+    "status_tecnico": "",
+    "partner_tech_contact": "Vanessa Moyses",
+    "client_tech_contact": "Delano Macêdo (delano.macedo@solisinvestimentos.com.br)",
+    "technical_win": false,
+    "proposal_sent": false
+  },
+  "GE_Solis": {
+    "blocker": "",
+    "status_tecnico": "",
+    "partner_tech_contact": "Vanessa Moyses",
+    "client_tech_contact": "Delano Macêdo (delano.macedo@solisinvestimentos.com.br)",
+    "technical_win": false,
+    "proposal_sent": false
+  },
+  "aBJKf000004ZVegOAG": {
+    "blocker": "",
+    "status_tecnico": "",
+    "partner_tech_contact": "",
+    "client_tech_contact": "Rodrigo Scaloppi (rodrigo@sementessaofrancisco.com.br)",
+    "technical_win": false,
+    "proposal_sent": false
+  },
+  "aBJKf000004ZVeHOAW": {
+    "blocker": "",
+    "status_tecnico": "",
+    "partner_tech_contact": "Vanessa Moyses",
+    "client_tech_contact": "Ricardo Ribeiro Malafaia (ricardi@wps-sa.com.br)",
+    "technical_win": false,
+    "proposal_sent": false
+  },
+  "GE_WPS": {
+    "blocker": "",
+    "status_tecnico": "",
+    "partner_tech_contact": "Vanessa Moyses",
+    "client_tech_contact": "Ricardo Ribeiro Malafaia (ricardi@wps-sa.com.br)",
+    "technical_win": false,
+    "proposal_sent": false
+  },
+  "aBJKf000004ZVeROAW": {
+    "blocker": "",
+    "status_tecnico": "",
+    "partner_tech_contact": "",
+    "client_tech_contact": "Rodrigo Ricardi (ricardi@wps-sa.com.br)",
+    "technical_win": false,
+    "proposal_sent": false
+  },
+  "Crescimento WPS": {
+    "blocker": "",
+    "status_tecnico": "",
+    "partner_tech_contact": "",
+    "client_tech_contact": "Rodrigo Ricardi (ricardi@wps-sa.com.br)",
+    "technical_win": false,
+    "proposal_sent": false
+  },
+  "aBJKf000004ZVXBOA4": {
+    "blocker": "",
+    "status_tecnico": "",
+    "partner_tech_contact": "Vanessa Moyses",
+    "client_tech_contact": "Daniel Sabença (daniel.sabenca@mobcall.com)",
+    "technical_win": false,
+    "proposal_sent": false
+  },
+  "GE_Mobcall": {
+    "blocker": "",
+    "status_tecnico": "",
+    "partner_tech_contact": "Vanessa Moyses",
+    "client_tech_contact": "Daniel Sabença (daniel.sabenca@mobcall.com)",
+    "technical_win": false,
+    "proposal_sent": false
+  },
+  "aBJKf000004ZVeWOAW": {
+    "blocker": "",
+    "status_tecnico": "",
+    "partner_tech_contact": "",
+    "client_tech_contact": "Alexandre Gregianin (agregianin@bioritmo.com.br)",
+    "technical_win": false,
+    "proposal_sent": false
+  },
+  "Smart Fit - Commit 3Y": {
+    "blocker": "",
+    "status_tecnico": "",
+    "partner_tech_contact": "",
+    "client_tech_contact": "Alexandre Gregianin (agregianin@bioritmo.com.br)",
+    "technical_win": false,
+    "proposal_sent": false
+  },
+  "aBJKf000004ZVeqOAG": {
+    "blocker": "",
+    "status_tecnico": "",
+    "partner_tech_contact": "",
+    "client_tech_contact": "Rodrigo Nakahodo (rodrigo@blueservice.com.br)",
+    "technical_win": false,
+    "proposal_sent": false
+  },
+  "Blue sevice - recommit": {
+    "blocker": "",
+    "status_tecnico": "",
+    "partner_tech_contact": "",
+    "client_tech_contact": "Rodrigo Nakahodo (rodrigo@blueservice.com.br)",
+    "technical_win": false,
+    "proposal_sent": false
+  },
+  "[AASP] Gemini Enterprise": {
+    "blocker": "",
+    "status_tecnico": "",
+    "partner_tech_email": "roberto.oguma@movti.com.br",
+    "technical_win": false,
+    "proposal_sent": false,
+    "partner_tech_contact": "roberto.oguma@movti.com.br",
+    "client_tech_contact": "Helton Germano (helton.germano@aasp.org.br)"
+  },
+  "aBJKf000009onjSOAQ": {
+    "blocker": "",
+    "status_tecnico": "",
+    "partner_tech_contact": "",
+    "client_tech_contact": "João Paulo Feitosa (jpmelo@magnumtires.com.br)",
+    "technical_win": false,
+    "proposal_sent": false
+  },
+  "Mangum Tires (Reifen) - Infra Modernization": {
+    "blocker": "",
+    "status_tecnico": "",
+    "partner_tech_contact": "",
+    "client_tech_contact": "João Paulo Feitosa (jpmelo@magnumtires.com.br)",
+    "technical_win": false,
+    "proposal_sent": false
+  },
+  "aBJKf000009onuzOAA": {
+    "blocker": "",
+    "status_tecnico": "",
+    "partner_tech_contact": "",
+    "client_tech_contact": "Michel Soares (michel@innovaro.com.br)",
+    "technical_win": false,
+    "proposal_sent": false
+  },
+  "Innovaro - Infra Modernization": {
+    "blocker": "",
+    "status_tecnico": "",
+    "partner_tech_contact": "",
+    "client_tech_contact": "Michel Soares (michel@innovaro.com.br)",
+    "technical_win": false,
+    "proposal_sent": false
+  },
+  "aBJKf000009kLL3OAM": {
+    "blocker": "",
+    "status_tecnico": "",
+    "partner_tech_contact": "",
+    "client_tech_contact": "Felipe Lopes (lopes.felipe@cloud-ace.com)",
+    "technical_win": false,
+    "proposal_sent": false
+  },
+  "Cloud SQL": {
+    "blocker": "",
+    "status_tecnico": "",
+    "partner_tech_contact": "",
+    "client_tech_contact": "Felipe Lopes (lopes.felipe@cloud-ace.com)",
     "technical_win": false,
     "proposal_sent": false
   }
