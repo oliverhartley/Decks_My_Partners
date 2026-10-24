@@ -1,9 +1,9 @@
 WORKLOAD TIMELINE & DATE CHANGE TRACKER — Q4 2026 (OCT 1 - DEC 31),,,,,,,,,,,,,,,,
-"FSR: Felipe Pilon (fpilon@google.com) | Supporting CE: Diego Baldini | Last Sync: 23 - Oct 2026 | Scope: Date Changes Recorded Since Oct 1, 2026",,,,,,,,,,,,,,,,
+"FSR: Felipe Pilon (fpilon@google.com) | Supporting CE: Diego Baldini | Last Sync: 24 - Oct 2026 | Scope: Date Changes Recorded Since Oct 1, 2026",,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 📊 SECTION 1: Q4 2026 TIMELINE STABILITY & DATE SHIFT KPI SCORECARD (STARTING OCT 1),,,,,,,,,,,,,,,,
 Total Portfolio Deals,Deals Shifted in Q4,Share Shifted in Q4 (%),Q4 Impl Date Changes (#),Q4 Prod Date Changes (#),Total Q4 Shift Events (#),Net Q4 Prod Slippage (Days),Avg Slipped Deal in Q4 (Days),Slipped Deals in Q4 (#),Pulled In Deals in Q4 (#),Stable Deals in Q4 (#),Unscheduled Deals (#),Top Slipped Deal in Q4,Max Q4 Slip (Days),,,
-79,22,27.8%,18,21,39,"1,648 days",82.4 days,20,0,57,0,infra - CMA Vela (171d slip),171 days,,,
+78,22,28.2%,18,21,39,"1,648 days",82.4 days,20,0,56,0,infra - CMA Vela (171d slip),171 days,,,
 ,,,,,,,,,,,,,,,,
 📋 SECTION 2: WORKLOAD DATE CHANGE SUMMARY TABLE — Q4 2026 (DEALS WITH DATE MODIFICATIONS SINCE OCT 1),,,,,,,,,,,,,,,,
 Customer Account Name,Workload Name,Opportunity Name,Annual Gross Revenue (ARR USD),Workload Progress,Baseline Impl Date (Oct 1),Current Impl Date,Q4 Impl Changes (#),Q4 Net Impl Shift (Days),Baseline Prod Date (Oct 1),Current Prod Date,Q4 Prod Changes (#),Q4 Net Prod Shift (Days),Total Q4 Changes (#),Q4 Trajectory,Latest Change Date,Latest Changed By

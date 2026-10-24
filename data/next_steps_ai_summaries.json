@@ -68,8 +68,8 @@
     "summary": "05/10: Foundation, segurança e rede concluídos com kickoff realizado; projeto segue para a migração da versão 4.2 após assinatura do contrato."
   },
   "aBJKf000009tWEvOAM": {
-    "history_hash": "4476988e9d868afac033d8f16b1b0535",
-    "summary": "19/10: Kyndryl PSF aprovada; foco atual na habilitação do parceiro e finalização da arquitetura Databricks para kickoff em 29/11."
+    "history_hash": "909576d8ef6be9e5d4eb7d396bda0150",
+    "summary": "[2026-10-19] Kyndryl PSF approved ($1.57M). Completing partner onboarding and finalizing Databricks on GCP Lakehouse architecture for Nov 29 kickoff."
   },
   "aBJKf000000GouMOAS": {
     "history_hash": "01086312d878f8b7e363faf7f8f6df2a",
@@ -96,8 +96,8 @@
     "summary": "Reunião agendada com novo executivo de vendas da Tempest para definição do escopo final de renovação SecOps."
   },
   "aBJKf000009eMKMOA2": {
-    "history_hash": "6ef26105b138f4eb65943fdb4bc1339f",
-    "summary": "28/08: Cliente ativou os 150 usuários contratados; parceiro realizando implantação dos conectores."
+    "history_hash": "643ed3cabc42901c699ecef7f4ffe293",
+    "summary": "[2026-08-28] 28/08 - Cliente já ativou os 150 usuários. Parceiro está implantando os conectores."
   },
   "aBJ4M00000002gsWAA": {
     "history_hash": "ac88c530192ba44d5a0d3e819ad4646a",
@@ -316,8 +316,8 @@
     "summary": "04/07: Contrato assinado e kick-off do projeto realizado após conclusão do assessment de segurança."
   },
   "aBJKf000009olm8OAA": {
-    "history_hash": "bfa79a32bc8adbc1338a810040e48b0e",
-    "summary": "20/08: Cliente focado na contratação de Apigee; monitorando atualizações com a VPN."
+    "history_hash": "44aaa0bdc0a3afc8e1300b57f53d9986",
+    "summary": "20/08: Projeto em fase de contratação do Apigee e atualização de acessos via VPN para continuidade das atividades."
   },
   "aBJKf000009tMkDOAU": {
     "history_hash": "0bd7ecf2c6aa2d36b22368ec73ce3b30",
@@ -408,8 +408,8 @@
     "summary": "07/04 Projeto adiado pelo cliente; aguardando retomada para definição de proposta."
   },
   "aBJKf000009tVF4OAM": {
-    "history_hash": "5571d6597042805803ace7a179b6e51c",
-    "summary": "09/09 Caso será revisado na cadência semanal com a Sauter."
+    "history_hash": "4963d3301e1d70b708d9743fa76426ef",
+    "summary": "[2026-09-09] O caso será assumido para revisão na cadência semanal com a Sauter."
   },
   "aBJKf000009oUVKOA2": {
     "history_hash": "ad35181e29b6beea126283e1e2fbf870",
@@ -1530,5 +1530,9 @@
   "aBJKf000009onuzOAA": {
     "history_hash": "534483c97404eeb3b2ffb7d164610939",
     "summary": "30/09: Reunião agendada entre cliente, parceiro e FSR para a próxima semana para alinhar próximos passos do projeto."
+  },
+  "aBJKf000004ZVPlOAO": {
+    "history_hash": "e21cb43e5558fa1f4e5fdcf5a8c916f6",
+    "summary": "**Projeto aprovado pela diretoria executiva e em fase de execução conforme o cronograma estabelecido.**"
   }
 }

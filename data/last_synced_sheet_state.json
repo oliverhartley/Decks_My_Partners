@@ -3201,7 +3201,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "Emerson Lima (emerson@sauter.digital.com)"
   },
   "Brasiltecpar #Backup & DR": {
     "blocker": "",
@@ -6825,7 +6825,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "Emerson Lima (emerson@sauter.digital.com)"
   },
   "aBJKf000009eOiaOAE": {
     "blocker": "",
@@ -11107,7 +11107,7 @@
     "blocker": "",
     "status_tecnico": "",
     "partner_tech_contact": "",
-    "client_tech_contact": "Felipe Lopes (lopes.felipe@cloud-ace.com)",
+    "client_tech_contact": "",
     "technical_win": false,
     "proposal_sent": false
   },
@@ -11115,7 +11115,55 @@
     "blocker": "",
     "status_tecnico": "",
     "partner_tech_contact": "",
-    "client_tech_contact": "Felipe Lopes (lopes.felipe@cloud-ace.com)",
+    "client_tech_contact": "",
+    "technical_win": false,
+    "proposal_sent": false
+  },
+  "aBJKf000004ZLRDOA4": {
+    "blocker": "",
+    "status_tecnico": "",
+    "partner_tech_contact": "",
+    "client_tech_contact": "Nilton Baleeiro (nilton.baleeiro@apsen.com.br)",
+    "technical_win": false,
+    "proposal_sent": false
+  },
+  "Apsen Farmaceutica - GCP": {
+    "blocker": "",
+    "status_tecnico": "",
+    "partner_tech_contact": "",
+    "client_tech_contact": "Nilton Baleeiro (nilton.baleeiro@apsen.com.br)",
+    "technical_win": false,
+    "proposal_sent": false
+  },
+  "aBJKf000004ZVoCOAW": {
+    "blocker": "",
+    "status_tecnico": "",
+    "partner_tech_contact": "Vanessa Moyses",
+    "client_tech_contact": "Delano Macêdo (delano.macedo@solisinvestimentos.com.br)",
+    "technical_win": false,
+    "proposal_sent": false
+  },
+  "Solis Migração2": {
+    "blocker": "",
+    "status_tecnico": "",
+    "partner_tech_contact": "Vanessa Moyses",
+    "client_tech_contact": "Delano Macêdo (delano.macedo@solisinvestimentos.com.br)",
+    "technical_win": false,
+    "proposal_sent": false
+  },
+  "aBJKf000004ZVo7OAG": {
+    "blocker": "",
+    "status_tecnico": "",
+    "partner_tech_contact": "Vanessa Moyses",
+    "client_tech_contact": "Delano Macêdo (delano.macedo@solisinvestimentos.com.br)",
+    "technical_win": false,
+    "proposal_sent": false
+  },
+  "Migração Solis_1": {
+    "blocker": "",
+    "status_tecnico": "",
+    "partner_tech_contact": "Vanessa Moyses",
+    "client_tech_contact": "Delano Macêdo (delano.macedo@solisinvestimentos.com.br)",
     "technical_win": false,
     "proposal_sent": false
   }
