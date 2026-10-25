@@ -158,7 +158,7 @@
     "status_tecnico": "Já assinado, precisa implementar. Buscar Mari da Dedalus para criar estratégia de contato com o cliente, que está pouco responsivo. Mari +55 11 96064-0009 Dedalus; mariana.kyrillos@dedalusprime.com.br",
     "technical_win": true,
     "proposal_sent": false,
-    "updated_at": "2026-10-20T13:03:57.190485",
+    "updated_at": "2026-10-25T08:02:08.814648",
     "client_tech_contact": "True"
   },
   "ASA | GE": {
@@ -166,7 +166,7 @@
     "status_tecnico": "Já assinado, precisa implementar. Buscar Mari da Dedalus para criar estratégia de contato com o cliente, que está pouco responsivo. Mari +55 11 96064-0009 Dedalus; mariana.kyrillos@dedalusprime.com.br",
     "technical_win": true,
     "proposal_sent": false,
-    "updated_at": "2026-10-20T13:03:57.190485",
+    "updated_at": "2026-10-25T08:02:08.814648",
     "client_tech_contact": "True"
   },
   "aBJKf0000082EGvOAM": {
@@ -181,56 +181,56 @@
     "status_tecnico": "Crescimento orgânico, não exige atuação.",
     "technical_win": true,
     "proposal_sent": false,
-    "updated_at": "2026-10-20T13:03:57.190485",
+    "updated_at": "2026-10-25T08:02:08.814648",
     "client_tech_contact": "True"
   },
   "APIIMF | Expansão Infra": {
     "status_tecnico": "Crescimento orgânico, não exige atuação.",
     "technical_win": true,
     "proposal_sent": false,
-    "updated_at": "2026-10-20T13:03:57.190485",
+    "updated_at": "2026-10-25T08:02:08.814648",
     "client_tech_contact": "True"
   },
   "aBJKf0000082E9aOAE": {
     "status_tecnico": "Já migrado implementado. Dani aguardando apenas consumo aparecer para alterar.",
     "technical_win": true,
     "proposal_sent": false,
-    "updated_at": "2026-10-20T13:03:57.190485",
+    "updated_at": "2026-10-25T08:02:08.814648",
     "client_tech_contact": "True"
   },
   "Focus Textil | SAP IaaS": {
     "status_tecnico": "Já migrado implementado. Dani aguardando apenas consumo aparecer para alterar.",
     "technical_win": true,
     "proposal_sent": false,
-    "updated_at": "2026-10-20T13:03:57.190485",
+    "updated_at": "2026-10-25T08:02:08.814648",
     "client_tech_contact": "True"
   },
   "aBJKf000009tAsIOAU": {
     "status_tecnico": "Já migrado implementado. Dani aguardando apenas consumo aparecer para alterar.",
     "technical_win": true,
     "proposal_sent": false,
-    "updated_at": "2026-10-20T13:03:57.190485",
+    "updated_at": "2026-10-25T08:02:08.814648",
     "client_tech_contact": "True"
   },
   "Focus Textil | Migração Azure": {
     "status_tecnico": "Já migrado implementado. Dani aguardando apenas consumo aparecer para alterar.",
     "technical_win": true,
     "proposal_sent": false,
-    "updated_at": "2026-10-20T13:03:57.190485",
+    "updated_at": "2026-10-25T08:02:08.814648",
     "client_tech_contact": "True"
   },
   "aBJKf000009kEMTOA2": {
     "status_tecnico": "Já migrado implementado. Dani aguardando apenas consumo aparecer para alterar.",
     "technical_win": true,
     "proposal_sent": false,
-    "updated_at": "2026-10-20T13:03:57.190485",
+    "updated_at": "2026-10-25T08:02:08.814648",
     "client_tech_contact": "True"
   },
   "Focus Textil | Gemini Enterprise": {
     "status_tecnico": "Já migrado implementado. Dani aguardando apenas consumo aparecer para alterar.",
     "technical_win": true,
     "proposal_sent": false,
-    "updated_at": "2026-10-20T13:03:57.190485",
+    "updated_at": "2026-10-25T08:02:08.814648",
     "client_tech_contact": "True"
   },
   "aBJKf000009kMUVOA2": {
@@ -285,28 +285,28 @@
     "status_tecnico": "Está caminhando. Checar com Etelvina (VPN: +55 11 94012-3206 / etelvina.mendes@venhapranuvem.com.br) se é necessário algum apoio.",
     "technical_win": true,
     "proposal_sent": false,
-    "updated_at": "2026-10-20T13:03:57.190485",
+    "updated_at": "2026-10-25T08:02:08.814648",
     "client_tech_contact": "True"
   },
   "Granado | ML Precificacao Ecommerce": {
     "status_tecnico": "Está caminhando. Checar com Etelvina (VPN: +55 11 94012-3206 / etelvina.mendes@venhapranuvem.com.br) se é necessário algum apoio.",
     "technical_win": true,
     "proposal_sent": false,
-    "updated_at": "2026-10-20T13:03:57.190485",
+    "updated_at": "2026-10-25T08:02:08.814648",
     "client_tech_contact": "True"
   },
   "aBJKf000009oi19OAA": {
     "status_tecnico": "Tudo no mesmo contrato. Perto de fechar. Já mandou proposta e está em assinatura de contrato. Migração de Azure pra GCP. Acompanhar Movit. Criar cadência com a Movit. verificar com Victor Hugo Ferreira se já mexeu nessas ops",
     "technical_win": true,
     "proposal_sent": false,
-    "updated_at": "2026-10-20T13:03:57.190485",
+    "updated_at": "2026-10-25T08:02:08.814648",
     "client_tech_contact": "True"
   },
   "Flamengo | Azure": {
     "status_tecnico": "Tudo no mesmo contrato. Perto de fechar. Já mandou proposta e está em assinatura de contrato. Migração de Azure pra GCP. Acompanhar Movit. Criar cadência com a Movit. verificar com Victor Hugo Ferreira se já mexeu nessas ops",
     "technical_win": true,
     "proposal_sent": false,
-    "updated_at": "2026-10-20T13:03:57.190485",
+    "updated_at": "2026-10-25T08:02:08.814648",
     "client_tech_contact": "True"
   },
   "aBJKf000009kLH1OAM": {
@@ -321,56 +321,56 @@
     "status_tecnico": "Já implementou. Tudo no mesmo contrato. Perto de fechar. Já mandou proposta e está em assinatura de contrato.",
     "technical_win": true,
     "proposal_sent": false,
-    "updated_at": "2026-10-20T13:03:57.190485",
+    "updated_at": "2026-10-25T08:02:08.814648",
     "client_tech_contact": "True"
   },
   "Flamengo | Datalake Futebol": {
     "status_tecnico": "Já implementou. Tudo no mesmo contrato. Perto de fechar. Já mandou proposta e está em assinatura de contrato.",
     "technical_win": true,
     "proposal_sent": false,
-    "updated_at": "2026-10-20T13:03:57.190485",
+    "updated_at": "2026-10-25T08:02:08.814648",
     "client_tech_contact": "True"
   },
   "aBJKf000009kETyOAM": {
     "status_tecnico": "Já implementou. Tudo no mesmo contrato. Perto de fechar. Já mandou proposta e está em assinatura de contrato. verificar com Victor Hugo Ferreira se já mexeu nessas ops",
     "technical_win": true,
     "proposal_sent": false,
-    "updated_at": "2026-10-20T13:03:57.190485",
+    "updated_at": "2026-10-25T08:02:08.814648",
     "client_tech_contact": "True"
   },
   "Flamengo | Hub Digital": {
     "status_tecnico": "Já implementou. Tudo no mesmo contrato. Perto de fechar. Já mandou proposta e está em assinatura de contrato. verificar com Victor Hugo Ferreira se já mexeu nessas ops",
     "technical_win": true,
     "proposal_sent": false,
-    "updated_at": "2026-10-20T13:03:57.190485",
+    "updated_at": "2026-10-25T08:02:08.814648",
     "client_tech_contact": "True"
   },
   "aBJKf0000082I03OAE": {
     "status_tecnico": "Tudo no mesmo contrato. Perto de fechar. Já mandou proposta e está em assinatura de contrato. verificar com Victor Hugo Ferreira se já mexeu nessas ops",
     "technical_win": true,
     "proposal_sent": false,
-    "updated_at": "2026-10-20T13:03:57.190485",
+    "updated_at": "2026-10-25T08:02:08.814648",
     "client_tech_contact": "True"
   },
   "Flamengo | Marketing": {
     "status_tecnico": "Tudo no mesmo contrato. Perto de fechar. Já mandou proposta e está em assinatura de contrato. verificar com Victor Hugo Ferreira se já mexeu nessas ops",
     "technical_win": true,
     "proposal_sent": false,
-    "updated_at": "2026-10-20T13:03:57.190485",
+    "updated_at": "2026-10-25T08:02:08.814648",
     "client_tech_contact": "True"
   },
   "aBJKf000009oi14OAA": {
     "status_tecnico": "Já implementou. Tudo no mesmo contrato. Perto de fechar. Já mandou proposta e está em assinatura de contrato.",
     "technical_win": true,
     "proposal_sent": false,
-    "updated_at": "2026-10-20T13:03:57.190485",
+    "updated_at": "2026-10-25T08:02:08.814648",
     "client_tech_contact": "True"
   },
   "Flamengo | AWS": {
     "status_tecnico": "Já implementou. Tudo no mesmo contrato. Perto de fechar. Já mandou proposta e está em assinatura de contrato.",
     "technical_win": true,
     "proposal_sent": false,
-    "updated_at": "2026-10-20T13:03:57.190485",
+    "updated_at": "2026-10-25T08:02:08.814648",
     "client_tech_contact": "True"
   },
   "aBJKf000009olmDOAQ": {
@@ -446,7 +446,7 @@
     "status_tecnico": "Checar com Victor Hugo. Stefanini precisa de enablement técnico. Dani pediu para Victor Hugo fazer Digital Twin. Checar com ele o status atual, de que apoio precisa e confirmar Tech Win / proposta assinada.",
     "technical_win": true,
     "proposal_sent": false,
-    "updated_at": "2026-10-20T13:03:57.190485",
+    "updated_at": "2026-10-25T08:02:08.814648",
     "client_tech_contact": "True"
   },
   "Stefanini | Inteligenti": {
@@ -454,7 +454,7 @@
     "status_tecnico": "Checar com Victor Hugo. Stefanini precisa de enablement técnico. Dani pediu para Victor Hugo fazer Digital Twin. Checar com ele o status atual, de que apoio precisa e confirmar Tech Win / proposta assinada.",
     "technical_win": true,
     "proposal_sent": false,
-    "updated_at": "2026-10-20T13:03:57.190485",
+    "updated_at": "2026-10-25T08:02:08.814648",
     "client_tech_contact": "True"
   },
   "aBJKf000009kFMjOAM": {
@@ -462,7 +462,7 @@
     "status_tecnico": "Checar com Victor Hugo. Stefanini precisa de enablement técnico. Dani pediu para Victor Hugo fazer Digital Twin. Checar com ele o status atual, de que apoio precisa e confirmar Tech Win / proposta assinada.",
     "technical_win": true,
     "proposal_sent": false,
-    "updated_at": "2026-10-20T13:03:57.190485",
+    "updated_at": "2026-10-25T08:02:08.814648",
     "client_tech_contact": "True"
   },
   "Stefanini | Inspiring": {
@@ -470,7 +470,7 @@
     "status_tecnico": "Checar com Victor Hugo. Stefanini precisa de enablement técnico. Dani pediu para Victor Hugo fazer Digital Twin. Checar com ele o status atual, de que apoio precisa e confirmar Tech Win / proposta assinada.",
     "technical_win": true,
     "proposal_sent": false,
-    "updated_at": "2026-10-20T13:03:57.190485",
+    "updated_at": "2026-10-25T08:02:08.814648",
     "client_tech_contact": "True"
   },
   "aBJKf000009kFMoOAM": {
@@ -478,7 +478,7 @@
     "status_tecnico": "Checar com Victor Hugo. Stefanini precisa de enablement técnico. Dani pediu para Victor Hugo fazer Digital Twin. Checar com ele o status atual, de que apoio precisa e confirmar Tech Win / proposta assinada.",
     "technical_win": true,
     "proposal_sent": false,
-    "updated_at": "2026-10-20T13:03:57.190485",
+    "updated_at": "2026-10-25T08:02:08.814648",
     "client_tech_contact": "True"
   },
   "Stefanini | A11": {
@@ -486,7 +486,7 @@
     "status_tecnico": "Checar com Victor Hugo. Stefanini precisa de enablement técnico. Dani pediu para Victor Hugo fazer Digital Twin. Checar com ele o status atual, de que apoio precisa e confirmar Tech Win / proposta assinada.",
     "technical_win": true,
     "proposal_sent": false,
-    "updated_at": "2026-10-20T13:03:57.190485",
+    "updated_at": "2026-10-25T08:02:08.814648",
     "client_tech_contact": "True"
   },
   "aBJKf000009kENqOAM": {
@@ -514,7 +514,7 @@
     "status_tecnico": "Checar com Victor Hugo. Stefanini precisa de enablement técnico. Dani pediu para Victor Hugo fazer Digital Twin. Checar com ele o status atual, de que apoio precisa e confirmar Tech Win / proposta assinada.",
     "technical_win": true,
     "proposal_sent": false,
-    "updated_at": "2026-10-20T13:03:57.190485",
+    "updated_at": "2026-10-25T08:02:08.814648",
     "client_tech_contact": "True"
   },
   "Stefanini | TPZ": {
@@ -522,7 +522,7 @@
     "status_tecnico": "Checar com Victor Hugo. Stefanini precisa de enablement técnico. Dani pediu para Victor Hugo fazer Digital Twin. Checar com ele o status atual, de que apoio precisa e confirmar Tech Win / proposta assinada.",
     "technical_win": true,
     "proposal_sent": false,
-    "updated_at": "2026-10-20T13:03:57.190485",
+    "updated_at": "2026-10-25T08:02:08.814648",
     "client_tech_contact": "True"
   },
   "aBJKf000009kFMZOA2": {
@@ -530,7 +530,7 @@
     "status_tecnico": "Checar com Victor Hugo. Stefanini precisa de enablement técnico. Dani pediu para Victor Hugo fazer Digital Twin. Checar com ele o status atual, de que apoio precisa e confirmar Tech Win / proposta assinada.",
     "technical_win": true,
     "proposal_sent": false,
-    "updated_at": "2026-10-20T13:03:57.190485",
+    "updated_at": "2026-10-25T08:02:08.814648",
     "client_tech_contact": "True"
   },
   "Stefanini | NewM": {
@@ -538,7 +538,7 @@
     "status_tecnico": "Checar com Victor Hugo. Stefanini precisa de enablement técnico. Dani pediu para Victor Hugo fazer Digital Twin. Checar com ele o status atual, de que apoio precisa e confirmar Tech Win / proposta assinada.",
     "technical_win": true,
     "proposal_sent": false,
-    "updated_at": "2026-10-20T13:03:57.190485",
+    "updated_at": "2026-10-25T08:02:08.814648",
     "client_tech_contact": "True"
   },
   "aBJKf000009kFMUOA2": {
@@ -546,7 +546,7 @@
     "status_tecnico": "Checar com Victor Hugo. Stefanini precisa de enablement técnico. Dani pediu para Victor Hugo fazer Digital Twin. Checar com ele o status atual, de que apoio precisa e confirmar Tech Win / proposta assinada.",
     "technical_win": true,
     "proposal_sent": false,
-    "updated_at": "2026-10-20T13:03:57.190485",
+    "updated_at": "2026-10-25T08:02:08.814648",
     "client_tech_contact": "True"
   },
   "Stefanini | Woopi": {
@@ -554,7 +554,7 @@
     "status_tecnico": "Checar com Victor Hugo. Stefanini precisa de enablement técnico. Dani pediu para Victor Hugo fazer Digital Twin. Checar com ele o status atual, de que apoio precisa e confirmar Tech Win / proposta assinada.",
     "technical_win": true,
     "proposal_sent": false,
-    "updated_at": "2026-10-20T13:03:57.190485",
+    "updated_at": "2026-10-25T08:02:08.814648",
     "client_tech_contact": "True"
   },
   "aBJKf000009olltOAA": {
@@ -577,14 +577,14 @@
     "status_tecnico": "Em assinatura de contrato. 160K mensal de AWS. Fazer migração de WLs secundários e migrar para GCP pra redução de custo. IPNet. Tamara (Head), Gabriela Garcez. Atualizar Implementation date. Apoio necessário após assinatura de contrato.",
     "technical_win": true,
     "proposal_sent": false,
-    "updated_at": "2026-10-20T13:03:57.190485",
+    "updated_at": "2026-10-25T08:02:08.814648",
     "client_tech_contact": "True"
   },
   "Wilson Sons | Infra": {
     "status_tecnico": "Em assinatura de contrato. 160K mensal de AWS. Fazer migração de WLs secundários e migrar para GCP pra redução de custo. IPNet. Tamara (Head), Gabriela Garcez. Atualizar Implementation date. Apoio necessário após assinatura de contrato.",
     "technical_win": true,
     "proposal_sent": false,
-    "updated_at": "2026-10-20T13:03:57.190485",
+    "updated_at": "2026-10-25T08:02:08.814648",
     "client_tech_contact": "True"
   },
   "aBJKf000009eBAOOA2": {
@@ -3475,5 +3475,7 @@
   "aBJKf000004ZVoCOAW": {},
   "Solis Migração2": {},
   "aBJKf000004ZVo7OAG": {},
-  "Migração Solis_1": {}
+  "Migração Solis_1": {},
+  "aBJKf000004ZW0hOAG": {},
+  "Google Translatos": {}
 }

@@ -11166,5 +11166,39 @@
     "client_tech_contact": "Delano Macêdo (delano.macedo@solisinvestimentos.com.br)",
     "technical_win": false,
     "proposal_sent": false
+  },
+  "[BRASILTECPAR] #Gemini Enterprise Std | 3000 seats (Big Bet)": {
+    "blocker": "",
+    "status_tecnico": "",
+    "partner_tech_email": "",
+    "technical_win": false,
+    "proposal_sent": false,
+    "partner_tech_contact": "",
+    "client_tech_contact": "Evelyn Cristini Martins (e.martins@sauter.digital)"
+  },
+  "Brasiltecpar #Gemini for Churn": {
+    "blocker": "",
+    "status_tecnico": "",
+    "partner_tech_email": "",
+    "technical_win": false,
+    "proposal_sent": false,
+    "partner_tech_contact": "",
+    "client_tech_contact": ""
+  },
+  "aBJKf000004ZW0hOAG": {
+    "blocker": "",
+    "status_tecnico": "",
+    "partner_tech_contact": "",
+    "client_tech_contact": "Marco Fontenelle (marcofontenelle@riogaleao.com)",
+    "technical_win": false,
+    "proposal_sent": false
+  },
+  "Google Translatos": {
+    "blocker": "",
+    "status_tecnico": "",
+    "partner_tech_contact": "",
+    "client_tech_contact": "Marco Fontenelle (marcofontenelle@riogaleao.com)",
+    "technical_win": false,
+    "proposal_sent": false
   }
 }
