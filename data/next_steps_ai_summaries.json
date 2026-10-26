@@ -68,8 +68,8 @@
     "summary": "05/10: Foundation, segurança e rede concluídos com kickoff realizado; projeto segue para a migração da versão 4.2 após assinatura do contrato."
   },
   "aBJKf000009tWEvOAM": {
-    "history_hash": "909576d8ef6be9e5d4eb7d396bda0150",
-    "summary": "[2026-10-19] Kyndryl PSF approved ($1.57M). Completing partner onboarding and finalizing Databricks on GCP Lakehouse architecture for Nov 29 kickoff."
+    "history_hash": "8362534481cfe9fdcbbd35d70f2adae3",
+    "summary": "23/10: Kyndryl PSF aprovado; em onboarding e finalização da arquitetura Databricks/GCP para kickoff em 29/11 e alinhamento dia 27/10."
   },
   "aBJKf000000GouMOAS": {
     "history_hash": "01086312d878f8b7e363faf7f8f6df2a",
@@ -96,8 +96,8 @@
     "summary": "Reunião agendada com novo executivo de vendas da Tempest para definição do escopo final de renovação SecOps."
   },
   "aBJKf000009eMKMOA2": {
-    "history_hash": "643ed3cabc42901c699ecef7f4ffe293",
-    "summary": "[2026-08-28] 28/08 - Cliente já ativou os 150 usuários. Parceiro está implantando os conectores."
+    "history_hash": "1b0e42d7f9b2da08ac7274faf64285b3",
+    "summary": "23/10: Reunião técnica agendada para 26/10 com o objetivo de alinhar conectores e acelerar a adoção do Gemini Enterprise pelo cliente."
   },
   "aBJ4M00000002gsWAA": {
     "history_hash": "ac88c530192ba44d5a0d3e819ad4646a",
@@ -1532,7 +1532,7 @@
     "summary": "30/09: Reunião agendada entre cliente, parceiro e FSR para a próxima semana para alinhar próximos passos do projeto."
   },
   "aBJKf000004ZVPlOAO": {
-    "history_hash": "e21cb43e5558fa1f4e5fdcf5a8c916f6",
-    "summary": "**Projeto aprovado pela diretoria executiva e em fase de execução conforme o cronograma estabelecido.**"
+    "history_hash": "5c4122a5dd35583015c17160d959b5f2",
+    "summary": "23/10: Projeto aprovado pelo CEO em execução via crédito no GE, sem impedimentos no momento."
   }
 }
