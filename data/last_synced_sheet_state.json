@@ -1966,7 +1966,7 @@
     "partner_tech_email": "lucas.feitoza@qinetwork.com.br",
     "technical_win": false,
     "proposal_sent": false,
-    "partner_tech_contact": "Daniel de Almeida (lucas.feitoza@qinetwork.com.br)",
+    "partner_tech_contact": "lucas.feitoza@qinetwork.com.br",
     "client_tech_contact": "Dagoberto Souza (angelo.figaro@patria.com.br)"
   },
   "WIZ_Alper": {
@@ -2612,7 +2612,7 @@
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
-    "partner_tech_contact": "",
+    "partner_tech_contact": "thais.macedo@santodigital.com.br",
     "client_tech_contact": "Eduardo Sampaio (eduardo.brayner@atakarejo.com.br)"
   },
   "AgentSpace_Istoé": {
@@ -6205,7 +6205,7 @@
     "partner_tech_email": "lucas.feitoza@qinetwork.com.br",
     "technical_win": false,
     "proposal_sent": false,
-    "partner_tech_contact": "Daniel de Almeida (lucas.feitoza@qinetwork.com.br)",
+    "partner_tech_contact": "lucas.feitoza@qinetwork.com.br",
     "client_tech_contact": "Dagoberto Souza (angelo.figaro@patria.com.br)"
   },
   "aBJKf000004ZNzCOAW": {
@@ -6457,7 +6457,7 @@
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
-    "partner_tech_contact": "",
+    "partner_tech_contact": "thais.macedo@santodigital.com.br",
     "client_tech_contact": "Eduardo Sampaio (eduardo.brayner@atakarejo.com.br)"
   },
   "aBJKf000004ZMizOAG": {
@@ -7342,7 +7342,7 @@
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
-    "partner_tech_contact": "",
+    "partner_tech_contact": "danilo.silva@movti.com.br",
     "client_tech_contact": "Gabriel Hortelan (romulo.simas@gthink.com.br)"
   },
   "Projeto SAP Agrex - Atualizado": {
@@ -7351,7 +7351,7 @@
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
-    "partner_tech_contact": "",
+    "partner_tech_contact": "danilo.silva@movti.com.br",
     "client_tech_contact": "Gabriel Hortelan (romulo.simas@gthink.com.br)"
   },
   "aBJKf000004ZEKROA4": {
@@ -7388,7 +7388,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Wederson Marcos Dos Santos (wederson.santos@gruposinova.com.br)"
+    "client_tech_contact": ""
   },
   "aBJKf000004ZLw1OAG": {
     "blocker": "",
@@ -7576,7 +7576,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Gustavo Cavalcanti (gustavo.cavalcanti@aec.com.br)"
+    "client_tech_contact": ""
   },
   "aBJKf000009e22OOAQ": {
     "blocker": "",
@@ -7834,7 +7834,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Wederson Marcos Dos Santos (wederson.santos@gruposinova.com.br)"
+    "client_tech_contact": ""
   },
   "aBJKf000004ZAg6OAG": {
     "blocker": "",
@@ -7852,7 +7852,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Wederson Marcos Dos Santos (wederson.santos@gruposinova.com.br)"
+    "client_tech_contact": ""
   },
   "aBJKf000004ZTdbOAG": {
     "blocker": "",
@@ -7952,7 +7952,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Raphael Ramos (raphael.ramos@cmaa.ind.br)"
+    "client_tech_contact": ""
   },
   "aBJKf000004ZLo7OAG": {
     "blocker": "",
@@ -7988,7 +7988,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Juliana Lamotta (j.lamotta@sauter.digital)"
+    "client_tech_contact": ""
   },
   "aBJKf000004ZMD7OAO": {
     "blocker": "",
@@ -8142,7 +8142,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Oswaldo Moreira Neto (oswaldo.neto@seculus.com.br)"
+    "client_tech_contact": ""
   },
   "aBJKf000004ZMCsOAO": {
     "blocker": "",
@@ -11200,5 +11200,77 @@
     "client_tech_contact": "Marco Fontenelle (marcofontenelle@riogaleao.com)",
     "technical_win": false,
     "proposal_sent": false
+  },
+  "renanvaladares||SINAGRO PRODUTOS AGROPECUARIOS SA||Sinova #OUT #GCP #Gemini Enterprise #BR + Dados||SAP - Sinova": {
+    "blocker": "",
+    "status_tecnico": "",
+    "partner_tech_email": "",
+    "technical_win": false,
+    "proposal_sent": false,
+    "partner_tech_contact": "",
+    "client_tech_contact": ""
+  },
+  "renanvaladares||AeC Centro de Contatos S/A||Assessment de Banco de dados - Mongo para Firestone #TDSYNNEX_NY_EXPEDITION_26 #TD||Assessment de Banco de dados - Mongo para Firestone #TDSYNNEX_NY_EXPEDITION_26": {
+    "blocker": "",
+    "status_tecnico": "",
+    "partner_tech_email": "",
+    "technical_win": false,
+    "proposal_sent": false,
+    "partner_tech_contact": "",
+    "client_tech_contact": ""
+  },
+  "renanvaladares||SECULUS TECNOLOGIA S/A||||Infra Servidores": {
+    "blocker": "",
+    "status_tecnico": "",
+    "partner_tech_email": "",
+    "technical_win": false,
+    "proposal_sent": false,
+    "partner_tech_contact": "",
+    "client_tech_contact": ""
+  },
+  "renanvaladares||SINAGRO PRODUTOS AGROPECUARIOS SA||Sinova #OUT #GCP #Gemini Enterprise #BR + Dados||Sinova - Dados": {
+    "blocker": "",
+    "status_tecnico": "",
+    "partner_tech_email": "",
+    "technical_win": false,
+    "proposal_sent": false,
+    "partner_tech_contact": "",
+    "client_tech_contact": ""
+  },
+  "renanvaladares||SINAGRO PRODUTOS AGROPECUARIOS SA||Sinova #OUT #GCP #Gemini Enterprise #BR + Dados||Sinova #OUT #GCP #Gemini Enterprise": {
+    "blocker": "",
+    "status_tecnico": "",
+    "partner_tech_email": "",
+    "technical_win": false,
+    "proposal_sent": false,
+    "partner_tech_contact": "",
+    "client_tech_contact": ""
+  },
+  "renanvaladares||Companhia Mineira de Açúcar e Álcool Participações||MSSP B2B - CMAA - Stefanini - SecOps||Secops - WKL": {
+    "blocker": "",
+    "status_tecnico": "",
+    "partner_tech_email": "",
+    "technical_win": false,
+    "proposal_sent": false,
+    "partner_tech_contact": "",
+    "client_tech_contact": ""
+  },
+  "renanvaladares||Drogaria Araújo S/A||Araujo: Looker Backup||Ambiente de Dados - Looker": {
+    "blocker": "",
+    "status_tecnico": "",
+    "partner_tech_email": "",
+    "technical_win": false,
+    "proposal_sent": false,
+    "partner_tech_contact": "",
+    "client_tech_contact": ""
+  },
+  "renanvaladares||SECULUS TECNOLOGIA S/A||Seculus - Customer Genoma - BQ Sharing - Mkt||Seculus - Customer Genoma - BQ Sharing - Mkt": {
+    "blocker": "",
+    "status_tecnico": "",
+    "partner_tech_email": "",
+    "technical_win": false,
+    "proposal_sent": false,
+    "partner_tech_contact": "",
+    "client_tech_contact": ""
   }
 }

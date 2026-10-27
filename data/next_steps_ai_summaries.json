@@ -148,8 +148,8 @@
     "summary": "15/05/2023: Escopo técnico aprovado pelo time de TI após troca de parceiro; pendente assinatura do contrato."
   },
   "aBJKf000009tOUvOAM": {
-    "history_hash": "0a3ba66ee6d710c46d0affd26513450e",
-    "summary": "07/06: MVP concluído e proposta comercial apresentada; aguardando retorno da reunião de Diretoria do cliente."
+    "history_hash": "251b903a8c0b170bfdf6c67312407f9b",
+    "summary": "07/06: Aguardando devolutiva do cliente sobre a proposta comercial pós-reunião de diretoria, com deadline previsto para 10/06."
   },
   "aBJKf000009swUrOAI": {
     "history_hash": "b81c8699bff0876df97f7ce9207f6cdb",
@@ -316,8 +316,8 @@
     "summary": "04/07: Contrato assinado e kick-off do projeto realizado após conclusão do assessment de segurança."
   },
   "aBJKf000009olm8OAA": {
-    "history_hash": "e23b20dd850cabc69cf98338fe15e1a4",
-    "summary": "23/10: Cobrança enviada após no-show da VPN; aguardamos resposta sobre bloqueios e plano para iniciar implementação em 29/10."
+    "history_hash": "46aa7f8e9971e04d3395573a31f1782c",
+    "summary": "23/10: Cobrança enviada sobre proposta e bloqueios após no-show da VPN; aguarda retorno para viabilizar início da implementação em 29/10."
   },
   "aBJKf000009tMkDOAU": {
     "history_hash": "0bd7ecf2c6aa2d36b22368ec73ce3b30",
@@ -472,8 +472,8 @@
     "summary": "09/09 - Migração de dados em espera; foco atual em acelerar testes de adoção do GE App."
   },
   "aBJKf000004ZQf0OAG": {
-    "history_hash": "07dd65589569b5ece011060cecb1a37d",
-    "summary": "[2026-10-08] 08/10 [VF] - Deep dive técnico de Agent Platform e Model Armor entregue em 17/09 e reunião de alinhamento contratual/pricing realizada em 06/10 com..."
+    "history_hash": "91f51119c54af0b9149ecbce09300bab",
+    "summary": "08/10: Reunião de alinhamento comercial realizada; aguardamos retorno do cliente sobre a proposta e os próximos passos técnicos da implementação."
   },
   "aBJKf000009eQOIOA2": {
     "history_hash": "72a417befcc57644f65b0289779995fa",
@@ -488,8 +488,8 @@
     "summary": "14/10: Projeto em desenvolvimento interno pela equipe da Climatempo, sem bloqueios reportados até o momento."
   },
   "aBJKf000009tGOrOAM": {
-    "history_hash": "842a6ed0c79cca329cee003626a47c5e",
-    "summary": "18/08 - Em processo de alinhamento com cliente e parceiro para provisionamento e ativação de licenças."
+    "history_hash": "a7985e95522fcda8707344ef72c7e0ec",
+    "summary": "18/08: Projeto em fase de provisionamento e ativação de seats após alinhamento com cliente e parceiro para finalização da implementação."
   },
   "aBJ4M000000089NWAQ": {
     "history_hash": "21f59558b9689a0a68ae7584262c9c95",
@@ -696,8 +696,8 @@
     "summary": "08/10: Aguardando OK do cliente para prosseguir com GCP até 31/10 e declinar proposta AWS."
   },
   "aBJKf000009eAc7OAE": {
-    "history_hash": "eda527973d3fb5c1a1a3feb8ba196a23",
-    "summary": "04/09: Parceiro de VPN alterado; aguardando definição de orçamento com novo parceiro na próxima semana."
+    "history_hash": "f1aabab183a2091cbc81f626b1b2542c",
+    "summary": "04/09: Parceiro alterado para VPN; aguardamos orçamento do novo parceiro na próxima semana para prosseguir com o projeto."
   },
   "aBJKf000009e21fOAA": {
     "history_hash": "97f0b8aa41f963d15f001dda8995d98d",
@@ -840,8 +840,8 @@
     "summary": "11/09: Contrato submetido para assinatura pelo cliente, com conclusão prevista até 16/09."
   },
   "aBJKf000009eLknOAE": {
-    "history_hash": "236cd42d02a03aea991d8693756507a2",
-    "summary": "11/09: Contrato submetido para assinatura pelo cliente, com conclusão prevista até 16/09."
+    "history_hash": "c2b47fc121ed6237b68d86e2a398b188",
+    "summary": "11/09: Contrato submetido pelo cliente para assinatura; a conclusão é esperada até 16/09, sem bloqueios no momento."
   },
   "aBJKf000009obKJOAY": {
     "history_hash": "013f013e3342211a0d3b28b7a5383f11",
@@ -1180,8 +1180,8 @@
     "summary": "20/10: Projeto pausado aguardando envio do resultado do script do DMA; cliente não responde aos contatos de follow-up realizados."
   },
   "aBJKf000009olltOAA": {
-    "history_hash": "00be4d39c1b8793560bfc94632d9b0c1",
-    "summary": "10/09: O cliente analisa os próximos passos para definição da estratégia e continuidade do projeto."
+    "history_hash": "6f1ffb067bd5cffab5fe9a86a90087df",
+    "summary": "10/09: O cliente analisa os próximos passos do projeto; aguardamos retorno para definição da estratégia de continuidade."
   },
   "aBJKf000004ZTi2OAG": {
     "history_hash": "cf457212222acdd6c823f715d986c740",
@@ -1396,8 +1396,8 @@
     "summary": "13/10: Contrato em fase final de negociação; o início da migração depende exclusivamente da assinatura do documento."
   },
   "aBJKf000009kMUVOA2": {
-    "history_hash": "1c9009dd2832690bec43541e7cb8e2a4",
-    "summary": "08/10: Demonstração técnica realizada; aguardando definição do escopo da PoC/rollout em conjunto com FSR e parceiro IPNET/Telefónica."
+    "history_hash": "df18402b5b1b526130e7a4c42f863ba4",
+    "summary": "08/10: Demonstração técnica realizada; estamos em fase de definição do escopo da PoC/rollout junto à FSR e ao parceiro IPNET/Telefónica."
   },
   "aBJKf000009oi19OAA": {
     "history_hash": "c3a9172861c5170e46fa496561247420",
@@ -1412,12 +1412,12 @@
     "summary": "[2026-10-08] 08/10 [VF] - Escopo técnico revisado com o parceiro Movti. Em tratativa executiva (FSR + Movti) junto ao cliente para destravar a aprovação e assin..."
   },
   "aBJKf000009kMOSOA2": {
-    "history_hash": "de95b0553c43d91e806dec21709a96c4",
-    "summary": "[2026-10-08] 08/10 [VF] - Reunião de apresentação de proposta e arquitetura agendada para 13/10 às 11h30 com o parceiro ATRA e equipe de BI/TI do Banco Rendimen..."
+    "history_hash": "9063f447f9119d28bb688fb43eb7a6a1",
+    "summary": "08/10: Proposta e arquitetura da Resolução 18 serão apresentadas em 13/10 ao Banco Rendimento para validar a automação no BigQuery."
   },
   "aBJKf000009kLGSOA2": {
-    "history_hash": "688d352ce3962f79b55a1dd5bcec6f97",
-    "summary": "[2026-10-20] [LL] Customer not prioritizing WL at the moment. Partner will re-engage customer and bring answer on Oct/26."
+    "history_hash": "450d64fc5177c8a84528bfe8c93d6de9",
+    "summary": "20/10: Cliente pausou a priorização do projeto; parceiro reengajará em 26/10 para definir os próximos passos da implementação dos agentes de IA."
   },
   "aBJKf000009kLGcOAM": {
     "history_hash": "4a86f4925f333bbe6a1aba4159995e06",
@@ -1534,5 +1534,89 @@
   "aBJKf000004ZVPlOAO": {
     "history_hash": "5c4122a5dd35583015c17160d959b5f2",
     "summary": "23/10: Projeto aprovado pelo CEO em execução via crédito no GE, sem impedimentos no momento."
+  },
+  "aBJKf000009kLSJOA2": {
+    "history_hash": "cdca77f3734be08bfc542c880710a2d5",
+    "summary": "26/10: Expansão de infraestrutura em fase de ramping, com Go-Live programado para 30/11/2026."
+  },
+  "aBJKf000009kEMTOA2": {
+    "history_hash": "f8fe6d2e315b0ece7dbd242cc26e4f4a",
+    "summary": "26/10: Projeto em fase final de ramping com a Movti Cloud, com Go-Live confirmado para 30/11/2026."
+  },
+  "aBJKf000009kOrSOAU": {
+    "history_hash": "f55b62fd923f93bf78d7bbaef9ec589f",
+    "summary": "26/10: Avaliação técnica do Ambiente Bolha SAP Rise em curso, com Tech Win agendado para 20/11/2026."
+  },
+  "aBJKf000009kENbOAM": {
+    "history_hash": "ec178a4e5ab14d87a39133a2defd930e",
+    "summary": "26/10: Proposta SecOps em negociação com a Netsecurity, com início de implementação programado para 16/11/2026."
+  },
+  "aBJKf000009kLGrOAM": {
+    "history_hash": "e20d2d55aa2993f096e833ab169b0d31",
+    "summary": "26/10: Avaliação técnica do Looker em curso, com Tech Win agendado para 20/11/2026."
+  },
+  "aBJKf000009kLGmOAM": {
+    "history_hash": "c4993e64b4bf44a036a9e79ce8ce5dd9",
+    "summary": "26/10: Modernização de Dados com Blueshift em avaliação técnica, com Tech Win previsto para 20/11/2026."
+  },
+  "aBJKf000009kENqOAM": {
+    "history_hash": "c845a9ec0b3634617e5e0b2b607529d5",
+    "summary": "26/10: Proposta SOC em negociação com a Stefanini, com início da implementação agendado para 27/11/2026."
+  },
+  "aBJKf000009kENlOAM": {
+    "history_hash": "7ede3d113fe5540c6b991c9a049d9031",
+    "summary": "26/10: Avaliação de segurança com Wiz em andamento, com Tech Win previsto para 20/11/2026."
+  },
+  "aBJKf000009kETyOAM": {
+    "history_hash": "7784305f1194cef3ad10b74d9a147bdb",
+    "summary": "26/10: Alinhamento concluído para o Hub Digital com Movti Cloud, com início da migração agendado para 16/11/2026."
+  },
+  "aBJKf000009kFMoOAM": {
+    "history_hash": "ac0f93f17bcdd6d84c61f96a14b65b0d",
+    "summary": "26/10: Entrega A11 sob acompanhamento com Stefanini; Go-Live confirmado para 27/11/2026."
+  },
+  "aBJKf000009kLH1OAM": {
+    "history_hash": "bcbfcbeece6fe6c2bbd974302017287b",
+    "summary": "26/10: Avaliação técnica do Agente Virtual com MetaRJ em curso, com Tech Win agendado para 20/11/2026."
+  },
+  "aBJKf000009kFMKOA2": {
+    "history_hash": "cc08ebed428b2202f058f3a6df43f881",
+    "summary": "26/10: Ramping com Stefanini em andamento, com Go-Live confirmado para 27/11/2026."
+  },
+  "aBJKf000009kIlNOAU": {
+    "history_hash": "ac09907616b82c33728e292ef70e8446",
+    "summary": "26/10: Em processo de ramping do Gemini Enterprise com a Dedalus Prime, visando o Go-Live agendado para 27/11/2026."
+  },
+  "aBJKf000009kGe5OAE": {
+    "history_hash": "84cc5d81a79e282c01cef614c20c9dc3",
+    "summary": "26/10: Avaliação técnica da infraestrutura Moki em curso, com previsão de Tech Win agendada para 20/11/2026."
+  },
+  "aBJKf000009kEOAOA2": {
+    "history_hash": "4365224ea6fb5fbf495de15cb3f9ba44",
+    "summary": "26/10: ML de Precificação E-commerce em fase de entrega com a VPN Soluções, mantendo o Go-Live agendado para 30/11/2026."
+  },
+  "aBJKf000009kFMtOAM": {
+    "history_hash": "7df42e09a8c9f2ff3397bfce2c432625",
+    "summary": "26/10: Proposta NOC em negociação com a Stefanini, com migração agendada para 16/11/2026."
+  },
+  "aBJKf000009on4UOAQ": {
+    "history_hash": "525f4795a170acfe266390fdef8caac9",
+    "summary": "26/10: Proposta Gemini Enterprise para Telefónica/IPNET em acompanhamento, com início das operações previsto para 16/11/2026."
+  },
+  "aBJKf000009kFMUOA2": {
+    "history_hash": "ce1a88f34a5ecc45de384d246e4d6e47",
+    "summary": "26/10: Entrega em acompanhamento com a Stefanini; Go-Live confirmado para 27/11/2026, sem bloqueios identificados no momento."
+  },
+  "aBJKf000009kFMeOAM": {
+    "history_hash": "ce1a88f34a5ecc45de384d246e4d6e47",
+    "summary": "26/10: Entrega sendo acompanhada junto à Stefanini; Go-Live confirmado para 27/11/2026."
+  },
+  "aBJKf000009kFMZOA2": {
+    "history_hash": "ce1a88f34a5ecc45de384d246e4d6e47",
+    "summary": "26/10: Entrega sob acompanhamento com a Stefanini para Go-Live em 27/11/2026; projeto segue conforme o cronograma estabelecido."
+  },
+  "aBJKf000009eVroOAE": {
+    "history_hash": "1502af7f5f9eb6298e5f0a5bb1059c11",
+    "summary": "26/10: O projeto foi implementado e está em produção, sem pendências operacionais no momento."
   }
 }

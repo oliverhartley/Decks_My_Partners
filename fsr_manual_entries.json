@@ -1129,8 +1129,14 @@
   "GE_Q4_Braveo": {},
   "aBJKf000004ZSmmOAG": {},
   "SECOPS+SCC_Athena": {},
-  "aBJKf000004ZKKuOAO": {},
-  "Recommit Patria/ GE": {},
+  "aBJKf000004ZKKuOAO": {
+    "partner_tech_contact": "lucas.feitoza@qinetwork.com.br",
+    "updated_at": "2026-10-27T08:01:32.655801"
+  },
+  "Recommit Patria/ GE": {
+    "partner_tech_contact": "lucas.feitoza@qinetwork.com.br",
+    "updated_at": "2026-10-27T08:01:32.655801"
+  },
   "aBJKf000004ZNzCOAW": {},
   "WIZ_Alper": {},
   "aBJKf000004ZIvcOAG": {},
@@ -1227,8 +1233,14 @@
     "client_tech_contact": "Arnaldo Cesar Caetano Caetano (arnaldo@wps-sa.com.br)",
     "updated_at": "2026-10-20T13:03:57.190485"
   },
-  "aBJKf000004ZJMPOA4": {},
-  "Gemini Ent Atakarejo": {},
+  "aBJKf000004ZJMPOA4": {
+    "partner_tech_contact": "thais.macedo@santodigital.com.br",
+    "updated_at": "2026-10-27T08:01:32.655801"
+  },
+  "Gemini Ent Atakarejo": {
+    "partner_tech_contact": "thais.macedo@santodigital.com.br",
+    "updated_at": "2026-10-27T08:01:32.655801"
+  },
   "aBJKf000004ZMizOAG": {},
   "GE_Ciranda": {},
   "aBJKf000004ZQQFOA4": {},
@@ -3477,5 +3489,13 @@
   "aBJKf000004ZVo7OAG": {},
   "Migração Solis_1": {},
   "aBJKf000004ZW0hOAG": {},
-  "Google Translatos": {}
+  "Google Translatos": {},
+  "renanvaladares||SINAGRO PRODUTOS AGROPECUARIOS SA||Sinova #OUT #GCP #Gemini Enterprise #BR + Dados||SAP - Sinova": {},
+  "renanvaladares||AeC Centro de Contatos S/A||Assessment de Banco de dados - Mongo para Firestone #TDSYNNEX_NY_EXPEDITION_26 #TD||Assessment de Banco de dados - Mongo para Firestone #TDSYNNEX_NY_EXPEDITION_26": {},
+  "renanvaladares||SECULUS TECNOLOGIA S/A||||Infra Servidores": {},
+  "renanvaladares||SINAGRO PRODUTOS AGROPECUARIOS SA||Sinova #OUT #GCP #Gemini Enterprise #BR + Dados||Sinova - Dados": {},
+  "renanvaladares||SINAGRO PRODUTOS AGROPECUARIOS SA||Sinova #OUT #GCP #Gemini Enterprise #BR + Dados||Sinova #OUT #GCP #Gemini Enterprise": {},
+  "renanvaladares||Companhia Mineira de Açúcar e Álcool Participações||MSSP B2B - CMAA - Stefanini - SecOps||Secops - WKL": {},
+  "renanvaladares||Drogaria Araújo S/A||Araujo: Looker Backup||Ambiente de Dados - Looker": {},
+  "renanvaladares||SECULUS TECNOLOGIA S/A||Seculus - Customer Genoma - BQ Sharing - Mkt||Seculus - Customer Genoma - BQ Sharing - Mkt": {}
 }
