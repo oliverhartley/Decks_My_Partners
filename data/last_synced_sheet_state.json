@@ -6,7 +6,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "dathayde@kyndryl.com",
-    "client_tech_contact": "Marcio Maia (marcio.maia@solarbr.com.br)"
+    "client_tech_contact": "Marcio Maia (marcio.maia@solarbr.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "SolarBR_Data2AI": {
     "blocker": "",
@@ -15,7 +17,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Iago Lucena (iago.lucena@solarbr.com.br)"
+    "client_tech_contact": "Iago Lucena (iago.lucena@solarbr.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Broadcast_CBF": {
     "blocker": "",
@@ -24,7 +28,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Leonardo Waissmann (leonardo@madeinweb.com.br)"
+    "client_tech_contact": "Leonardo Waissmann (leonardo@madeinweb.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Infratakeover_CIBRA": {
     "blocker": "",
@@ -33,7 +39,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Arivaldo Conceição (emendes@sauter.digital)"
+    "client_tech_contact": "Arivaldo Conceição (emendes@sauter.digital)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "GeminiEnterprise_BASA": {
     "blocker": "",
@@ -42,7 +50,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Glauccyo Heleno (gabriele.oliveira@xertica.com)"
+    "client_tech_contact": "Glauccyo Heleno (gabriele.oliveira@xertica.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Alvoar Lacteos - Infraestrutura Corporativa": {
     "blocker": "",
@@ -51,7 +61,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Zeca Branco (zeca@sauter.digital)"
+    "client_tech_contact": "Zeca Branco (zeca@sauter.digital)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "RedeBahia_Movetocloud": {
     "blocker": "",
@@ -60,16 +72,20 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Romildo Fausto (celso@qinetwork.com.br)"
+    "client_tech_contact": "Romildo Fausto (celso@qinetwork.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Migração Monuv_": {
     "blocker": "",
-    "status_tecnico": "test",
+    "status_tecnico": "",
     "partner_tech_email": "jardel.sliumba@santodigital.com.br",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "jardel.sliumba@santodigital.com.br",
-    "client_tech_contact": "Cristiano Cruz (thuanybaia@santodigital.com.br)"
+    "client_tech_contact": "Cristiano Cruz (thuanybaia@santodigital.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "GrupoCVLB_Enriquecimento de catalogo&Veomarketing_JornadaIA": {
     "blocker": "",
@@ -87,7 +103,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Wellington Britto (britto@deso-se.com.br)"
+    "client_tech_contact": "Wellington Britto (britto@deso-se.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "AWT_GE_Condor": {
     "blocker": "",
@@ -102,8 +120,10 @@
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
-    "partner_tech_contact": "",
-    "client_tech_contact": "Bernardo Bessa (leonardo.camargo@tdsynnex.com)"
+    "partner_tech_contact": "mnatalia@madeinweb.com.br",
+    "client_tech_contact": "Bernardo Bessa (leonardo.camargo@tdsynnex.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "DM_Migração bancoAWS_GCP_GrupoCVLB": {
     "blocker": "",
@@ -120,8 +140,10 @@
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
-    "partner_tech_contact": "",
-    "client_tech_contact": "Iago Lucena (hlaurindo@solarbr.com.br)"
+    "partner_tech_contact": "dathayde@kyndryl.com",
+    "client_tech_contact": "Iago Lucena (hlaurindo@solarbr.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "JornadaIA_Alvoar_marketing&sales": {
     "blocker": "",
@@ -130,7 +152,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Cassio Castro (zeca@sauter.digital)"
+    "client_tech_contact": "Cassio Castro (zeca@sauter.digital)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Gemini Enterprise_CVLB": {
     "blocker": "",
@@ -139,7 +163,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Wellington Rufino (e.martins@sauter.digital)"
+    "client_tech_contact": "Wellington Rufino (e.martins@sauter.digital)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "FSB | Apigee": {
     "blocker": "",
@@ -188,12 +214,14 @@
   },
   "Gemini Enterprise_Fogas": {
     "blocker": "",
-    "status_tecnico": "test",
+    "status_tecnico": "",
     "partner_tech_email": "jardel.sliumba@santodigital.com.br",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "jardel.sliumba@santodigital.com.br",
-    "client_tech_contact": "Cristiano Cruz (jardel.sliumba@santodigital.com.br)"
+    "client_tech_contact": "Cristiano Cruz (jardel.sliumba@santodigital.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "#Analytics_Fogas": {
     "blocker": "",
@@ -211,7 +239,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Zeca Branco (zeca@sauter.digital)"
+    "client_tech_contact": "Zeca Branco (zeca@sauter.digital)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Cibra_GE": {
     "blocker": "",
@@ -219,8 +249,10 @@
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
-    "partner_tech_contact": "Roberta Coelho",
-    "client_tech_contact": "Arivaldo Conceição (renato.takata@venhapranuvem.com.br)"
+    "partner_tech_contact": "Roberta Coelho (etelvina.mendes@venhapranuvem.com.br)",
+    "client_tech_contact": "Arivaldo Conceição (renato.takata@venhapranuvem.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "COMPANHIA DE SANEAMENTO DE ALAGOAS - InfraMod": {
     "blocker": "",
@@ -246,8 +278,10 @@
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
-    "partner_tech_contact": "",
-    "client_tech_contact": "Alexandre Maeoka (sidney.neimann@nisseisa.com.br)"
+    "partner_tech_contact": "lucas.feitoza@qinetwork.com.br",
+    "client_tech_contact": "Alexandre Maeoka (sidney.neimann@nisseisa.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "GrupoCVLB_Analytics": {
     "blocker": "",
@@ -290,7 +324,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Felipe Merfa (fabricio.gomes@fsb.com.br)"
+    "client_tech_contact": "Felipe Merfa (fabricio.gomes@fsb.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "GCB_infraMOD": {
     "blocker": "",
@@ -308,7 +344,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Analu Gama (analu.gama@ipnet.cloud)"
+    "client_tech_contact": "Analu Gama (analu.gama@ipnet.cloud)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Grupo CVLB Projeto Vitrines Inteligentes #RetailRecommendations": {
     "blocker": "",
@@ -389,7 +427,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Hinode - GE para consultores": {
     "blocker": "",
@@ -936,7 +976,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Thiago Bianchi (thiago.bianchi@mc1global.com)"
+    "client_tech_contact": "Thiago Bianchi (thiago.bianchi@mc1global.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Image Recognition": {
     "blocker": "",
@@ -945,7 +987,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Thiago Bianchi (thiago.bianchi@mc1global.com)"
+    "client_tech_contact": "Thiago Bianchi (thiago.bianchi@mc1global.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Gemini Platform": {
     "blocker": "",
@@ -961,7 +1005,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Rogerio Spinelli (rogerio.spinelli@kyndryl.com)"
+    "client_tech_contact": "Rogerio Spinelli (rogerio.spinelli@kyndryl.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "AutoGlass - GECX": {
     "blocker": "",
@@ -970,7 +1016,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Luan Smarsaro Amorim (luan.amorim@autoglass.com.br)"
+    "client_tech_contact": "Luan Smarsaro Amorim (luan.amorim@autoglass.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Infra - nova instancia": {
     "blocker": "",
@@ -979,7 +1027,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Vertex AI - Incremento": {
     "blocker": "",
@@ -995,7 +1045,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Luciano Kalil (luciano.kalil@valgroupco.com)"
+    "client_tech_contact": "Luciano Kalil (luciano.kalil@valgroupco.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Kurier - Move to GCP": {
     "blocker": "",
@@ -1004,7 +1056,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Agent - Atendimento": {
     "blocker": "",
@@ -1013,7 +1067,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Fernando Junkes (fernando.junkes@intelbras.com.br)"
+    "client_tech_contact": "Fernando Junkes (fernando.junkes@intelbras.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Valgroup - Impressao - AI - Plantas": {
     "blocker": "",
@@ -1022,7 +1078,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "João Henrique Vaz (joao.vaz@valgroupco.com)"
+    "client_tech_contact": "João Henrique Vaz (joao.vaz@valgroupco.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "fast2mine - Infra AI - Minas": {
     "blocker": "",
@@ -1031,7 +1089,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Infra AI": {
     "blocker": "",
@@ -1047,7 +1107,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "lucas.feitoza@qinetwork.com.br",
-    "client_tech_contact": "Lucas Bachmann Bachmann Feitoza (lucas.feitoza@qinetwork.com.br)"
+    "client_tech_contact": "Lucas Bachmann Bachmann Feitoza (lucas.feitoza@qinetwork.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Analytics": {
     "blocker": "Comercial",
@@ -1056,7 +1118,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "AutoGlass - Gemini Enterprise": {
     "blocker": "",
@@ -1065,7 +1129,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Luiz Roberto Pinon Junior (luiz.pinon@autoglass.com.br)"
+    "client_tech_contact": "Luiz Roberto Pinon Junior (luiz.pinon@autoglass.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Modernização BD": {
     "blocker": "",
@@ -1081,7 +1147,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Fernando Junkes (fernando.junkes@intelbras.com.br)"
+    "client_tech_contact": "Fernando Junkes (fernando.junkes@intelbras.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "MC1 - Pepsico": {
     "blocker": "",
@@ -1106,7 +1174,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "BLUECORP - Infra Modernizationn Incremental": {
     "blocker": "",
@@ -1115,7 +1185,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Victor Marcondes (vmarcondes@nilo.co)"
+    "client_tech_contact": "Victor Marcondes (vmarcondes@nilo.co)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Intelbras - Modernizacao Industria - Negocios": {
     "blocker": "",
@@ -1124,7 +1196,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Fernando Junkes (fernando.junkes@intelbras.com.br)"
+    "client_tech_contact": "Fernando Junkes (fernando.junkes@intelbras.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "BI - Agent": {
     "blocker": "",
@@ -1133,7 +1207,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Fernando Junkes (fernando.junkes@intelbras.com.br)"
+    "client_tech_contact": "Fernando Junkes (fernando.junkes@intelbras.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "MC1 - BIMBO": {
     "blocker": "",
@@ -1151,7 +1227,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "SecOps & WIZ": {
     "blocker": "",
@@ -1192,7 +1270,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Rafael Goulart (rafael.goulart@aurum.com.br)"
+    "client_tech_contact": "Rafael Goulart (rafael.goulart@aurum.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Mutant - Infra AI - Estacio": {
     "blocker": "",
@@ -1210,7 +1290,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Edison Figueira Junior Figueira Junior (edison@fortics.com.br)"
+    "client_tech_contact": "Edison Figueira Junior Figueira Junior (edison@fortics.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Novo Ambiente Azure": {
     "blocker": "",
@@ -1219,7 +1301,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Romulo Simas (romulo.simas@movti.com.br)"
+    "client_tech_contact": "Romulo Simas (romulo.simas@movti.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "MC1 - Mondelez": {
     "blocker": "",
@@ -1246,7 +1330,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Gabriel Laraia (gabriel.laraia@intelbras.com.br)"
+    "client_tech_contact": "Gabriel Laraia (gabriel.laraia@intelbras.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Climatempo - IA": {
     "blocker": "",
@@ -1255,7 +1341,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Flavio Horita (flavio.horita@climatempo.com.br)"
+    "client_tech_contact": "Flavio Horita (flavio.horita@climatempo.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Climatempo - CDP": {
     "blocker": "",
@@ -1264,7 +1352,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Flavio Horita (flavio.horita@climatempo.com.br)"
+    "client_tech_contact": "Flavio Horita (flavio.horita@climatempo.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Dynamox - Gemini Enterprise": {
     "blocker": "",
@@ -1273,7 +1363,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Bernardo Murta (bernardo@dynamox.net)"
+    "client_tech_contact": "Bernardo Murta (bernardo@dynamox.net)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Infra - Move to Cloud": {
     "blocker": "",
@@ -1291,7 +1383,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Celso Bueno (celso.bueno@leomadeiras.com.br)"
+    "client_tech_contact": "Celso Bueno (celso.bueno@leomadeiras.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "MC1_NewProductOnGCP": {
     "blocker": "",
@@ -1309,7 +1403,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Bernardo Murta (bernardo@dynamox.net)"
+    "client_tech_contact": "Bernardo Murta (bernardo@dynamox.net)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "AutoGlass - Abertura Sinistro": {
     "blocker": "",
@@ -1318,7 +1414,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "mnatalia@madeinweb.com.br",
-    "client_tech_contact": "Ciro Romanel (ciro.romanel@autoglass.com.br)"
+    "client_tech_contact": "Ciro Romanel (ciro.romanel@autoglass.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "AURUM - Antigravity": {
     "blocker": "",
@@ -1327,7 +1425,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Frederico Ferreira De Figueiredo (frederico.figueiredo@aurum.com.br)"
+    "client_tech_contact": "Frederico Ferreira De Figueiredo (frederico.figueiredo@aurum.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "AI - Vertex Ai": {
     "blocker": "",
@@ -1336,7 +1436,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Bernardo Murta (bernardo@dynamox.net)"
+    "client_tech_contact": "Bernardo Murta (bernardo@dynamox.net)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Contimatic - ReCommit #Q3CloseAcc": {
     "blocker": "",
@@ -1363,7 +1465,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Tiago Muza (tiago.muza@aurum.com.br)"
+    "client_tech_contact": "Tiago Muza (tiago.muza@aurum.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Seguranca": {
     "blocker": "",
@@ -1372,7 +1476,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Bernardo Murta (bernardo@dynamox.net)"
+    "client_tech_contact": "Bernardo Murta (bernardo@dynamox.net)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Fortics - VertexAI": {
     "blocker": "",
@@ -1380,8 +1486,10 @@
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
-    "partner_tech_contact": "",
-    "client_tech_contact": "Edison Figueira (efigueira@fortics.com.br)"
+    "partner_tech_contact": "marcio.silva@santodigital.com.br",
+    "client_tech_contact": "Edison Figueira (efigueira@fortics.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Fontec - Data Management": {
     "blocker": "",
@@ -1399,7 +1507,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Fortics - SecOps": {
     "blocker": "",
@@ -1408,7 +1518,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Edison Figueira Junior Figueira Junior (edison@fortics.com.br)"
+    "client_tech_contact": "Edison Figueira Junior Figueira Junior (edison@fortics.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Aurum - SCC": {
     "blocker": "",
@@ -1440,7 +1552,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Fabiano Moura (fabiano.moura@autoglass.com.br)"
+    "client_tech_contact": "Fabiano Moura (fabiano.moura@autoglass.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Climatempo - Agentspace": {
     "blocker": "",
@@ -1449,7 +1563,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Alan Pires Araujo (alan@santodigital.com.br)"
+    "client_tech_contact": "Alan Pires Araujo (alan@santodigital.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Liber Capital - GE": {
     "blocker": "",
@@ -1490,7 +1606,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Lucas Bachmann Bachmann Feitoza (lucas.feitoza@qinetwork.com.br)"
+    "client_tech_contact": "Lucas Bachmann Bachmann Feitoza (lucas.feitoza@qinetwork.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Migration GCP to OCI": {
     "blocker": "",
@@ -1508,7 +1626,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Marcio Ferreira Da Silva (marcio.ferreira@exa.com.br)"
+    "client_tech_contact": "Marcio Ferreira Da Silva (marcio.ferreira@exa.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Migração SEK_fase 2": {
     "blocker": "",
@@ -1517,7 +1637,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Investidas Lake_Braveo": {
     "blocker": "",
@@ -1544,7 +1666,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Migração AWS_BIG BOX": {
     "blocker": "",
@@ -1553,7 +1677,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Daniel Ribeiro"
+    "client_tech_contact": "Daniel Ribeiro",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "OCI Migration_Autopass": {
     "blocker": "",
@@ -1562,7 +1688,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Neo4J_Patria": {
     "blocker": "",
@@ -1571,7 +1699,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Angelo Figaro (angelo.figaro@patria.com.br)"
+    "client_tech_contact": "Angelo Figaro (angelo.figaro@patria.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "RIOGaleão - SAP": {
     "blocker": "",
@@ -1598,7 +1728,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Projeto KUBO _ ONR": {
     "blocker": "",
@@ -1625,7 +1757,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Arnaldo Cesar Caetano Caetano (arnaldo@wps-sa.com.br)"
+    "client_tech_contact": "Arnaldo Cesar Caetano Caetano (arnaldo@wps-sa.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "ONR | IARI 2.0 Marketplace": {
     "blocker": "",
@@ -1652,7 +1786,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "ademir.junior@gavb.com.br",
-    "client_tech_contact": ""
+    "client_tech_contact": "",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Infra Modernization_Pátria - Entel Chile": {
     "blocker": "",
@@ -1688,7 +1824,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Rodrigo Ricardi"
+    "client_tech_contact": "Rodrigo Ricardi",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Precificação_Tenda": {
     "blocker": "",
@@ -1706,7 +1844,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Ricardo Bolognesi (ricardo.paula@onr.org.br)"
+    "client_tech_contact": "Ricardo Bolognesi (ricardo.paula@onr.org.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "GE_ATHENA": {
     "blocker": "",
@@ -1715,7 +1855,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Segmentação de Personas_Tenda_ #LLM": {
     "blocker": "",
@@ -1733,7 +1875,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "Vanessa Moyses",
-    "client_tech_contact": "Marcos Igutti"
+    "client_tech_contact": "Marcos Igutti",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "ONR Apigee": {
     "blocker": "",
@@ -1742,7 +1886,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Eduardo Tinoco (eduardo.tinoco@onr.org.br)"
+    "client_tech_contact": "Eduardo Tinoco (eduardo.tinoco@onr.org.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Solis Investimentos_Migração parte 2": {
     "blocker": "",
@@ -1769,7 +1915,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Angelo Figaro (angelo.figaro@patria.com.br)"
+    "client_tech_contact": "Angelo Figaro (angelo.figaro@patria.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Migrações AWS+Azure_Patria": {
     "blocker": "",
@@ -1796,7 +1944,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Migração AXIA": {
     "blocker": "",
@@ -1805,7 +1955,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "Fernanda Faria",
-    "client_tech_contact": "Leandro Pereira (leandro.pereira@axiaagro.com)"
+    "client_tech_contact": "Leandro Pereira (leandro.pereira@axiaagro.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Lavoro_LLM": {
     "blocker": "",
@@ -1841,7 +1993,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "Vanessa Moyses",
-    "client_tech_contact": "Igor Gomes (igor.g@tenda.com)"
+    "client_tech_contact": "Igor Gomes (igor.g@tenda.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Projeto Amazonia Legal": {
     "blocker": "",
@@ -1850,7 +2004,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "Diego Baldin",
-    "client_tech_contact": "Ricardo Bolognesi (ricardo.paula@onr.org.br)"
+    "client_tech_contact": "Ricardo Bolognesi (ricardo.paula@onr.org.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Lavoro - ERP-  Datalake e Infra": {
     "blocker": "",
@@ -1868,7 +2024,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Joao Perez (joaopedroperez@sek.io)"
+    "client_tech_contact": "Joao Perez (joaopedroperez@sek.io)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Crescimento Infra_WPS": {
     "blocker": "",
@@ -1886,7 +2044,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Breno Rios Sa (breno.sa@athenasaude.com.br)"
+    "client_tech_contact": "Breno Rios Sa (breno.sa@athenasaude.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Migração DL AWS_Tenda": {
     "blocker": "",
@@ -1904,7 +2064,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "Vanessa Moyses",
-    "client_tech_contact": "Marcelo Alexandre (marcelo.alexandre@braveo.com.br)"
+    "client_tech_contact": "Marcelo Alexandre (marcelo.alexandre@braveo.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Migração Ciranda": {
     "blocker": "",
@@ -1940,7 +2102,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Breno Rios Sa"
+    "client_tech_contact": "Breno Rios Sa",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Gen AI_#LLM": {
     "blocker": "",
@@ -1966,8 +2130,10 @@
     "partner_tech_email": "lucas.feitoza@qinetwork.com.br",
     "technical_win": false,
     "proposal_sent": false,
-    "partner_tech_contact": "lucas.feitoza@qinetwork.com.br",
-    "client_tech_contact": "Dagoberto Souza (angelo.figaro@patria.com.br)"
+    "partner_tech_contact": "Daniel de Almeida (lucas.feitoza@qinetwork.com.br)",
+    "client_tech_contact": "Dagoberto Souza (angelo.figaro@patria.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "WIZ_Alper": {
     "blocker": "",
@@ -1976,7 +2142,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "Lívia Serra",
-    "client_tech_contact": "Wilson de Lima Jnior (wilson.junior@alperseguros.com.br)"
+    "client_tech_contact": "Wilson de Lima Jnior (wilson.junior@alperseguros.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "BIG Query": {
     "blocker": "",
@@ -2047,8 +2215,10 @@
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
-    "partner_tech_contact": "",
-    "client_tech_contact": "Michel De Souza (dup+michel.souza@myralis.com.br)"
+    "partner_tech_contact": "jardel.sliumba@santodigital.com.br",
+    "client_tech_contact": "Michel De Souza (dup+michel.souza@myralis.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Apigee_Myralis": {
     "blocker": "",
@@ -2084,7 +2254,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Rodrigo Scaloppi (andre.silva@santodigital.com.br)"
+    "client_tech_contact": "Rodrigo Scaloppi (andre.silva@santodigital.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Migração Dommus": {
     "blocker": "",
@@ -2093,7 +2265,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Overage_Asis": {
     "blocker": "",
@@ -2165,7 +2339,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Jonathan Melo Da Silva (jonathan.silva.ext@athenasaude.com.br)"
+    "client_tech_contact": "Jonathan Melo Da Silva (jonathan.silva.ext@athenasaude.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "ONR | Ag Conversacionais | Chat GWS": {
     "blocker": "",
@@ -2191,8 +2367,10 @@
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
-    "partner_tech_contact": "",
-    "client_tech_contact": "Adevilson Martins (semcontato@amorsaude.com.br)"
+    "partner_tech_contact": "Nao Existe",
+    "client_tech_contact": "Adevilson Martins (semcontato@amorsaude.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "DL_Tres Editorial": {
     "blocker": "",
@@ -2264,7 +2442,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "Vanessa Moyses",
-    "client_tech_contact": "Marco Fontenelle"
+    "client_tech_contact": "Marco Fontenelle",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Secops_EXA": {
     "blocker": "",
@@ -2282,7 +2462,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Rogério Bassete (lucas.lazarim@microwork.inf.br)"
+    "client_tech_contact": "Rogério Bassete (lucas.lazarim@microwork.inf.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "AWS Migration - LAKE": {
     "blocker": "",
@@ -2309,7 +2491,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Christian De Aguiar (christian.aguiar@winity.com.br)"
+    "client_tech_contact": "Christian De Aguiar (christian.aguiar@winity.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Crescimento Vortex": {
     "blocker": "",
@@ -2318,7 +2502,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Michael Grace (mgrace@vtxmx.com)"
+    "client_tech_contact": "Michael Grace (mgrace@vtxmx.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "SCC + Armor_WPS": {
     "blocker": "",
@@ -2336,7 +2522,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Rafael Fusco Siqueira Pinto Pinto (rafael@wps-sa.com.br)"
+    "client_tech_contact": "Rafael Fusco Siqueira Pinto Pinto (rafael@wps-sa.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "WPS_SecOps": {
     "blocker": "",
@@ -2345,7 +2533,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "Daniel de Almeida (daniel.almeida@santodigital.com.br)",
-    "client_tech_contact": "Rodrigo Ricardi"
+    "client_tech_contact": "Rodrigo Ricardi",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "GeminiEnt_Braveo": {
     "blocker": "",
@@ -2398,8 +2588,10 @@
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
-    "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "partner_tech_contact": "cruz.lucas@cloud-ace.com",
+    "client_tech_contact": "",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "GE_ONR": {
     "blocker": "",
@@ -2408,7 +2600,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Ricardo Bolognesi (gil.matos@onr.org.br)"
+    "client_tech_contact": "Ricardo Bolognesi (gil.matos@onr.org.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "SCC_WPS": {
     "blocker": "",
@@ -2417,7 +2611,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "Daniel de Almeida (daniel.almeida@santodigital.com.br)",
-    "client_tech_contact": "Rodrigo Ricardi"
+    "client_tech_contact": "Rodrigo Ricardi",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Apigee2_Portal Dev": {
     "blocker": "",
@@ -2444,7 +2640,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "Vanessa Moyses",
-    "client_tech_contact": "Igor Gomes (igor.g@tenda.com)"
+    "client_tech_contact": "Igor Gomes (igor.g@tenda.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "DataDog_Marketplace_Alper": {
     "blocker": "",
@@ -2453,7 +2651,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Cortex_Arizona": {
     "blocker": "",
@@ -2471,7 +2671,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Marcelo Petercem"
+    "client_tech_contact": "Marcelo Petercem",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Security_AZ": {
     "blocker": "",
@@ -2496,7 +2698,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Marco Fontenelle"
+    "client_tech_contact": "Marco Fontenelle",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Agentplatform_Rio Galeao": {
     "blocker": "",
@@ -2505,7 +2709,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "Vanessa Moyses",
-    "client_tech_contact": "Marco Fontenelle"
+    "client_tech_contact": "Marco Fontenelle",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "AI_Rio Galeão_BOT Aeroporto": {
     "blocker": "",
@@ -2523,7 +2729,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Alyne Klier (alyne.klier@bigbox.com.br)"
+    "client_tech_contact": "Alyne Klier (alyne.klier@bigbox.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "GenAI": {
     "blocker": "",
@@ -2541,7 +2749,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "Vanessa Moyses",
-    "client_tech_contact": "Lucas Lazarim (lucas.lazarim@microwork.inf.br)"
+    "client_tech_contact": "Lucas Lazarim (lucas.lazarim@microwork.inf.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Myralis_Armor": {
     "blocker": "",
@@ -2576,8 +2786,10 @@
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
-    "partner_tech_contact": "",
-    "client_tech_contact": "Michael Grace (mgrace@vtxmx.com)"
+    "partner_tech_contact": "Nao existe",
+    "client_tech_contact": "Michael Grace (mgrace@vtxmx.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "WPS - Looker": {
     "blocker": "",
@@ -2607,13 +2819,15 @@
     "client_tech_contact": "Ricardo Andrez (ricardo.andrez@arizona.global)"
   },
   "Gemini Ent Atakarejo": {
-    "blocker": "",
-    "status_tecnico": "",
+    "blocker": "Tecnico",
+    "status_tecnico": "Mañana hace el primer training. Quieren 5. licencias adicionales. E fazer a connecao de Outlook. Yo la hago con el equipo tecnico",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "thais.macedo@santodigital.com.br",
-    "client_tech_contact": "Eduardo Sampaio (eduardo.brayner@atakarejo.com.br)"
+    "client_tech_contact": "Eduardo Sampaio (eduardo.brayner@atakarejo.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "AgentSpace_Istoé": {
     "blocker": "",
@@ -2631,7 +2845,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Fabio Biselli (fabiob@itmchannelmarketing.com)"
+    "client_tech_contact": "Fabio Biselli (fabiob@itmchannelmarketing.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "GenAI_Projeto Gol_Rio Galeão": {
     "blocker": "",
@@ -2649,7 +2865,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Looker_N2B": {
     "blocker": "",
@@ -2676,7 +2894,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "André Luis Da Silva (andre.silva@santodigital.com.br)"
+    "client_tech_contact": "André Luis Da Silva (andre.silva@santodigital.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "SCC_SEK": {
     "blocker": "",
@@ -2685,7 +2905,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Apigee_Portal Desenvolvedor": {
     "blocker": "",
@@ -2717,7 +2939,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Marcelo Estevez (marcelo.estevez@exa.com.br)"
+    "client_tech_contact": "Marcelo Estevez (marcelo.estevez@exa.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "EXA - GEMINI ENTERPRISE": {
     "blocker": "",
@@ -2726,7 +2950,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Marcio Moreira Filho (marcio.moreira@exa.com.br)"
+    "client_tech_contact": "Marcio Moreira Filho (marcio.moreira@exa.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "DL parte 1 RH_Patria": {
     "blocker": "",
@@ -2780,7 +3006,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Igor Slavik (roberto.oguma@movti.com.br)"
+    "client_tech_contact": "Igor Slavik (roberto.oguma@movti.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "BQ + AI_Iniciativas_H+": {
     "blocker": "",
@@ -2933,7 +3161,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "Fernando Mitre (fernando.mitre@pwc.com)"
   },
   "Bettanin_SAP Sandbox_GCP": {
     "blocker": "",
@@ -4348,7 +4576,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Wilson de Lima Jnior (wilson.junior@alperseguros.com.br)"
+    "client_tech_contact": "Wilson de Lima Jnior (wilson.junior@alperseguros.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Migração OCI_Braveo": {
     "blocker": "",
@@ -4357,7 +4587,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "Vanessa Moyses",
-    "client_tech_contact": "Marcelo Alexandre (marcelo.alexandre@braveo.com.br)"
+    "client_tech_contact": "Marcelo Alexandre (marcelo.alexandre@braveo.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Migração WLs AWS_Tenda": {
     "blocker": "",
@@ -4366,7 +4598,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "Vanessa Moyses",
-    "client_tech_contact": "Igor Gomes"
+    "client_tech_contact": "Igor Gomes",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Bemol_IA": {
     "blocker": "",
@@ -4375,7 +4609,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Joao Clineu (jesaias@bemol.com.br)"
+    "client_tech_contact": "Joao Clineu (jesaias@bemol.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009tZZXOA2": {
     "blocker": "",
@@ -4384,7 +4620,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Cassio Castro (zeca@sauter.digital)"
+    "client_tech_contact": "Cassio Castro (zeca@sauter.digital)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009tIQQOA2": {
     "blocker": "",
@@ -4393,7 +4631,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Zeca Branco (zeca@sauter.digital)"
+    "client_tech_contact": "Zeca Branco (zeca@sauter.digital)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009tRT2OAM": {
     "blocker": "",
@@ -4402,7 +4642,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Glauccyo Heleno (gabriele.oliveira@xertica.com)"
+    "client_tech_contact": "Glauccyo Heleno (gabriele.oliveira@xertica.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009eMKROA2": {
     "blocker": "",
@@ -4411,7 +4653,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Joao Clineu (jesaias@bemol.com.br)"
+    "client_tech_contact": "Joao Clineu (jesaias@bemol.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009eVIAOA2": {
     "blocker": "",
@@ -4420,7 +4664,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Leonardo Waissmann (leonardo@madeinweb.com.br)"
+    "client_tech_contact": "Leonardo Waissmann (leonardo@madeinweb.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009eQUGOA2": {
     "blocker": "",
@@ -4428,8 +4674,10 @@
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
-    "partner_tech_contact": "",
-    "client_tech_contact": "Bernardo Bessa (leonardo.camargo@tdsynnex.com)"
+    "partner_tech_contact": "mnatalia@madeinweb.com.br",
+    "client_tech_contact": "Bernardo Bessa (leonardo.camargo@tdsynnex.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009eMfyOAE": {
     "blocker": "",
@@ -4438,7 +4686,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Arivaldo Conceição (emendes@sauter.digital)"
+    "client_tech_contact": "Arivaldo Conceição (emendes@sauter.digital)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009eMKMOA2": {
     "blocker": "",
@@ -4446,8 +4696,10 @@
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
-    "partner_tech_contact": "Roberta Coelho",
-    "client_tech_contact": "Arivaldo Conceição (renato.takata@venhapranuvem.com.br)"
+    "partner_tech_contact": "Roberta Coelho (etelvina.mendes@venhapranuvem.com.br)",
+    "client_tech_contact": "Arivaldo Conceição (renato.takata@venhapranuvem.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009tOftOAE": {
     "blocker": "",
@@ -4456,7 +4708,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Wellington Britto (britto@deso-se.com.br)"
+    "client_tech_contact": "Wellington Britto (britto@deso-se.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009eEZTOA2": {
     "blocker": "",
@@ -4471,8 +4725,10 @@
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
-    "partner_tech_contact": "",
-    "client_tech_contact": "Alexandre Maeoka (sidney.neimann@nisseisa.com.br)"
+    "partner_tech_contact": "lucas.feitoza@qinetwork.com.br",
+    "client_tech_contact": "Alexandre Maeoka (sidney.neimann@nisseisa.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009tK9aOAE": {
     "blocker": "",
@@ -4481,7 +4737,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Felipe Merfa (fabricio.gomes@fsb.com.br)"
+    "client_tech_contact": "Felipe Merfa (fabricio.gomes@fsb.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000006AD8YOAW": {
     "blocker": "",
@@ -4499,7 +4757,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Wellington Rufino (e.martins@sauter.digital)"
+    "client_tech_contact": "Wellington Rufino (e.martins@sauter.digital)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009eVmyOAE": {
     "blocker": "",
@@ -4508,7 +4768,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Analu Gama (analu.gama@ipnet.cloud)"
+    "client_tech_contact": "Analu Gama (analu.gama@ipnet.cloud)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009eTeEOAU": {
     "blocker": "",
@@ -4517,25 +4779,31 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Zeca Branco (zeca@sauter.digital)"
+    "client_tech_contact": "Zeca Branco (zeca@sauter.digital)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009tcKpOAI": {
     "blocker": "",
-    "status_tecnico": "test",
+    "status_tecnico": "",
     "partner_tech_email": "jardel.sliumba@santodigital.com.br",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "jardel.sliumba@santodigital.com.br",
-    "client_tech_contact": "Cristiano Cruz (thuanybaia@santodigital.com.br)"
+    "client_tech_contact": "Cristiano Cruz (thuanybaia@santodigital.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009tOUvOAM": {
     "blocker": "",
-    "status_tecnico": "test",
+    "status_tecnico": "",
     "partner_tech_email": "jardel.sliumba@santodigital.com.br",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "jardel.sliumba@santodigital.com.br",
-    "client_tech_contact": "Cristiano Cruz (jardel.sliumba@santodigital.com.br)"
+    "client_tech_contact": "Cristiano Cruz (jardel.sliumba@santodigital.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009tWEvOAM": {
     "blocker": "",
@@ -4544,7 +4812,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Iago Lucena (iago.lucena@solarbr.com.br)"
+    "client_tech_contact": "Iago Lucena (iago.lucena@solarbr.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009eDZSOA2": {
     "blocker": "",
@@ -4553,7 +4823,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "dathayde@kyndryl.com",
-    "client_tech_contact": "Marcio Maia (marcio.maia@solarbr.com.br)"
+    "client_tech_contact": "Marcio Maia (marcio.maia@solarbr.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009eKGXOA2": {
     "blocker": "",
@@ -4561,8 +4833,10 @@
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
-    "partner_tech_contact": "",
-    "client_tech_contact": "Iago Lucena (hlaurindo@solarbr.com.br)"
+    "partner_tech_contact": "dathayde@kyndryl.com",
+    "client_tech_contact": "Iago Lucena (hlaurindo@solarbr.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009eFahOAE": {
     "blocker": "",
@@ -4571,7 +4845,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Romildo Fausto (celso@qinetwork.com.br)"
+    "client_tech_contact": "Romildo Fausto (celso@qinetwork.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZNBWOA4": {
     "blocker": "",
@@ -4580,7 +4856,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009kENbOAM": {
     "blocker": "",
@@ -5323,7 +5601,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Thiago Bianchi (thiago.bianchi@mc1global.com)"
+    "client_tech_contact": "Thiago Bianchi (thiago.bianchi@mc1global.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf0000082JXhOAM": {
     "blocker": "",
@@ -5332,7 +5612,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Thiago Bianchi (thiago.bianchi@mc1global.com)"
+    "client_tech_contact": "Thiago Bianchi (thiago.bianchi@mc1global.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009kLXYOA2": {
     "blocker": "",
@@ -5341,7 +5623,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Leonel Danczuk Danczuk (acosta@velalatam.com)"
+    "client_tech_contact": "Leonel Danczuk Danczuk (acosta@velalatam.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009kIJsOAM": {
     "blocker": "",
@@ -5350,7 +5634,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Rogerio Spinelli (rogerio.spinelli@kyndryl.com)"
+    "client_tech_contact": "Rogerio Spinelli (rogerio.spinelli@kyndryl.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009kMPaOAM": {
     "blocker": "",
@@ -5359,7 +5645,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009kNX1OAM": {
     "blocker": "",
@@ -5368,7 +5656,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Luan Smarsaro Amorim (luan.amorim@autoglass.com.br)"
+    "client_tech_contact": "Luan Smarsaro Amorim (luan.amorim@autoglass.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009on9UOAQ": {
     "blocker": "",
@@ -5377,7 +5667,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Edison Figueira Junior Figueira Junior (edison@fortics.com.br)"
+    "client_tech_contact": "Edison Figueira Junior Figueira Junior (edison@fortics.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009kIK2OAM": {
     "blocker": "",
@@ -5386,7 +5678,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Luciano Kalil (luciano.kalil@valgroupco.com)"
+    "client_tech_contact": "Luciano Kalil (luciano.kalil@valgroupco.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009kMQJOA2": {
     "blocker": "",
@@ -5395,7 +5689,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009kJ6LOAU": {
     "blocker": "",
@@ -5404,7 +5700,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Fernando Junkes (fernando.junkes@intelbras.com.br)"
+    "client_tech_contact": "Fernando Junkes (fernando.junkes@intelbras.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009kJ5cOAE": {
     "blocker": "",
@@ -5413,7 +5711,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "João Henrique Vaz (joao.vaz@valgroupco.com)"
+    "client_tech_contact": "João Henrique Vaz (joao.vaz@valgroupco.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009kMPzOAM": {
     "blocker": "",
@@ -5422,7 +5722,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Bernardo Murta (bernardo@dynamox.net)"
+    "client_tech_contact": "Bernardo Murta (bernardo@dynamox.net)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009kNZXOA2": {
     "blocker": "",
@@ -5431,7 +5733,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009kNZgOAM": {
     "blocker": "",
@@ -5440,7 +5744,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "lucas.feitoza@qinetwork.com.br",
-    "client_tech_contact": "Lucas Bachmann Bachmann Feitoza (lucas.feitoza@qinetwork.com.br)"
+    "client_tech_contact": "Lucas Bachmann Bachmann Feitoza (lucas.feitoza@qinetwork.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009kJ2xOAE": {
     "blocker": "Comercial",
@@ -5449,7 +5755,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009kMQOOA2": {
     "blocker": "",
@@ -5458,7 +5766,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009omBNOAY": {
     "blocker": "",
@@ -5467,7 +5777,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Luiz Roberto Pinon Junior (luiz.pinon@autoglass.com.br)"
+    "client_tech_contact": "Luiz Roberto Pinon Junior (luiz.pinon@autoglass.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009kMPuOAM": {
     "blocker": "",
@@ -5476,7 +5788,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Nil Nunes (nil@climatempo.com.br)"
+    "client_tech_contact": "Nil Nunes (nil@climatempo.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009kJ5XOAU": {
     "blocker": "",
@@ -5485,7 +5799,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Fernando Junkes (fernando.junkes@intelbras.com.br)"
+    "client_tech_contact": "Fernando Junkes (fernando.junkes@intelbras.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009kKHPOA2": {
     "blocker": "",
@@ -5494,7 +5810,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Tiago Muza (rafael.goulart@aurum.com.br)"
+    "client_tech_contact": "Tiago Muza (rafael.goulart@aurum.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009onv9OAA": {
     "blocker": "",
@@ -5503,7 +5821,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Fabiano Moura (fabiano.moura@autoglass.com.br)"
+    "client_tech_contact": "Fabiano Moura (fabiano.moura@autoglass.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009kNZWOA2": {
     "blocker": "",
@@ -5512,7 +5832,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009onjrOAA": {
     "blocker": "",
@@ -5521,7 +5843,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Victor Marcondes (vmarcondes@nilo.co)"
+    "client_tech_contact": "Victor Marcondes (vmarcondes@nilo.co)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009kJ6QOAU": {
     "blocker": "",
@@ -5530,7 +5854,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Fernando Junkes (fernando.junkes@intelbras.com.br)"
+    "client_tech_contact": "Fernando Junkes (fernando.junkes@intelbras.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009kIJxOAM": {
     "blocker": "",
@@ -5539,7 +5865,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Fernando Junkes (fernando.junkes@intelbras.com.br)"
+    "client_tech_contact": "Fernando Junkes (fernando.junkes@intelbras.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009kLXiOAM": {
     "blocker": "",
@@ -5548,7 +5876,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Leonel Danczuk Danczuk (acosta@velalatam.com)"
+    "client_tech_contact": "Leonel Danczuk Danczuk (acosta@velalatam.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009kMPkOAM": {
     "blocker": "",
@@ -5557,7 +5887,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009kJ2iOAE": {
     "blocker": "",
@@ -5566,7 +5898,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Thiago Borges (gwspst@nuvemshop.com.br)"
+    "client_tech_contact": "Thiago Borges (gwspst@nuvemshop.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009e7pHOAQ": {
     "blocker": "",
@@ -5575,7 +5909,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Rafael Goulart (rafael.goulart@aurum.com.br)"
+    "client_tech_contact": "Rafael Goulart (rafael.goulart@aurum.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009kKHZOA2": {
     "blocker": "",
@@ -5584,7 +5920,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Tiago Muza (tiago.muza@aurum.com.br)"
+    "client_tech_contact": "Tiago Muza (tiago.muza@aurum.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009kNLPOA2": {
     "blocker": "",
@@ -5593,7 +5931,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Edison Figueira Junior Figueira Junior (edison@fortics.com.br)"
+    "client_tech_contact": "Edison Figueira Junior Figueira Junior (edison@fortics.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009onuuOAA": {
     "blocker": "",
@@ -5602,7 +5942,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Arquimedes Paiva (augusto.paiva@intelbras.com.br)"
+    "client_tech_contact": "Arquimedes Paiva (augusto.paiva@intelbras.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009kJ3COAU": {
     "blocker": "",
@@ -5611,7 +5953,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Romulo Simas (romulo.simas@movti.com.br)"
+    "client_tech_contact": "Romulo Simas (romulo.simas@movti.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009onvJOAQ": {
     "blocker": "",
@@ -5620,7 +5964,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Leonardo José Nunes (leonardo.nunes@serttel.com.br)"
+    "client_tech_contact": "Leonardo José Nunes (leonardo.nunes@serttel.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009kMPLOA2": {
     "blocker": "",
@@ -5629,7 +5975,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Luciano Kalil (luciano.kalil@valgroupco.com)"
+    "client_tech_contact": "Luciano Kalil (luciano.kalil@valgroupco.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009onv4OAA": {
     "blocker": "",
@@ -5638,7 +5986,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Nil Nunes (nil@climatempo.com.br)"
+    "client_tech_contact": "Nil Nunes (nil@climatempo.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009kJ3DOAU": {
     "blocker": "",
@@ -5647,7 +5997,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Gabriel Laraia (gabriel.laraia@intelbras.com.br)"
+    "client_tech_contact": "Gabriel Laraia (gabriel.laraia@intelbras.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009eQOIOA2": {
     "blocker": "",
@@ -5656,7 +6008,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Flavio Horita (flavio.horita@climatempo.com.br)"
+    "client_tech_contact": "Flavio Horita (flavio.horita@climatempo.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009kM5pOAE": {
     "blocker": "",
@@ -5665,7 +6019,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Celso Caparica (celso@qinetwork.com.br)"
+    "client_tech_contact": "Celso Caparica (celso@qinetwork.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009eQONOA2": {
     "blocker": "",
@@ -5674,7 +6030,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Flavio Horita (flavio.horita@climatempo.com.br)"
+    "client_tech_contact": "Flavio Horita (flavio.horita@climatempo.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009kMIeOAM": {
     "blocker": "",
@@ -5683,7 +6041,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Bernardo Murta (bernardo@dynamox.net)"
+    "client_tech_contact": "Bernardo Murta (bernardo@dynamox.net)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009om0yOAA": {
     "blocker": "",
@@ -5692,7 +6052,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009olynOAA": {
     "blocker": "",
@@ -5701,7 +6063,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Thiago Borges (thiago.borges@tiendanube.com)"
+    "client_tech_contact": "Thiago Borges (thiago.borges@tiendanube.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009kKoOOAU": {
     "blocker": "Tecnico",
@@ -5710,7 +6074,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Bernardo Murta (bernardo@dynamox.net)"
+    "client_tech_contact": "Bernardo Murta (bernardo@dynamox.net)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009kIu0OAE": {
     "blocker": "",
@@ -5719,7 +6085,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "mnatalia@madeinweb.com.br",
-    "client_tech_contact": "Ciro Romanel (ciro.romanel@autoglass.com.br)"
+    "client_tech_contact": "Ciro Romanel (ciro.romanel@autoglass.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009eLHlOAM": {
     "blocker": "",
@@ -5728,7 +6096,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Frederico Ferreira De Figueiredo (frederico.figueiredo@aurum.com.br)"
+    "client_tech_contact": "Frederico Ferreira De Figueiredo (frederico.figueiredo@aurum.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009kKUnOAM": {
     "blocker": "",
@@ -5737,7 +6107,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Bernardo Murta (bernardo@dynamox.net)"
+    "client_tech_contact": "Bernardo Murta (bernardo@dynamox.net)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009kMPQOA2": {
     "blocker": "",
@@ -5746,7 +6118,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Luciano Kalil (luciano.kalil@valgroupco.com)"
+    "client_tech_contact": "Luciano Kalil (luciano.kalil@valgroupco.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf0000082HgrOAE": {
     "blocker": "",
@@ -5755,7 +6129,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Tiago Muza (tiago.muza@aurum.com.br)"
+    "client_tech_contact": "Tiago Muza (tiago.muza@aurum.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009kMPVOA2": {
     "blocker": "",
@@ -5764,7 +6140,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009kKUsOAM": {
     "blocker": "",
@@ -5773,7 +6151,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Bernardo Murta (bernardo@dynamox.net)"
+    "client_tech_contact": "Bernardo Murta (bernardo@dynamox.net)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf0000082E21OAE": {
     "blocker": "",
@@ -5781,8 +6161,10 @@
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
-    "partner_tech_contact": "",
-    "client_tech_contact": "Edison Figueira (efigueira@fortics.com.br)"
+    "partner_tech_contact": "marcio.silva@santodigital.com.br",
+    "client_tech_contact": "Edison Figueira (efigueira@fortics.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009kJ2nOAE": {
     "blocker": "",
@@ -5791,7 +6173,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Thiago Borges (gwspst@nuvemshop.com.br)"
+    "client_tech_contact": "Thiago Borges (gwspst@nuvemshop.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009kMQEOA2": {
     "blocker": "",
@@ -5800,7 +6184,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009kKUxOAM": {
     "blocker": "",
@@ -5809,7 +6195,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Emerson Lima (emerson@sauter.digital)"
+    "client_tech_contact": "Emerson Lima (emerson@sauter.digital)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009kNZbOAM": {
     "blocker": "",
@@ -5818,7 +6206,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Edison Figueira Junior Figueira Junior (edison@fortics.com.br)"
+    "client_tech_contact": "Edison Figueira Junior Figueira Junior (edison@fortics.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009e7p2OAA": {
     "blocker": "",
@@ -5834,7 +6224,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Felipe Lopes (lopes.felipe@cloud-ace.com)"
+    "client_tech_contact": "Felipe Lopes (lopes.felipe@cloud-ace.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009kJ95OAE": {
     "blocker": "",
@@ -5850,7 +6242,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Fabiano Moura (fabiano.moura@autoglass.com.br)"
+    "client_tech_contact": "Fabiano Moura (fabiano.moura@autoglass.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009kJ9POAU": {
     "blocker": "",
@@ -5859,7 +6253,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Felipe Lopes (lopes.felipe@cloud-ace.com)"
+    "client_tech_contact": "Felipe Lopes (lopes.felipe@cloud-ace.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009kJ9ZOAU": {
     "blocker": "",
@@ -5868,7 +6264,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Rodolfo Stangherlin (rstangherlin@nilo.co)"
+    "client_tech_contact": "Rodolfo Stangherlin (rstangherlin@nilo.co)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009kJ9UOAU": {
     "blocker": "",
@@ -5886,7 +6284,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Fabiano Moura (fabiano.moura@autoglass.com.br)"
+    "client_tech_contact": "Fabiano Moura (fabiano.moura@autoglass.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009tGOrOAM": {
     "blocker": "",
@@ -5895,7 +6295,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Alan Pires Araujo (alan@santodigital.com.br)"
+    "client_tech_contact": "Alan Pires Araujo (alan@santodigital.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009eQeGOAU": {
     "blocker": "",
@@ -5918,7 +6320,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "Vanessa Moyses",
-    "client_tech_contact": "Igor Gomes"
+    "client_tech_contact": "Igor Gomes",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009eD6QOAU": {
     "blocker": "",
@@ -5927,7 +6331,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Marcio Ferreira Da Silva (marcio.ferreira@exa.com.br)"
+    "client_tech_contact": "Marcio Ferreira Da Silva (marcio.ferreira@exa.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZLZXOA4": {
     "blocker": "",
@@ -5936,7 +6342,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009stb1OAA": {
     "blocker": "",
@@ -5954,7 +6362,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009tUuGOAU": {
     "blocker": "",
@@ -5972,7 +6382,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Daniel Ribeiro"
+    "client_tech_contact": "Daniel Ribeiro",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009e5aDOAQ": {
     "blocker": "",
@@ -5981,7 +6393,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZTuIOAW": {
     "blocker": "",
@@ -5990,7 +6404,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "Vanessa Moyses",
-    "client_tech_contact": "Marcelo Alexandre (marcelo.alexandre@braveo.com.br)"
+    "client_tech_contact": "Marcelo Alexandre (marcelo.alexandre@braveo.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZJDMOA4": {
     "blocker": "",
@@ -5999,7 +6415,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Angelo Figaro (angelo.figaro@patria.com.br)"
+    "client_tech_contact": "Angelo Figaro (angelo.figaro@patria.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009e8coOAA": {
     "blocker": "",
@@ -6008,7 +6426,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZISzOAO": {
     "blocker": "",
@@ -6017,7 +6437,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Angelo Figaro (angelo.figaro@patria.com.br)"
+    "client_tech_contact": "Angelo Figaro (angelo.figaro@patria.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000006MVIDOA4": {
     "blocker": "",
@@ -6026,7 +6448,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Arnaldo Cesar Caetano Caetano (arnaldo@wps-sa.com.br)"
+    "client_tech_contact": "Arnaldo Cesar Caetano Caetano (arnaldo@wps-sa.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009eD66OAE": {
     "blocker": "",
@@ -6035,7 +6459,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "ademir.junior@gavb.com.br",
-    "client_tech_contact": ""
+    "client_tech_contact": "",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009dvPwOAI": {
     "blocker": "",
@@ -6053,7 +6479,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Rodrigo Ricardi"
+    "client_tech_contact": "Rodrigo Ricardi",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009eD5NOAU": {
     "blocker": "",
@@ -6062,7 +6490,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Ricardo Bolognesi (ricardo.paula@onr.org.br)"
+    "client_tech_contact": "Ricardo Bolognesi (ricardo.paula@onr.org.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZMQGOA4": {
     "blocker": "",
@@ -6071,7 +6501,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZNKnOAO": {
     "blocker": "",
@@ -6080,7 +6512,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "Vanessa Moyses",
-    "client_tech_contact": "Marcos Igutti"
+    "client_tech_contact": "Marcos Igutti",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009e8efOAA": {
     "blocker": "",
@@ -6089,7 +6523,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Eduardo Tinoco (eduardo.tinoco@onr.org.br)"
+    "client_tech_contact": "Eduardo Tinoco (eduardo.tinoco@onr.org.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZMQQOA4": {
     "blocker": "",
@@ -6098,7 +6534,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Angelo Figaro (angelo.figaro@patria.com.br)"
+    "client_tech_contact": "Angelo Figaro (angelo.figaro@patria.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZOgBOAW": {
     "blocker": "",
@@ -6125,7 +6563,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZQ8VOAW": {
     "blocker": "",
@@ -6134,7 +6574,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "Fernanda Faria",
-    "client_tech_contact": "Leandro Pereira (leandro.pereira@axiaagro.com)"
+    "client_tech_contact": "Leandro Pereira (leandro.pereira@axiaagro.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZSW0OAO": {
     "blocker": "",
@@ -6143,7 +6585,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "Vanessa Moyses",
-    "client_tech_contact": "Igor Gomes (igor.g@tenda.com)"
+    "client_tech_contact": "Igor Gomes (igor.g@tenda.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZRKmOAO": {
     "blocker": "",
@@ -6152,7 +6596,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "Diego Baldin",
-    "client_tech_contact": "Ricardo Bolognesi (ricardo.paula@onr.org.br)"
+    "client_tech_contact": "Ricardo Bolognesi (ricardo.paula@onr.org.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZMQuOAO": {
     "blocker": "",
@@ -6161,7 +6607,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Joao Perez (joaopedroperez@sek.io)"
+    "client_tech_contact": "Joao Perez (joaopedroperez@sek.io)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZTuSOAW": {
     "blocker": "",
@@ -6170,7 +6618,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Wilson de Lima Jnior (wilson.junior@alperseguros.com.br)"
+    "client_tech_contact": "Wilson de Lima Jnior (wilson.junior@alperseguros.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZJV9OAO": {
     "blocker": "",
@@ -6179,7 +6629,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Breno Rios Sa (breno.sa@athenasaude.com.br)"
+    "client_tech_contact": "Breno Rios Sa (breno.sa@athenasaude.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZSfWOAW": {
     "blocker": "",
@@ -6188,7 +6640,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "Vanessa Moyses",
-    "client_tech_contact": "Marcelo Alexandre (marcelo.alexandre@braveo.com.br)"
+    "client_tech_contact": "Marcelo Alexandre (marcelo.alexandre@braveo.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZSmmOAG": {
     "blocker": "",
@@ -6197,7 +6651,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Breno Rios Sa"
+    "client_tech_contact": "Breno Rios Sa",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZKKuOAO": {
     "blocker": "",
@@ -6205,8 +6661,10 @@
     "partner_tech_email": "lucas.feitoza@qinetwork.com.br",
     "technical_win": false,
     "proposal_sent": false,
-    "partner_tech_contact": "lucas.feitoza@qinetwork.com.br",
-    "client_tech_contact": "Dagoberto Souza (angelo.figaro@patria.com.br)"
+    "partner_tech_contact": "Daniel de Almeida (lucas.feitoza@qinetwork.com.br)",
+    "client_tech_contact": "Dagoberto Souza (angelo.figaro@patria.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZNzCOAW": {
     "blocker": "",
@@ -6215,7 +6673,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "Lívia Serra",
-    "client_tech_contact": "Wilson de Lima Jnior (wilson.junior@alperseguros.com.br)"
+    "client_tech_contact": "Wilson de Lima Jnior (wilson.junior@alperseguros.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZIvcOAG": {
     "blocker": "",
@@ -6223,8 +6683,10 @@
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
-    "partner_tech_contact": "",
-    "client_tech_contact": "Michel De Souza (dup+michel.souza@myralis.com.br)"
+    "partner_tech_contact": "jardel.sliumba@santodigital.com.br",
+    "client_tech_contact": "Michel De Souza (dup+michel.souza@myralis.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZB27OAG": {
     "blocker": "",
@@ -6242,7 +6704,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZQFgOAO": {
     "blocker": "",
@@ -6251,7 +6715,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Rodrigo Scaloppi (andre.silva@santodigital.com.br)"
+    "client_tech_contact": "Rodrigo Scaloppi (andre.silva@santodigital.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009e5a3OAA": {
     "blocker": "",
@@ -6260,7 +6726,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Jonathan Melo Da Silva (jonathan.silva.ext@athenasaude.com.br)"
+    "client_tech_contact": "Jonathan Melo Da Silva (jonathan.silva.ext@athenasaude.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZEsnOAG": {
     "blocker": "",
@@ -6268,8 +6736,10 @@
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
-    "partner_tech_contact": "",
-    "client_tech_contact": "Adevilson Martins (semcontato@amorsaude.com.br)"
+    "partner_tech_contact": "Nao Existe",
+    "client_tech_contact": "Adevilson Martins (semcontato@amorsaude.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZQQAOA4": {
     "blocker": "",
@@ -6278,7 +6748,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "Vanessa Moyses",
-    "client_tech_contact": "Marco Fontenelle"
+    "client_tech_contact": "Marco Fontenelle",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZRufOAG": {
     "blocker": "",
@@ -6296,7 +6768,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Christian De Aguiar (christian.aguiar@winity.com.br)"
+    "client_tech_contact": "Christian De Aguiar (christian.aguiar@winity.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZMiuOAG": {
     "blocker": "",
@@ -6305,7 +6779,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Michael Grace (mgrace@vtxmx.com)"
+    "client_tech_contact": "Michael Grace (mgrace@vtxmx.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZHuhOAG": {
     "blocker": "",
@@ -6314,7 +6790,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Rafael Fusco Siqueira Pinto Pinto (rafael@wps-sa.com.br)"
+    "client_tech_contact": "Rafael Fusco Siqueira Pinto Pinto (rafael@wps-sa.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZQ9sOAG": {
     "blocker": "",
@@ -6323,7 +6801,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "Daniel de Almeida (daniel.almeida@santodigital.com.br)",
-    "client_tech_contact": "Rodrigo Ricardi"
+    "client_tech_contact": "Rodrigo Ricardi",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009tJZ8OAM": {
     "blocker": "",
@@ -6340,8 +6820,10 @@
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
-    "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "partner_tech_contact": "cruz.lucas@cloud-ace.com",
+    "client_tech_contact": "",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZRclOAG": {
     "blocker": "",
@@ -6350,7 +6832,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Ricardo Bolognesi (gil.matos@onr.org.br)"
+    "client_tech_contact": "Ricardo Bolognesi (gil.matos@onr.org.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZQ9nOAG": {
     "blocker": "",
@@ -6359,7 +6843,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "Daniel de Almeida (daniel.almeida@santodigital.com.br)",
-    "client_tech_contact": "Rodrigo Ricardi"
+    "client_tech_contact": "Rodrigo Ricardi",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZO3xOAG": {
     "blocker": "",
@@ -6368,7 +6854,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "Vanessa Moyses",
-    "client_tech_contact": "Igor Gomes (igor.g@tenda.com)"
+    "client_tech_contact": "Igor Gomes (igor.g@tenda.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZMQLOA4": {
     "blocker": "",
@@ -6377,7 +6865,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZRdAOAW": {
     "blocker": "",
@@ -6386,7 +6876,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Marcelo Petercem"
+    "client_tech_contact": "Marcelo Petercem",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZSXIOA4": {
     "blocker": "",
@@ -6395,7 +6887,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "Vanessa Moyses",
-    "client_tech_contact": "Marco Fontenelle"
+    "client_tech_contact": "Marco Fontenelle",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZRKNOA4": {
     "blocker": "",
@@ -6404,7 +6898,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Marco Fontenelle"
+    "client_tech_contact": "Marco Fontenelle",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009e7wOOAQ": {
     "blocker": "",
@@ -6413,7 +6909,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Alyne Klier (alyne.klier@bigbox.com.br)"
+    "client_tech_contact": "Alyne Klier (alyne.klier@bigbox.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZSXDOA4": {
     "blocker": "",
@@ -6422,7 +6920,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "Vanessa Moyses",
-    "client_tech_contact": "Lucas Lazarim (lucas.lazarim@microwork.inf.br)"
+    "client_tech_contact": "Lucas Lazarim (lucas.lazarim@microwork.inf.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZRukOAG": {
     "blocker": "",
@@ -6439,8 +6939,10 @@
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
-    "partner_tech_contact": "",
-    "client_tech_contact": "Michael Grace (mgrace@vtxmx.com)"
+    "partner_tech_contact": "Nao existe",
+    "client_tech_contact": "Michael Grace (mgrace@vtxmx.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009tEFUOA2": {
     "blocker": "",
@@ -6452,13 +6954,15 @@
     "client_tech_contact": "Arnaldo Cesar Caetano Caetano (arnaldo@wps-sa.com.br)"
   },
   "aBJKf000004ZJMPOA4": {
-    "blocker": "",
-    "status_tecnico": "",
+    "blocker": "Tecnico",
+    "status_tecnico": "Mañana hace el primer training. Quieren 5. licencias adicionales. E fazer a connecao de Outlook. Yo la hago con el equipo tecnico",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "thais.macedo@santodigital.com.br",
-    "client_tech_contact": "Eduardo Sampaio (eduardo.brayner@atakarejo.com.br)"
+    "client_tech_contact": "Eduardo Sampaio (eduardo.brayner@atakarejo.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZMizOAG": {
     "blocker": "",
@@ -6467,7 +6971,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZQQFOA4": {
     "blocker": "",
@@ -6476,7 +6982,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Fabio Biselli (fabiob@itmchannelmarketing.com)"
+    "client_tech_contact": "Fabio Biselli (fabiob@itmchannelmarketing.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZMQpOAO": {
     "blocker": "",
@@ -6485,7 +6993,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZNZROA4": {
     "blocker": "",
@@ -6494,7 +7004,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "André Luis Da Silva (andre.silva@santodigital.com.br)"
+    "client_tech_contact": "André Luis Da Silva (andre.silva@santodigital.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZFxjOAG": {
     "blocker": "",
@@ -6503,7 +7015,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Marcelo Estevez (marcelo.estevez@exa.com.br)"
+    "client_tech_contact": "Marcelo Estevez (marcelo.estevez@exa.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZB2lOAG": {
     "blocker": "",
@@ -6512,7 +7026,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Marcio Moreira Filho (marcio.moreira@exa.com.br)"
+    "client_tech_contact": "Marcio Moreira Filho (marcio.moreira@exa.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZNKxOAO": {
     "blocker": "",
@@ -6521,7 +7037,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Igor Slavik (roberto.oguma@movti.com.br)"
+    "client_tech_contact": "Igor Slavik (roberto.oguma@movti.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009eUqBOAU": {
     "blocker": "",
@@ -6629,7 +7147,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "Fernando Mitre (fernando.mitre@pwc.com)"
   },
   "aBJKf000009tTY9OAM": {
     "blocker": "",
@@ -6933,7 +7451,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Marcio Camurati (marcio.camurati@estapar.com.br)"
+    "client_tech_contact": "Marcio Camurati (marcio.camurati@estapar.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Estapar - Gemini Enterprise - Crossell #AWTSP #M26": {
     "blocker": "",
@@ -6942,7 +7462,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Marcio Camurati (marcio.camurati@estapar.com.br)"
+    "client_tech_contact": "Marcio Camurati (marcio.camurati@estapar.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZKiVOAW": {
     "blocker": "",
@@ -6951,7 +7473,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "roberto.oguma@movti.com.br",
-    "client_tech_contact": "Helton Germano (helton.germano@aasp.org.br)"
+    "client_tech_contact": "Helton Germano (helton.germano@aasp.org.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZLP9OAO": {
     "blocker": "",
@@ -6960,7 +7484,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Romulo Simas (romulo.simas@movti.com.br)"
+    "client_tech_contact": "Romulo Simas (romulo.simas@movti.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Migration of VMs": {
     "blocker": "",
@@ -6969,7 +7495,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Romulo Simas (romulo.simas@movti.com.br)"
+    "client_tech_contact": "Romulo Simas (romulo.simas@movti.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZKLOOA4": {
     "blocker": "",
@@ -6978,7 +7506,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "a.dantas@sauter.digital",
-    "client_tech_contact": "Guilherme Lima (a.rocha@sauter.digital)"
+    "client_tech_contact": "Guilherme Lima (a.rocha@sauter.digital)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Gemini Enterprise - 300 users": {
     "blocker": "",
@@ -6987,7 +7517,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "a.dantas@sauter.digital",
-    "client_tech_contact": "Guilherme Lima (a.rocha@sauter.digital)"
+    "client_tech_contact": "Guilherme Lima (a.rocha@sauter.digital)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZLwLOAW": {
     "blocker": "",
@@ -6996,7 +7528,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Pedro Ivo Faria Do Amaral (pivoamaral@gmail.com)"
+    "client_tech_contact": "Pedro Ivo Faria Do Amaral (pivoamaral@gmail.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "[CVC] Anthropic Models on GCP": {
     "blocker": "",
@@ -7005,7 +7539,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Pedro Ivo Faria Do Amaral (pivoamaral@gmail.com)"
+    "client_tech_contact": "Pedro Ivo Faria Do Amaral (pivoamaral@gmail.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009ofjwOAA": {
     "blocker": "",
@@ -7028,7 +7564,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "Lucas Cruz (cruz.lucas@cloud-ace.com)",
-    "client_tech_contact": "Marcos Moia (cruz.lucas@cloud-ace.com)"
+    "client_tech_contact": "Marcos Moia (cruz.lucas@cloud-ace.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "[Salon Line] Terraform - AI": {
     "blocker": "",
@@ -7037,7 +7575,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "Lucas Cruz (cruz.lucas@cloud-ace.com)",
-    "client_tech_contact": "Marcos Moia (cruz.lucas@cloud-ace.com)"
+    "client_tech_contact": "Marcos Moia (cruz.lucas@cloud-ace.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009e43VOAQ": {
     "blocker": "",
@@ -7046,7 +7586,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "bruno.pinho@servinformacion.com",
-    "client_tech_contact": "Bruno Pinho (bruno.pinho@servinformacion.com)"
+    "client_tech_contact": "Bruno Pinho (bruno.pinho@servinformacion.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "SalonLine - Gemini Enterprise": {
     "blocker": "",
@@ -7055,7 +7597,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "bruno.pinho@servinformacion.com",
-    "client_tech_contact": "Bruno Pinho (bruno.pinho@servinformacion.com)"
+    "client_tech_contact": "Bruno Pinho (bruno.pinho@servinformacion.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009e3dAOAQ": {
     "blocker": "",
@@ -7064,7 +7608,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Tiago Cunha (tiago.cunha@tokstok.com.br)"
+    "client_tech_contact": "Tiago Cunha (tiago.cunha@tokstok.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Tok&Stok - Gen AI": {
     "blocker": "",
@@ -7073,7 +7619,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Tiago Cunha (tiago.cunha@tokstok.com.br)"
+    "client_tech_contact": "Tiago Cunha (tiago.cunha@tokstok.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009eSWiOAM": {
     "blocker": "",
@@ -7100,7 +7648,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Jeferson Correa (jefersonc@cpqd.com.br)"
+    "client_tech_contact": "Jeferson Correa (jefersonc@cpqd.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "CPQD | GCP - Incremental Project": {
     "blocker": "",
@@ -7109,7 +7659,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Jeferson Correa (jefersonc@cpqd.com.br)"
+    "client_tech_contact": "Jeferson Correa (jefersonc@cpqd.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZR8bOAG": {
     "blocker": "",
@@ -7118,7 +7670,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "Caio Barbosa",
-    "client_tech_contact": "Marcos Souza (marcos.souza@matera.com)"
+    "client_tech_contact": "Marcos Souza (marcos.souza@matera.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Matera - Agent Platform (OCI Baremetal LLM VMs to Model Garden)": {
     "blocker": "",
@@ -7127,7 +7681,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "Caio Barbosa",
-    "client_tech_contact": "Marcos Souza (marcos.souza@matera.com)"
+    "client_tech_contact": "Marcos Souza (marcos.souza@matera.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZR8gOAG": {
     "blocker": "",
@@ -7136,7 +7692,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "Caio Barbosa",
-    "client_tech_contact": "Marcos Souza (marcos.souza@matera.com)"
+    "client_tech_contact": "Marcos Souza (marcos.souza@matera.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Matera - Agent Platform (Claude Models)": {
     "blocker": "",
@@ -7145,7 +7703,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "Caio Barbosa",
-    "client_tech_contact": "Marcos Souza (marcos.souza@matera.com)"
+    "client_tech_contact": "Marcos Souza (marcos.souza@matera.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZQGyOAO": {
     "blocker": "",
@@ -7154,7 +7714,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Marcos Souza (victor.tosta@ipnet.cloud)"
+    "client_tech_contact": "Marcos Souza (victor.tosta@ipnet.cloud)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "[Matera] Gemini Enterprise": {
     "blocker": "",
@@ -7163,7 +7725,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Marcos Souza (victor.tosta@ipnet.cloud)"
+    "client_tech_contact": "Marcos Souza (victor.tosta@ipnet.cloud)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZKmgOAG": {
     "blocker": "",
@@ -7172,7 +7736,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Fernando Machado Ouverney Diniz (fernando.ouverney@petz.com.br)"
+    "client_tech_contact": "Fernando Machado Ouverney Diniz (fernando.ouverney@petz.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Petz - Gemini Enterprise": {
     "blocker": "",
@@ -7181,7 +7747,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Fernando Machado Ouverney Diniz (fernando.ouverney@petz.com.br)"
+    "client_tech_contact": "Fernando Machado Ouverney Diniz (fernando.ouverney@petz.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZKdQOAW": {
     "blocker": "",
@@ -7190,7 +7758,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Fernando Machado Ouverney Diniz (fernando.ouverney@petz.com.br)"
+    "client_tech_contact": "Fernando Machado Ouverney Diniz (fernando.ouverney@petz.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Petz - Agent Platform - Antigravity & Embedding": {
     "blocker": "",
@@ -7199,7 +7769,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Fernando Machado Ouverney Diniz (fernando.ouverney@petz.com.br)"
+    "client_tech_contact": "Fernando Machado Ouverney Diniz (fernando.ouverney@petz.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZOgQOAW": {
     "blocker": "",
@@ -7208,7 +7780,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "vanessa.mello@t-systems.com",
-    "client_tech_contact": "Daniela Zanfolin Zanfolin (pietro.di.micio@sap.com)"
+    "client_tech_contact": "Daniela Zanfolin Zanfolin (pietro.di.micio@sap.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "SAP RISE": {
     "blocker": "",
@@ -7217,7 +7791,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "vanessa.mello@t-systems.com",
-    "client_tech_contact": "Daniela Zanfolin Zanfolin (pietro.di.micio@sap.com)"
+    "client_tech_contact": "Daniela Zanfolin Zanfolin (pietro.di.micio@sap.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009WCIpOAO": {
     "blocker": "",
@@ -7226,7 +7802,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Daniel Fernandes (daniel.fernandes@tvtem.com)"
+    "client_tech_contact": "Daniel Fernandes (daniel.fernandes@tvtem.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "TVTEM - Automação do Acervo de Mídia (CEDOC) e Redes Sociais com Vertex AI": {
     "blocker": "",
@@ -7235,7 +7813,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Daniel Fernandes (daniel.fernandes@tvtem.com)"
+    "client_tech_contact": "Daniel Fernandes (daniel.fernandes@tvtem.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009e9d5OAA": {
     "blocker": "",
@@ -7244,7 +7824,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Romulo Simas (romulo.simas@movti.com.br)"
+    "client_tech_contact": "Romulo Simas (romulo.simas@movti.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Band -  Website Migration": {
     "blocker": "",
@@ -7253,7 +7835,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Romulo Simas (romulo.simas@movti.com.br)"
+    "client_tech_contact": "Romulo Simas (romulo.simas@movti.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009e7C5OAI": {
     "blocker": "",
@@ -7262,7 +7846,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "leticia.nobre@movti.com.br",
-    "client_tech_contact": "Eduardo Endo (endo@vibra.digital)"
+    "client_tech_contact": "Eduardo Endo (endo@vibra.digital)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Band Vibra - Website Infra": {
     "blocker": "",
@@ -7271,7 +7857,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "leticia.nobre@movti.com.br",
-    "client_tech_contact": "Eduardo Endo (endo@vibra.digital)"
+    "client_tech_contact": "Eduardo Endo (endo@vibra.digital)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZReIOAW": {
     "blocker": "",
@@ -7289,7 +7877,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Fernando Jose Da Silva (alexandre.alencar@ipnet.cloud)"
+    "client_tech_contact": "Fernando Jose Da Silva (alexandre.alencar@ipnet.cloud)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "[Zilor] SAP IaaS": {
     "blocker": "",
@@ -7298,7 +7888,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Fernando Jose Da Silva (alexandre.alencar@ipnet.cloud)"
+    "client_tech_contact": "Fernando Jose Da Silva (alexandre.alencar@ipnet.cloud)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZKlsOAG": {
     "blocker": "",
@@ -7307,7 +7899,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Fernando Jose Da Silva (alexandre.alencar@ipnet.cloud)"
+    "client_tech_contact": "Fernando Jose Da Silva (alexandre.alencar@ipnet.cloud)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Zilor - Gemini Enterprise": {
     "blocker": "",
@@ -7316,7 +7910,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Fernando Jose Da Silva (alexandre.alencar@ipnet.cloud)"
+    "client_tech_contact": "Fernando Jose Da Silva (alexandre.alencar@ipnet.cloud)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZL8SOAW": {
     "blocker": "",
@@ -8275,7 +8871,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "infra - CMA Vela": {
     "blocker": "",
@@ -8284,7 +8882,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": ""
+    "client_tech_contact": "",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009e7VwOAI": {
     "blocker": "",
@@ -8311,7 +8911,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Alan Barros (alan.junior@sudoesteinformatica.com.br)"
+    "client_tech_contact": "Alan Barros (alan.junior@sudoesteinformatica.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Sudoeste - Segurança": {
     "blocker": "",
@@ -8320,7 +8922,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Alan Barros (alan.junior@sudoesteinformatica.com.br)"
+    "client_tech_contact": "Alan Barros (alan.junior@sudoesteinformatica.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009eCiwOAE": {
     "blocker": "",
@@ -8329,7 +8933,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Junior Barbosa (junior.barbosa@marata.com.br)"
+    "client_tech_contact": "Junior Barbosa (junior.barbosa@marata.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Maratá - secops": {
     "blocker": "",
@@ -8338,7 +8944,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Junior Barbosa (junior.barbosa@marata.com.br)"
+    "client_tech_contact": "Junior Barbosa (junior.barbosa@marata.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009eQ27OAE": {
     "blocker": "",
@@ -8347,7 +8955,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Leonardo Diniz (fbraz@magnumtires.com.br)"
+    "client_tech_contact": "Leonardo Diniz (fbraz@magnumtires.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Magnum - SCC": {
     "blocker": "",
@@ -8356,7 +8966,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Leonardo Diniz (fbraz@magnumtires.com.br)"
+    "client_tech_contact": "Leonardo Diniz (fbraz@magnumtires.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009eWYEOA2": {
     "blocker": "",
@@ -8365,7 +8977,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Wesley Bastos (wesley.junior@innovaro.com.br)"
+    "client_tech_contact": "Wesley Bastos (wesley.junior@innovaro.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Innovaro - SecOps + Wiz": {
     "blocker": "",
@@ -8374,7 +8988,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Wesley Bastos (wesley.junior@innovaro.com.br)"
+    "client_tech_contact": "Wesley Bastos (wesley.junior@innovaro.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009eA7lOAE": {
     "blocker": "",
@@ -8401,7 +9017,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Leonardo Diniz (fbraz@magnumtires.com.br)"
+    "client_tech_contact": "Leonardo Diniz (fbraz@magnumtires.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Magnum - CloudAmor": {
     "blocker": "",
@@ -8410,7 +9028,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Leonardo Diniz (fbraz@magnumtires.com.br)"
+    "client_tech_contact": "Leonardo Diniz (fbraz@magnumtires.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZDV2OAO": {
     "blocker": "",
@@ -8419,7 +9039,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Rodolfo Stangherlin (rstangherlin@nilo.co)"
+    "client_tech_contact": "Rodolfo Stangherlin (rstangherlin@nilo.co)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Nilo - SCC": {
     "blocker": "",
@@ -8428,7 +9050,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Rodolfo Stangherlin (rstangherlin@nilo.co)"
+    "client_tech_contact": "Rodolfo Stangherlin (rstangherlin@nilo.co)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009e7WQOAY": {
     "blocker": "",
@@ -8437,7 +9061,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Michel Soares (michel@innovaro.com.br)"
+    "client_tech_contact": "Michel Soares (michel@innovaro.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Innovaro - SCC": {
     "blocker": "",
@@ -8446,7 +9072,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Michel Soares (michel@innovaro.com.br)"
+    "client_tech_contact": "Michel Soares (michel@innovaro.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZUgHOAW": {
     "blocker": "",
@@ -8617,7 +9245,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Bernardo Murta (bernardo@dynamox.net)"
+    "client_tech_contact": "Bernardo Murta (bernardo@dynamox.net)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009sksrOAA": {
     "blocker": "",
@@ -8707,7 +9337,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Celso Bueno (celso.bueno@leomadeiras.com.br)"
+    "client_tech_contact": "Celso Bueno (celso.bueno@leomadeiras.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJ4M0000008pOeWAI": {
     "blocker": "",
@@ -8793,7 +9425,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Lucas Bachmann Bachmann Feitoza (lucas.feitoza@qinetwork.com.br)"
+    "client_tech_contact": "Lucas Bachmann Bachmann Feitoza (lucas.feitoza@qinetwork.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000008271KOAQ": {
     "blocker": "",
@@ -9459,7 +10093,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Rogério Bassete (lucas.lazarim@microwork.inf.br)"
+    "client_tech_contact": "Rogério Bassete (lucas.lazarim@microwork.inf.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJ4M0000008k5wWAA": {
     "blocker": "",
@@ -9738,7 +10374,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "roberto.oguma@movti.com.br",
-    "client_tech_contact": "Wiliam Pinho Pinho Da Silva Rodrigues (romulo.simas@movti.com.br)"
+    "client_tech_contact": "Wiliam Pinho Pinho Da Silva Rodrigues (romulo.simas@movti.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Verzani | DR": {
     "blocker": "",
@@ -9747,7 +10385,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "roberto.oguma@movti.com.br",
-    "client_tech_contact": "Wiliam Pinho Pinho Da Silva Rodrigues (romulo.simas@movti.com.br)"
+    "client_tech_contact": "Wiliam Pinho Pinho Da Silva Rodrigues (romulo.simas@movti.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZUyQOAW": {
     "blocker": "",
@@ -10444,7 +11084,9 @@
     "partner_tech_contact": "",
     "client_tech_contact": "França Bandeira (victor.souza@g.softwareone.com)",
     "technical_win": false,
-    "proposal_sent": false
+    "proposal_sent": false,
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "SAP RISE_BEMOL": {
     "blocker": "",
@@ -10452,7 +11094,9 @@
     "partner_tech_contact": "",
     "client_tech_contact": "França Bandeira (victor.souza@g.softwareone.com)",
     "technical_win": false,
-    "proposal_sent": false
+    "proposal_sent": false,
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJ4M0000008c1mWAA": {
     "blocker": "",
@@ -10964,7 +11608,9 @@
     "partner_tech_contact": "Vanessa Moyses",
     "client_tech_contact": "Delano Macêdo (delano.macedo@solisinvestimentos.com.br)",
     "technical_win": false,
-    "proposal_sent": false
+    "proposal_sent": false,
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "GE_Solis": {
     "blocker": "",
@@ -10972,7 +11618,9 @@
     "partner_tech_contact": "Vanessa Moyses",
     "client_tech_contact": "Delano Macêdo (delano.macedo@solisinvestimentos.com.br)",
     "technical_win": false,
-    "proposal_sent": false
+    "proposal_sent": false,
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZVegOAG": {
     "blocker": "",
@@ -10980,7 +11628,9 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Rodrigo Scaloppi (rodrigo@sementessaofrancisco.com.br)",
     "technical_win": false,
-    "proposal_sent": false
+    "proposal_sent": false,
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZVeHOAW": {
     "blocker": "",
@@ -10988,7 +11638,9 @@
     "partner_tech_contact": "Vanessa Moyses",
     "client_tech_contact": "Ricardo Ribeiro Malafaia (ricardi@wps-sa.com.br)",
     "technical_win": false,
-    "proposal_sent": false
+    "proposal_sent": false,
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "GE_WPS": {
     "blocker": "",
@@ -10996,7 +11648,9 @@
     "partner_tech_contact": "Vanessa Moyses",
     "client_tech_contact": "Ricardo Ribeiro Malafaia (ricardi@wps-sa.com.br)",
     "technical_win": false,
-    "proposal_sent": false
+    "proposal_sent": false,
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZVeROAW": {
     "blocker": "",
@@ -11004,7 +11658,9 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Rodrigo Ricardi (ricardi@wps-sa.com.br)",
     "technical_win": false,
-    "proposal_sent": false
+    "proposal_sent": false,
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Crescimento WPS": {
     "blocker": "",
@@ -11012,7 +11668,9 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Rodrigo Ricardi (ricardi@wps-sa.com.br)",
     "technical_win": false,
-    "proposal_sent": false
+    "proposal_sent": false,
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZVXBOA4": {
     "blocker": "",
@@ -11020,7 +11678,9 @@
     "partner_tech_contact": "Vanessa Moyses",
     "client_tech_contact": "Daniel Sabença (daniel.sabenca@mobcall.com)",
     "technical_win": false,
-    "proposal_sent": false
+    "proposal_sent": false,
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "GE_Mobcall": {
     "blocker": "",
@@ -11028,7 +11688,9 @@
     "partner_tech_contact": "Vanessa Moyses",
     "client_tech_contact": "Daniel Sabença (daniel.sabenca@mobcall.com)",
     "technical_win": false,
-    "proposal_sent": false
+    "proposal_sent": false,
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZVeWOAW": {
     "blocker": "",
@@ -11069,7 +11731,9 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "roberto.oguma@movti.com.br",
-    "client_tech_contact": "Helton Germano (helton.germano@aasp.org.br)"
+    "client_tech_contact": "Helton Germano (helton.germano@aasp.org.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009onjSOAQ": {
     "blocker": "",
@@ -11077,7 +11741,9 @@
     "partner_tech_contact": "",
     "client_tech_contact": "João Paulo Feitosa (jpmelo@magnumtires.com.br)",
     "technical_win": false,
-    "proposal_sent": false
+    "proposal_sent": false,
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Mangum Tires (Reifen) - Infra Modernization": {
     "blocker": "",
@@ -11085,7 +11751,9 @@
     "partner_tech_contact": "",
     "client_tech_contact": "João Paulo Feitosa (jpmelo@magnumtires.com.br)",
     "technical_win": false,
-    "proposal_sent": false
+    "proposal_sent": false,
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009onuzOAA": {
     "blocker": "",
@@ -11093,7 +11761,9 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Michel Soares (michel@innovaro.com.br)",
     "technical_win": false,
-    "proposal_sent": false
+    "proposal_sent": false,
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Innovaro - Infra Modernization": {
     "blocker": "",
@@ -11101,7 +11771,9 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Michel Soares (michel@innovaro.com.br)",
     "technical_win": false,
-    "proposal_sent": false
+    "proposal_sent": false,
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000009kLL3OAM": {
     "blocker": "",
@@ -11141,7 +11813,9 @@
     "partner_tech_contact": "Vanessa Moyses",
     "client_tech_contact": "Delano Macêdo (delano.macedo@solisinvestimentos.com.br)",
     "technical_win": false,
-    "proposal_sent": false
+    "proposal_sent": false,
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Solis Migração2": {
     "blocker": "",
@@ -11149,7 +11823,9 @@
     "partner_tech_contact": "Vanessa Moyses",
     "client_tech_contact": "Delano Macêdo (delano.macedo@solisinvestimentos.com.br)",
     "technical_win": false,
-    "proposal_sent": false
+    "proposal_sent": false,
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "aBJKf000004ZVo7OAG": {
     "blocker": "",
@@ -11157,7 +11833,9 @@
     "partner_tech_contact": "Vanessa Moyses",
     "client_tech_contact": "Delano Macêdo (delano.macedo@solisinvestimentos.com.br)",
     "technical_win": false,
-    "proposal_sent": false
+    "proposal_sent": false,
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Migração Solis_1": {
     "blocker": "",
@@ -11165,7 +11843,9 @@
     "partner_tech_contact": "Vanessa Moyses",
     "client_tech_contact": "Delano Macêdo (delano.macedo@solisinvestimentos.com.br)",
     "technical_win": false,
-    "proposal_sent": false
+    "proposal_sent": false,
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "[BRASILTECPAR] #Gemini Enterprise Std | 3000 seats (Big Bet)": {
     "blocker": "",
@@ -11191,7 +11871,9 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Marco Fontenelle (marcofontenelle@riogaleao.com)",
     "technical_win": false,
-    "proposal_sent": false
+    "proposal_sent": false,
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "Google Translatos": {
     "blocker": "",
@@ -11199,7 +11881,9 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Marco Fontenelle (marcofontenelle@riogaleao.com)",
     "technical_win": false,
-    "proposal_sent": false
+    "proposal_sent": false,
+    "nao_existe": false,
+    "dat_hygine_needed": false
   },
   "renanvaladares||SINAGRO PRODUTOS AGROPECUARIOS SA||Sinova #OUT #GCP #Gemini Enterprise #BR + Dados||SAP - Sinova": {
     "blocker": "",
@@ -11272,5 +11956,25 @@
     "proposal_sent": false,
     "partner_tech_contact": "",
     "client_tech_contact": ""
+  },
+  "aBJKf000009kPgGOAU": {
+    "blocker": "",
+    "status_tecnico": "",
+    "partner_tech_contact": "",
+    "client_tech_contact": "Ricardo Leka (ricardo.leka@mc1global.com)",
+    "technical_win": false,
+    "proposal_sent": false,
+    "nao_existe": false,
+    "dat_hygine_needed": false
+  },
+  "Infra MC1": {
+    "blocker": "",
+    "status_tecnico": "",
+    "partner_tech_contact": "",
+    "client_tech_contact": "Ricardo Leka (ricardo.leka@mc1global.com)",
+    "technical_win": false,
+    "proposal_sent": false,
+    "nao_existe": false,
+    "dat_hygine_needed": false
   }
 }

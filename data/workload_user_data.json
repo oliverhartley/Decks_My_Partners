@@ -45,14 +45,14 @@
   "aBJKf000009tcKpOAI": {
     "notes": "",
     "attachments": [],
-    "status_tecnico": "test",
-    "updated_at": "2026-10-02T12:12:53.903415"
+    "status_tecnico": "",
+    "updated_at": "2026-10-28T08:01:08.418925"
   },
   "aBJKf000009tOUvOAM": {
     "notes": "",
     "attachments": [],
-    "status_tecnico": "test",
-    "updated_at": "2026-10-02T12:13:00.265413"
+    "status_tecnico": "",
+    "updated_at": "2026-10-28T08:01:08.418925"
   },
   "aBJKf000000GouMOAS": {
     "notes": "",
@@ -394,7 +394,8 @@
     "notes": "",
     "attachments": [],
     "status_tecnico": "Validar",
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "updated_at": "2026-10-27T13:34:17.966150",
+    "partner_technical_contact": "cruz.lucas@cloud-ace.com"
   },
   "aBJKf00000822yCOAQ": {
     "notes": "",
@@ -2169,13 +2170,69 @@
   "aBJKf000004ZKKuOAO": {
     "notes": "",
     "attachments": [],
-    "partner_technical_contact": "lucas.feitoza@qinetwork.com.br",
-    "updated_at": "2026-10-27T08:01:32.655801"
+    "partner_technical_contact": "Daniel de Almeida (lucas.feitoza@qinetwork.com.br)",
+    "updated_at": "2026-10-27T14:41:22.852580"
   },
   "aBJKf000004ZJMPOA4": {
     "notes": "",
     "attachments": [],
     "partner_technical_contact": "thais.macedo@santodigital.com.br",
-    "updated_at": "2026-10-27T08:01:32.655801"
+    "updated_at": "2026-10-28T08:01:08.418925",
+    "blocker_tecnico": "Tecnico",
+    "status_tecnico": "Mañana hace el primer training. Quieren 5. licencias adicionales. E fazer a connecao de Outlook. Yo la hago con el equipo tecnico"
+  },
+  "aBJKf000009eKGXOA2": {
+    "notes": "",
+    "attachments": [],
+    "partner_technical_contact": "dathayde@kyndryl.com",
+    "updated_at": "2026-10-27T13:34:17.966150"
+  },
+  "aBJKf000009eQUGOA2": {
+    "notes": "",
+    "attachments": [],
+    "partner_technical_contact": "mnatalia@madeinweb.com.br",
+    "updated_at": "2026-10-27T13:34:17.966150"
+  },
+  "aBJKf000009eMKMOA2": {
+    "notes": "",
+    "attachments": [],
+    "partner_technical_contact": "Roberta Coelho (etelvina.mendes@venhapranuvem.com.br)",
+    "updated_at": "2026-10-27T14:41:22.852580"
+  },
+  "aBJKf000004ZQ9nOAG": {
+    "notes": "",
+    "attachments": [],
+    "partner_technical_contact": "Daniel de Almeida (daniel.almeida@santodigital.com.br)",
+    "updated_at": "2026-10-27T14:41:22.852580"
+  },
+  "aBJKf000009tbiWOAQ": {
+    "notes": "",
+    "attachments": [],
+    "partner_technical_contact": "lucas.feitoza@qinetwork.com.br",
+    "updated_at": "2026-10-27T13:34:17.966150"
+  },
+  "aBJKf0000082E21OAE": {
+    "notes": "",
+    "attachments": [],
+    "partner_technical_contact": "marcio.silva@santodigital.com.br",
+    "updated_at": "2026-10-28T08:01:08.418925"
+  },
+  "aBJKf000004ZIvcOAG": {
+    "notes": "",
+    "attachments": [],
+    "partner_technical_contact": "jardel.sliumba@santodigital.com.br",
+    "updated_at": "2026-10-28T08:01:08.418925"
+  },
+  "aBJKf000004ZEsnOAG": {
+    "notes": "",
+    "attachments": [],
+    "partner_technical_contact": "Nao Existe",
+    "updated_at": "2026-10-28T08:01:08.418925"
+  },
+  "aBJKf000004ZMifOAG": {
+    "notes": "",
+    "attachments": [],
+    "partner_technical_contact": "Nao existe",
+    "updated_at": "2026-10-28T08:01:08.418925"
   }
 }
