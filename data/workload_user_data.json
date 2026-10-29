@@ -21,7 +21,9 @@
         "webViewLink": "https://tasks.google.com/task/ty-kU0xBBaraU6U-?sa=6",
         "created_at": "2026-09-28 17:33"
       }
-    ]
+    ],
+    "dat_hygine_needed": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
   },
   "aBJKf000009kJ5cOAE": {
     "notes": "",
@@ -51,8 +53,8 @@
   "aBJKf000009tOUvOAM": {
     "notes": "",
     "attachments": [],
-    "status_tecnico": "",
-    "updated_at": "2026-10-28T08:01:08.418925"
+    "status_tecnico": "Já está no Cloud Connect, poderia ser 4.3",
+    "updated_at": "2026-10-28T19:10:58.251804"
   },
   "aBJKf000000GouMOAS": {
     "notes": "",
@@ -334,8 +336,9 @@
   "aBJKf000009eD6QOAU": {
     "notes": "",
     "attachments": [],
-    "status_tecnico": "WL de crescimento",
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "status_tecnico": "WL de crescimento, porém conta não tem demonstrado crescimento orgânico em 2026",
+    "updated_at": "2026-10-28T19:10:58.251804",
+    "nao_existe": true
   },
   "aBJKf000009t97eOAA": {
     "notes": "",
@@ -353,8 +356,9 @@
   "aBJKf000009eD66OAE": {
     "notes": "",
     "attachments": [],
-    "status_tecnico": "WL de crescimento",
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "status_tecnico": "WL de crescimento, porém não está aumentando consumo na mesma proporção",
+    "updated_at": "2026-10-28T19:10:58.251804",
+    "nao_existe": true
   },
   "aBJKf000009dvPwOAI": {
     "notes": "",
@@ -393,8 +397,8 @@
   "aBJKf000009e8euOAA": {
     "notes": "",
     "attachments": [],
-    "status_tecnico": "Validar",
-    "updated_at": "2026-10-27T13:34:17.966150",
+    "status_tecnico": "Já está no Cloud Connect, poderia ser 4.3",
+    "updated_at": "2026-10-28T19:10:58.251804",
     "partner_technical_contact": "cruz.lucas@cloud-ace.com"
   },
   "aBJKf00000822yCOAQ": {
@@ -470,7 +474,8 @@
     "notes": "",
     "attachments": [],
     "client_technical_contact": "Marcos Souza (victor.tosta@ipnet.cloud)",
-    "updated_at": "2026-10-20T13:03:57.190485"
+    "updated_at": "2026-10-28T19:10:58.251804",
+    "dat_hygine_needed": true
   },
   "aBJKf000004ZKLOOA4": {
     "notes": "",
@@ -1291,7 +1296,9 @@
     "notes": "",
     "attachments": [],
     "client_technical_contact": "",
-    "updated_at": "2026-10-20T13:03:57.190485"
+    "updated_at": "2026-10-28T19:10:58.251804",
+    "status_tecnico": "Não existe projeto associado, o cliente não tem planos de usar Vertex AI agora. Eles querem utilizar a franquia que ja existe das 1600 licenças contratadas de GE",
+    "nao_existe": true
   },
   "aBJKf000009kMPVOA2": {
     "notes": "",
@@ -2128,7 +2135,8 @@
     "attachments": [],
     "blocker_tecnico": "Comercial",
     "status_tecnico": "Workload depende da evolução das negociações com time de Ads.",
-    "updated_at": "2026-10-22T18:26:18.555669"
+    "updated_at": "2026-10-28T19:10:58.251804",
+    "dat_hygine_needed": true
   },
   "aBJKf000009kKHPOA2": {
     "notes": "",
@@ -2139,15 +2147,17 @@
   "aBJKf000009onjrOAA": {
     "notes": "",
     "attachments": [],
-    "status_tecnico": "Sem pendências técnicas.",
-    "updated_at": "2026-10-22T18:26:18.555669"
+    "status_tecnico": "Workload de crescimento que não está acontecendo]",
+    "updated_at": "2026-10-28T19:10:58.251804",
+    "nao_existe": true
   },
   "aBJKf000009kKoOOAU": {
     "notes": "",
     "attachments": [],
     "blocker_tecnico": "Tecnico",
     "status_tecnico": "Reunião cliente para definição de arquitetura",
-    "updated_at": "2026-10-22T18:26:18.555669"
+    "updated_at": "2026-10-28T19:10:58.251804",
+    "dat_hygine_needed": true
   },
   "aBJKf0000082HgrOAE": {
     "notes": "",
@@ -2191,19 +2201,23 @@
     "notes": "",
     "attachments": [],
     "partner_technical_contact": "mnatalia@madeinweb.com.br",
-    "updated_at": "2026-10-27T13:34:17.966150"
+    "updated_at": "2026-10-28T19:10:58.251804",
+    "dat_hygine_needed": true
   },
   "aBJKf000009eMKMOA2": {
     "notes": "",
     "attachments": [],
     "partner_technical_contact": "Roberta Coelho (etelvina.mendes@venhapranuvem.com.br)",
-    "updated_at": "2026-10-27T14:41:22.852580"
+    "updated_at": "2026-10-28T19:10:58.251804",
+    "status_tecnico": "Já está no Cloud Connect, poderia ser 4.3",
+    "dat_hygine_needed": true
   },
   "aBJKf000004ZQ9nOAG": {
     "notes": "",
     "attachments": [],
     "partner_technical_contact": "Daniel de Almeida (daniel.almeida@santodigital.com.br)",
-    "updated_at": "2026-10-27T14:41:22.852580"
+    "updated_at": "2026-10-28T19:10:58.251804",
+    "status_tecnico": "Já está no Cloud Connect, poderia ser 4.3"
   },
   "aBJKf000009tbiWOAQ": {
     "notes": "",
@@ -2215,7 +2229,8 @@
     "notes": "",
     "attachments": [],
     "partner_technical_contact": "marcio.silva@santodigital.com.br",
-    "updated_at": "2026-10-28T08:01:08.418925"
+    "updated_at": "2026-10-28T19:10:58.251804",
+    "dat_hygine_needed": true
   },
   "aBJKf000004ZIvcOAG": {
     "notes": "",
@@ -2234,5 +2249,160 @@
     "attachments": [],
     "partner_technical_contact": "Nao existe",
     "updated_at": "2026-10-28T08:01:08.418925"
+  },
+  "aBJKf000009eVIAOA2": {
+    "notes": "",
+    "attachments": [],
+    "dat_hygine_needed": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
+  "aBJKf000009kPgGOAU": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "WL para refletir aumento de revenue decorrente de final de contrato",
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
+  "aBJKf000009kJ6LOAU": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "Oportunidade vai ser fechada pelo parceiro",
+    "nao_existe": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
+  "aBJKf000009omBNOAY": {
+    "notes": "",
+    "attachments": [],
+    "dat_hygine_needed": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
+  "aBJKf000009kJ5XOAU": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "Partner vai fechar a oportunidade",
+    "nao_existe": true,
+    "dat_hygine_needed": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
+  "aBJKf000009onv9OAA": {
+    "notes": "",
+    "attachments": [],
+    "nao_existe": true,
+    "dat_hygine_needed": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
+  "aBJKf000009kIJxOAM": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "Oportunidade vai ser fechada pelo parceiro",
+    "nao_existe": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
+  "aBJKf000009tOftOAE": {
+    "notes": "",
+    "attachments": [],
+    "dat_hygine_needed": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
+  "aBJKf000004ZMQGOA4": {
+    "notes": "",
+    "attachments": [],
+    "dat_hygine_needed": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
+  "aBJKf000009kNLPOA2": {
+    "notes": "",
+    "attachments": [],
+    "dat_hygine_needed": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
+  "aBJKf000009onuuOAA": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "Possivelmente duplicado com migração Azure x GCP",
+    "nao_existe": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
+  "aBJKf000009onv4OAA": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "Não existe.",
+    "nao_existe": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
+  "aBJKf000009onuzOAA": {
+    "notes": "",
+    "attachments": [],
+    "dat_hygine_needed": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
+  "aBJKf000009kM5pOAE": {
+    "notes": "",
+    "attachments": [],
+    "dat_hygine_needed": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
+  "aBJKf000009kMIeOAM": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "Processo de adoção iniciado - Deveria ser 4.3",
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
+  "aBJKf000004ZJNQOA4": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "Risco devido dependência de teste de DR",
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
+  "aBJKf000009olynOAA": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "Não existe projeto associado, o cliente não tem planos de usar Vertex AI agora. Eles querem utilizar a franquia que ja existe das 1600 licenças contratadas de GE",
+    "nao_existe": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
+  "aBJKf000009kKUnOAM": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "Não existe um projeto Associado, Stage esta errado",
+    "nao_existe": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
+  "aBJKf000004ZVbNOAW": {
+    "notes": "",
+    "attachments": [],
+    "dat_hygine_needed": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
+  "aBJKf000009kKUsOAM": {
+    "notes": "",
+    "attachments": [],
+    "nao_existe": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
+  "aBJKf000009kJ2nOAE": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "Estage esta errado, não existe um projeto associado",
+    "nao_existe": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
+  "aBJKf000009kKUxOAM": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "Duplicado",
+    "nao_existe": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
+  "aBJKf000004ZMiuOAG": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "Workload de crescimento acompanhado pelo Cloud Connect",
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
+  "aBJKf000004ZVeROAW": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "Workload de crescimento acompanhado pelo Cloud Connect",
+    "updated_at": "2026-10-28T19:10:58.251804"
   }
 }

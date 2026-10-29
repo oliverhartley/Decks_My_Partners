@@ -30,7 +30,7 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Leonardo Waissmann (leonardo@madeinweb.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": true
   },
   "Infratakeover_CIBRA": {
     "blocker": "",
@@ -105,7 +105,7 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Wellington Britto (britto@deso-se.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": true
   },
   "AWT_GE_Condor": {
     "blocker": "",
@@ -123,7 +123,7 @@
     "partner_tech_contact": "mnatalia@madeinweb.com.br",
     "client_tech_contact": "Bernardo Bessa (leonardo.camargo@tdsynnex.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": true
   },
   "DM_Migração bancoAWS_GCP_GrupoCVLB": {
     "blocker": "",
@@ -214,7 +214,7 @@
   },
   "Gemini Enterprise_Fogas": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Já está no Cloud Connect, poderia ser 4.3",
     "partner_tech_email": "jardel.sliumba@santodigital.com.br",
     "technical_win": false,
     "proposal_sent": false,
@@ -245,14 +245,14 @@
   },
   "Cibra_GE": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Já está no Cloud Connect, poderia ser 4.3",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "Roberta Coelho (etelvina.mendes@venhapranuvem.com.br)",
     "client_tech_contact": "Arivaldo Conceição (renato.takata@venhapranuvem.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": true
   },
   "COMPANHIA DE SANEAMENTO DE ALAGOAS - InfraMod": {
     "blocker": "",
@@ -1062,13 +1062,13 @@
   },
   "Agent - Atendimento": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Oportunidade vai ser fechada pelo parceiro",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
     "client_tech_contact": "Fernando Junkes (fernando.junkes@intelbras.com.br)",
-    "nao_existe": false,
+    "nao_existe": true,
     "dat_hygine_needed": false
   },
   "Valgroup - Impressao - AI - Plantas": {
@@ -1120,7 +1120,7 @@
     "partner_tech_contact": "",
     "client_tech_contact": "",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": true
   },
   "AutoGlass - Gemini Enterprise": {
     "blocker": "",
@@ -1131,7 +1131,7 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Luiz Roberto Pinon Junior (luiz.pinon@autoglass.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": true
   },
   "Modernização BD": {
     "blocker": "",
@@ -1142,14 +1142,14 @@
   },
   "Jornada Comercial / Atendimento": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Partner vai fechar a oportunidade",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
     "client_tech_contact": "Fernando Junkes (fernando.junkes@intelbras.com.br)",
-    "nao_existe": false,
-    "dat_hygine_needed": false
+    "nao_existe": true,
+    "dat_hygine_needed": true
   },
   "MC1 - Pepsico": {
     "blocker": "",
@@ -1180,24 +1180,24 @@
   },
   "BLUECORP - Infra Modernizationn Incremental": {
     "blocker": "",
-    "status_tecnico": "Sem pendências técnicas.",
+    "status_tecnico": "Workload de crescimento que não está acontecendo]",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
     "client_tech_contact": "Victor Marcondes (vmarcondes@nilo.co)",
-    "nao_existe": false,
+    "nao_existe": true,
     "dat_hygine_needed": false
   },
   "Intelbras - Modernizacao Industria - Negocios": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Oportunidade vai ser fechada pelo parceiro",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
     "client_tech_contact": "Fernando Junkes (fernando.junkes@intelbras.com.br)",
-    "nao_existe": false,
+    "nao_existe": true,
     "dat_hygine_needed": false
   },
   "BI - Agent": {
@@ -1292,7 +1292,7 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Edison Figueira Junior Figueira Junior (edison@fortics.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": true
   },
   "Novo Ambiente Azure": {
     "blocker": "",
@@ -1358,7 +1358,7 @@
   },
   "Dynamox - Gemini Enterprise": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Processo de adoção iniciado - Deveria ser 4.3",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
@@ -1405,7 +1405,7 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Bernardo Murta (bernardo@dynamox.net)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": true
   },
   "AutoGlass - Abertura Sinistro": {
     "blocker": "",
@@ -1431,13 +1431,13 @@
   },
   "AI - Vertex Ai": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Não existe um projeto Associado, Stage esta errado",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
     "client_tech_contact": "Bernardo Murta (bernardo@dynamox.net)",
-    "nao_existe": false,
+    "nao_existe": true,
     "dat_hygine_needed": false
   },
   "Contimatic - ReCommit #Q3CloseAcc": {
@@ -1477,7 +1477,7 @@
     "proposal_sent": false,
     "partner_tech_contact": "",
     "client_tech_contact": "Bernardo Murta (bernardo@dynamox.net)",
-    "nao_existe": false,
+    "nao_existe": true,
     "dat_hygine_needed": false
   },
   "Fortics - VertexAI": {
@@ -1489,7 +1489,7 @@
     "partner_tech_contact": "marcio.silva@santodigital.com.br",
     "client_tech_contact": "Edison Figueira (efigueira@fortics.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": true
   },
   "Fontec - Data Management": {
     "blocker": "",
@@ -1621,13 +1621,13 @@
   },
   "Crescimento_FS": {
     "blocker": "",
-    "status_tecnico": "WL de crescimento",
+    "status_tecnico": "WL de crescimento, porém conta não tem demonstrado crescimento orgânico em 2026",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
     "client_tech_contact": "Marcio Ferreira Da Silva (marcio.ferreira@exa.com.br)",
-    "nao_existe": false,
+    "nao_existe": true,
     "dat_hygine_needed": false
   },
   "Migração SEK_fase 2": {
@@ -1781,13 +1781,13 @@
   },
   "crescimento 2026_Tenda": {
     "blocker": "",
-    "status_tecnico": "WL de crescimento",
+    "status_tecnico": "WL de crescimento, porém não está aumentando consumo na mesma proporção",
     "partner_tech_email": "ademir.junior@gavb.com.br",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "ademir.junior@gavb.com.br",
     "client_tech_contact": "",
-    "nao_existe": false,
+    "nao_existe": true,
     "dat_hygine_needed": false
   },
   "Infra Modernization_Pátria - Entel Chile": {
@@ -1857,7 +1857,7 @@
     "partner_tech_contact": "",
     "client_tech_contact": "",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": true
   },
   "Segmentação de Personas_Tenda_ #LLM": {
     "blocker": "",
@@ -1939,7 +1939,7 @@
   },
   "Migração AWS": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Risco devido dependência de teste de DR",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
@@ -2497,7 +2497,7 @@
   },
   "Crescimento Vortex": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Workload de crescimento acompanhado pelo Cloud Connect",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
@@ -2584,7 +2584,7 @@
   },
   "Gemini Ent Braveo": {
     "blocker": "",
-    "status_tecnico": "Validar",
+    "status_tecnico": "Já está no Cloud Connect, poderia ser 4.3",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
@@ -2606,7 +2606,7 @@
   },
   "SCC_WPS": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Já está no Cloud Connect, poderia ser 4.3",
     "partner_tech_email": "daniel.almeida@santodigital.com.br",
     "technical_win": false,
     "proposal_sent": false,
@@ -4666,7 +4666,7 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Leonardo Waissmann (leonardo@madeinweb.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": true
   },
   "aBJKf000009eQUGOA2": {
     "blocker": "",
@@ -4677,7 +4677,7 @@
     "partner_tech_contact": "mnatalia@madeinweb.com.br",
     "client_tech_contact": "Bernardo Bessa (leonardo.camargo@tdsynnex.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": true
   },
   "aBJKf000009eMfyOAE": {
     "blocker": "",
@@ -4692,14 +4692,14 @@
   },
   "aBJKf000009eMKMOA2": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Já está no Cloud Connect, poderia ser 4.3",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "Roberta Coelho (etelvina.mendes@venhapranuvem.com.br)",
     "client_tech_contact": "Arivaldo Conceição (renato.takata@venhapranuvem.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": true
   },
   "aBJKf000009tOftOAE": {
     "blocker": "",
@@ -4710,7 +4710,7 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Wellington Britto (britto@deso-se.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": true
   },
   "aBJKf000009eEZTOA2": {
     "blocker": "",
@@ -4796,7 +4796,7 @@
   },
   "aBJKf000009tOUvOAM": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Já está no Cloud Connect, poderia ser 4.3",
     "partner_tech_email": "jardel.sliumba@santodigital.com.br",
     "technical_win": false,
     "proposal_sent": false,
@@ -5695,13 +5695,13 @@
   },
   "aBJKf000009kJ6LOAU": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Oportunidade vai ser fechada pelo parceiro",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
     "client_tech_contact": "Fernando Junkes (fernando.junkes@intelbras.com.br)",
-    "nao_existe": false,
+    "nao_existe": true,
     "dat_hygine_needed": false
   },
   "aBJKf000009kJ5cOAE": {
@@ -5757,7 +5757,7 @@
     "partner_tech_contact": "",
     "client_tech_contact": "",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": true
   },
   "aBJKf000009kMQOOA2": {
     "blocker": "",
@@ -5779,7 +5779,7 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Luiz Roberto Pinon Junior (luiz.pinon@autoglass.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": true
   },
   "aBJKf000009kMPuOAM": {
     "blocker": "",
@@ -5794,14 +5794,14 @@
   },
   "aBJKf000009kJ5XOAU": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Partner vai fechar a oportunidade",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
     "client_tech_contact": "Fernando Junkes (fernando.junkes@intelbras.com.br)",
-    "nao_existe": false,
-    "dat_hygine_needed": false
+    "nao_existe": true,
+    "dat_hygine_needed": true
   },
   "aBJKf000009kKHPOA2": {
     "blocker": "",
@@ -5822,8 +5822,8 @@
     "proposal_sent": false,
     "partner_tech_contact": "",
     "client_tech_contact": "Fabiano Moura (fabiano.moura@autoglass.com.br)",
-    "nao_existe": false,
-    "dat_hygine_needed": false
+    "nao_existe": true,
+    "dat_hygine_needed": true
   },
   "aBJKf000009kNZWOA2": {
     "blocker": "",
@@ -5838,13 +5838,13 @@
   },
   "aBJKf000009onjrOAA": {
     "blocker": "",
-    "status_tecnico": "Sem pendências técnicas.",
+    "status_tecnico": "Workload de crescimento que não está acontecendo]",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
     "client_tech_contact": "Victor Marcondes (vmarcondes@nilo.co)",
-    "nao_existe": false,
+    "nao_existe": true,
     "dat_hygine_needed": false
   },
   "aBJKf000009kJ6QOAU": {
@@ -5860,13 +5860,13 @@
   },
   "aBJKf000009kIJxOAM": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Oportunidade vai ser fechada pelo parceiro",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
     "client_tech_contact": "Fernando Junkes (fernando.junkes@intelbras.com.br)",
-    "nao_existe": false,
+    "nao_existe": true,
     "dat_hygine_needed": false
   },
   "aBJKf000009kLXiOAM": {
@@ -5922,7 +5922,7 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Tiago Muza (tiago.muza@aurum.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": true
   },
   "aBJKf000009kNLPOA2": {
     "blocker": "",
@@ -5933,17 +5933,17 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Edison Figueira Junior Figueira Junior (edison@fortics.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": true
   },
   "aBJKf000009onuuOAA": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Possivelmente duplicado com migração Azure x GCP",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
     "client_tech_contact": "Arquimedes Paiva (augusto.paiva@intelbras.com.br)",
-    "nao_existe": false,
+    "nao_existe": true,
     "dat_hygine_needed": false
   },
   "aBJKf000009kJ3COAU": {
@@ -5981,13 +5981,13 @@
   },
   "aBJKf000009onv4OAA": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Não existe.",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
     "client_tech_contact": "Nil Nunes (nil@climatempo.com.br)",
-    "nao_existe": false,
+    "nao_existe": true,
     "dat_hygine_needed": false
   },
   "aBJKf000009kJ3DOAU": {
@@ -6021,7 +6021,7 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Celso Caparica (celso@qinetwork.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": true
   },
   "aBJKf000009eQONOA2": {
     "blocker": "",
@@ -6036,7 +6036,7 @@
   },
   "aBJKf000009kMIeOAM": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Processo de adoção iniciado - Deveria ser 4.3",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
@@ -6047,24 +6047,24 @@
   },
   "aBJKf000009om0yOAA": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Não existe projeto associado, o cliente não tem planos de usar Vertex AI agora. Eles querem utilizar a franquia que ja existe das 1600 licenças contratadas de GE",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
     "client_tech_contact": "",
-    "nao_existe": false,
+    "nao_existe": true,
     "dat_hygine_needed": false
   },
   "aBJKf000009olynOAA": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Não existe projeto associado, o cliente não tem planos de usar Vertex AI agora. Eles querem utilizar a franquia que ja existe das 1600 licenças contratadas de GE",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
     "client_tech_contact": "Thiago Borges (thiago.borges@tiendanube.com)",
-    "nao_existe": false,
+    "nao_existe": true,
     "dat_hygine_needed": false
   },
   "aBJKf000009kKoOOAU": {
@@ -6076,7 +6076,7 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Bernardo Murta (bernardo@dynamox.net)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": true
   },
   "aBJKf000009kIu0OAE": {
     "blocker": "",
@@ -6102,13 +6102,13 @@
   },
   "aBJKf000009kKUnOAM": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Não existe um projeto Associado, Stage esta errado",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
     "client_tech_contact": "Bernardo Murta (bernardo@dynamox.net)",
-    "nao_existe": false,
+    "nao_existe": true,
     "dat_hygine_needed": false
   },
   "aBJKf000009kMPQOA2": {
@@ -6152,7 +6152,7 @@
     "proposal_sent": false,
     "partner_tech_contact": "",
     "client_tech_contact": "Bernardo Murta (bernardo@dynamox.net)",
-    "nao_existe": false,
+    "nao_existe": true,
     "dat_hygine_needed": false
   },
   "aBJKf0000082E21OAE": {
@@ -6164,17 +6164,17 @@
     "partner_tech_contact": "marcio.silva@santodigital.com.br",
     "client_tech_contact": "Edison Figueira (efigueira@fortics.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": true
   },
   "aBJKf000009kJ2nOAE": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Estage esta errado, não existe um projeto associado",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
     "client_tech_contact": "Thiago Borges (gwspst@nuvemshop.com.br)",
-    "nao_existe": false,
+    "nao_existe": true,
     "dat_hygine_needed": false
   },
   "aBJKf000009kMQEOA2": {
@@ -6190,13 +6190,13 @@
   },
   "aBJKf000009kKUxOAM": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Duplicado",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
     "client_tech_contact": "Emerson Lima (emerson@sauter.digital)",
-    "nao_existe": false,
+    "nao_existe": true,
     "dat_hygine_needed": false
   },
   "aBJKf000009kNZbOAM": {
@@ -6326,13 +6326,13 @@
   },
   "aBJKf000009eD6QOAU": {
     "blocker": "",
-    "status_tecnico": "WL de crescimento",
+    "status_tecnico": "WL de crescimento, porém conta não tem demonstrado crescimento orgânico em 2026",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
     "client_tech_contact": "Marcio Ferreira Da Silva (marcio.ferreira@exa.com.br)",
-    "nao_existe": false,
+    "nao_existe": true,
     "dat_hygine_needed": false
   },
   "aBJKf000004ZLZXOA4": {
@@ -6454,13 +6454,13 @@
   },
   "aBJKf000009eD66OAE": {
     "blocker": "",
-    "status_tecnico": "WL de crescimento",
+    "status_tecnico": "WL de crescimento, porém não está aumentando consumo na mesma proporção",
     "partner_tech_email": "ademir.junior@gavb.com.br",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "ademir.junior@gavb.com.br",
     "client_tech_contact": "",
-    "nao_existe": false,
+    "nao_existe": true,
     "dat_hygine_needed": false
   },
   "aBJKf000009dvPwOAI": {
@@ -6503,7 +6503,7 @@
     "partner_tech_contact": "",
     "client_tech_contact": "",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": true
   },
   "aBJKf000004ZNKnOAO": {
     "blocker": "",
@@ -6558,7 +6558,7 @@
   },
   "aBJKf000004ZJNQOA4": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Risco devido dependência de teste de DR",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
@@ -6774,7 +6774,7 @@
   },
   "aBJKf000004ZMiuOAG": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Workload de crescimento acompanhado pelo Cloud Connect",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
@@ -6816,7 +6816,7 @@
   },
   "aBJKf000009e8euOAA": {
     "blocker": "",
-    "status_tecnico": "Validar",
+    "status_tecnico": "Já está no Cloud Connect, poderia ser 4.3",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
@@ -6838,7 +6838,7 @@
   },
   "aBJKf000004ZQ9nOAG": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Já está no Cloud Connect, poderia ser 4.3",
     "partner_tech_email": "daniel.almeida@santodigital.com.br",
     "technical_win": false,
     "proposal_sent": false,
@@ -7716,7 +7716,7 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Marcos Souza (victor.tosta@ipnet.cloud)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": true
   },
   "[Matera] Gemini Enterprise": {
     "blocker": "",
@@ -7727,7 +7727,7 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Marcos Souza (victor.tosta@ipnet.cloud)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": true
   },
   "aBJKf000004ZKmgOAG": {
     "blocker": "",
@@ -11610,7 +11610,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": true
   },
   "GE_Solis": {
     "blocker": "",
@@ -11620,7 +11620,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": true
   },
   "aBJKf000004ZVegOAG": {
     "blocker": "",
@@ -11654,7 +11654,7 @@
   },
   "aBJKf000004ZVeROAW": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Workload de crescimento acompanhado pelo Cloud Connect",
     "partner_tech_contact": "",
     "client_tech_contact": "Rodrigo Ricardi (ricardi@wps-sa.com.br)",
     "technical_win": false,
@@ -11664,7 +11664,7 @@
   },
   "Crescimento WPS": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Workload de crescimento acompanhado pelo Cloud Connect",
     "partner_tech_contact": "",
     "client_tech_contact": "Rodrigo Ricardi (ricardi@wps-sa.com.br)",
     "technical_win": false,
@@ -11763,7 +11763,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": true
   },
   "Innovaro - Infra Modernization": {
     "blocker": "",
@@ -11773,7 +11773,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": true
   },
   "aBJKf000009kLL3OAM": {
     "blocker": "",
@@ -11959,7 +11959,7 @@
   },
   "aBJKf000009kPgGOAU": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "WL para refletir aumento de revenue decorrente de final de contrato",
     "partner_tech_contact": "",
     "client_tech_contact": "Ricardo Leka (ricardo.leka@mc1global.com)",
     "technical_win": false,
@@ -11969,7 +11969,7 @@
   },
   "Infra MC1": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "WL para refletir aumento de revenue decorrente de final de contrato",
     "partner_tech_contact": "",
     "client_tech_contact": "Ricardo Leka (ricardo.leka@mc1global.com)",
     "technical_win": false,

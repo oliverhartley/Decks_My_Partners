@@ -1,7 +1,7 @@
 {
   "Gemini Enterprise_Fogas": {
-    "status_tecnico": "",
-    "updated_at": "2026-10-28T08:01:08.418925"
+    "status_tecnico": "Já está no Cloud Connect, poderia ser 4.3",
+    "updated_at": "2026-10-28T19:10:58.251804"
   },
   "#Analytics_Fogas": {
     "status_tecnico": "test",
@@ -31,28 +31,48 @@
   "GeminiEnterprise_BASA": {},
   "aBJKf000009eMKROA2": {},
   "Bemol_IA": {},
-  "aBJKf000009eVIAOA2": {},
-  "Broadcast_CBF": {},
+  "aBJKf000009eVIAOA2": {
+    "dat_hygine_needed": true,
+    "updated_at": "2026-10-28T19:10:58.251804",
+    "status_tec": "Oportunidade de Broadcast não é prioridade atual (foco na Copa do Mundo Feminina de 2027); em acompanhamento com Roberta Coelho e MadeinWeb (leonardo@madeinweb.com.br).",
+    "ai_summary": "[2026-10-28] Oportunidade de Broadcast despriorizada no momento por ser voltada para a Copa do Mundo Feminina de 2027; alinhar cronograma de 2027 junto à FSR Roberta Coelho e MadeinWeb (leonardo@madeinweb.com.br)."
+  },
+  "Broadcast_CBF": {
+    "dat_hygine_needed": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
   "aBJKf000009eQUGOA2": {
     "partner_tech_contact": "mnatalia@madeinweb.com.br",
-    "updated_at": "2026-10-27T13:34:17.966150"
+    "updated_at": "2026-10-28T19:10:58.251804",
+    "dat_hygine_needed": true
   },
   "CBF_IA": {
     "partner_tech_contact": "mnatalia@madeinweb.com.br",
-    "updated_at": "2026-10-27T13:34:17.966150"
+    "updated_at": "2026-10-28T19:10:58.251804",
+    "dat_hygine_needed": true
   },
   "aBJKf000009eMfyOAE": {},
   "Infratakeover_CIBRA": {},
   "aBJKf000009eMKMOA2": {
     "partner_tech_contact": "Roberta Coelho (etelvina.mendes@venhapranuvem.com.br)",
-    "updated_at": "2026-10-27T14:41:22.852580"
+    "updated_at": "2026-10-28T19:10:58.251804",
+    "status_tecnico": "Já está no Cloud Connect, poderia ser 4.3",
+    "dat_hygine_needed": true
   },
   "Cibra_GE": {
     "partner_tech_contact": "Roberta Coelho (etelvina.mendes@venhapranuvem.com.br)",
-    "updated_at": "2026-10-27T14:41:22.852580"
+    "updated_at": "2026-10-28T19:10:58.251804",
+    "status_tecnico": "Já está no Cloud Connect, poderia ser 4.3",
+    "dat_hygine_needed": true
   },
-  "aBJKf000009tOftOAE": {},
-  "Gemini Enterprise DESO": {},
+  "aBJKf000009tOftOAE": {
+    "dat_hygine_needed": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
+  "Gemini Enterprise DESO": {
+    "dat_hygine_needed": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
   "aBJKf000009eEZTOA2": {},
   "AWT_GE_Condor": {},
   "aBJKf000009tbiWOAQ": {
@@ -90,8 +110,8 @@
     "updated_at": "2026-10-28T08:01:08.418925"
   },
   "aBJKf000009tOUvOAM": {
-    "status_tecnico": "",
-    "updated_at": "2026-10-28T08:01:08.418925"
+    "status_tecnico": "Já está no Cloud Connect, poderia ser 4.3",
+    "updated_at": "2026-10-28T19:10:58.251804"
   },
   "aBJKf000009tWEvOAM": {},
   "SolarBR_Data2AI": {},
@@ -892,8 +912,16 @@
   "Modernizacao Industria": {},
   "aBJKf000009kMQJOA2": {},
   "Kurier - Move to GCP": {},
-  "aBJKf000009kJ6LOAU": {},
-  "Agent - Atendimento": {},
+  "aBJKf000009kJ6LOAU": {
+    "status_tecnico": "Oportunidade vai ser fechada pelo parceiro",
+    "nao_existe": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
+  "Agent - Atendimento": {
+    "status_tecnico": "Oportunidade vai ser fechada pelo parceiro",
+    "nao_existe": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
   "aBJKf000009kJ5cOAE": {},
   "Valgroup - Impressao - AI - Plantas": {},
   "aBJKf000009kMPzOAM": {},
@@ -904,38 +932,70 @@
   "aBJKf000009kJ2xOAE": {
     "blocker": "Comercial",
     "status_tecnico": "Workload depende da evolução das negociações com time de Ads.",
-    "updated_at": "2026-10-22T18:26:18.555669"
+    "updated_at": "2026-10-28T19:10:58.251804",
+    "dat_hygine_needed": true
   },
   "Analytics": {
     "blocker": "Comercial",
     "status_tecnico": "Workload depende da evolução das negociações com time de Ads.",
-    "updated_at": "2026-10-22T18:26:18.555669"
+    "updated_at": "2026-10-28T19:10:58.251804",
+    "dat_hygine_needed": true
   },
   "aBJKf000009kMQOOA2": {},
-  "aBJKf000009omBNOAY": {},
-  "AutoGlass - Gemini Enterprise": {},
+  "aBJKf000009omBNOAY": {
+    "dat_hygine_needed": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
+  "AutoGlass - Gemini Enterprise": {
+    "dat_hygine_needed": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
   "aBJKf000009kMPuOAM": {},
-  "aBJKf000009kJ5XOAU": {},
-  "Jornada Comercial / Atendimento": {},
+  "aBJKf000009kJ5XOAU": {
+    "status_tecnico": "Partner vai fechar a oportunidade",
+    "nao_existe": true,
+    "dat_hygine_needed": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
+  "Jornada Comercial / Atendimento": {
+    "status_tecnico": "Partner vai fechar a oportunidade",
+    "nao_existe": true,
+    "dat_hygine_needed": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
   "aBJKf000009kKHPOA2": {
     "status_tecnico": "Cliente contratou recurso dedicado para executar essa migração.",
     "updated_at": "2026-10-22T18:26:18.555669"
   },
-  "aBJKf000009onv9OAA": {},
+  "aBJKf000009onv9OAA": {
+    "nao_existe": true,
+    "dat_hygine_needed": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
   "aBJKf000009kNZWOA2": {},
   "Bernhoeft - Infra Mod / AI": {},
   "aBJKf000009onjrOAA": {
-    "status_tecnico": "Sem pendências técnicas.",
-    "updated_at": "2026-10-22T18:26:18.555669"
+    "status_tecnico": "Workload de crescimento que não está acontecendo]",
+    "updated_at": "2026-10-28T19:10:58.251804",
+    "nao_existe": true
   },
   "BLUECORP - Infra Modernizationn Incremental": {
-    "status_tecnico": "Sem pendências técnicas.",
-    "updated_at": "2026-10-22T18:26:18.555669"
+    "status_tecnico": "Workload de crescimento que não está acontecendo]",
+    "updated_at": "2026-10-28T19:10:58.251804",
+    "nao_existe": true
   },
   "aBJKf000009kJ6QOAU": {},
   "BI - Agent": {},
-  "aBJKf000009kIJxOAM": {},
-  "Intelbras - Modernizacao Industria - Negocios": {},
+  "aBJKf000009kIJxOAM": {
+    "status_tecnico": "Oportunidade vai ser fechada pelo parceiro",
+    "nao_existe": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
+  "Intelbras - Modernizacao Industria - Negocios": {
+    "status_tecnico": "Oportunidade vai ser fechada pelo parceiro",
+    "nao_existe": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
   "aBJKf000009kLXiOAM": {
     "client_tech_contact": "Leonel Danczuk Danczuk (acosta@velalatam.com)",
     "updated_at": "2026-10-20T13:03:57.190485"
@@ -951,45 +1011,87 @@
     "status_tecnico": "Leega enviou SOW hoje para implementação",
     "updated_at": "2026-10-22T18:26:18.555669"
   },
-  "aBJKf000009kKHZOA2": {},
-  "aBJKf000009kNLPOA2": {},
-  "Fortics - Gemini Ent": {},
-  "aBJKf000009onuuOAA": {},
+  "aBJKf000009kKHZOA2": {
+    "dat_hygine_needed": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
+  "aBJKf000009kNLPOA2": {
+    "dat_hygine_needed": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
+  "Fortics - Gemini Ent": {
+    "dat_hygine_needed": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
+  "aBJKf000009onuuOAA": {
+    "status_tecnico": "Possivelmente duplicado com migração Azure x GCP",
+    "nao_existe": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
   "aBJKf000009kJ3COAU": {},
   "Novo Ambiente Azure": {},
   "aBJKf000009onvJOAQ": {},
   "aBJKf000009kMPLOA2": {},
-  "aBJKf000009onv4OAA": {},
+  "aBJKf000009onv4OAA": {
+    "status_tecnico": "Não existe.",
+    "nao_existe": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
   "aBJKf000009kJ3DOAU": {},
   "Azure x GCP": {},
   "aBJKf000009eQOIOA2": {},
   "Climatempo - IA": {},
-  "aBJKf000009kM5pOAE": {},
+  "aBJKf000009kM5pOAE": {
+    "dat_hygine_needed": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
   "aBJKf000009eQONOA2": {},
   "Climatempo - CDP": {},
-  "aBJKf000009kMIeOAM": {},
-  "Dynamox - Gemini Enterprise": {},
+  "aBJKf000009kMIeOAM": {
+    "status_tecnico": "Processo de adoção iniciado - Deveria ser 4.3",
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
+  "Dynamox - Gemini Enterprise": {
+    "status_tecnico": "Processo de adoção iniciado - Deveria ser 4.3",
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
   "aBJKf000009om0yOAA": {
     "client_tech_contact": "",
-    "updated_at": "2026-10-20T13:03:57.190485"
+    "updated_at": "2026-10-28T19:10:58.251804",
+    "status_tecnico": "Não existe projeto associado, o cliente não tem planos de usar Vertex AI agora. Eles querem utilizar a franquia que ja existe das 1600 licenças contratadas de GE",
+    "nao_existe": true
   },
-  "aBJKf000009olynOAA": {},
+  "aBJKf000009olynOAA": {
+    "status_tecnico": "Não existe projeto associado, o cliente não tem planos de usar Vertex AI agora. Eles querem utilizar a franquia que ja existe das 1600 licenças contratadas de GE",
+    "nao_existe": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
   "aBJKf000009kKoOOAU": {
     "blocker": "Tecnico",
     "status_tecnico": "Reunião cliente para definição de arquitetura",
-    "updated_at": "2026-10-22T18:26:18.555669"
+    "updated_at": "2026-10-28T19:10:58.251804",
+    "dat_hygine_needed": true
   },
   "Database - Dynamox": {
     "blocker": "Tecnico",
     "status_tecnico": "Reunião cliente para definição de arquitetura",
-    "updated_at": "2026-10-22T18:26:18.555669"
+    "updated_at": "2026-10-28T19:10:58.251804",
+    "dat_hygine_needed": true
   },
   "aBJKf000009kIu0OAE": {},
   "AutoGlass - Abertura Sinistro": {},
   "aBJKf000009eLHlOAM": {},
   "AURUM - Antigravity": {},
-  "aBJKf000009kKUnOAM": {},
-  "AI - Vertex Ai": {},
+  "aBJKf000009kKUnOAM": {
+    "status_tecnico": "Não existe um projeto Associado, Stage esta errado",
+    "nao_existe": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
+  "AI - Vertex Ai": {
+    "status_tecnico": "Não existe um projeto Associado, Stage esta errado",
+    "nao_existe": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
   "aBJKf000009kMPQOA2": {},
   "aBJKf0000082HgrOAE": {
     "status_tecnico": "Atualizado para 4.3",
@@ -1003,20 +1105,36 @@
     "client_tech_contact": "",
     "updated_at": "2026-10-20T13:03:57.190485"
   },
-  "aBJKf000009kKUsOAM": {},
-  "Seguranca": {},
+  "aBJKf000009kKUsOAM": {
+    "nao_existe": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
+  "Seguranca": {
+    "nao_existe": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
   "aBJKf0000082E21OAE": {
     "partner_tech_contact": "marcio.silva@santodigital.com.br",
-    "updated_at": "2026-10-28T08:01:08.418925"
+    "updated_at": "2026-10-28T19:10:58.251804",
+    "dat_hygine_needed": true
   },
   "Fortics - VertexAI": {
     "partner_tech_contact": "marcio.silva@santodigital.com.br",
-    "updated_at": "2026-10-28T08:01:08.418925"
+    "updated_at": "2026-10-28T19:10:58.251804",
+    "dat_hygine_needed": true
   },
-  "aBJKf000009kJ2nOAE": {},
+  "aBJKf000009kJ2nOAE": {
+    "status_tecnico": "Estage esta errado, não existe um projeto associado",
+    "nao_existe": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
   "aBJKf000009kMQEOA2": {},
   "Acessorias": {},
-  "aBJKf000009kKUxOAM": {},
+  "aBJKf000009kKUxOAM": {
+    "status_tecnico": "Duplicado",
+    "nao_existe": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
   "aBJKf000009kNZbOAM": {},
   "Fortics - SecOps": {},
   "aBJKf000009e7p2OAA": {},
@@ -1040,12 +1158,14 @@
   "aBJKf000004ZTuNOAW": {},
   "Migração WLs AWS_Tenda": {},
   "aBJKf000009eD6QOAU": {
-    "status_tecnico": "WL de crescimento",
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "status_tecnico": "WL de crescimento, porém conta não tem demonstrado crescimento orgânico em 2026",
+    "updated_at": "2026-10-28T19:10:58.251804",
+    "nao_existe": true
   },
   "Crescimento_FS": {
-    "status_tecnico": "WL de crescimento",
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "status_tecnico": "WL de crescimento, porém conta não tem demonstrado crescimento orgânico em 2026",
+    "updated_at": "2026-10-28T19:10:58.251804",
+    "nao_existe": true
   },
   "aBJKf000004ZLZXOA4": {},
   "Migração SEK_fase 2": {},
@@ -1088,12 +1208,14 @@
     "updated_at": "2026-10-20T13:03:57.190485"
   },
   "aBJKf000009eD66OAE": {
-    "status_tecnico": "WL de crescimento",
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "status_tecnico": "WL de crescimento, porém não está aumentando consumo na mesma proporção",
+    "updated_at": "2026-10-28T19:10:58.251804",
+    "nao_existe": true
   },
   "crescimento 2026_Tenda": {
-    "status_tecnico": "WL de crescimento",
-    "updated_at": "2026-10-14T15:38:16.884490"
+    "status_tecnico": "WL de crescimento, porém não está aumentando consumo na mesma proporção",
+    "updated_at": "2026-10-28T19:10:58.251804",
+    "nao_existe": true
   },
   "aBJKf000009dvPwOAI": {
     "status_tecnico": "Migração está em andamento, faltando apenas 3 aplicações e ambiente de backup. Devido a alterações de estratégia do cliente, finalização vai ocorrer até final de Out/26",
@@ -1117,8 +1239,14 @@
     "status_tecnico": "WL de crescimento",
     "updated_at": "2026-10-14T15:38:16.884490"
   },
-  "aBJKf000004ZMQGOA4": {},
-  "GE_ATHENA": {},
+  "aBJKf000004ZMQGOA4": {
+    "dat_hygine_needed": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
+  "GE_ATHENA": {
+    "dat_hygine_needed": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
   "aBJKf000004ZNKnOAO": {},
   "Storage_EXA": {},
   "aBJKf000009e8efOAA": {},
@@ -1147,15 +1275,26 @@
     "client_tech_contact": "Delano Macêdo (delano.macedo@solisinvestimentos.com.br)",
     "updated_at": "2026-10-23T17:44:59.390120"
   },
-  "aBJKf000004ZJNQOA4": {},
-  "Migração AWS": {},
+  "aBJKf000004ZJNQOA4": {
+    "status_tecnico": "Risco devido dependência de teste de DR",
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
+  "Migração AWS": {
+    "status_tecnico": "Risco devido dependência de teste de DR",
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
   "aBJKf000004ZQ8VOAW": {},
   "Migração AXIA": {},
-  "aBJKf000004ZSW0OAO": {},
+  "aBJKf000004ZSW0OAO": {
+    "ai_summary": "[2026-10-22] SOW validado tecnicamente por Oliver (87% compliance) e enviado à Sauter e Vanessa; aguardando ajustes finais (DRP ID, métricas e vigência) para assinatura.",
+    "status_tec": "SOW validado tecnicamente por Oliver (87% compliance) e enviado à Sauter e Vanessa; aguardando ajustes finais para assinatura."
+  },
   "Gemini Enterprise 2_Tenda": {},
   "aBJKf000004ZRKmOAO": {},
   "Projeto Amazonia Legal": {},
-  "aBJKf000004ZMQuOAO": {},
+  "aBJKf000004ZMQuOAO": {
+    "ai_summary": "[2026-10-26] Parceiro QiNetwork vinculado no Vector e contrato assinado; acompanhando cronograma acelerado de implementação (Stage 4.1) com entrega prevista para 27/11."
+  },
   "GE_SEK": {},
   "aBJKf000004ZTuSOAW": {},
   "CEP_Alper": {},
@@ -1167,7 +1306,8 @@
   "SECOPS+SCC_Athena": {},
   "aBJKf000004ZKKuOAO": {
     "partner_tech_contact": "Daniel de Almeida (lucas.feitoza@qinetwork.com.br)",
-    "updated_at": "2026-10-27T14:41:22.852580"
+    "updated_at": "2026-10-27T14:41:22.852580",
+    "ai_summary": "[2026-10-27] Contato técnico da QiNetwork (Lucas Feitoza) mapeado; acompanhando cronograma de adoção e implementação do Gemini Enterprise em Stage 4.3."
   },
   "Recommit Patria/ GE": {
     "partner_tech_contact": "Daniel de Almeida (lucas.feitoza@qinetwork.com.br)",
@@ -1177,7 +1317,8 @@
   "WIZ_Alper": {},
   "aBJKf000004ZIvcOAG": {
     "partner_tech_contact": "jardel.sliumba@santodigital.com.br",
-    "updated_at": "2026-10-28T08:01:08.418925"
+    "updated_at": "2026-10-28T08:01:08.418925",
+    "ai_summary": "[2026-10-27] Confirmado com SantoDigital que Jardel Sliumba lidera a conta; realizar follow-up técnico com Jardel e apoiar abordagem junto à diretoria após mudança de CIO."
   },
   "GE_Myralis": {
     "partner_tech_contact": "jardel.sliumba@santodigital.com.br",
@@ -1221,8 +1362,14 @@
   },
   "aBJKf000004ZRuQOAW": {},
   "WINITY - SECOPS": {},
-  "aBJKf000004ZMiuOAG": {},
-  "Crescimento Vortex": {},
+  "aBJKf000004ZMiuOAG": {
+    "status_tecnico": "Workload de crescimento acompanhado pelo Cloud Connect",
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
+  "Crescimento Vortex": {
+    "status_tecnico": "Workload de crescimento acompanhado pelo Cloud Connect",
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
   "aBJKf000004ZHuhOAG": {},
   "Wiz_WPS": {},
   "aBJKf000004ZQ9sOAG": {},
@@ -1238,24 +1385,27 @@
     "client_tech_contact": "Marcio Manfre"
   },
   "aBJKf000009e8euOAA": {
-    "status_tecnico": "Validar",
-    "updated_at": "2026-10-27T13:34:17.966150",
-    "partner_tech_contact": "cruz.lucas@cloud-ace.com"
+    "status_tecnico": "Já está no Cloud Connect, poderia ser 4.3",
+    "updated_at": "2026-10-28T19:10:58.251804",
+    "partner_tech_contact": "cruz.lucas@cloud-ace.com",
+    "ai_summary": "[2026-10-28] Parceiro Cloud Ace vinculado; validado que já está ativo no Cloud Connect, pronto para avançar para Stage 4.3."
   },
   "Gemini Ent Braveo": {
-    "status_tecnico": "Validar",
-    "updated_at": "2026-10-27T13:34:17.966150",
+    "status_tecnico": "Já está no Cloud Connect, poderia ser 4.3",
+    "updated_at": "2026-10-28T19:10:58.251804",
     "partner_tech_contact": "cruz.lucas@cloud-ace.com"
   },
   "aBJKf000004ZRclOAG": {},
   "GE_ONR": {},
   "aBJKf000004ZQ9nOAG": {
     "partner_tech_contact": "Daniel de Almeida (daniel.almeida@santodigital.com.br)",
-    "updated_at": "2026-10-27T14:41:22.852580"
+    "updated_at": "2026-10-28T19:10:58.251804",
+    "status_tecnico": "Já está no Cloud Connect, poderia ser 4.3"
   },
   "SCC_WPS": {
     "partner_tech_contact": "Daniel de Almeida (daniel.almeida@santodigital.com.br)",
-    "updated_at": "2026-10-27T14:41:22.852580"
+    "updated_at": "2026-10-28T19:10:58.251804",
+    "status_tecnico": "Já está no Cloud Connect, poderia ser 4.3"
   },
   "aBJKf000004ZO3xOAG": {},
   "DataDog_Marketplace Tenda": {},
@@ -1299,7 +1449,9 @@
     "partner_tech_contact": "thais.macedo@santodigital.com.br",
     "updated_at": "2026-10-28T08:01:08.418925",
     "blocker": "Tecnico",
-    "status_tecnico": "Mañana hace el primer training. Quieren 5. licencias adicionales. E fazer a connecao de Outlook. Yo la hago con el equipo tecnico"
+    "status_tecnico": "Mañana hace el primer training. Quieren 5. licencias adicionales. E fazer a connecao de Outlook. Yo la hago con el equipo tecnico",
+    "ai_summary": "[2026-10-27] Alinhado com Thais (SantoDigital): cliente ainda não iniciou o trial; aguardando liberação financeira de 5 licenças trial para agendar sessão técnica de 30 min com Oliver para configurar conector Outlook.",
+    "status_tec": "Alinhado com Thais (SantoDigital): cliente ainda não iniciou o trial; aguardando liberação financeira de 5 licenças trial para agendar sessão técnica de 30 min com Oliver para configurar conector Outlook."
   },
   "Gemini Ent Atakarejo": {
     "partner_tech_contact": "thais.macedo@santodigital.com.br",
@@ -1307,7 +1459,9 @@
     "blocker": "Tecnico",
     "status_tecnico": "Mañana hace el primer training. Quieren 5. licencias adicionales. E fazer a connecao de Outlook. Yo la hago con el equipo tecnico"
   },
-  "aBJKf000004ZMizOAG": {},
+  "aBJKf000004ZMizOAG": {
+    "ai_summary": "[2026-10-22] CE Owner atribuído no Vector; alinhar com FSR Vanessa Moyses a evolução da descoberta técnica e cronograma de implementação em Q4."
+  },
   "GE_Ciranda": {},
   "aBJKf000004ZQQFOA4": {},
   "SCC": {},
@@ -1513,11 +1667,13 @@
   },
   "aBJKf000004ZQGyOAO": {
     "client_tech_contact": "Marcos Souza (victor.tosta@ipnet.cloud)",
-    "updated_at": "2026-10-20T13:03:57.190485"
+    "updated_at": "2026-10-28T19:10:58.251804",
+    "dat_hygine_needed": true
   },
   "[Matera] Gemini Enterprise": {
     "client_tech_contact": "Marcos Souza (victor.tosta@ipnet.cloud)",
-    "updated_at": "2026-10-20T13:03:57.190485"
+    "updated_at": "2026-10-28T19:10:58.251804",
+    "dat_hygine_needed": true
   },
   "aBJKf000004ZKmgOAG": {
     "client_tech_contact": "Fernando Machado Ouverney Diniz (fernando.ouverney@petz.com.br)",
@@ -3529,14 +3685,33 @@
   "MRS: Logistica Consultoria Ltda #GCP #SecOps": {},
   "aBJKf000004ZVYYOA4": {},
   "Consumo de API": {},
-  "aBJKf000004ZVbNOAW": {},
-  "GE_Solis": {},
+  "aBJKf000004ZVbNOAW": {
+    "dat_hygine_needed": true,
+    "updated_at": "2026-10-28T19:10:58.251804",
+    "ai_summary": "[2026-10-22] Parceiro QiNetwork vinculado e CE Owner atribuído no Vector; acompanhando fechamento da proposta comercial com Solis e início de implementação em novembro."
+  },
+  "GE_Solis": {
+    "dat_hygine_needed": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
   "aBJKf000004ZVegOAG": {},
-  "aBJKf000004ZVeHOAW": {},
+  "aBJKf000004ZVeHOAW": {
+    "ai_summary": "[2026-10-27] Em alinhamento na reunião de POD (19/10) e Sync CE (27/10), oportunidade inativa decidida para fechamento pela FSR (sem movimentação no cliente).",
+    "status_tec": "Oportunidade inativa decidida para fechamento pela FSR no POD.",
+    "nao_existe": true
+  },
   "GE_WPS": {},
-  "aBJKf000004ZVeROAW": {},
-  "Crescimento WPS": {},
-  "aBJKf000004ZVXBOA4": {},
+  "aBJKf000004ZVeROAW": {
+    "status_tecnico": "Workload de crescimento acompanhado pelo Cloud Connect",
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
+  "Crescimento WPS": {
+    "status_tecnico": "Workload de crescimento acompanhado pelo Cloud Connect",
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
+  "aBJKf000004ZVXBOA4": {
+    "ai_summary": "[2026-10-22] CE Owner atribuído no Vector; alinhar com FSR Vanessa Moyses e parceiro SoftwareOne os próximos passos da avaliação técnica (Stage 3) para início em novembro."
+  },
   "GE_Mobcall": {},
   "aBJKf000004ZVeWOAW": {},
   "Smart Fit - Commit 3Y": {},
@@ -3544,8 +3719,14 @@
   "Blue sevice - recommit": {},
   "aBJKf000009onjSOAQ": {},
   "Mangum Tires (Reifen) - Infra Modernization": {},
-  "aBJKf000009onuzOAA": {},
-  "Innovaro - Infra Modernization": {},
+  "aBJKf000009onuzOAA": {
+    "dat_hygine_needed": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
+  "Innovaro - Infra Modernization": {
+    "dat_hygine_needed": true,
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
   "aBJKf000009kLL3OAM": {},
   "Cloud SQL": {},
   "aBJKf000004ZLRDOA4": {},
@@ -3564,6 +3745,12 @@
   "renanvaladares||Companhia Mineira de Açúcar e Álcool Participações||MSSP B2B - CMAA - Stefanini - SecOps||Secops - WKL": {},
   "renanvaladares||Drogaria Araújo S/A||Araujo: Looker Backup||Ambiente de Dados - Looker": {},
   "renanvaladares||SECULUS TECNOLOGIA S/A||Seculus - Customer Genoma - BQ Sharing - Mkt||Seculus - Customer Genoma - BQ Sharing - Mkt": {},
-  "aBJKf000009kPgGOAU": {},
-  "Infra MC1": {}
+  "aBJKf000009kPgGOAU": {
+    "status_tecnico": "WL para refletir aumento de revenue decorrente de final de contrato",
+    "updated_at": "2026-10-28T19:10:58.251804"
+  },
+  "Infra MC1": {
+    "status_tecnico": "WL para refletir aumento de revenue decorrente de final de contrato",
+    "updated_at": "2026-10-28T19:10:58.251804"
+  }
 }
