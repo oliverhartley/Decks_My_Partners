@@ -11639,7 +11639,7 @@
     "client_tech_contact": "Ricardo Ribeiro Malafaia (ricardi@wps-sa.com.br)",
     "technical_win": false,
     "proposal_sent": false,
-    "nao_existe": false,
+    "nao_existe": true,
     "dat_hygine_needed": false
   },
   "GE_WPS": {
@@ -11649,7 +11649,7 @@
     "client_tech_contact": "Ricardo Ribeiro Malafaia (ricardi@wps-sa.com.br)",
     "technical_win": false,
     "proposal_sent": false,
-    "nao_existe": false,
+    "nao_existe": true,
     "dat_hygine_needed": false
   },
   "aBJKf000004ZVeROAW": {
@@ -11976,5 +11976,45 @@
     "proposal_sent": false,
     "nao_existe": false,
     "dat_hygine_needed": false
+  },
+  "aBJKf000009eaqROAQ": {
+    "blocker": "",
+    "status_tecnico": "",
+    "proposal_sent": false,
+    "technical_win": false,
+    "nao_existe": false,
+    "dat_hygine_needed": false,
+    "partner_tech_contact": "",
+    "client_tech_contact": "Ricardo Paiva (rose.carreiro@metarj.com)"
+  },
+  "FSB_EA + GE": {
+    "blocker": "",
+    "status_tecnico": "",
+    "proposal_sent": false,
+    "technical_win": false,
+    "nao_existe": false,
+    "dat_hygine_needed": false,
+    "partner_tech_contact": "",
+    "client_tech_contact": "Ricardo Paiva (rose.carreiro@metarj.com)"
+  },
+  "aBJKf000009g3RgOAI": {
+    "blocker": "",
+    "status_tecnico": "",
+    "proposal_sent": false,
+    "technical_win": false,
+    "nao_existe": false,
+    "dat_hygine_needed": false,
+    "partner_tech_contact": "",
+    "client_tech_contact": "Fabio Bellette (alexandre.alencar@ipnet.cloud)"
+  },
+  "[ZIlor] Arquitetura de IA": {
+    "blocker": "",
+    "status_tecnico": "",
+    "proposal_sent": false,
+    "technical_win": false,
+    "nao_existe": false,
+    "dat_hygine_needed": false,
+    "partner_tech_contact": "",
+    "client_tech_contact": "Fabio Bellette (alexandre.alencar@ipnet.cloud)"
   }
 }
