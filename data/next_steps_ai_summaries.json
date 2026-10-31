@@ -52,8 +52,8 @@
     "summary": "13/08: Cliente em Recuperação Judicial; buscando viabilização via AWT, pendente aprovação das condições comerciais."
   },
   "aBJKf000009tbiWOAQ": {
-    "history_hash": "cf1687998b489590ec0e04d7184b9687",
-    "summary": "09/06: Levantamento técnico concluído e proposta apresentada; cobrando parceiro Qinetwork e aguardando retorno do cliente."
+    "history_hash": "7320ff98c7bbc06d61797af1286ca5b9",
+    "summary": "09/06: Proposta apresentada e QI em cobrança; o status atual é de aguardo pela devolutiva do cliente para prosseguimento."
   },
   "aBJKf000009tIQQOA2": {
     "history_hash": "962e620ef016a39cf9fdd41790227cb4",
@@ -68,8 +68,8 @@
     "summary": "05/10: Foundation, segurança e rede concluídos com kickoff realizado; projeto segue para a migração da versão 4.2 após assinatura do contrato."
   },
   "aBJKf000009tWEvOAM": {
-    "history_hash": "4d7fda3713767e3b9f3fc41079a02524",
-    "summary": "23/10: Kyndryl aprovada, iniciamos o onboarding e finalizamos a arquitetura para o kickoff de 29/11 com a Databricks no GCP."
+    "history_hash": "95ce03faae5d1c9f46c6acd340bc8c15",
+    "summary": "[2026-10-28] 28/10 - Reuniao Tecnica com Arquiteto de soluções da Databricks, onde foram discutidos questões de restrição de região, levantamento de arquitetura..."
   },
   "aBJKf000000GouMOAS": {
     "history_hash": "01086312d878f8b7e363faf7f8f6df2a",
@@ -280,16 +280,16 @@
     "summary": "16/06: Necessário agendar reunião com cliente para aprofundar a demanda identificada."
   },
   "aBJKf000009e7pHOAQ": {
-    "history_hash": "fec9642a73de9de1474ce41982e1b345",
-    "summary": "20/10: SOW enviado ao cliente pelo parceiro; aguarda-se a revisão e aprovação final para avançar com o projeto."
+    "history_hash": "a8dce0a2ed20c4af793ab4b74aa587a8",
+    "summary": "28/10: SOW revisada e PSF em fase de aprovação final para permitir o início imediato da execução do projeto."
   },
   "aBJKf0000082CeCOAU": {
     "history_hash": "958c11b30436d2fb7732be8b586601d9",
     "summary": "06/03: Agenda definida para 19/03 visando iniciar a implementação do Backup DR."
   },
   "aBJKf000009kKHPOA2": {
-    "history_hash": "0ff14f9366d5f530e6156f3ebca9e1fa",
-    "summary": "20/10: Guia de migração compartilhado e cadência ativa com o especialista do cliente para definir o plano de modernização."
+    "history_hash": "4fd13ce08299d4e4f4f62918290d1d1b",
+    "summary": "28/10/26: Projeto em fase de planejamento com parceiro contratado; aguardamos definições do plano de modernização após alinhamento técnico recente."
   },
   "aBJKf0000082HgrOAE": {
     "history_hash": "49c5bb1f447567cafde8f54f4b06337f",
@@ -600,8 +600,8 @@
     "summary": "[2026-10-08] 08/10 [VF] - Após imersão no Cresol Google Day (17/09), realizado sync em 05/10 com QI Network (Lucas Feitoza) e FSR estruturando o apoio técnico d..."
   },
   "aBJKf000009kKoOOAU": {
-    "history_hash": "204375721847742ba68e3980e2315777",
-    "summary": "20/10: Arquitetura definida em reunião com o cliente; próximo passo é validar a implementação da estratégia de processamento de dados."
+    "history_hash": "c2269cd3fc033abb2dd45e08d75f92bb",
+    "summary": "28/10: Migração executada pelo cliente com atraso devido a demandas internas; aguarda-se retomada para conclusão das etapas pendentes."
   },
   "aBJKf000009oRYbOAM": {
     "history_hash": "bdee3a26569de6b240226bf3114747f9",
@@ -1208,8 +1208,8 @@
     "summary": "[2026-10-08] The client is reviewing it."
   },
   "aBJKf000004ZR8gOAG": {
-    "history_hash": "c37b230b10e2e9c80cb48699cce856b9",
-    "summary": "19/10: Prazo adiado para 18/11; pendente reunião presencial com Caio Barbosa (CE) para aprofundamento técnico no Model Garden."
+    "history_hash": "e6a481833b914b71cc75f9f993a1a313",
+    "summary": "28/10: Definição de Business Case comparando custos de Claude vs. GCP Model Garden; aguardando informações do cliente para avançar."
   },
   "aBJKf000004ZMhwOAG": {
     "history_hash": "d038f7dea949513f2f463ef82a8c0d34",
@@ -1620,72 +1620,72 @@
     "summary": "26/10: O projeto foi implementado e está em produção, sem pendências operacionais no momento."
   },
   "aBJKf000009eVIAOA2": {
-    "history_hash": "fe2546bf9c47658ee208bcb509f7ab23",
-    "summary": "15/05: Oportunidade Broadcast pausada até 2027; alinhar cronograma e estrutura comercial com Roberta Coelho (FSR) e Leonardo (MadeinWeb)."
+    "history_hash": "660bcb2929fbf0f8f41ff707486ee4fe",
+    "summary": "28/10: Oportunidade Broadcast em pausa; o próximo passo é alinhar cronograma e estrutura comercial com Roberta Coelho (FSR) e MadeinWeb."
   },
   "aBJKf000009eaqROAQ": {
-    "history_hash": "e71a875118c09d76adc752ff92b57501",
-    "summary": "29/10: Realizada reunião com Datalakers para alinhamento de arquitetura de dados e agentes do BQ, seguindo para implementação das definições técnicas."
+    "history_hash": "25caa24fe43d861856682c6fc7486bb8",
+    "summary": "29/10: Em definição o workshop de casos de uso IA para o Tec Win e alinhamento com Datalakers sobre arquitetura e agentes."
   },
   "aBJKf000009kPgGOAU": {
-    "history_hash": "e2d9b860c83c5a814c5d93ea874ac054",
-    "summary": "**23/05: Workload atualizado para refletir o aumento de receita por renovação contratual e reajuste de preço; aguardando validação final.**"
+    "history_hash": "4e139784ea109b7c7a0778884b1ee37e",
+    "summary": "28/10: Workload atualizada para refletir aumento de receita pós-contrato; aguardando validação final para conclusão do processo."
   },
   "aBJKf000009kJ2xOAE": {
-    "history_hash": "6bcddcca92d62e82c0ba7fc2f3b8bf6f",
-    "summary": "**Em 22/05, a demanda aguarda a conclusão das negociações com o time de Ads para avançar à próxima etapa.**"
+    "history_hash": "8f7d153c7d540d5e6e46d9c473b8a641",
+    "summary": "28/10: Workload aguarda evolução das negociações com o time de Ads para definição dos próximos passos."
   },
   "aBJKf000009kJ5XOAU": {
-    "history_hash": "bff18c68ae53e904a4585898e4facc6f",
-    "summary": "13/05: Oportunidade será encerrada pela MadeinWeb, dado que o workload não terá continuidade, finalizando o ciclo de acompanhamento do projeto."
+    "history_hash": "81436e86686adf5fee29f8880fdb7205",
+    "summary": "28/10: Oportunidade será encerrada pela MadeinWeb, dado que o workload não terá evolução ou continuidade."
   },
   "aBJKf000009kJ3DOAU": {
-    "history_hash": "524866c339771f08cac536ab2eebb5da",
-    "summary": "16/05: Projeto cancelado após alinhamento com parceiro; nenhuma implementação será realizada."
+    "history_hash": "a52cb6b182425c286a0423d7f242a9de",
+    "summary": "28/10: O projeto foi cancelado após alinhamento com o parceiro, encerrando as atividades da implementação."
   },
   "aBJKf000004ZSW0OAO": {
-    "history_hash": "0641929f66c797289a6e375d40e1798c",
-    "summary": "15/05: SOW com 87% de conformidade enviada ao parceiro; aguardando ajustes finais (DRP, métricas e data) para assinatura."
+    "history_hash": "865108d8b0e8579dd11d6ae5f27fc8ee",
+    "summary": "28/10: SOW técnica com 87% de conformidade enviada ao parceiro; aguardando ajustes finais de métricas e DRP para assinatura."
   },
   "aBJKf000004ZMQuOAO": {
-    "history_hash": "6251aa0f7d2f693da1e4bc9c480d6b46",
-    "summary": "15/05: QiNetwork integrado; prioridade na implementação do Estágio 4.1 e alinhamento do cronograma acelerado com os times de entrega."
+    "history_hash": "aeb8be05e333439427696b8f0da062d4",
+    "summary": "28/10: A QiNetwork foi integrada para acelerar a implementação da Etapa 4.1, com foco no cronograma e kickoff entre equipes."
   },
   "aBJKf000004ZVbNOAW": {
-    "history_hash": "778dc7c08a4aeb7d7cd283c2d2197f1b",
-    "summary": "**23/05: Documentação em Vector disponível; alinhando fechamento comercial e preparação para implementação em novembro com stakeholders da FSR e Solis.**"
+    "history_hash": "f5cd1d414fb9652c10c8f5bc87cfc8fa",
+    "summary": "28/10: Parceiro QiNetwork integrado; foco agora no fechamento comercial e preparação para a implementação em novembro com FSR e Solis."
   },
   "aBJKf000004ZKKuOAO": {
-    "history_hash": "a9bd075d6bf16b55082f2a12dd813219",
-    "summary": "22/05: Adoção do Gemini Enterprise em fase 4.3; aguardando alinhamento do cronograma de rollout com a parceira QiNetwork (Lucas Feitoza)."
+    "history_hash": "b2a1c1419ce5d561e147e8dacc6435bb",
+    "summary": "28/10: A adoção do Gemini Enterprise avança na etapa 4.3 em parceria com a QiNetwork; aguarda-se alinhamento do cronograma com stakeholders."
   },
   "aBJKf000004ZIvcOAG": {
-    "history_hash": "cae63425ae3d6bf3356593dcd55f2342",
-    "summary": "16/05: Jardel Sliumba lidera a conta Myralis; alinhamento técnico com a nova liderança de TI em curso para definição do próximo passo."
+    "history_hash": "a32234ffa49a499ae438cdf405882974",
+    "summary": "28/10: SantoDigital confirmou Jardel Sliumba como líder da conta Myralis; próximo passo é alinhar a abordagem técnica com a nova gestão."
   },
   "aBJKf000004ZVeHOAW": {
-    "history_hash": "8be0ee38da2997ce818c30296e319226",
-    "summary": "22/05: Oportunidade inativa em revisão; em alinhamento com Vanessa Moyses para fechamento formal do workload e limpeza do pipeline."
+    "history_hash": "13593b5061536a5c1ccf51f72d802e9d",
+    "summary": "28/10: Oportunidade inativa; aguardando alinhamento com FSR Vanessa Moyses para formalizar o encerramento e limpeza do pipeline."
   },
   "aBJKf000009e9d5OAA": {
-    "history_hash": "8f7ecd254a6b4e881420935ad6c4c31e",
-    "summary": "22/05: Migração concluída; parceiro em fase final de estabilização para o encerramento do projeto."
+    "history_hash": "1176fa73b78c9f6aef384744625bf086",
+    "summary": "28/10: A migração foi concluída e o projeto encontra-se em fase final de estabilização pelo parceiro."
   },
   "aBJKf000009e8euOAA": {
-    "history_hash": "0e34d7ccf6dc10cc7db69b917de518ce",
-    "summary": "15/05: Implementação no Cloud Connect validada com a Cloud Ace; carga de trabalho pronta para avançar do estágio 4.1 ao 4.3."
+    "history_hash": "0a9f2e2d91da8113da53faf9bb992767",
+    "summary": "28/10: Deploy validado com Cloud Ace; carga de trabalho pronta para transição do Estágio 4.1 para o 4.3."
   },
   "aBJKf000004ZJMPOA4": {
-    "history_hash": "a31a18cbe4e3a19b306db1f09e3e841c",
-    "summary": "12/06: Aguardando liberação financeira de 5 licenças trial para o Atakarejo, seguida de sessão técnica para configurar o conector Microsoft Outlook."
+    "history_hash": "7a08d21b667c9770593608c0a5fec79a",
+    "summary": "[2026-10-28] Aligned with SantoDigital (Thais Prado): awaiting finance release of 5 trial licenses for Atakarejo, after which a 30-min technical session will be..."
   },
   "aBJKf000004ZVXBOA4": {
-    "history_hash": "1076fadc81573d351e2040aaa293b459",
-    "summary": "24/10: CE designado; alinhamento técnico do Estágio 3 e cronograma de implementação de novembro em curso com FSR e SoftwareOne."
+    "history_hash": "3c1f0cd8b059b27caeefd5c9384bc327",
+    "summary": "[2026-10-28] Primary CE assigned; sync with FSR Vanessa Moyses and partner SoftwareOne to align Stage 3 technical evaluation and November implementation schedul..."
   },
   "aBJKf000004ZMizOAG": {
-    "history_hash": "741b08178fe9bb5ab20791e6921430c6",
-    "summary": "24/05: CE designado; em alinhamento com FSR para validar a descoberta técnica e o cronograma de implementação do Gemini Enterprise."
+    "history_hash": "c2a4a7d11dc4bdc751ad7e0e2d126b66",
+    "summary": "[2026-10-28] Primary CE assigned; sync with FSR Vanessa Moyses to validate customer technical discovery and Q4 implementation timeline for Gemini Enterprise."
   },
   "aBJKf000009g3RgOAI": {
     "history_hash": "b7651bff6a9201ec28cc8c46a1d4c945",

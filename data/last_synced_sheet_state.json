@@ -279,7 +279,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "lucas.feitoza@qinetwork.com.br",
-    "client_tech_contact": "Alexandre Maeoka (sidney.neimann@nisseisa.com.br)",
+    "client_tech_contact": "Wilton De Oliveira (sidney.neimann@nisseisa.com.br)",
     "nao_existe": false,
     "dat_hygine_needed": false
   },
@@ -1341,7 +1341,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Flavio Horita (flavio.horita@climatempo.com.br)",
+    "client_tech_contact": "Flávio Horita (flavio.horita@climatempo.com.br)",
     "nao_existe": false,
     "dat_hygine_needed": false
   },
@@ -1352,7 +1352,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Flavio Horita (flavio.horita@climatempo.com.br)",
+    "client_tech_contact": "Flávio Horita (flavio.horita@climatempo.com.br)",
     "nao_existe": false,
     "dat_hygine_needed": false
   },
@@ -1637,7 +1637,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "",
+    "client_tech_contact": "Adriana Contreras (adrianacontreras@avidanti.com)",
     "nao_existe": false,
     "dat_hygine_needed": false
   },
@@ -1666,7 +1666,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "",
+    "client_tech_contact": "Adriana Contreras (adrianacontreras@avidanti.com)",
     "nao_existe": false,
     "dat_hygine_needed": false
   },
@@ -1944,7 +1944,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "",
+    "client_tech_contact": "Adriana Contreras (adrianacontreras@avidanti.com)",
     "nao_existe": false,
     "dat_hygine_needed": false
   },
@@ -2102,7 +2102,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Breno Rios Sa",
+    "client_tech_contact": "Breno Rios Sa (rodrigo.valario@athenasaude.com.br)",
     "nao_existe": false,
     "dat_hygine_needed": false
   },
@@ -2905,7 +2905,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "",
+    "client_tech_contact": "Adriana Contreras (adrianacontreras@avidanti.com)",
     "nao_existe": false,
     "dat_hygine_needed": false
   },
@@ -4726,7 +4726,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "lucas.feitoza@qinetwork.com.br",
-    "client_tech_contact": "Alexandre Maeoka (sidney.neimann@nisseisa.com.br)",
+    "client_tech_contact": "Wilton De Oliveira (sidney.neimann@nisseisa.com.br)",
     "nao_existe": false,
     "dat_hygine_needed": false
   },
@@ -6008,7 +6008,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Flavio Horita (flavio.horita@climatempo.com.br)",
+    "client_tech_contact": "Flávio Horita (flavio.horita@climatempo.com.br)",
     "nao_existe": false,
     "dat_hygine_needed": false
   },
@@ -6030,7 +6030,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Flavio Horita (flavio.horita@climatempo.com.br)",
+    "client_tech_contact": "Flávio Horita (flavio.horita@climatempo.com.br)",
     "nao_existe": false,
     "dat_hygine_needed": false
   },
@@ -6342,7 +6342,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "",
+    "client_tech_contact": "Adriana Contreras (adrianacontreras@avidanti.com)",
     "nao_existe": false,
     "dat_hygine_needed": false
   },
@@ -6362,7 +6362,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "",
+    "client_tech_contact": "Adriana Contreras (adrianacontreras@avidanti.com)",
     "nao_existe": false,
     "dat_hygine_needed": false
   },
@@ -6563,7 +6563,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "",
+    "client_tech_contact": "Adriana Contreras (adrianacontreras@avidanti.com)",
     "nao_existe": false,
     "dat_hygine_needed": false
   },
@@ -6651,7 +6651,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Breno Rios Sa",
+    "client_tech_contact": "Breno Rios Sa (rodrigo.valario@athenasaude.com.br)",
     "nao_existe": false,
     "dat_hygine_needed": false
   },
@@ -6993,7 +6993,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "",
+    "client_tech_contact": "Adriana Contreras (adrianacontreras@avidanti.com)",
     "nao_existe": false,
     "dat_hygine_needed": false
   },
@@ -12016,5 +12016,45 @@
     "dat_hygine_needed": false,
     "partner_tech_contact": "",
     "client_tech_contact": "Fabio Bellette (alexandre.alencar@ipnet.cloud)"
+  },
+  "aBJKf000009te87OAA": {
+    "blocker": "",
+    "status_tecnico": "",
+    "proposal_sent": false,
+    "technical_win": false,
+    "nao_existe": false,
+    "dat_hygine_needed": false,
+    "partner_tech_contact": "franz.ribeiro@leega.com.br",
+    "client_tech_contact": "Franz Beckenbauer Beckenbauer Ribeiro (franz.ribeiro@leega.com.br)"
+  },
+  "Pos Commit - PSF DA": {
+    "blocker": "",
+    "status_tecnico": "",
+    "proposal_sent": false,
+    "technical_win": false,
+    "nao_existe": false,
+    "dat_hygine_needed": false,
+    "partner_tech_contact": "franz.ribeiro@leega.com.br",
+    "client_tech_contact": "Franz Beckenbauer Beckenbauer Ribeiro (franz.ribeiro@leega.com.br)"
+  },
+  "aBJKf000009g3cUOAQ": {
+    "blocker": "",
+    "status_tecnico": "",
+    "proposal_sent": false,
+    "technical_win": false,
+    "nao_existe": false,
+    "dat_hygine_needed": false,
+    "partner_tech_contact": "Vanessa Moyses",
+    "client_tech_contact": "Cristian Rojas"
+  },
+  "CEP_Patria": {
+    "blocker": "",
+    "status_tecnico": "",
+    "proposal_sent": false,
+    "technical_win": false,
+    "nao_existe": false,
+    "dat_hygine_needed": false,
+    "partner_tech_contact": "Vanessa Moyses",
+    "client_tech_contact": "Cristian Rojas"
   }
 }
