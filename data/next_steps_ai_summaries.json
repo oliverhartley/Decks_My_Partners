@@ -288,8 +288,8 @@
     "summary": "06/03: Agenda definida para 19/03 visando iniciar a implementação do Backup DR."
   },
   "aBJKf000009kKHPOA2": {
-    "history_hash": "4fd13ce08299d4e4f4f62918290d1d1b",
-    "summary": "28/10/26: Projeto em fase de planejamento com parceiro contratado; aguardamos definições do plano de modernização após alinhamento técnico recente."
+    "history_hash": "1b99b037f9051599e41b3ca0d57fee85",
+    "summary": "30/10: Cliente executa a migração via Dataflow e BigQuery com a ferramenta própria já desenvolvida e em fase de operação."
   },
   "aBJKf0000082HgrOAE": {
     "history_hash": "49c5bb1f447567cafde8f54f4b06337f",
@@ -1688,7 +1688,7 @@
     "summary": "[2026-10-28] Primary CE assigned; sync with FSR Vanessa Moyses to validate customer technical discovery and Q4 implementation timeline for Gemini Enterprise."
   },
   "aBJKf000009g3RgOAI": {
-    "history_hash": "b7651bff6a9201ec28cc8c46a1d4c945",
-    "summary": "10/05 - Reunião técnica com IPNet agendada para definir arquitetura e adequar proposta às boas práticas WAF."
+    "history_hash": "fc412d51d6d39b63188d092ffa96c3f1",
+    "summary": "29/10: Arquitetura de referência validada e falhas na entrega da IPNet identificadas; próxima etapa é reunião técnica para realinhamento da proposta."
   }
 }
