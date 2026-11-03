@@ -33,9 +33,10 @@
   "Bemol_IA": {},
   "aBJKf000009eVIAOA2": {
     "dat_hygine_needed": true,
-    "updated_at": "2026-10-28T19:10:58.251804",
+    "updated_at": "2026-11-02T12:24:30.101690",
     "status_tec": "Oportunidade de Broadcast não é prioridade atual (foco na Copa do Mundo Feminina de 2027); em acompanhamento com Roberta Coelho e MadeinWeb (leonardo@madeinweb.com.br).",
-    "ai_summary": "[2026-10-28] Oportunidade de Broadcast despriorizada no momento por ser voltada para a Copa do Mundo Feminina de 2027; alinhar cronograma de 2027 junto à FSR Roberta Coelho e MadeinWeb (leonardo@madeinweb.com.br)."
+    "ai_summary": "[2026-10-28] Oportunidade de Broadcast despriorizada no momento por ser voltada para a Copa do Mundo Feminina de 2027; alinhar cronograma de 2027 junto à FSR Roberta Coelho e MadeinWeb (leonardo@madeinweb.com.br).",
+    "partner_tech_contact": "leonardo@madeinweb.com.br"
   },
   "Broadcast_CBF": {
     "dat_hygine_needed": true,
@@ -95,7 +96,10 @@
     "client_tech_contact": "Ricardo Paiva (ricardo.paiva@fsb.com.br)",
     "updated_at": "2026-10-20T13:03:57.190485"
   },
-  "aBJKf000009tOYOOA2": {},
+  "aBJKf000009tOYOOA2": {
+    "partner_tech_contact": "e.martins@sauter.digital",
+    "updated_at": "2026-11-02T12:24:30.101690"
+  },
   "Gemini Enterprise_CVLB": {},
   "aBJKf000009eVmyOAE": {},
   "Migração As is": {},
@@ -1002,7 +1006,10 @@
   },
   "aBJKf000009kMPkOAM": {},
   "infra GCP": {},
-  "aBJKf000009kJ2iOAE": {},
+  "aBJKf000009kJ2iOAE": {
+    "partner_tech_contact": "gwspst@nuvemshop.com.br",
+    "updated_at": "2026-11-02T12:24:30.101690"
+  },
   "aBJKf000009e7pHOAQ": {
     "status_tecnico": "Leega enviou SOW hoje para implementação",
     "updated_at": "2026-10-22T18:26:18.555669"
@@ -1043,7 +1050,8 @@
   "Climatempo - IA": {},
   "aBJKf000009kM5pOAE": {
     "dat_hygine_needed": true,
-    "updated_at": "2026-10-28T19:10:58.251804"
+    "updated_at": "2026-11-02T12:24:30.101690",
+    "partner_tech_contact": "celso@qinetwork.com.br"
   },
   "aBJKf000009eQONOA2": {},
   "Climatempo - CDP": {},
@@ -1407,8 +1415,14 @@
     "updated_at": "2026-10-28T19:10:58.251804",
     "status_tecnico": "Já está no Cloud Connect, poderia ser 4.3"
   },
-  "aBJKf000004ZO3xOAG": {},
-  "DataDog_Marketplace Tenda": {},
+  "aBJKf000004ZO3xOAG": {
+    "partner_tech_contact": "Vanessa Moyses (daniel.almeida@santodigital.com.br)",
+    "updated_at": "2026-11-03T08:03:16.372145"
+  },
+  "DataDog_Marketplace Tenda": {
+    "partner_tech_contact": "Vanessa Moyses (daniel.almeida@santodigital.com.br)",
+    "updated_at": "2026-11-03T08:03:16.372145"
+  },
   "aBJKf000004ZMQLOA4": {},
   "DataDog_Marketplace_Alper": {},
   "aBJKf000004ZRdAOAW": {},
@@ -1639,7 +1653,8 @@
   },
   "aBJKf000009WCjlOAG": {
     "client_tech_contact": "Jeferson Correa (jefersonc@cpqd.com.br)",
-    "updated_at": "2026-10-20T13:03:57.190485"
+    "updated_at": "2026-11-02T12:24:30.101690",
+    "partner_tech_contact": "alexandre.alencar@ipnet.cloud"
   },
   "CPQD | GCP - Incremental Project": {
     "client_tech_contact": "Jeferson Correa (jefersonc@cpqd.com.br)",
@@ -1667,8 +1682,9 @@
   },
   "aBJKf000004ZQGyOAO": {
     "client_tech_contact": "Marcos Souza (victor.tosta@ipnet.cloud)",
-    "updated_at": "2026-10-28T19:10:58.251804",
-    "dat_hygine_needed": true
+    "updated_at": "2026-11-02T12:24:30.101690",
+    "dat_hygine_needed": true,
+    "partner_tech_contact": "victor.tosta@ipnet.cloud"
   },
   "[Matera] Gemini Enterprise": {
     "client_tech_contact": "Marcos Souza (victor.tosta@ipnet.cloud)",
@@ -1677,7 +1693,8 @@
   },
   "aBJKf000004ZKmgOAG": {
     "client_tech_contact": "Fernando Machado Ouverney Diniz (fernando.ouverney@petz.com.br)",
-    "updated_at": "2026-10-20T13:03:57.190485"
+    "updated_at": "2026-11-02T12:24:30.101690",
+    "partner_tech_contact": "cruz.lucas@cloud-ace.com"
   },
   "Petz - Gemini Enterprise": {
     "client_tech_contact": "Fernando Machado Ouverney Diniz (fernando.ouverney@petz.com.br)",

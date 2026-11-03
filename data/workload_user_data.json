@@ -455,7 +455,9 @@
     "notes": "",
     "attachments": [],
     "client_technical_contact": "Fernando Machado Ouverney Diniz (fernando.ouverney@petz.com.br)",
-    "updated_at": "2026-10-20T13:03:57.190485"
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "partner_technical_contact": "cruz.lucas@cloud-ace.com",
+    "partner_technical_email": "cruz.lucas@cloud-ace.com"
   },
   "aBJKf000009WCIpOAO": {
     "notes": "",
@@ -475,7 +477,9 @@
     "attachments": [],
     "client_technical_contact": "Marcos Souza (victor.tosta@ipnet.cloud)",
     "updated_at": "2026-10-28T19:10:58.251804",
-    "dat_hygine_needed": true
+    "dat_hygine_needed": true,
+    "partner_technical_contact": "victor.tosta@ipnet.cloud",
+    "partner_technical_email": "victor.tosta@ipnet.cloud"
   },
   "aBJKf000004ZKLOOA4": {
     "notes": "",
@@ -547,7 +551,9 @@
     "notes": "",
     "attachments": [],
     "client_technical_contact": "Jeferson Correa (jefersonc@cpqd.com.br)",
-    "updated_at": "2026-10-20T13:03:57.190485"
+    "updated_at": "2026-10-20T13:03:57.190485",
+    "partner_technical_contact": "alexandre.alencar@ipnet.cloud",
+    "partner_technical_email": "alexandre.alencar@ipnet.cloud"
   },
   "aBJKf000004ZKlsOAG": {
     "notes": "",
@@ -2254,7 +2260,9 @@
     "notes": "",
     "attachments": [],
     "dat_hygine_needed": true,
-    "updated_at": "2026-10-28T19:10:58.251804"
+    "updated_at": "2026-10-28T19:10:58.251804",
+    "partner_technical_contact": "leonardo@madeinweb.com.br",
+    "partner_technical_email": "leonardo@madeinweb.com.br"
   },
   "aBJKf000009kPgGOAU": {
     "notes": "",
@@ -2339,7 +2347,9 @@
     "notes": "",
     "attachments": [],
     "dat_hygine_needed": true,
-    "updated_at": "2026-10-28T19:10:58.251804"
+    "updated_at": "2026-10-28T19:10:58.251804",
+    "partner_technical_contact": "celso@qinetwork.com.br",
+    "partner_technical_email": "celso@qinetwork.com.br"
   },
   "aBJKf000009kMIeOAM": {
     "notes": "",
@@ -2404,5 +2414,18 @@
     "attachments": [],
     "status_tecnico": "Workload de crescimento acompanhado pelo Cloud Connect",
     "updated_at": "2026-10-28T19:10:58.251804"
+  },
+  "aBJKf000009kJ2iOAE": {
+    "partner_technical_contact": "gwspst@nuvemshop.com.br",
+    "partner_technical_email": "gwspst@nuvemshop.com.br"
+  },
+  "aBJKf000009tOYOOA2": {
+    "partner_technical_contact": "e.martins@sauter.digital",
+    "partner_technical_email": "e.martins@sauter.digital"
+  },
+  "aBJKf000004ZO3xOAG": {
+    "partner_technical_contact": "Vanessa Moyses (daniel.almeida@santodigital.com.br)",
+    "partner_technical_email": "daniel.almeida@santodigital.com.br",
+    "updated_at": "2026-11-03T08:03:16.372145"
   }
 }
