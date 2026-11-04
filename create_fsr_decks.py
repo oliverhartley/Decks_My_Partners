@@ -794,6 +794,7 @@ def build_fsr_deck(fsr_cfg, cache, prio_map, user_data, existing_manual=None, ou
             uw_opp_name = uw.get("opportunity_name") or ""
             uw_arr = float(uw.get("annual_gross_revenue") or 0.0)
             uw_prog = uw.get("workload_progress") or ""
+            uw_prog_short = uw_prog.split(":")[0].strip() if ":" in uw_prog else uw_prog.strip()
             uw_pillar = uw.get("pillar") or ""
             uw_prods = ", ".join(uw.get("key_workload_products") or []) or uw.get("workload_solutions") or "Cloud Architecture"
             uw_pdate = str(uw.get("production_date") or "").strip()
@@ -834,7 +835,7 @@ def build_fsr_deck(fsr_cfg, cache, prio_map, user_data, existing_manual=None, ou
             uw_tier,
             wkl_cell,
             f"${uw_arr:,.2f}",
-            uw_prog,
+            uw_prog_short,
             uw_pillar,
             uw_prods,
             opp_partner_cell,

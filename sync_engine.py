@@ -2,14 +2,18 @@
 """
 sync_engine.py
 True Bidirectional (Last-Write-Wins / 3-Way State-Aware) Synchronization Engine
-between the Agentic Workload Command Center Web UI and the 6 Brazil FSR Google Sheets.
+between the Agentic Workload Command Center Web UI and the consolidated
+"FSR Management Dashboard - Oliver Hartley" Google Sheet (All_Workloads_Follow_up).
 
-Tracked fields (per workload, per column):
-- Col K (10): 'Cual es el bloqueo?'             -> key: 'blocker'            (str)
-- Col L (11): 'Status Tecnico'                  -> key: 'status_tecnico'     (str)
-- Col R (17): 'Partner Technical Owner Email'   -> key: 'partner_tech_email' (str)
-- Col S (18): 'Technical win'                   -> key: 'technical_win'      (bool)
-- Col T (19): 'Propousal sent to client'        -> key: 'proposal_sent'      (bool)
+Tracked fields (per workload, per column in All_Workloads_Follow_up):
+- Col G (6):  'Cual es el bloqueo?'             -> key: 'blocker'              (str)
+- Col H (7):  'Status Tecnico'                  -> key: 'status_tecnico'       (str)
+- Col J (9):  'Proposta Sent'                   -> key: 'proposal_sent'        (bool)
+- Col K (10): 'Tech Win'                        -> key: 'technical_win'        (bool)
+- Col L (11): 'Nao Existe'                      -> key: 'nao_existe'           (bool)
+- Col M (12): 'Dat Hygine Needed'               -> key: 'dat_hygine_needed'    (bool)
+- Col R (17): 'Partner Technical Contact'       -> key: 'partner_tech_contact' (str)
+- Col S (18): 'Client Technical Contact'        -> key: 'client_tech_contact'  (str)
 """
 
 import os
@@ -31,24 +35,31 @@ MANUAL_FILE = os.path.join(BASE_DIR, "fsr_manual_entries.json")
 USER_DATA_FILE = os.path.join(BASE_DIR, "data", "workload_user_data.json")
 BASELINE_FILE = os.path.join(BASE_DIR, "data", "last_synced_sheet_state.json")
 
+ROLLUP_SSID = "1JbaDkmltkqu6aaAKRszEwVFRsJxUSCofCWUKtwcjAhs"
+ROLLUP_TAB = "All_Workloads_Follow_up"
+
 FSR_SHEET_CONFIGS = [
-    {"username": "fpilon", "name": "Felipe Pilon", "ssid": "1gS9JWRb-aReMKOiJzhlKEu0TFTb4fF8fNROcTKWf7jU"},
-    {"username": "robertacoelho", "name": "Roberta Coelho", "ssid": "1wBiY2bqGo-NJaVeET6g8GRKfOTMDkQaSUhbD5xPfb5M"},
-    {"username": "vmmoyses", "name": "Vanessa Moyses", "ssid": "1UXbDWQNf1_wvm6_WHtKX2QIWXzRgib_xMpMGfnu5nKg"},
-    {"username": "dbenevides", "name": "Daniela Benevides", "ssid": "1PlnciU1NuNuo7SL0Jxb-X3HWksLzRXpYOVFk8UqmdAI"},
-    {"username": "dprudencio", "name": "Daniel Prudencio", "ssid": "1qOUzmqu0vrZ7a19oSDR8KZTuDAfbdkJLiCDMoql9iqM"},
-    {"username": "tobiassarah", "name": "Sarah Tobias", "ssid": "1eB2g5osFTKxH0i9B7AoddQO-MJ_qnewu3nwIozquTIs"},
-    {"username": "anagama", "name": "Ana Luiza Gama", "ssid": "1VMLeUmBjnucCwW98Z4ElVdusQSOhQgIrWrKlQOGeZdA"},
-    {"username": "renanvaladares", "name": "Renan Valadares", "ssid": "1YmVIhMxpaQpCV4DHP-cN3g4AFt5d2jCDHpQZaeF_soU"},
+    {
+        "username": "oliverhartley",
+        "name": "FSR Management Dashboard - Oliver Hartley",
+        "ssid": ROLLUP_SSID,
+        "tab_name": ROLLUP_TAB,
+    },
 ]
 
 FIELD_SPECS = [
-    {"key": "blocker", "user_key": "blocker_tecnico", "col_idx": 10, "header": "Cual es el bloqueo?", "is_bool": False},
-    {"key": "status_tecnico", "user_key": "status_tecnico", "col_idx": 11, "header": "Status Tecnico", "is_bool": False},
+    {"key": "blocker", "user_key": "blocker_tecnico", "col_idx": 6, "header": "Cual es el bloqueo?", "is_bool": False},
+    {"key": "status_tecnico", "user_key": "status_tecnico", "col_idx": 7, "header": "Status Tecnico", "is_bool": False},
+    {"key": "proposal_sent", "user_key": "proposal_sent", "col_idx": 9, "header": "Proposta Sent", "is_bool": True},
+    {"key": "technical_win", "user_key": "technical_win", "col_idx": 10, "header": "Tech Win", "is_bool": True},
+    {"key": "nao_existe", "user_key": "nao_existe", "col_idx": 11, "header": "Nao Existe", "is_bool": True},
+    {"key": "dat_hygine_needed", "user_key": "dat_hygine_needed", "col_idx": 12, "header": "Dat Hygine Needed", "is_bool": True},
     {"key": "partner_tech_contact", "user_key": "partner_technical_contact", "col_idx": 17, "header": "Partner Technical Contact", "is_bool": False},
     {"key": "client_tech_contact", "user_key": "client_technical_contact", "col_idx": 18, "header": "Client Technical Contact", "is_bool": False},
-    {"key": "technical_win", "user_key": "technical_win", "col_idx": 19, "header": "Technical win", "is_bool": True},
-    {"key": "proposal_sent", "user_key": "proposal_sent", "col_idx": 20, "header": "Propousal sent to client", "is_bool": True},
+    {"key": "partner_impl_date", "user_key": "partner_implementation_date", "col_idx": 24, "header": "Partner Implementation Date", "is_bool": False},
+    {"key": "partner_prod_date", "user_key": "partner_production_date", "col_idx": 25, "header": "Partner Production Date", "is_bool": False},
+    {"key": "deep_dive", "user_key": "deep_dive", "col_idx": 26, "header": "DeepDive", "is_bool": True},
+    {"key": "ex_deep_dive", "user_key": "ex_deep_dive", "col_idx": 27, "header": "ex-DeepDive", "is_bool": True},
 ]
 
 
@@ -98,18 +109,19 @@ def save_json_safe(path, data):
 
 def read_sheet_followup_state(cfg):
     """
-    Reads Follow_up!A5:S300 from a single FSR Google Sheet, returning:
+    Reads All_Workloads_Follow_up!A5:V500 from the consolidated FSR Management Dashboard, returning:
     {
       "username": ...,
       "ssid": ...,
       "sheet_id": 0,
       "rows_by_wname": {
-         workload_name: {
+         row_key: {
             "row_index": 0-based row index in sheet,
             "values": {
                "blocker": str,
                "status_tecnico": str,
-               "partner_tech_email": str,
+               "partner_tech_contact": str,
+               "client_tech_contact": str,
                "technical_win": bool,
                "proposal_sent": bool
             }
@@ -118,6 +130,7 @@ def read_sheet_followup_state(cfg):
     }
     """
     ssid = cfg["ssid"]
+    tab_name = cfg.get("tab_name", "All_Workloads_Follow_up")
     result = {
         "username": cfg["username"],
         "name": cfg["name"],
@@ -126,24 +139,25 @@ def read_sheet_followup_state(cfg):
         "rows_by_wname": {}
     }
 
-    # 1. Get Follow_up sheetId (defaults to 0, check list-sheets in case it's non-zero)
+    # 1. Get target sheetId (defaults to 0, check list-sheets in case it's non-zero)
     res_sheets = subprocess.run([GSHEETS, "readonly", "list-sheets", ssid, "--json"], capture_output=True, text=True)
     if res_sheets.returncode == 0 and res_sheets.stdout.strip():
         try:
             for s in json.loads(res_sheets.stdout):
-                if s.get("title") == "Follow_up":
+                if s.get("title") == tab_name:
                     result["sheet_id"] = int(s.get("id") or 0)
                     break
         except Exception:
             pass
 
-    # 2. Read values & formulas from Follow_up!A5:T300 so we get exact Salesforce Workload IDs from Col C HYPERLINK
+    # 2. Read values & formulas from All_Workloads_Follow_up!A5:AB500 so we get exact Salesforce Workload IDs from Col D HYPERLINK
+    range_str = f"'{tab_name}'!A5:AB500"
     res_read = subprocess.run(
-        [GSHEETS, "readonly", "read", ssid, "'Follow_up'!A5:T300", "--value-render-option", "FORMULA", "--json"],
+        [GSHEETS, "readonly", "read", ssid, range_str, "--value-render-option", "FORMULA", "--json"],
         capture_output=True, text=True
     )
     if res_read.returncode != 0 or not res_read.stdout.strip() or res_read.stdout.strip() == "null":
-        res_read = subprocess.run([GSHEETS, "readonly", "read", ssid, "'Follow_up'!A5:T300", "--json"], capture_output=True, text=True)
+        res_read = subprocess.run([GSHEETS, "readonly", "read", ssid, range_str, "--json"], capture_output=True, text=True)
     if res_read.returncode != 0 or not res_read.stdout.strip() or res_read.stdout.strip() == "null":
         return result
 
@@ -154,17 +168,20 @@ def read_sheet_followup_state(cfg):
 
         headers = [str(h).strip() for h in rows[0]]
         col_map = {h: i for i, h in enumerate(headers)}
+        wname_col = col_map.get("Workload Name", 3)
+        aname_col = col_map.get("Customer Account Name", 1)
+        oname_col = col_map.get("Opportunity Name", 2)
 
         for offset, r in enumerate(rows[1:]):
             sheet_row_idx = 5 + offset  # 0-based row index (Row 6 is index 5)
-            if len(r) <= 2 or not r[2]:
+            if len(r) <= wname_col or not r[wname_col]:
                 continue
-            wname = extract_hyperlink_label(r[2])
+            wname = extract_hyperlink_label(r[wname_col])
             if not wname:
                 continue
-            wid = extract_workload_id_from_formula(r[2])
-            aname = extract_hyperlink_label(r[0]) if len(r) > 0 else ""
-            oname = extract_hyperlink_label(r[1]) if len(r) > 1 else ""
+            wid = extract_workload_id_from_formula(r[wname_col])
+            aname = extract_hyperlink_label(r[aname_col]) if len(r) > aname_col else ""
+            oname = extract_hyperlink_label(r[oname_col]) if len(r) > oname_col else ""
 
             vals = {}
             for spec in FIELD_SPECS:
@@ -262,6 +279,7 @@ def sync_bidirectional(fsr_filter=None):
         if wn and wid:
             wname_to_wid[wn] = wid
             triplet_to_wid[(uname, aname, oname, wn)] = wid
+            triplet_to_wid[(aname, oname, wn)] = wid
             def_p = (w.get("partner_technical_contact") or w.get("partner_technical_email") or "").strip()
             def_c = (w.get("client_technical_contact") or "").strip()
             wid_to_default_partner[wid] = def_p
@@ -274,16 +292,10 @@ def sync_bidirectional(fsr_filter=None):
     baseline = load_json_safe(BASELINE_FILE, {})
 
     target_cfgs = FSR_SHEET_CONFIGS
-    if fsr_filter and fsr_filter.lower() not in ("all", ""):
-        q = fsr_filter.lower().strip()
-        target_cfgs = [
-            c for c in FSR_SHEET_CONFIGS
-            if q in c["username"].lower() or q in c["name"].lower()
-        ]
 
     # 1. Read all target sheets in parallel
     sheet_states = {}
-    with ThreadPoolExecutor(max_workers=6) as pool:
+    with ThreadPoolExecutor(max_workers=2) as pool:
         fut_map = {pool.submit(read_sheet_followup_state, cfg): cfg["username"] for cfg in target_cfgs}
         for fut in as_completed(fut_map):
             uname = fut_map[fut]
@@ -312,6 +324,7 @@ def sync_bidirectional(fsr_filter=None):
             wid = (
                 row_info.get("workload_id")
                 or triplet_to_wid.get((uname, aname, oname, wname))
+                or triplet_to_wid.get((aname, oname, wname))
                 or (wname_to_wid.get(wname, "") if wname_counts.get(wname, 0) <= 1 else "")
             )
             default_bq_partner = wid_to_default_partner.get(wid) or wname_to_default_partner.get(wname, "")

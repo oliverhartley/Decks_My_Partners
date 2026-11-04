@@ -19,6 +19,7 @@ import csv
 import re
 import time
 import subprocess
+from datetime import datetime
 
 BASE_DIR = "/usr/local/google/home/oliverhartley/jetski-workspace/fsr-wkld-decks"
 sys.path.insert(0, BASE_DIR)
@@ -40,26 +41,22 @@ OLIVER_FSRS = [
     {
         "name": "Felipe Pilon",
         "email": "fpilon@google.com",
-        "username": "fpilon",
-        "ssid": "1gS9JWRb-aReMKOiJzhlKEu0TFTb4fF8fNROcTKWf7jU"
+        "username": "fpilon"
     },
     {
         "name": "Roberta Coelho",
         "email": "robertacoelho@google.com",
-        "username": "robertacoelho",
-        "ssid": "1wBiY2bqGo-NJaVeET6g8GRKfOTMDkQaSUhbD5xPfb5M"
+        "username": "robertacoelho"
     },
     {
         "name": "Vanessa Moyses",
         "email": "vmmoyses@google.com",
-        "username": "vmmoyses",
-        "ssid": "1UXbDWQNf1_wvm6_WHtKX2QIWXzRgib_xMpMGfnu5nKg"
+        "username": "vmmoyses"
     },
     {
         "name": "Ana Luiza Gama",
         "email": "anagama@google.com",
-        "username": "anagama",
-        "ssid": "1VMLeUmBjnucCwW98Z4ElVdusQSOhQgIrWrKlQOGeZdA"
+        "username": "anagama"
     }
 ]
 
@@ -69,23 +66,29 @@ FOLLOWUP_HEADERS = [
     "Opportunity Name",                 # Col 2 (C)
     "Workload Name",                    # Col 3 (D)
     "Annual Gross Revenue (ARR USD)",   # Col 4 (E)
-    "Opportunity Stage",                # Col 5 (F)
-    "Workload Progress",                # Col 6 (G)
-    "Implementation Date",              # Col 7 (H)
-    "Days Until Implementation",        # Col 8 (I)
-    "Production Date",                  # Col 9 (J)
-    "Days Until Production",            # Col 10 (K)
-    "Cual es el bloqueo?",              # Col 11 (L)
-    "Status Tecnico",                   # Col 12 (M)
-    "AI Summary Next Steps",            # Col 13 (N)
-    "Opportunity Partner",              # Col 14 (O)
-    "Workload Partner",                 # Col 15 (P)
-    "Workload Owner Email",             # Col 16 (Q)
-    "Primary CE Technical Owner Email", # Col 17 (R)
-    "Partner Technical Contact",        # Col 18 (S)
-    "Client Technical Contact",         # Col 19 (T)
-    "Technical win",                    # Col 20 (U)
-    "Propousal sent to client"          # Col 21 (V)
+    "Workload Progress",                # Col 5 (F)
+    "Cual es el bloqueo?",              # Col 6 (G)
+    "Status Tecnico",                   # Col 7 (H)
+    "AI Summary Next Steps",            # Col 8 (I)
+    "Proposta Sent",                    # Col 9 (J)  - Checkbox
+    "Tech Win",                         # Col 10 (K) - Checkbox
+    "Nao Existe",                       # Col 11 (L) - Checkbox
+    "Dat Hygine Needed",                # Col 12 (M) - Checkbox
+    "Opportunity Partner",              # Col 13 (N)
+    "Workload Partner",                 # Col 14 (O)
+    "Workload Owner Email",             # Col 15 (P)
+    "Primary CE Technical Owner Email", # Col 16 (Q)
+    "Partner Technical Contact",        # Col 17 (R)
+    "Client Technical Contact",         # Col 18 (S)
+    "Opportunity Stage",                # Col 19 (T)
+    "Implementation Date",              # Col 20 (U)
+    "Days Until Implementation",        # Col 21 (V)
+    "Production Date",                  # Col 22 (W)
+    "Days Until Production",            # Col 23 (X)
+    "Partner Implementation Date",      # Col 24 (Y)
+    "Partner Production Date",          # Col 25 (Z)
+    "DeepDive",                         # Col 26 (AA) - Checkbox
+    "ex-DeepDive"                       # Col 27 (AB) - Checkbox
 ]
 
 FOLLOWUP_COL_WIDTHS = {
@@ -94,23 +97,29 @@ FOLLOWUP_COL_WIDTHS = {
     2: 260,  # Opportunity Name
     3: 260,  # Workload Name
     4: 150,  # ARR USD
-    5: 170,  # Opportunity Stage
-    6: 130,  # Workload Progress
-    7: 140,  # Implementation Date
-    8: 140,  # Days Until Implementation
-    9: 130,  # Production Date
-    10: 140, # Days Until Production
-    11: 160, # Cual es el bloqueo?
-    12: 300, # Status Tecnico
-    13: 350, # AI Summary Next Steps
-    14: 250, # Opportunity Partner
-    15: 250, # Workload Partner
-    16: 200, # Workload Owner Email
-    17: 200, # Primary CE Technical Owner Email
-    18: 240, # Partner Technical Contact
-    19: 240, # Client Technical Contact
-    20: 130, # Technical win
-    21: 170  # Propousal sent to client
+    5: 130,  # Workload Progress
+    6: 160,  # Cual es el bloqueo?
+    7: 300,  # Status Tecnico
+    8: 350,  # AI Summary Next Steps
+    9: 130,  # Proposta Sent
+    10: 110, # Tech Win
+    11: 120, # Nao Existe
+    12: 150, # Dat Hygine Needed
+    13: 250, # Opportunity Partner
+    14: 250, # Workload Partner
+    15: 200, # Workload Owner Email
+    16: 200, # Primary CE Technical Owner Email
+    17: 240, # Partner Technical Contact
+    18: 240, # Client Technical Contact
+    19: 170, # Opportunity Stage
+    20: 140, # Implementation Date
+    21: 140, # Days Until Implementation
+    22: 130, # Production Date
+    23: 140, # Days Until Production
+    24: 180, # Partner Implementation Date
+    25: 180, # Partner Production Date
+    26: 120, # DeepDive
+    27: 120  # ex-DeepDive
 }
 
 MATCHMAKER_HEADERS = [
@@ -222,19 +231,23 @@ def build_rollup_datasets(cache, prio_map, user_data, manual_entries, ai_cache):
     unpartnered_arr = sum(float(w.get("annual_gross_revenue") or 0.0) for w in unpartnered_wkls)
 
     # -------------------------------------------------------------
-    # 1. TAB 1: Follow_up CSV (21 Columns)
+    # 1. TAB 1: Follow_up CSV (28 Columns)
     # -------------------------------------------------------------
     num_cols = len(FOLLOWUP_HEADERS)
-    r1 = ["Team:", "Oliver Hartley FSR Team (Pilon, Coelho, Moyses, Gama)", "", "", "Supporting CE:", "Diego Baldini", "Last Update:", DATE_FORMATTED] + [""] * (num_cols - 8)
+    r1 = ["Team:", "Oliver Hartley FSR Team (Pilon, Coelho, Moyses, Gama)", "", "", "Supporting CE:", "Diego Baldini", "Last Update:", datetime.now().strftime("%Y-%m-%d")] + [""] * (num_cols - 8)
     r2 = [""] * num_cols
-    alert_text = "📢 UPDATE: Consolidated rollup across all 4 Oliver Hartley FSRs (317 workloads, $45.30M ARR). Workloads in stage 4.3 (Migrated/Implemented) are included."
+    alert_text = f"📢 UPDATE: Consolidated FSR Management Dashboard across all 4 Oliver Hartley FSRs ({len(oliver_wkls)} workloads, ${total_arr / 1e6:.2f}M ARR). Workloads in stage 4.3 (Migrated/Implemented) are included."
     r3 = [alert_text] + [""] * (num_cols - 1)
     r4 = [""] * num_cols
     r5 = list(FOLLOWUP_HEADERS)
 
     followup_rows = [r1, r2, r3, r4, r5]
-    true_tech_wins = []
     true_prop_sents = []
+    true_tech_wins = []
+    true_nao_existes = []
+    true_dat_hygines = []
+    true_deep_dives = []
+    true_ex_deep_dives = []
     ai_cache_dirty = False
 
     for idx, w in enumerate(oliver_wkls):
@@ -287,9 +300,9 @@ def build_rollup_datasets(cache, prio_map, user_data, manual_entries, ai_cache):
         impl_date = str(w.get("begin_migration_date") or "").strip()
         prod_date = str(w.get("production_date") or "").strip()
 
-        # Implementation Date is Col H (index 7), Production Date is Col J (index 9)
-        days_impl = f'=IF(H{row_num}<>"", H{row_num}-TODAY(), "")'
-        days_prod = f'=IF(J{row_num}<>"", J{row_num}-TODAY(), "")'
+        # Implementation Date is Col U (index 20), Production Date is Col W (index 22)
+        days_impl = f'=IF(U{row_num}<>"", U{row_num}-TODAY(), "")'
+        days_prod = f'=IF(W{row_num}<>"", W{row_num}-TODAY(), "")'
 
         # Notes / User Data
         m_entry = manual_entries.get(wid) or manual_entries.get(wname, {})
@@ -325,16 +338,38 @@ def build_rollup_datasets(cache, prio_map, user_data, manual_entries, ai_cache):
                 return val.strip().lower() in ["true", "1", "yes", "checked", "x"]
             return False
 
-        is_tech_win = to_bool(m_entry.get("technical_win")) or to_bool(u_info.get("technical_win"))
         is_prop_sent = to_bool(m_entry.get("proposal_sent")) or to_bool(u_info.get("proposal_sent"))
+        is_tech_win = to_bool(m_entry.get("technical_win")) or to_bool(u_info.get("technical_win"))
+        is_nao_existe = to_bool(m_entry.get("nao_existe")) or to_bool(u_info.get("nao_existe"))
+        is_dat_hygine = to_bool(m_entry.get("dat_hygine_needed")) or to_bool(u_info.get("dat_hygine_needed"))
+        is_deep_dive = to_bool(m_entry.get("deep_dive")) or to_bool(u_info.get("deep_dive"))
+        is_ex_deep_dive = to_bool(m_entry.get("ex_deep_dive")) or to_bool(u_info.get("ex_deep_dive"))
 
-        tech_win_val = "TRUE" if is_tech_win else "FALSE"
-        prop_sent_val = "TRUE" if is_prop_sent else "FALSE"
+        partner_impl_date = m_entry.get("partner_impl_date") or u_info.get("partner_impl_date") or ""
+        partner_prod_date = m_entry.get("partner_prod_date") or u_info.get("partner_prod_date") or ""
 
-        if is_tech_win:
-            true_tech_wins.append(row_num - 1)
+        # Checkboxes in CSV: write "TRUE" for true, "" (empty) for false.
+        # Google Sheets BOOLEAN validation renders checkbox widgets for empty/boolean cells;
+        # writing raw string "FALSE" causes it to display plain text "FALSE" instead of a checkbox widget!
+        prop_sent_val = "TRUE" if is_prop_sent else ""
+        tech_win_val = "TRUE" if is_tech_win else ""
+        nao_existe_val = "TRUE" if is_nao_existe else ""
+        dat_hygine_val = "TRUE" if is_dat_hygine else ""
+        deep_dive_val = "TRUE" if is_deep_dive else ""
+        ex_deep_dive_val = "TRUE" if is_ex_deep_dive else ""
+
         if is_prop_sent:
             true_prop_sents.append(row_num - 1)
+        if is_tech_win:
+            true_tech_wins.append(row_num - 1)
+        if is_nao_existe:
+            true_nao_existes.append(row_num - 1)
+        if is_dat_hygine:
+            true_dat_hygines.append(row_num - 1)
+        if is_deep_dive:
+            true_deep_dives.append(row_num - 1)
+        if is_ex_deep_dive:
+            true_ex_deep_dives.append(row_num - 1)
 
         ai_summary_val, updated_ai = get_ai_next_steps_summary(w, ai_cache)
         if updated_ai:
@@ -346,23 +381,29 @@ def build_rollup_datasets(cache, prio_map, user_data, manual_entries, ai_cache):
             opp_cell,                   # 2 (C): Opportunity Name
             wkl_cell,                   # 3 (D): Workload Name
             f"${arr_val:,.2f}",         # 4 (E): ARR USD
-            opp_stage,                  # 5 (F): Opportunity Stage
-            prog_short,                 # 6 (G): Workload Progress
-            impl_date,                  # 7 (H): Implementation Date
-            days_impl,                  # 8 (I): Days Until Implementation
-            prod_date,                  # 9 (J): Production Date
-            days_prod,                  # 10 (K): Days Until Production
-            blocker_val,                # 11 (L): Cual es el bloqueo?
-            status_tecnico_val,         # 12 (M): Status Tecnico
-            ai_summary_val,             # 13 (N): AI Summary Next Steps
-            opp_partner_cell,           # 14 (O): Opportunity Partner
-            wkl_partner_cell,           # 15 (P): Workload Partner
-            owner_email,                # 16 (Q): Workload Owner Email
-            ce_email,                   # 17 (R): Primary CE Technical Owner Email
-            partner_tech_val,           # 18 (S): Partner Technical Contact
-            client_tech_val,            # 19 (T): Client Technical Contact
-            tech_win_val,               # 20 (U): Technical win (Checkbox)
-            prop_sent_val               # 21 (V): Propousal sent to client (Checkbox)
+            prog_short,                 # 5 (F): Workload Progress
+            blocker_val,                # 6 (G): Cual es el bloqueo?
+            status_tecnico_val,         # 7 (H): Status Tecnico
+            ai_summary_val,             # 8 (I): AI Summary Next Steps
+            prop_sent_val,              # 9 (J): Proposta Sent (Checkbox)
+            tech_win_val,               # 10 (K): Tech Win (Checkbox)
+            nao_existe_val,             # 11 (L): Nao Existe (Checkbox)
+            dat_hygine_val,             # 12 (M): Dat Hygine Needed (Checkbox)
+            opp_partner_cell,           # 13 (N): Opportunity Partner
+            wkl_partner_cell,           # 14 (O): Workload Partner
+            owner_email,                # 15 (P): Workload Owner Email
+            ce_email,                   # 16 (Q): Primary CE Technical Owner Email
+            partner_tech_val,           # 17 (R): Partner Technical Contact
+            client_tech_val,            # 18 (S): Client Technical Contact
+            opp_stage,                  # 19 (T): Opportunity Stage
+            impl_date,                  # 20 (U): Implementation Date
+            days_impl,                  # 21 (V): Days Until Implementation
+            prod_date,                  # 22 (W): Production Date
+            days_prod,                  # 23 (X): Days Until Production
+            partner_impl_date,          # 24 (Y): Partner Implementation Date
+            partner_prod_date,          # 25 (Z): Partner Production Date
+            deep_dive_val,              # 26 (AA): DeepDive (Checkbox)
+            ex_deep_dive_val            # 27 (AB): ex-DeepDive (Checkbox)
         ]
         followup_rows.append(row_data)
 
@@ -394,7 +435,7 @@ def build_rollup_datasets(cache, prio_map, user_data, manual_entries, ai_cache):
             "Unpartnered Workloads (#)",
             "Unpartnered ARR ($ USD)",
             "% Partnered (ARR)",
-            "Individual Action Tracker Spreadsheet"
+            "Tracking Tab"
         ]
     ]
 
@@ -402,7 +443,6 @@ def build_rollup_datasets(cache, prio_map, user_data, manual_entries, ai_cache):
         f_name = f_cfg["name"]
         f_user = f_cfg["username"]
         f_mail = f_cfg["email"]
-        f_ssid = f_cfg["ssid"]
         f_wkls = [w for w in oliver_wkls if w.get("assigned_fsr") == f_name]
         f_part = [w for w in f_wkls if w.get("is_partnered")]
         f_unpart = [w for w in f_wkls if not w.get("is_partnered")]
@@ -411,7 +451,6 @@ def build_rollup_datasets(cache, prio_map, user_data, manual_entries, ai_cache):
         f_unpart_arr = sum(float(w.get("annual_gross_revenue") or 0.0) for w in f_unpart)
         f_pct = (f_part_arr / f_total_arr * 100) if f_total_arr > 0 else 0.0
 
-        tracker_link = make_hyperlink(f"https://docs.google.com/spreadsheets/d/{f_ssid}/edit", "Open FSR Tracker ↗")
         summary_rows.append([
             f_name,
             "Diego Baldini",
@@ -423,7 +462,7 @@ def build_rollup_datasets(cache, prio_map, user_data, manual_entries, ai_cache):
             str(len(f_unpart)),
             f"${f_unpart_arr:,.2f}",
             f"{f_pct:.1f}%",
-            tracker_link
+            "All_Workloads_Follow_up"
         ])
 
     tot_part_pct = (partnered_arr / total_arr * 100) if total_arr > 0 else 0.0
@@ -600,6 +639,7 @@ def build_rollup_datasets(cache, prio_map, user_data, manual_entries, ai_cache):
         uw_arr = float(uw.get("annual_gross_revenue") or 0.0)
         uw_opp_stage = uw.get("stage_name") or ""
         uw_prog = uw.get("workload_progress") or ""
+        uw_prog_short = uw_prog.split(":")[0].strip() if ":" in uw_prog else uw_prog.strip()
         uw_pillar = uw.get("pillar") or ""
         uw_prods = ", ".join(uw.get("key_workload_products") or []) or uw.get("workload_solutions") or "Cloud Architecture"
         uw_pdate = str(uw.get("production_date") or "").strip()
@@ -642,7 +682,7 @@ def build_rollup_datasets(cache, prio_map, user_data, manual_entries, ai_cache):
             wkl_cell,
             f"${uw_arr:,.2f}",
             uw_opp_stage,
-            uw_prog,
+            uw_prog_short,
             uw_pillar,
             uw_prods,
             opp_partner_cell,
@@ -676,8 +716,12 @@ def build_rollup_datasets(cache, prio_map, user_data, manual_entries, ai_cache):
         "followup_row_count": len(followup_rows),
         "summary_row_count": len(summary_rows),
         "matchmaker_row_count": len(match_rows),
+        "true_prop_sents": true_prop_sents,
         "true_tech_wins": true_tech_wins,
-        "true_prop_sents": true_prop_sents
+        "true_nao_existes": true_nao_existes,
+        "true_dat_hygines": true_dat_hygines,
+        "true_deep_dives": true_deep_dives,
+        "true_ex_deep_dives": true_ex_deep_dives
     }
 
 
@@ -689,8 +733,14 @@ def deploy_rollup_dashboard(rollup_info):
     f_total_rows = rollup_info["followup_row_count"]
     s_total_rows = rollup_info["summary_row_count"]
     m_total_rows = rollup_info["matchmaker_row_count"]
-    true_tech_wins = rollup_info["true_tech_wins"]
-    true_prop_sents = rollup_info["true_prop_sents"]
+    true_prop_sents = rollup_info.get("true_prop_sents", [])
+    true_tech_wins = rollup_info.get("true_tech_wins", [])
+    true_nao_existes = rollup_info.get("true_nao_existes", [])
+    true_dat_hygines = rollup_info.get("true_dat_hygines", [])
+    true_deep_dives = rollup_info.get("true_deep_dives", [])
+    true_ex_deep_dives = rollup_info.get("true_ex_deep_dives", [])
+    total_workloads = rollup_info.get("total_workloads", f_total_rows - 5)
+    total_arr = rollup_info.get("total_arr", 0.0)
 
     print(f"\n========================================================")
     print(f"Deploying Rollup Dashboard: {rollup_info['title']}")
@@ -706,8 +756,28 @@ def deploy_rollup_dashboard(rollup_info):
     # Clear old data
     print("Clearing old data and previous formatting...")
     subprocess.run([GSHEETS, "mutate", "clear", ssid, "'Executive_Summary'!A1:Z500"], capture_output=True)
-    subprocess.run([GSHEETS, "mutate", "clear", ssid, "'All_Workloads_Follow_up'!A1:Z2000"], capture_output=True)
+    subprocess.run([GSHEETS, "mutate", "clear", ssid, "'All_Workloads_Follow_up'!A1:ZZ2000"], capture_output=True)
     subprocess.run([GSHEETS, "mutate", "clear", ssid, "'Unpartnered_Matchmaker'!A1:Z2000"], capture_output=True)
+
+    # Ensure sheet has enough columns before importing CSV
+    p_cols = len(FOLLOWUP_HEADERS)
+    expand_req = {
+        "requests": [{
+            "updateSheetProperties": {
+                "properties": {
+                    "sheetId": sid_followup,
+                    "gridProperties": {"columnCount": max(p_cols, 35)}
+                },
+                "fields": "gridProperties.columnCount"
+            }
+        }]
+    }
+    tmp_exp = f"temp_exp_rollup_{ssid}.json"
+    with open(tmp_exp, "w") as f:
+        json.dump(expand_req, f)
+    subprocess.run([GSHEETS, "mutate", "raw-batch", ssid, "-f", tmp_exp], capture_output=True)
+    if os.path.exists(tmp_exp):
+        os.remove(tmp_exp)
 
     # 2. Import CSVs
     print("Importing Executive_Summary CSV...")
@@ -728,7 +798,6 @@ def deploy_rollup_dashboard(rollup_info):
         print("✓ Unpartnered_Matchmaker CSV imported.")
 
     # 3. Trim columns on All_Workloads_Follow_up
-    p_cols = len(FOLLOWUP_HEADERS)
     trim_req = {
         "requests": [{
             "updateSheetProperties": {
@@ -776,7 +845,7 @@ def deploy_rollup_dashboard(rollup_info):
                     "range": {"sheetId": sid_followup, "startRowIndex": 0, "endRowIndex": 1000, "startColumnIndex": 0, "endColumnIndex": max(p_cols, 35)}
                 }
             },
-            # Reset cell styles
+            # Reset cell styles (including numberFormat so shifted columns don't inherit old DATE/NUMBER formats)
             {
                 "repeatCell": {
                     "range": {"sheetId": sid_followup, "startRowIndex": 0, "endRowIndex": f_rows, "startColumnIndex": 0, "endColumnIndex": p_cols},
@@ -789,7 +858,7 @@ def deploy_rollup_dashboard(rollup_info):
                             "wrapStrategy": "CLIP"
                         }
                     },
-                    "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment,verticalAlignment,wrapStrategy)"
+                    "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment,verticalAlignment,wrapStrategy,numberFormat)"
                 }
             },
             # Clear borders
@@ -809,9 +878,10 @@ def deploy_rollup_dashboard(rollup_info):
             {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 4, "endColumnIndex": 5}, "cell": {"userEnteredFormat": {"textFormat": {"bold": True, "foregroundColor": {"red": 0.37, "green": 0.39, "blue": 0.41}}, "horizontalAlignment": "RIGHT"}}, "fields": "userEnteredFormat(textFormat,horizontalAlignment)"}},
             {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 5, "endColumnIndex": 6}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.95, "green": 0.91, "blue": 0.99}, "textFormat": {"bold": True, "foregroundColor": {"red": 0.41, "green": 0.11, "blue": 0.66}}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
             {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 6, "endColumnIndex": 7}, "cell": {"userEnteredFormat": {"textFormat": {"bold": True, "foregroundColor": {"red": 0.37, "green": 0.39, "blue": 0.41}}, "horizontalAlignment": "RIGHT"}}, "fields": "userEnteredFormat(textFormat,horizontalAlignment)"}},
-            {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 7, "endColumnIndex": 8}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.90, "green": 0.96, "blue": 0.92}, "textFormat": {"bold": True, "foregroundColor": {"red": 0.07, "green": 0.45, "blue": 0.20}}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment)"}},
+            # Cell H1: Last Update Date format (3 - Nov)
+            {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 0, "endRowIndex": 1, "startColumnIndex": 7, "endColumnIndex": 8}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.90, "green": 0.96, "blue": 0.92}, "textFormat": {"bold": True, "foregroundColor": {"red": 0.07, "green": 0.45, "blue": 0.20}}, "horizontalAlignment": "CENTER", "numberFormat": {"type": "DATE", "pattern": "d - mmm"}}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment,numberFormat)"}},
 
-            # Row 5 Header (Cols 0 to 20): Google Blue
+            # Row 5 Header (Cols 0 to 27): Google Blue
             {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 4, "endRowIndex": 5, "startColumnIndex": 0, "endColumnIndex": p_cols}, "cell": {"userEnteredFormat": {"backgroundColor": {"red": 0.102, "green": 0.451, "blue": 0.910}, "textFormat": {"bold": True, "fontSize": 10, "foregroundColor": {"red": 1.0, "green": 1.0, "blue": 1.0}}, "horizontalAlignment": "CENTER", "verticalAlignment": "MIDDLE", "wrapStrategy": "WRAP"}}, "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment,verticalAlignment,wrapStrategy)"}},
 
             # Row 3 Amber Alert Banner
@@ -827,7 +897,7 @@ def deploy_rollup_dashboard(rollup_info):
                             "verticalAlignment": "MIDDLE",
                             "wrapStrategy": "CLIP"
                         },
-                        "note": "Consolidated rollup across all 4 Oliver Hartley FSRs (317 workloads, $45.30M ARR). Workloads in stage 4.3 (Migrated/Implemented) are included."
+                        "note": f"Consolidated FSR Management Dashboard across all 4 Oliver Hartley FSRs ({total_workloads} workloads, ${total_arr / 1e6:.2f}M ARR). Workloads in stage 4.3 (Migrated/Implemented) are included."
                     },
                     "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment,verticalAlignment,wrapStrategy),note"
                 }
@@ -838,20 +908,12 @@ def deploy_rollup_dashboard(rollup_info):
             {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 0, "endColumnIndex": 1}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER", "textFormat": {"bold": True}}}, "fields": "userEnteredFormat(horizontalAlignment,textFormat)"}},
             # Col 4 (E): ARR USD Currency
             {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 4, "endColumnIndex": 5}, "cell": {"userEnteredFormat": {"numberFormat": {"type": "CURRENCY", "pattern": "$#,##0.00"}}}, "fields": "userEnteredFormat.numberFormat"}},
-            # Col 5 (F): Opportunity Stage as TEXT (Center)
+            # Col 5 (F): Workload Progress as TEXT (Center)
             {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 5, "endColumnIndex": 6}, "cell": {"userEnteredFormat": {"numberFormat": {"type": "TEXT"}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(numberFormat,horizontalAlignment)"}},
-            # Col 6 (G): Workload Progress as TEXT (Center)
-            {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 6, "endColumnIndex": 7}, "cell": {"userEnteredFormat": {"numberFormat": {"type": "TEXT"}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(numberFormat,horizontalAlignment)"}},
-            # Col 7 (H) & 9 (J): Dates (Center)
-            {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 7, "endColumnIndex": 8}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat.horizontalAlignment"}},
-            {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 9, "endColumnIndex": 10}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat.horizontalAlignment"}},
-            # Col 8 (I) & Col 10 (K): Days Until Implementation / Production as NUMBER
-            {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 8, "endColumnIndex": 9}, "cell": {"userEnteredFormat": {"numberFormat": {"type": "NUMBER", "pattern": "#,##0"}}}, "fields": "userEnteredFormat.numberFormat"}},
-            {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 10, "endColumnIndex": 11}, "cell": {"userEnteredFormat": {"numberFormat": {"type": "NUMBER", "pattern": "#,##0"}}}, "fields": "userEnteredFormat.numberFormat"}},
-            # Col 11 (L): Cual es el bloqueo? dropdown
+            # Col 6 (G): Cual es el bloqueo? dropdown
             {
                 "setDataValidation": {
-                    "range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 11, "endColumnIndex": 12},
+                    "range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 6, "endColumnIndex": 7},
                     "rule": {
                         "condition": {"type": "ONE_OF_LIST", "values": [{"userEnteredValue": "Comercial"}, {"userEnteredValue": "Tecnico"}]},
                         "strict": True,
@@ -859,11 +921,42 @@ def deploy_rollup_dashboard(rollup_info):
                     }
                 }
             },
-            # Col 20 (U) & Col 21 (V): Boolean Checkboxes
+            # Col 9 (J) to Col 12 (M): Boolean Checkboxes (Proposta Sent, Tech Win, Nao Existe, Dat Hygine Needed)
             {
                 "setDataValidation": {
-                    "range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 20, "endColumnIndex": 22},
+                    "range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 9, "endColumnIndex": 13},
                     "rule": {"condition": {"type": "BOOLEAN"}, "showCustomUi": True}
+                }
+            },
+            {
+                "repeatCell": {
+                    "range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 9, "endColumnIndex": 13},
+                    "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER"}},
+                    "fields": "userEnteredFormat.horizontalAlignment"
+                }
+            },
+            # Col 19 (T): Opportunity Stage as TEXT (Center)
+            {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 19, "endColumnIndex": 20}, "cell": {"userEnteredFormat": {"numberFormat": {"type": "TEXT"}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(numberFormat,horizontalAlignment)"}},
+            # Col 20 (U) & Col 22 (W): Implementation Date & Production Date (Center, DATE yyyy-mm-dd)
+            {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 20, "endColumnIndex": 21}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER", "numberFormat": {"type": "DATE", "pattern": "yyyy-mm-dd"}}}, "fields": "userEnteredFormat(horizontalAlignment,numberFormat)"}},
+            {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 22, "endColumnIndex": 23}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER", "numberFormat": {"type": "DATE", "pattern": "yyyy-mm-dd"}}}, "fields": "userEnteredFormat(horizontalAlignment,numberFormat)"}},
+            # Col 21 (V) & Col 23 (X): Days Until Implementation / Production as NUMBER (Center)
+            {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 21, "endColumnIndex": 22}, "cell": {"userEnteredFormat": {"numberFormat": {"type": "NUMBER", "pattern": "#,##0"}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(numberFormat,horizontalAlignment)"}},
+            {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 23, "endColumnIndex": 24}, "cell": {"userEnteredFormat": {"numberFormat": {"type": "NUMBER", "pattern": "#,##0"}, "horizontalAlignment": "CENTER"}}, "fields": "userEnteredFormat(numberFormat,horizontalAlignment)"}},
+            # Col 24 (Y) & Col 25 (Z): Partner Implementation Date & Partner Production Date (Center, DATE yyyy-mm-dd)
+            {"repeatCell": {"range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 24, "endColumnIndex": 26}, "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER", "numberFormat": {"type": "DATE", "pattern": "yyyy-mm-dd"}}}, "fields": "userEnteredFormat(horizontalAlignment,numberFormat)"}},
+            # Col 26 (AA) & Col 27 (AB): Boolean Checkboxes (DeepDive, ex-DeepDive)
+            {
+                "setDataValidation": {
+                    "range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 26, "endColumnIndex": 28},
+                    "rule": {"condition": {"type": "BOOLEAN"}, "showCustomUi": True}
+                }
+            },
+            {
+                "repeatCell": {
+                    "range": {"sheetId": sid_followup, "startRowIndex": 5, "endRowIndex": f_rows, "startColumnIndex": 26, "endColumnIndex": 28},
+                    "cell": {"userEnteredFormat": {"horizontalAlignment": "CENTER"}},
+                    "fields": "userEnteredFormat.horizontalAlignment"
                 }
             }
         ]
@@ -896,11 +989,19 @@ def deploy_rollup_dashboard(rollup_info):
     if os.path.exists(tmp_f_batch):
         os.remove(tmp_f_batch)
 
-    # Checkbox boolean values
-    for r_idx in true_tech_wins:
-        subprocess.run([GSHEETS, "mutate", "update-cell", ssid, f"'All_Workloads_Follow_up'!U{r_idx + 1}", "TRUE"], capture_output=True)
+    # Checkbox boolean values (Cols J, K, L, M, AA, AB)
     for r_idx in true_prop_sents:
-        subprocess.run([GSHEETS, "mutate", "update-cell", ssid, f"'All_Workloads_Follow_up'!V{r_idx + 1}", "TRUE"], capture_output=True)
+        subprocess.run([GSHEETS, "mutate", "update-cell", ssid, f"'All_Workloads_Follow_up'!J{r_idx + 1}", "TRUE"], capture_output=True)
+    for r_idx in true_tech_wins:
+        subprocess.run([GSHEETS, "mutate", "update-cell", ssid, f"'All_Workloads_Follow_up'!K{r_idx + 1}", "TRUE"], capture_output=True)
+    for r_idx in true_nao_existes:
+        subprocess.run([GSHEETS, "mutate", "update-cell", ssid, f"'All_Workloads_Follow_up'!L{r_idx + 1}", "TRUE"], capture_output=True)
+    for r_idx in true_dat_hygines:
+        subprocess.run([GSHEETS, "mutate", "update-cell", ssid, f"'All_Workloads_Follow_up'!M{r_idx + 1}", "TRUE"], capture_output=True)
+    for r_idx in true_deep_dives:
+        subprocess.run([GSHEETS, "mutate", "update-cell", ssid, f"'All_Workloads_Follow_up'!AA{r_idx + 1}", "TRUE"], capture_output=True)
+    for r_idx in true_ex_deep_dives:
+        subprocess.run([GSHEETS, "mutate", "update-cell", ssid, f"'All_Workloads_Follow_up'!AB{r_idx + 1}", "TRUE"], capture_output=True)
     print("✓ All_Workloads_Follow_up formatted.")
 
     # -------------------------------------------------------------

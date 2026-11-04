@@ -15,23 +15,26 @@
 const PORTFOLIO_DRIVE_FILE_ID = '1cm_QlMMNbnqv0zeyD3HfmRO1xGZxvYBX';
 const MANUAL_ENTRIES_DRIVE_FILE_ID = '1CnhVKamb5IWUQ6uFxnNDHFSBaM4unvOG';
 
+const ROLLUP_SSID = '1JbaDkmltkqu6aaAKRszEwVFRsJxUSCofCWUKtwcjAhs';
+const ROLLUP_TAB = 'All_Workloads_Follow_up';
+
 const FSR_SHEET_CONFIGS = [
-  { username: 'fpilon', name: 'Felipe Pilon', pdm: 'Oliver Hartley', ssid: '1gS9JWRb-aReMKOiJzhlKEu0TFTb4fF8fNROcTKWf7jU' },
-  { username: 'robertacoelho', name: 'Roberta Coelho', pdm: 'Oliver Hartley', ssid: '1wBiY2bqGo-NJaVeET6g8GRKfOTMDkQaSUhbD5xPfb5M' },
-  { username: 'vmmoyses', name: 'Vanessa Moyses', pdm: 'Oliver Hartley', ssid: '1UXbDWQNf1_wvm6_WHtKX2QIWXzRgib_xMpMGfnu5nKg' },
-  { username: 'dbenevides', name: 'Daniela Benevides', pdm: 'Luna Longo', ssid: '1PlnciU1NuNuo7SL0Jxb-X3HWksLzRXpYOVFk8UqmdAI' },
-  { username: 'dprudencio', name: 'Daniel Prudencio', pdm: 'Luna Longo', ssid: '1qOUzmqu0vrZ7a19oSDR8KZTuDAfbdkJLiCDMoql9iqM' },
-  { username: 'tobiassarah', name: 'Sarah Tobias', pdm: 'Luna Longo', ssid: '1eB2g5osFTKxH0i9B7AoddQO-MJ_qnewu3nwIozquTIs' },
-  { username: 'anagama', name: 'Ana Luiza Gama', pdm: 'Oliver Hartley', ssid: '1VMLeUmBjnucCwW98Z4ElVdusQSOhQgIrWrKlQOGeZdA' },
-  { username: 'renanvaladares', name: 'Renan Valadares', pdm: 'Luna Longo', ssid: '1YmVIhMxpaQpCV4DHP-cN3g4AFt5d2jCDHpQZaeF_soU' }
+  { username: 'oliverhartley', name: 'FSR Management Dashboard - Oliver Hartley', pdm: 'Oliver Hartley', ssid: ROLLUP_SSID, tabName: ROLLUP_TAB }
 ];
 
 const FIELD_SPECS = [
-  { key: 'blocker', webKey: 'blocker', colIdx: 10, header: 'Cual es el bloqueo?', isBool: false },
-  { key: 'status_tecnico', webKey: 'status_tecnico', colIdx: 11, header: 'Status Tecnico', isBool: false },
-  { key: 'partner_tech_email', webKey: 'partner_technical_email', colIdx: 17, header: 'Partner Technical Owner Email', isBool: false },
-  { key: 'technical_win', webKey: 'technical_win', colIdx: 18, header: 'Technical win', isBool: true },
-  { key: 'proposal_sent', webKey: 'proposal_sent', colIdx: 19, header: 'Propousal sent to client', isBool: true }
+  { key: 'blocker', webKey: 'blocker', colIdx: 6, header: 'Cual es el bloqueo?', isBool: false },
+  { key: 'status_tecnico', webKey: 'status_tecnico', colIdx: 7, header: 'Status Tecnico', isBool: false },
+  { key: 'proposal_sent', webKey: 'proposal_sent', colIdx: 9, header: 'Proposta Sent', isBool: true },
+  { key: 'technical_win', webKey: 'technical_win', colIdx: 10, header: 'Tech Win', isBool: true },
+  { key: 'nao_existe', webKey: 'nao_existe', colIdx: 11, header: 'Nao Existe', isBool: true },
+  { key: 'dat_hygine_needed', webKey: 'dat_hygine_needed', colIdx: 12, header: 'Dat Hygine Needed', isBool: true },
+  { key: 'partner_tech_email', webKey: 'partner_technical_email', colIdx: 17, header: 'Partner Technical Contact', isBool: false },
+  { key: 'client_tech_contact', webKey: 'client_technical_contact', colIdx: 18, header: 'Client Technical Contact', isBool: false },
+  { key: 'partner_impl_date', webKey: 'partner_implementation_date', colIdx: 24, header: 'Partner Implementation Date', isBool: false },
+  { key: 'partner_prod_date', webKey: 'partner_production_date', colIdx: 25, header: 'Partner Production Date', isBool: false },
+  { key: 'deep_dive', webKey: 'deep_dive', colIdx: 26, header: 'DeepDive', isBool: true },
+  { key: 'ex_deep_dive', webKey: 'ex_deep_dive', colIdx: 27, header: 'ex-DeepDive', isBool: true }
 ];
 
 /**
@@ -180,34 +183,33 @@ function apiGetData() {
  * Writes a single workload's updated fields directly to its FSR Google Sheet
  */
 function writeSingleWorkloadToSheet_(fsrUsername, workloadId, workloadName, updatedFields) {
-  const cfg = FSR_SHEET_CONFIGS.find(c => c.username === fsrUsername);
-  if (!cfg || (!workloadId && !workloadName)) return false;
+  if (!workloadId && !workloadName) return false;
 
   try {
-    const ss = SpreadsheetApp.openById(cfg.ssid);
-    const sheet = ss.getSheetByName('Follow_up');
+    const ss = SpreadsheetApp.openById(ROLLUP_SSID);
+    const sheet = ss.getSheetByName(ROLLUP_TAB);
     if (!sheet) return false;
 
-    const lastRow = Math.min(sheet.getLastRow(), 300);
+    const lastRow = Math.min(sheet.getLastRow(), 500);
     if (lastRow < 6) return false;
 
-    const headerRow = sheet.getRange(5, 1, 1, 20).getValues()[0].map(h => String(h || '').trim());
+    const headerRow = sheet.getRange(5, 1, 1, 24).getValues()[0].map(h => String(h || '').trim());
     const colMap = {};
     headerRow.forEach((h, idx) => { colMap[h] = idx; });
 
     const numDataRows = lastRow - 5;
-    const colCValues = sheet.getRange(6, 3, numDataRows, 1).getValues();
-    const colCFormulas = sheet.getRange(6, 3, numDataRows, 1).getFormulas();
+    const colDValues = sheet.getRange(6, 4, numDataRows, 1).getValues();
+    const colDFormulas = sheet.getRange(6, 4, numDataRows, 1).getFormulas();
 
     let targetSheetRow = -1; // 1-based row number
     for (let r = 0; r < numDataRows; r++) {
-      const fStr = colCFormulas[r][0] || '';
+      const fStr = colDFormulas[r][0] || '';
       const rowWid = extractWorkloadIdFromFormula_(fStr);
       if (workloadId && rowWid && rowWid === String(workloadId)) {
         targetSheetRow = 6 + r;
         break;
       }
-      const label = extractHyperlinkLabel_(fStr || colCValues[r][0]);
+      const label = extractHyperlinkLabel_(fStr || colDValues[r][0]);
       if (!rowWid && label === workloadName) {
         targetSheetRow = 6 + r;
         break;
@@ -230,7 +232,7 @@ function writeSingleWorkloadToSheet_(fsrUsername, workloadId, workloadName, upda
     SpreadsheetApp.flush();
     return true;
   } catch (err) {
-    console.error('Error writing single workload to sheet (' + fsrUsername + '): ' + err);
+    console.error('Error writing single workload to Rollup sheet: ' + err);
     return false;
   }
 }
@@ -383,15 +385,15 @@ function apiSyncSheets(payload) {
     FSR_SHEET_CONFIGS.forEach(cfg => {
       try {
         const ss = SpreadsheetApp.openById(cfg.ssid);
-        const sheet = ss.getSheetByName('Follow_up');
+        const sheet = ss.getSheetByName(cfg.tabName || ROLLUP_TAB);
         if (!sheet) return;
 
-        const lastRow = Math.min(sheet.getLastRow(), 300);
+        const lastRow = Math.min(sheet.getLastRow(), 500);
         if (lastRow < 6) return;
 
         const numRows = lastRow - 4; // Row 5 (header) through lastRow
-        const values = sheet.getRange(5, 1, numRows, 20).getValues();
-        const formulas = sheet.getRange(5, 3, numRows, 1).getFormulas();
+        const values = sheet.getRange(5, 1, numRows, 24).getValues();
+        const formulas = sheet.getRange(5, 4, numRows, 1).getFormulas();
 
         const headers = values[0].map(h => String(h || '').trim());
         const colMap = {};
@@ -401,7 +403,7 @@ function apiSyncSheets(payload) {
           const rowVals = values[r];
           const fStr = formulas[r][0] || '';
           const wid = extractWorkloadIdFromFormula_(fStr);
-          const wname = extractHyperlinkLabel_(fStr || rowVals[2]);
+          const wname = extractHyperlinkLabel_(fStr || rowVals[3]);
           if (!wname && !wid) continue;
 
           const isUniqueWname = (wNameCounts[wname] || 0) <= 1;
