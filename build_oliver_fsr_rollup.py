@@ -69,7 +69,7 @@ FOLLOWUP_HEADERS = [
     "Workload Progress",                # Col 5 (F)
     "Cual es el bloqueo?",              # Col 6 (G)
     "Status Tecnico",                   # Col 7 (H)
-    "AI Summary Next Steps",            # Col 8 (I)
+    "Next Steps",                       # Col 8 (I)
     "Proposta Sent",                    # Col 9 (J)  - Checkbox
     "Tech Win",                         # Col 10 (K) - Checkbox
     "Nao Existe",                       # Col 11 (L) - Checkbox
@@ -100,7 +100,7 @@ FOLLOWUP_COL_WIDTHS = {
     5: 130,  # Workload Progress
     6: 160,  # Cual es el bloqueo?
     7: 300,  # Status Tecnico
-    8: 350,  # AI Summary Next Steps
+    8: 350,  # Next Steps
     9: 130,  # Proposta Sent
     10: 110, # Tech Win
     11: 120, # Nao Existe
@@ -310,6 +310,7 @@ def build_rollup_datasets(cache, prio_map, user_data, manual_entries, ai_cache):
 
         blocker_val = m_entry.get("blocker") or u_info.get("blocker_tecnico") or ""
         status_tecnico_val = m_entry.get("status_tecnico") or u_info.get("status_tecnico") or ""
+        next_steps_val = m_entry.get("next_steps") or u_info.get("next_steps") or ""
         partner_tech_val = (
             m_entry.get("partner_tech_contact")
             or m_entry.get("partner_tech_email")
@@ -384,7 +385,7 @@ def build_rollup_datasets(cache, prio_map, user_data, manual_entries, ai_cache):
             prog_short,                 # 5 (F): Workload Progress
             blocker_val,                # 6 (G): Cual es el bloqueo?
             status_tecnico_val,         # 7 (H): Status Tecnico
-            ai_summary_val,             # 8 (I): AI Summary Next Steps
+            next_steps_val,             # 8 (I): Next Steps
             prop_sent_val,              # 9 (J): Proposta Sent (Checkbox)
             tech_win_val,               # 10 (K): Tech Win (Checkbox)
             nao_existe_val,             # 11 (L): Nao Existe (Checkbox)

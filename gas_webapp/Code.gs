@@ -25,6 +25,7 @@ const FSR_SHEET_CONFIGS = [
 const FIELD_SPECS = [
   { key: 'blocker', webKey: 'blocker', colIdx: 6, header: 'Cual es el bloqueo?', isBool: false },
   { key: 'status_tecnico', webKey: 'status_tecnico', colIdx: 7, header: 'Status Tecnico', isBool: false },
+  { key: 'next_steps', webKey: 'next_steps', colIdx: 8, header: 'Next Steps', isBool: false },
   { key: 'proposal_sent', webKey: 'proposal_sent', colIdx: 9, header: 'Proposta Sent', isBool: true },
   { key: 'technical_win', webKey: 'technical_win', colIdx: 10, header: 'Tech Win', isBool: true },
   { key: 'nao_existe', webKey: 'nao_existe', colIdx: 11, header: 'Nao Existe', isBool: true },

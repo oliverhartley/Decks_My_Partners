@@ -50,6 +50,7 @@ FSR_SHEET_CONFIGS = [
 FIELD_SPECS = [
     {"key": "blocker", "user_key": "blocker_tecnico", "col_idx": 6, "header": "Cual es el bloqueo?", "is_bool": False},
     {"key": "status_tecnico", "user_key": "status_tecnico", "col_idx": 7, "header": "Status Tecnico", "is_bool": False},
+    {"key": "next_steps", "user_key": "next_steps", "col_idx": 8, "header": "Next Steps", "is_bool": False},
     {"key": "proposal_sent", "user_key": "proposal_sent", "col_idx": 9, "header": "Proposta Sent", "is_bool": True},
     {"key": "technical_win", "user_key": "technical_win", "col_idx": 10, "header": "Tech Win", "is_bool": True},
     {"key": "nao_existe", "user_key": "nao_existe", "col_idx": 11, "header": "Nao Existe", "is_bool": True},

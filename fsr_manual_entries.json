@@ -36,7 +36,6 @@
     "dat_hygine_needed": true,
     "updated_at": "2026-11-02T12:24:30.101690",
     "status_tec": "Oportunidade de Broadcast não é prioridade atual (foco na Copa do Mundo Feminina de 2027); em acompanhamento com Roberta Coelho e MadeinWeb (leonardo@madeinweb.com.br).",
-    "ai_summary": "[2026-10-28] Oportunidade de Broadcast despriorizada no momento por ser voltada para a Copa do Mundo Feminina de 2027; alinhar cronograma de 2027 junto à FSR Roberta Coelho e MadeinWeb (leonardo@madeinweb.com.br).",
     "partner_tech_contact": "leonardo@madeinweb.com.br"
   },
   "Broadcast_CBF": {
@@ -1325,13 +1324,11 @@
   "aBJKf000004ZQ8VOAW": {},
   "Migração AXIA": {},
   "aBJKf000004ZSW0OAO": {
-    "ai_summary": "[2026-10-22] SOW validado tecnicamente por Oliver (87% compliance) e enviado à Sauter e Vanessa; aguardando ajustes finais (DRP ID, métricas e vigência) para assinatura.",
     "status_tec": "SOW validado tecnicamente por Oliver (87% compliance) e enviado à Sauter e Vanessa; aguardando ajustes finais para assinatura.",
     "status_tecnico": "SOW técnica com conformidade enviada ao parceiro; aguardando ajustes finais de métricas e DRP para assinatura.",
     "updated_at": "2026-11-04T08:00:27.173500"
   },
   "Gemini Enterprise 2_Tenda": {
-    "ai_summary": "[2026-10-22] SOW validado tecnicamente por Oliver (87% compliance) e enviado à Sauter e Vanessa; aguardando ajustes finais (DRP ID, métricas e vigência) para assinatura.",
     "status_tec": "SOW validado tecnicamente por Oliver (87% compliance) e enviado à Sauter e Vanessa; aguardando ajustes finais para assinatura.",
     "status_tecnico": "SOW técnica com conformidade enviada ao parceiro; aguardando ajustes finais de métricas e DRP para assinatura.",
     "updated_at": "2026-11-04T08:00:27.173500"
@@ -1339,12 +1336,10 @@
   "aBJKf000004ZRKmOAO": {},
   "Projeto Amazonia Legal": {},
   "aBJKf000004ZMQuOAO": {
-    "ai_summary": "[2026-10-26] Parceiro QiNetwork vinculado no Vector e contrato assinado; acompanhando cronograma acelerado de implementação (Stage 4.1) com entrega prevista para 27/11.",
     "status_tecnico": "Co-led the with QiNetwork for Pátria group technical stakeholders (Dagoberto Souza, Guilherme Toledo, Cristian Rojas, Kevin Knowles, Andre Moura) to evaluate Gemini Enterprise user capabilities and align on the group-wide activation plan",
     "updated_at": "2026-11-04T08:00:27.173500"
   },
   "GE_SEK": {
-    "ai_summary": "[2026-10-26] Parceiro QiNetwork vinculado no Vector e contrato assinado; acompanhando cronograma acelerado de implementação (Stage 4.1) com entrega prevista para 27/11.",
     "status_tecnico": "Co-led the with QiNetwork for Pátria group technical stakeholders (Dagoberto Souza, Guilherme Toledo, Cristian Rojas, Kevin Knowles, Andre Moura) to evaluate Gemini Enterprise user capabilities and align on the group-wide activation plan",
     "updated_at": "2026-11-04T08:00:27.173500"
   },
@@ -1364,8 +1359,7 @@
   "SECOPS+SCC_Athena": {},
   "aBJKf000004ZKKuOAO": {
     "partner_tech_contact": "Daniel de Almeida (lucas.feitoza@qinetwork.com.br)",
-    "updated_at": "2026-10-27T14:41:22.852580",
-    "ai_summary": "[2026-10-27] Contato técnico da QiNetwork (Lucas Feitoza) mapeado; acompanhando cronograma de adoção e implementação do Gemini Enterprise em Stage 4.3."
+    "updated_at": "2026-10-27T14:41:22.852580"
   },
   "Recommit Patria/ GE": {
     "partner_tech_contact": "Daniel de Almeida (lucas.feitoza@qinetwork.com.br)",
@@ -1375,8 +1369,7 @@
   "WIZ_Alper": {},
   "aBJKf000004ZIvcOAG": {
     "partner_tech_contact": "jardel.sliumba@santodigital.com.br",
-    "updated_at": "2026-10-28T08:01:08.418925",
-    "ai_summary": "[2026-10-27] Confirmado com SantoDigital que Jardel Sliumba lidera a conta; realizar follow-up técnico com Jardel e apoiar abordagem junto à diretoria após mudança de CIO."
+    "updated_at": "2026-10-28T08:01:08.418925"
   },
   "GE_Myralis": {
     "partner_tech_contact": "jardel.sliumba@santodigital.com.br",
@@ -1445,8 +1438,7 @@
   "aBJKf000009e8euOAA": {
     "status_tecnico": "Já está no Cloud Connect, poderia ser 4.3",
     "updated_at": "2026-10-28T19:10:58.251804",
-    "partner_tech_contact": "cruz.lucas@cloud-ace.com",
-    "ai_summary": "[2026-10-28] Parceiro Cloud Ace vinculado; validado que já está ativo no Cloud Connect, pronto para avançar para Stage 4.3."
+    "partner_tech_contact": "cruz.lucas@cloud-ace.com"
   },
   "Gemini Ent Braveo": {
     "status_tecnico": "Já está no Cloud Connect, poderia ser 4.3",
@@ -1514,7 +1506,6 @@
     "updated_at": "2026-11-04T08:00:27.173500",
     "blocker": "Tecnico",
     "status_tecnico": "Aligned with SantoDigital (Thais Prado): awaiting finance release of 50 trial licenses for Atakarejo, after which a 30-min we will have 2 wheeks of followp, i will not participate in all of them",
-    "ai_summary": "[2026-10-27] Alinhado com Thais (SantoDigital): cliente ainda não iniciou o trial; aguardando liberação financeira de 5 licenças trial para agendar sessão técnica de 30 min com Oliver para configurar conector Outlook.",
     "status_tec": "Alinhado com Thais (SantoDigital): cliente ainda não iniciou o trial; aguardando liberação financeira de 5 licenças trial para agendar sessão técnica de 30 min com Oliver para configurar conector Outlook."
   },
   "Gemini Ent Atakarejo": {
@@ -1522,12 +1513,9 @@
     "updated_at": "2026-11-04T08:00:27.173500",
     "blocker": "Tecnico",
     "status_tecnico": "Aligned with SantoDigital (Thais Prado): awaiting finance release of 50 trial licenses for Atakarejo, after which a 30-min we will have 2 wheeks of followp, i will not participate in all of them",
-    "ai_summary": "[2026-10-27] Alinhado com Thais (SantoDigital): cliente ainda não iniciou o trial; aguardando liberação financeira de 5 licenças trial para agendar sessão técnica de 30 min com Oliver para configurar conector Outlook.",
     "status_tec": "Alinhado com Thais (SantoDigital): cliente ainda não iniciou o trial; aguardando liberação financeira de 5 licenças trial para agendar sessão técnica de 30 min com Oliver para configurar conector Outlook."
   },
-  "aBJKf000004ZMizOAG": {
-    "ai_summary": "[2026-10-22] CE Owner atribuído no Vector; alinhar com FSR Vanessa Moyses a evolução da descoberta técnica e cronograma de implementação em Q4."
-  },
+  "aBJKf000004ZMizOAG": {},
   "GE_Ciranda": {},
   "aBJKf000004ZQQFOA4": {},
   "SCC": {},
@@ -3768,20 +3756,17 @@
   "aBJKf000004ZVbNOAW": {
     "dat_hygine_needed": true,
     "updated_at": "2026-11-04T08:00:27.173500",
-    "ai_summary": "[2026-10-22] Parceiro QiNetwork vinculado e CE Owner atribuído no Vector; acompanhando fechamento da proposta comercial com Solis e início de implementação em novembro.",
     "status_tecnico": "Parceiro QiNetwork integrado; foco agora no fechamento comercial e preparação para a implementação em novembro com FSR e Solis. Demo Session for Pátria leadership (including CTO Kevin Knowles, Dagoberto Souza, Guilherme Toledo, and Cristian Rojas), demonstrating user-perspective workflows, governance controls, and identifying the need for a structured adoption plan to activate idle licenses",
     "deep_dive": true
   },
   "GE_Solis": {
     "dat_hygine_needed": true,
     "updated_at": "2026-11-04T08:00:27.173500",
-    "ai_summary": "[2026-10-22] Parceiro QiNetwork vinculado e CE Owner atribuído no Vector; acompanhando fechamento da proposta comercial com Solis e início de implementação em novembro.",
     "status_tecnico": "Parceiro QiNetwork integrado; foco agora no fechamento comercial e preparação para a implementação em novembro com FSR e Solis. Demo Session for Pátria leadership (including CTO Kevin Knowles, Dagoberto Souza, Guilherme Toledo, and Cristian Rojas), demonstrating user-perspective workflows, governance controls, and identifying the need for a structured adoption plan to activate idle licenses",
     "deep_dive": true
   },
   "aBJKf000004ZVegOAG": {},
   "aBJKf000004ZVeHOAW": {
-    "ai_summary": "[2026-10-27] Em alinhamento na reunião de POD (19/10) e Sync CE (27/10), oportunidade inativa decidida para fechamento pela FSR (sem movimentação no cliente).",
     "status_tec": "Oportunidade inativa decidida para fechamento pela FSR no POD.",
     "nao_existe": true
   },
@@ -3794,9 +3779,7 @@
     "status_tecnico": "Workload de crescimento acompanhado pelo Cloud Connect",
     "updated_at": "2026-10-28T19:10:58.251804"
   },
-  "aBJKf000004ZVXBOA4": {
-    "ai_summary": "[2026-10-22] CE Owner atribuído no Vector; alinhar com FSR Vanessa Moyses e parceiro SoftwareOne os próximos passos da avaliação técnica (Stage 3) para início em novembro."
-  },
+  "aBJKf000004ZVXBOA4": {},
   "GE_Mobcall": {},
   "aBJKf000004ZVeWOAW": {},
   "Smart Fit - Commit 3Y": {},
