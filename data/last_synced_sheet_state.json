@@ -8,7 +8,11 @@
     "partner_tech_contact": "dathayde@kyndryl.com",
     "client_tech_contact": "Marcio Maia (marcio.maia@solarbr.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "SolarBR_Data2AI": {
     "blocker": "",
@@ -19,7 +23,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Iago Lucena (iago.lucena@solarbr.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Broadcast_CBF": {
     "blocker": "",
@@ -30,7 +38,11 @@
     "partner_tech_contact": "leonardo@madeinweb.com.br",
     "client_tech_contact": "Leonardo Waissmann (leonardo@madeinweb.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": true
+    "dat_hygine_needed": true,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Infratakeover_CIBRA": {
     "blocker": "",
@@ -41,7 +53,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Arivaldo Conceição (emendes@sauter.digital)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "GeminiEnterprise_BASA": {
     "blocker": "",
@@ -52,7 +68,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Glauccyo Heleno (gabriele.oliveira@xertica.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Alvoar Lacteos - Infraestrutura Corporativa": {
     "blocker": "",
@@ -63,7 +83,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Zeca Branco (zeca@sauter.digital)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "RedeBahia_Movetocloud": {
     "blocker": "",
@@ -74,18 +98,26 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Romildo Fausto (celso@qinetwork.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Migração Monuv_": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Cliente avançou nas negociações; aguardo agendamento de reunião estratégica com Jardel para definir os próximos passos do projeto.\nEl real problema era que el cliente no entendia que el costo de la infra que se hizo para la PoC (Camaras) aumentara tanto para el productivo (1276 Camaras). Se explico que el costo mas importante es el sotorage. Yo aporte con una idea de los videos mas antiguos hacer un proceso con vision AI y eliminar todos los periodos sin movimiento. Lo cla el cliente le gusto.. Propuesta entregada",
     "partner_tech_email": "jardel.sliumba@santodigital.com.br",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "jardel.sliumba@santodigital.com.br",
     "client_tech_contact": "Cristiano Cruz (thuanybaia@santodigital.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": true,
+    "ex_deep_dive": false
   },
   "GrupoCVLB_Enriquecimento de catalogo&Veomarketing_JornadaIA": {
     "blocker": "",
@@ -105,7 +137,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Wellington Britto (britto@deso-se.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": true
+    "dat_hygine_needed": true,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "AWT_GE_Condor": {
     "blocker": "",
@@ -123,7 +159,11 @@
     "partner_tech_contact": "mnatalia@madeinweb.com.br",
     "client_tech_contact": "Bernardo Bessa (leonardo.camargo@tdsynnex.com)",
     "nao_existe": false,
-    "dat_hygine_needed": true
+    "dat_hygine_needed": true,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "DM_Migração bancoAWS_GCP_GrupoCVLB": {
     "blocker": "",
@@ -143,7 +183,11 @@
     "partner_tech_contact": "dathayde@kyndryl.com",
     "client_tech_contact": "Iago Lucena (hlaurindo@solarbr.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "JornadaIA_Alvoar_marketing&sales": {
     "blocker": "",
@@ -154,18 +198,26 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Cassio Castro (zeca@sauter.digital)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Gemini Enterprise_CVLB": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Cliente em Recuperação Judicial; buscando viabilização via AWT, pendente aprovação das condições comerciais.\nReuion por problema grave de Costos de BigQuery. Problema resuelto via reestructuracion de tablas y guardado de dats a clous storage. Plan enviado a sauter para implementacion.\nCongelamiento por blackfriday, Retomar primera semana de Octubre",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "e.martins@sauter.digital",
     "client_tech_contact": "Wellington Rufino (e.martins@sauter.digital)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": true,
+    "ex_deep_dive": false
   },
   "FSB | Apigee": {
     "blocker": "",
@@ -214,14 +266,18 @@
   },
   "Gemini Enterprise_Fogas": {
     "blocker": "",
-    "status_tecnico": "Já está no Cloud Connect, poderia ser 4.3",
+    "status_tecnico": "SantoDigital ajustará a proposta e Roberta agendará reunião com o cliente para viabilizar infraestrutura de 1.000 câmeras.\nohl - Vliente (Cristiano Cruz le gusta la propuesta y es la que va a apoyar para el Cierre). El cierre Propuesta se espera para la primera semana de Nov",
     "partner_tech_email": "jardel.sliumba@santodigital.com.br",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "jardel.sliumba@santodigital.com.br",
     "client_tech_contact": "Cristiano Cruz (jardel.sliumba@santodigital.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": true,
+    "ex_deep_dive": false
   },
   "#Analytics_Fogas": {
     "blocker": "",
@@ -241,7 +297,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Zeca Branco (zeca@sauter.digital)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Cibra_GE": {
     "blocker": "",
@@ -252,7 +312,11 @@
     "partner_tech_contact": "Roberta Coelho (etelvina.mendes@venhapranuvem.com.br)",
     "client_tech_contact": "Arivaldo Conceição (renato.takata@venhapranuvem.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": true
+    "dat_hygine_needed": true,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "COMPANHIA DE SANEAMENTO DE ALAGOAS - InfraMod": {
     "blocker": "",
@@ -281,7 +345,11 @@
     "partner_tech_contact": "lucas.feitoza@qinetwork.com.br",
     "client_tech_contact": "Wilton De Oliveira (sidney.neimann@nisseisa.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "GrupoCVLB_Analytics": {
     "blocker": "",
@@ -326,7 +394,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Felipe Merfa (fabricio.gomes@fsb.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "GCB_infraMOD": {
     "blocker": "",
@@ -346,7 +418,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Analu Gama (analu.gama@ipnet.cloud)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Grupo CVLB Projeto Vitrines Inteligentes #RetailRecommendations": {
     "blocker": "",
@@ -429,7 +505,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Hinode - GE para consultores": {
     "blocker": "",
@@ -978,7 +1058,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Thiago Bianchi (thiago.bianchi@mc1global.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Image Recognition": {
     "blocker": "",
@@ -989,7 +1073,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Thiago Bianchi (thiago.bianchi@mc1global.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Gemini Platform": {
     "blocker": "",
@@ -1007,7 +1095,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Rogerio Spinelli (rogerio.spinelli@kyndryl.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "AutoGlass - GECX": {
     "blocker": "",
@@ -1018,7 +1110,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Luan Smarsaro Amorim (luan.amorim@autoglass.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Infra - nova instancia": {
     "blocker": "",
@@ -1029,7 +1125,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Vertex AI - Incremento": {
     "blocker": "",
@@ -1047,7 +1147,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Luciano Kalil (luciano.kalil@valgroupco.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Kurier - Move to GCP": {
     "blocker": "",
@@ -1058,7 +1162,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Agent - Atendimento": {
     "blocker": "",
@@ -1069,7 +1177,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Fernando Junkes (fernando.junkes@intelbras.com.br)",
     "nao_existe": true,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Valgroup - Impressao - AI - Plantas": {
     "blocker": "",
@@ -1080,7 +1192,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "João Henrique Vaz (joao.vaz@valgroupco.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "fast2mine - Infra AI - Minas": {
     "blocker": "",
@@ -1091,7 +1207,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Infra AI": {
     "blocker": "",
@@ -1109,7 +1229,11 @@
     "partner_tech_contact": "lucas.feitoza@qinetwork.com.br",
     "client_tech_contact": "Lucas Bachmann Bachmann Feitoza (lucas.feitoza@qinetwork.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Analytics": {
     "blocker": "Comercial",
@@ -1120,7 +1244,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "",
     "nao_existe": false,
-    "dat_hygine_needed": true
+    "dat_hygine_needed": true,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "AutoGlass - Gemini Enterprise": {
     "blocker": "",
@@ -1131,7 +1259,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Luiz Roberto Pinon Junior (luiz.pinon@autoglass.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": true
+    "dat_hygine_needed": true,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Modernização BD": {
     "blocker": "",
@@ -1149,7 +1281,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Fernando Junkes (fernando.junkes@intelbras.com.br)",
     "nao_existe": true,
-    "dat_hygine_needed": true
+    "dat_hygine_needed": true,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "MC1 - Pepsico": {
     "blocker": "",
@@ -1176,7 +1312,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "BLUECORP - Infra Modernizationn Incremental": {
     "blocker": "",
@@ -1187,7 +1327,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Victor Marcondes (vmarcondes@nilo.co)",
     "nao_existe": true,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Intelbras - Modernizacao Industria - Negocios": {
     "blocker": "",
@@ -1198,7 +1342,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Fernando Junkes (fernando.junkes@intelbras.com.br)",
     "nao_existe": true,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "BI - Agent": {
     "blocker": "",
@@ -1209,7 +1357,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Fernando Junkes (fernando.junkes@intelbras.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "MC1 - BIMBO": {
     "blocker": "",
@@ -1229,7 +1381,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "SecOps & WIZ": {
     "blocker": "",
@@ -1272,7 +1428,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Rafael Goulart (rafael.goulart@aurum.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Mutant - Infra AI - Estacio": {
     "blocker": "",
@@ -1285,14 +1445,18 @@
   },
   "Fortics - Gemini Ent": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Problemas con el conector de Outlook. Problemas de Quotas y Consumo. Reunion se programara por el partner el la semana del2 de Nov",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
     "client_tech_contact": "Edison Figueira Junior Figueira Junior (edison@fortics.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": true
+    "dat_hygine_needed": true,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": true,
+    "ex_deep_dive": false
   },
   "Novo Ambiente Azure": {
     "blocker": "",
@@ -1303,7 +1467,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Romulo Simas (romulo.simas@movti.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "MC1 - Mondelez": {
     "blocker": "",
@@ -1332,7 +1500,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Gabriel Laraia (gabriel.laraia@intelbras.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Climatempo - IA": {
     "blocker": "",
@@ -1343,18 +1515,26 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Flávio Horita (flavio.horita@climatempo.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Climatempo - CDP": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Projeto em desenvolvimento interno pela equipe da Climatempo, sem bloqueios reportados até o momento.\n\nOHL- ou proposed a value-differentiation strategy for Gemini Enterprise vs. OpenAI while uncovering that Climatempo's Norwegian parent holding (StormGeo) had imposed strict top-down cost reviews across the account. StormGeo (Norwegian parent company) imposed a strict financial/cost audit, stalling new cloud and AI initiatives",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
     "client_tech_contact": "Flávio Horita (flavio.horita@climatempo.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Dynamox - Gemini Enterprise": {
     "blocker": "",
@@ -1365,7 +1545,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Bernardo Murta (bernardo@dynamox.net)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Infra - Move to Cloud": {
     "blocker": "",
@@ -1385,7 +1569,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Celso Bueno (celso.bueno@leomadeiras.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "MC1_NewProductOnGCP": {
     "blocker": "",
@@ -1405,7 +1593,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Bernardo Murta (bernardo@dynamox.net)",
     "nao_existe": false,
-    "dat_hygine_needed": true
+    "dat_hygine_needed": true,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "AutoGlass - Abertura Sinistro": {
     "blocker": "",
@@ -1416,18 +1608,26 @@
     "partner_tech_contact": "mnatalia@madeinweb.com.br",
     "client_tech_contact": "Ciro Romanel (ciro.romanel@autoglass.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "AURUM - Antigravity": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Propuesta de GE + Wiz 26 Empresas",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
     "client_tech_contact": "Frederico Ferreira De Figueiredo (frederico.figueiredo@aurum.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "AI - Vertex Ai": {
     "blocker": "",
@@ -1438,7 +1638,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Bernardo Murta (bernardo@dynamox.net)",
     "nao_existe": true,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Contimatic - ReCommit #Q3CloseAcc": {
     "blocker": "",
@@ -1467,7 +1671,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Tiago Muza (tiago.muza@aurum.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Seguranca": {
     "blocker": "",
@@ -1478,7 +1686,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Bernardo Murta (bernardo@dynamox.net)",
     "nao_existe": true,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Fortics - VertexAI": {
     "blocker": "",
@@ -1489,7 +1701,11 @@
     "partner_tech_contact": "marcio.silva@santodigital.com.br",
     "client_tech_contact": "Edison Figueira (efigueira@fortics.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": true
+    "dat_hygine_needed": true,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Fontec - Data Management": {
     "blocker": "",
@@ -1509,7 +1725,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Fortics - SecOps": {
     "blocker": "",
@@ -1520,7 +1740,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Edison Figueira Junior Figueira Junior (edison@fortics.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Aurum - SCC": {
     "blocker": "",
@@ -1554,7 +1778,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Fabiano Moura (fabiano.moura@autoglass.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Climatempo - Agentspace": {
     "blocker": "",
@@ -1565,7 +1793,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Alan Pires Araujo (alan@santodigital.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Liber Capital - GE": {
     "blocker": "",
@@ -1608,7 +1840,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Lucas Bachmann Bachmann Feitoza (lucas.feitoza@qinetwork.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Migration GCP to OCI": {
     "blocker": "",
@@ -1628,7 +1864,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Marcio Ferreira Da Silva (marcio.ferreira@exa.com.br)",
     "nao_existe": true,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Migração SEK_fase 2": {
     "blocker": "",
@@ -1639,7 +1879,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Adriana Contreras (adrianacontreras@avidanti.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Investidas Lake_Braveo": {
     "blocker": "",
@@ -1668,7 +1912,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Adriana Contreras (adrianacontreras@avidanti.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Migração AWS_BIG BOX": {
     "blocker": "",
@@ -1679,7 +1927,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Daniel Ribeiro",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "OCI Migration_Autopass": {
     "blocker": "",
@@ -1690,7 +1942,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Neo4J_Patria": {
     "blocker": "",
@@ -1701,7 +1957,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Angelo Figaro (angelo.figaro@patria.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "RIOGaleão - SAP": {
     "blocker": "",
@@ -1730,7 +1990,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Projeto KUBO _ ONR": {
     "blocker": "",
@@ -1759,7 +2023,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Arnaldo Cesar Caetano Caetano (arnaldo@wps-sa.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "ONR | IARI 2.0 Marketplace": {
     "blocker": "",
@@ -1788,7 +2056,11 @@
     "partner_tech_contact": "ademir.junior@gavb.com.br",
     "client_tech_contact": "",
     "nao_existe": true,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Infra Modernization_Pátria - Entel Chile": {
     "blocker": "",
@@ -1826,7 +2098,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Rodrigo Ricardi",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Precificação_Tenda": {
     "blocker": "",
@@ -1846,7 +2122,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Ricardo Bolognesi (ricardo.paula@onr.org.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "GE_ATHENA": {
     "blocker": "",
@@ -1857,7 +2137,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "",
     "nao_existe": false,
-    "dat_hygine_needed": true
+    "dat_hygine_needed": true,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Segmentação de Personas_Tenda_ #LLM": {
     "blocker": "",
@@ -1877,7 +2161,11 @@
     "partner_tech_contact": "Vanessa Moyses",
     "client_tech_contact": "Marcos Igutti",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "ONR Apigee": {
     "blocker": "",
@@ -1888,7 +2176,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Eduardo Tinoco (eduardo.tinoco@onr.org.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Solis Investimentos_Migração parte 2": {
     "blocker": "",
@@ -1917,7 +2209,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Angelo Figaro (angelo.figaro@patria.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Migrações AWS+Azure_Patria": {
     "blocker": "",
@@ -1946,7 +2242,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Adriana Contreras (adrianacontreras@avidanti.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Migração AXIA": {
     "blocker": "",
@@ -1957,7 +2257,11 @@
     "partner_tech_contact": "Fernanda Faria",
     "client_tech_contact": "Leandro Pereira (leandro.pereira@axiaagro.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Lavoro_LLM": {
     "blocker": "",
@@ -1988,14 +2292,18 @@
   },
   "Gemini Enterprise 2_Tenda": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "SOW técnica com conformidade enviada ao parceiro; aguardando ajustes finais de métricas e DRP para assinatura.",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "Vanessa Moyses",
     "client_tech_contact": "Igor Gomes (igor.g@tenda.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Projeto Amazonia Legal": {
     "blocker": "",
@@ -2006,7 +2314,11 @@
     "partner_tech_contact": "Diego Baldin",
     "client_tech_contact": "Ricardo Bolognesi (ricardo.paula@onr.org.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Lavoro - ERP-  Datalake e Infra": {
     "blocker": "",
@@ -2019,14 +2331,18 @@
   },
   "GE_SEK": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Co-led the with QiNetwork for Pátria group technical stakeholders (Dagoberto Souza, Guilherme Toledo, Cristian Rojas, Kevin Knowles, Andre Moura) to evaluate Gemini Enterprise user capabilities and align on the group-wide activation plan",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
     "client_tech_contact": "Joao Perez (joaopedroperez@sek.io)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Crescimento Infra_WPS": {
     "blocker": "",
@@ -2046,7 +2362,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Breno Rios Sa (breno.sa@athenasaude.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Migração DL AWS_Tenda": {
     "blocker": "",
@@ -2059,14 +2379,18 @@
   },
   "GE_Q4_Braveo": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Demo Avanzada - Cliente avalia padronização com GE para cobrir shortfall de $75k no Q4; aguardamos alinhamento com FSR.",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "Vanessa Moyses",
     "client_tech_contact": "Marcelo Alexandre (marcelo.alexandre@braveo.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Migração Ciranda": {
     "blocker": "",
@@ -2104,7 +2428,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Breno Rios Sa (rodrigo.valario@athenasaude.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Gen AI_#LLM": {
     "blocker": "",
@@ -2133,7 +2461,11 @@
     "partner_tech_contact": "Daniel de Almeida (lucas.feitoza@qinetwork.com.br)",
     "client_tech_contact": "Dagoberto Souza (angelo.figaro@patria.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "WIZ_Alper": {
     "blocker": "",
@@ -2144,7 +2476,11 @@
     "partner_tech_contact": "Lívia Serra",
     "client_tech_contact": "Wilson de Lima Jnior (wilson.junior@alperseguros.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "BIG Query": {
     "blocker": "",
@@ -2218,7 +2554,11 @@
     "partner_tech_contact": "jardel.sliumba@santodigital.com.br",
     "client_tech_contact": "Michel De Souza (dup+michel.souza@myralis.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Apigee_Myralis": {
     "blocker": "",
@@ -2256,7 +2596,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Rodrigo Scaloppi (andre.silva@santodigital.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Migração Dommus": {
     "blocker": "",
@@ -2267,7 +2611,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Overage_Asis": {
     "blocker": "",
@@ -2341,7 +2689,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Jonathan Melo Da Silva (jonathan.silva.ext@athenasaude.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "ONR | Ag Conversacionais | Chat GWS": {
     "blocker": "",
@@ -2370,7 +2722,11 @@
     "partner_tech_contact": "Nao Existe",
     "client_tech_contact": "Adevilson Martins (semcontato@amorsaude.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "DL_Tres Editorial": {
     "blocker": "",
@@ -2444,7 +2800,11 @@
     "partner_tech_contact": "Vanessa Moyses",
     "client_tech_contact": "Marco Fontenelle",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Secops_EXA": {
     "blocker": "",
@@ -2464,7 +2824,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Rogério Bassete (lucas.lazarim@microwork.inf.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "AWS Migration - LAKE": {
     "blocker": "",
@@ -2493,7 +2857,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Christian De Aguiar (christian.aguiar@winity.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Crescimento Vortex": {
     "blocker": "",
@@ -2504,7 +2872,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Michael Grace (mgrace@vtxmx.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "SCC + Armor_WPS": {
     "blocker": "",
@@ -2524,7 +2896,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Rafael Fusco Siqueira Pinto Pinto (rafael@wps-sa.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "WPS_SecOps": {
     "blocker": "",
@@ -2535,7 +2911,11 @@
     "partner_tech_contact": "Daniel de Almeida (daniel.almeida@santodigital.com.br)",
     "client_tech_contact": "Rodrigo Ricardi",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "GeminiEnt_Braveo": {
     "blocker": "",
@@ -2591,7 +2971,11 @@
     "partner_tech_contact": "cruz.lucas@cloud-ace.com",
     "client_tech_contact": "",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "GE_ONR": {
     "blocker": "",
@@ -2602,7 +2986,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Ricardo Bolognesi (gil.matos@onr.org.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "SCC_WPS": {
     "blocker": "",
@@ -2613,7 +3001,11 @@
     "partner_tech_contact": "Daniel de Almeida (daniel.almeida@santodigital.com.br)",
     "client_tech_contact": "Rodrigo Ricardi",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Apigee2_Portal Dev": {
     "blocker": "",
@@ -2642,7 +3034,11 @@
     "partner_tech_contact": "Vanessa Moyses (daniel.almeida@santodigital.com.br)",
     "client_tech_contact": "Igor Gomes (igor.g@tenda.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "DataDog_Marketplace_Alper": {
     "blocker": "",
@@ -2653,7 +3049,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Cortex_Arizona": {
     "blocker": "",
@@ -2673,7 +3073,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Marcelo Petercem",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Security_AZ": {
     "blocker": "",
@@ -2700,7 +3104,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Marco Fontenelle",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Agentplatform_Rio Galeao": {
     "blocker": "",
@@ -2711,7 +3119,11 @@
     "partner_tech_contact": "Vanessa Moyses",
     "client_tech_contact": "Marco Fontenelle",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "AI_Rio Galeão_BOT Aeroporto": {
     "blocker": "",
@@ -2731,7 +3143,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Alyne Klier (alyne.klier@bigbox.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "GenAI": {
     "blocker": "",
@@ -2751,7 +3167,11 @@
     "partner_tech_contact": "Vanessa Moyses",
     "client_tech_contact": "Lucas Lazarim (lucas.lazarim@microwork.inf.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Myralis_Armor": {
     "blocker": "",
@@ -2789,7 +3209,11 @@
     "partner_tech_contact": "Nao existe",
     "client_tech_contact": "Michael Grace (mgrace@vtxmx.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "WPS - Looker": {
     "blocker": "",
@@ -2820,14 +3244,18 @@
   },
   "Gemini Ent Atakarejo": {
     "blocker": "Tecnico",
-    "status_tecnico": "Mañana hace el primer training. Quieren 5. licencias adicionales. E fazer a connecao de Outlook. Yo la hago con el equipo tecnico",
+    "status_tecnico": "Aligned with SantoDigital (Thais Prado): awaiting finance release of 50 trial licenses for Atakarejo, after which a 30-min we will have 2 wheeks of followp, i will not participate in all of them",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "thais.macedo@santodigital.com.br",
     "client_tech_contact": "Eduardo Sampaio (eduardo.brayner@atakarejo.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "AgentSpace_Istoé": {
     "blocker": "",
@@ -2847,7 +3275,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Fabio Biselli (fabiob@itmchannelmarketing.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "GenAI_Projeto Gol_Rio Galeão": {
     "blocker": "",
@@ -2867,7 +3299,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Looker_N2B": {
     "blocker": "",
@@ -2896,7 +3332,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "André Luis Da Silva (andre.silva@santodigital.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "SCC_SEK": {
     "blocker": "",
@@ -2907,7 +3347,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Adriana Contreras (adrianacontreras@avidanti.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Apigee_Portal Desenvolvedor": {
     "blocker": "",
@@ -2941,7 +3385,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Marcelo Estevez (marcelo.estevez@exa.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "EXA - GEMINI ENTERPRISE": {
     "blocker": "",
@@ -2952,7 +3400,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Marcio Moreira Filho (marcio.moreira@exa.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "DL parte 1 RH_Patria": {
     "blocker": "",
@@ -3008,7 +3460,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Igor Slavik (roberto.oguma@movti.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "BQ + AI_Iniciativas_H+": {
     "blocker": "",
@@ -4578,7 +5034,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Wilson de Lima Jnior (wilson.junior@alperseguros.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Migração OCI_Braveo": {
     "blocker": "",
@@ -4589,7 +5049,11 @@
     "partner_tech_contact": "Vanessa Moyses",
     "client_tech_contact": "Marcelo Alexandre (marcelo.alexandre@braveo.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Migração WLs AWS_Tenda": {
     "blocker": "",
@@ -4600,7 +5064,11 @@
     "partner_tech_contact": "Vanessa Moyses",
     "client_tech_contact": "Igor Gomes",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Bemol_IA": {
     "blocker": "",
@@ -4611,7 +5079,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Joao Clineu (jesaias@bemol.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009tZZXOA2": {
     "blocker": "",
@@ -4622,7 +5094,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Cassio Castro (zeca@sauter.digital)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009tIQQOA2": {
     "blocker": "",
@@ -4633,7 +5109,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Zeca Branco (zeca@sauter.digital)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009tRT2OAM": {
     "blocker": "",
@@ -4644,7 +5124,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Glauccyo Heleno (gabriele.oliveira@xertica.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009eMKROA2": {
     "blocker": "",
@@ -4655,7 +5139,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Joao Clineu (jesaias@bemol.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009eVIAOA2": {
     "blocker": "",
@@ -4666,7 +5154,11 @@
     "partner_tech_contact": "leonardo@madeinweb.com.br",
     "client_tech_contact": "Leonardo Waissmann (leonardo@madeinweb.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": true
+    "dat_hygine_needed": true,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009eQUGOA2": {
     "blocker": "",
@@ -4677,7 +5169,11 @@
     "partner_tech_contact": "mnatalia@madeinweb.com.br",
     "client_tech_contact": "Bernardo Bessa (leonardo.camargo@tdsynnex.com)",
     "nao_existe": false,
-    "dat_hygine_needed": true
+    "dat_hygine_needed": true,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009eMfyOAE": {
     "blocker": "",
@@ -4688,7 +5184,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Arivaldo Conceição (emendes@sauter.digital)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009eMKMOA2": {
     "blocker": "",
@@ -4699,7 +5199,11 @@
     "partner_tech_contact": "Roberta Coelho (etelvina.mendes@venhapranuvem.com.br)",
     "client_tech_contact": "Arivaldo Conceição (renato.takata@venhapranuvem.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": true
+    "dat_hygine_needed": true,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009tOftOAE": {
     "blocker": "",
@@ -4710,7 +5214,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Wellington Britto (britto@deso-se.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": true
+    "dat_hygine_needed": true,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009eEZTOA2": {
     "blocker": "",
@@ -4728,7 +5236,11 @@
     "partner_tech_contact": "lucas.feitoza@qinetwork.com.br",
     "client_tech_contact": "Wilton De Oliveira (sidney.neimann@nisseisa.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009tK9aOAE": {
     "blocker": "",
@@ -4739,7 +5251,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Felipe Merfa (fabricio.gomes@fsb.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000006AD8YOAW": {
     "blocker": "",
@@ -4752,14 +5268,18 @@
   },
   "aBJKf000009tOYOOA2": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Cliente em Recuperação Judicial; buscando viabilização via AWT, pendente aprovação das condições comerciais.\nReuion por problema grave de Costos de BigQuery. Problema resuelto via reestructuracion de tablas y guardado de dats a clous storage. Plan enviado a sauter para implementacion.\nCongelamiento por blackfriday, Retomar primera semana de Octubre",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "e.martins@sauter.digital",
     "client_tech_contact": "Wellington Rufino (e.martins@sauter.digital)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": true,
+    "ex_deep_dive": false
   },
   "aBJKf000009eVmyOAE": {
     "blocker": "",
@@ -4770,7 +5290,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Analu Gama (analu.gama@ipnet.cloud)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009eTeEOAU": {
     "blocker": "",
@@ -4781,29 +5305,41 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Zeca Branco (zeca@sauter.digital)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009tcKpOAI": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Cliente avançou nas negociações; aguardo agendamento de reunião estratégica com Jardel para definir os próximos passos do projeto.\nEl real problema era que el cliente no entendia que el costo de la infra que se hizo para la PoC (Camaras) aumentara tanto para el productivo (1276 Camaras). Se explico que el costo mas importante es el sotorage. Yo aporte con una idea de los videos mas antiguos hacer un proceso con vision AI y eliminar todos los periodos sin movimiento. Lo cla el cliente le gusto.. Propuesta entregada",
     "partner_tech_email": "jardel.sliumba@santodigital.com.br",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "jardel.sliumba@santodigital.com.br",
     "client_tech_contact": "Cristiano Cruz (thuanybaia@santodigital.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": true,
+    "ex_deep_dive": false
   },
   "aBJKf000009tOUvOAM": {
     "blocker": "",
-    "status_tecnico": "Já está no Cloud Connect, poderia ser 4.3",
+    "status_tecnico": "SantoDigital ajustará a proposta e Roberta agendará reunião com o cliente para viabilizar infraestrutura de 1.000 câmeras.\nohl - Vliente (Cristiano Cruz le gusta la propuesta y es la que va a apoyar para el Cierre). El cierre Propuesta se espera para la primera semana de Nov",
     "partner_tech_email": "jardel.sliumba@santodigital.com.br",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "jardel.sliumba@santodigital.com.br",
     "client_tech_contact": "Cristiano Cruz (jardel.sliumba@santodigital.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": true,
+    "ex_deep_dive": false
   },
   "aBJKf000009tWEvOAM": {
     "blocker": "",
@@ -4814,7 +5350,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Iago Lucena (iago.lucena@solarbr.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009eDZSOA2": {
     "blocker": "",
@@ -4825,7 +5365,11 @@
     "partner_tech_contact": "dathayde@kyndryl.com",
     "client_tech_contact": "Marcio Maia (marcio.maia@solarbr.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009eKGXOA2": {
     "blocker": "",
@@ -4836,7 +5380,11 @@
     "partner_tech_contact": "dathayde@kyndryl.com",
     "client_tech_contact": "Iago Lucena (hlaurindo@solarbr.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009eFahOAE": {
     "blocker": "",
@@ -4847,7 +5395,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Romildo Fausto (celso@qinetwork.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZNBWOA4": {
     "blocker": "",
@@ -4858,7 +5410,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009kENbOAM": {
     "blocker": "",
@@ -5603,7 +6159,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Thiago Bianchi (thiago.bianchi@mc1global.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf0000082JXhOAM": {
     "blocker": "",
@@ -5614,18 +6174,26 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Thiago Bianchi (thiago.bianchi@mc1global.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009kLXYOA2": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Se cambia la estrategia, del Wiz A la Carte a Wiz Go, que es de deployment rapito, permite hacer tambien el levantamiento para que el 2027 transformar al wiz a la carte. Next Step",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
     "client_tech_contact": "Leonel Danczuk Danczuk (acosta@velalatam.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": true,
+    "ex_deep_dive": false
   },
   "aBJKf000009kIJsOAM": {
     "blocker": "",
@@ -5636,7 +6204,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Rogerio Spinelli (rogerio.spinelli@kyndryl.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009kMPaOAM": {
     "blocker": "",
@@ -5647,7 +6219,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009kNX1OAM": {
     "blocker": "",
@@ -5658,7 +6234,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Luan Smarsaro Amorim (luan.amorim@autoglass.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009on9UOAQ": {
     "blocker": "",
@@ -5669,7 +6249,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Edison Figueira Junior Figueira Junior (edison@fortics.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009kIK2OAM": {
     "blocker": "",
@@ -5680,7 +6264,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Luciano Kalil (luciano.kalil@valgroupco.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009kMQJOA2": {
     "blocker": "",
@@ -5691,7 +6279,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009kJ6LOAU": {
     "blocker": "",
@@ -5702,7 +6294,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Fernando Junkes (fernando.junkes@intelbras.com.br)",
     "nao_existe": true,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009kJ5cOAE": {
     "blocker": "",
@@ -5713,7 +6309,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "João Henrique Vaz (joao.vaz@valgroupco.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009kMPzOAM": {
     "blocker": "",
@@ -5724,7 +6324,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Bernardo Murta (bernardo@dynamox.net)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009kNZXOA2": {
     "blocker": "",
@@ -5735,7 +6339,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009kNZgOAM": {
     "blocker": "",
@@ -5746,7 +6354,11 @@
     "partner_tech_contact": "lucas.feitoza@qinetwork.com.br",
     "client_tech_contact": "Lucas Bachmann Bachmann Feitoza (lucas.feitoza@qinetwork.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009kJ2xOAE": {
     "blocker": "Comercial",
@@ -5757,7 +6369,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "",
     "nao_existe": false,
-    "dat_hygine_needed": true
+    "dat_hygine_needed": true,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009kMQOOA2": {
     "blocker": "",
@@ -5768,7 +6384,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009omBNOAY": {
     "blocker": "",
@@ -5779,7 +6399,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Luiz Roberto Pinon Junior (luiz.pinon@autoglass.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": true
+    "dat_hygine_needed": true,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009kMPuOAM": {
     "blocker": "",
@@ -5790,7 +6414,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Nil Nunes (nil@climatempo.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009kJ5XOAU": {
     "blocker": "",
@@ -5801,7 +6429,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Fernando Junkes (fernando.junkes@intelbras.com.br)",
     "nao_existe": true,
-    "dat_hygine_needed": true
+    "dat_hygine_needed": true,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009kKHPOA2": {
     "blocker": "",
@@ -5812,7 +6444,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Tiago Muza (rafael.goulart@aurum.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009onv9OAA": {
     "blocker": "",
@@ -5823,7 +6459,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Fabiano Moura (fabiano.moura@autoglass.com.br)",
     "nao_existe": true,
-    "dat_hygine_needed": true
+    "dat_hygine_needed": true,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009kNZWOA2": {
     "blocker": "",
@@ -5834,7 +6474,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009onjrOAA": {
     "blocker": "",
@@ -5845,7 +6489,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Victor Marcondes (vmarcondes@nilo.co)",
     "nao_existe": true,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009kJ6QOAU": {
     "blocker": "",
@@ -5856,7 +6504,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Fernando Junkes (fernando.junkes@intelbras.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009kIJxOAM": {
     "blocker": "",
@@ -5867,7 +6519,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Fernando Junkes (fernando.junkes@intelbras.com.br)",
     "nao_existe": true,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009kLXiOAM": {
     "blocker": "",
@@ -5878,7 +6534,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Leonel Danczuk Danczuk (acosta@velalatam.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009kMPkOAM": {
     "blocker": "",
@@ -5889,18 +6549,26 @@
     "partner_tech_contact": "",
     "client_tech_contact": "",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009kJ2iOAE": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Conducted the technical account review on October 20, 2026 covering Gemini Enterprise seat adoption and GCP model usage, establishing the follow-up technical session with the customer for November 9, 2026 (Tiendanube + Google Cloud | Agent Platform).",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "gwspst@nuvemshop.com.br",
     "client_tech_contact": "Thiago Borges (gwspst@nuvemshop.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": true,
+    "ex_deep_dive": false
   },
   "aBJKf000009e7pHOAQ": {
     "blocker": "",
@@ -5911,7 +6579,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Rafael Goulart (rafael.goulart@aurum.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009kKHZOA2": {
     "blocker": "",
@@ -5922,18 +6594,26 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Tiago Muza (tiago.muza@aurum.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": true
+    "dat_hygine_needed": true,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009kNLPOA2": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Problemas con el conector de Outlook. Problemas de Quotas y Consumo. Reunion se programara por el partner el la semana del2 de Nov",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
     "client_tech_contact": "Edison Figueira Junior Figueira Junior (edison@fortics.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": true
+    "dat_hygine_needed": true,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": true,
+    "ex_deep_dive": false
   },
   "aBJKf000009onuuOAA": {
     "blocker": "",
@@ -5944,7 +6624,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Arquimedes Paiva (augusto.paiva@intelbras.com.br)",
     "nao_existe": true,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009kJ3COAU": {
     "blocker": "",
@@ -5955,7 +6639,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Romulo Simas (romulo.simas@movti.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009onvJOAQ": {
     "blocker": "",
@@ -5966,7 +6654,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Leonardo José Nunes (leonardo.nunes@serttel.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009kMPLOA2": {
     "blocker": "",
@@ -5977,7 +6669,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Luciano Kalil (luciano.kalil@valgroupco.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009onv4OAA": {
     "blocker": "",
@@ -5988,7 +6684,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Nil Nunes (nil@climatempo.com.br)",
     "nao_existe": true,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009kJ3DOAU": {
     "blocker": "",
@@ -5999,7 +6699,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Gabriel Laraia (gabriel.laraia@intelbras.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009eQOIOA2": {
     "blocker": "",
@@ -6010,7 +6714,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Flávio Horita (flavio.horita@climatempo.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009kM5pOAE": {
     "blocker": "",
@@ -6021,18 +6729,26 @@
     "partner_tech_contact": "celso@qinetwork.com.br",
     "client_tech_contact": "Celso Caparica (celso@qinetwork.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": true
+    "dat_hygine_needed": true,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009eQONOA2": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Projeto em desenvolvimento interno pela equipe da Climatempo, sem bloqueios reportados até o momento.\n\nOHL- ou proposed a value-differentiation strategy for Gemini Enterprise vs. OpenAI while uncovering that Climatempo's Norwegian parent holding (StormGeo) had imposed strict top-down cost reviews across the account. StormGeo (Norwegian parent company) imposed a strict financial/cost audit, stalling new cloud and AI initiatives",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
     "client_tech_contact": "Flávio Horita (flavio.horita@climatempo.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009kMIeOAM": {
     "blocker": "",
@@ -6043,7 +6759,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Bernardo Murta (bernardo@dynamox.net)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009om0yOAA": {
     "blocker": "",
@@ -6054,7 +6774,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "",
     "nao_existe": true,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009olynOAA": {
     "blocker": "",
@@ -6065,7 +6789,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Thiago Borges (thiago.borges@tiendanube.com)",
     "nao_existe": true,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009kKoOOAU": {
     "blocker": "Tecnico",
@@ -6076,7 +6804,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Bernardo Murta (bernardo@dynamox.net)",
     "nao_existe": false,
-    "dat_hygine_needed": true
+    "dat_hygine_needed": true,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009kIu0OAE": {
     "blocker": "",
@@ -6087,18 +6819,26 @@
     "partner_tech_contact": "mnatalia@madeinweb.com.br",
     "client_tech_contact": "Ciro Romanel (ciro.romanel@autoglass.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009eLHlOAM": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Propuesta de GE + Wiz 26 Empresas",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
     "client_tech_contact": "Frederico Ferreira De Figueiredo (frederico.figueiredo@aurum.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009kKUnOAM": {
     "blocker": "",
@@ -6109,7 +6849,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Bernardo Murta (bernardo@dynamox.net)",
     "nao_existe": true,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009kMPQOA2": {
     "blocker": "",
@@ -6120,7 +6864,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Luciano Kalil (luciano.kalil@valgroupco.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf0000082HgrOAE": {
     "blocker": "",
@@ -6131,7 +6879,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Tiago Muza (tiago.muza@aurum.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009kMPVOA2": {
     "blocker": "",
@@ -6142,7 +6894,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009kKUsOAM": {
     "blocker": "",
@@ -6153,7 +6909,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Bernardo Murta (bernardo@dynamox.net)",
     "nao_existe": true,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf0000082E21OAE": {
     "blocker": "",
@@ -6164,7 +6924,11 @@
     "partner_tech_contact": "marcio.silva@santodigital.com.br",
     "client_tech_contact": "Edison Figueira (efigueira@fortics.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": true
+    "dat_hygine_needed": true,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009kJ2nOAE": {
     "blocker": "",
@@ -6175,7 +6939,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Thiago Borges (gwspst@nuvemshop.com.br)",
     "nao_existe": true,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009kMQEOA2": {
     "blocker": "",
@@ -6186,7 +6954,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009kKUxOAM": {
     "blocker": "",
@@ -6197,7 +6969,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Emerson Lima (emerson@sauter.digital)",
     "nao_existe": true,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009kNZbOAM": {
     "blocker": "",
@@ -6208,7 +6984,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Edison Figueira Junior Figueira Junior (edison@fortics.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009e7p2OAA": {
     "blocker": "",
@@ -6226,7 +7006,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Felipe Lopes (lopes.felipe@cloud-ace.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009kJ95OAE": {
     "blocker": "",
@@ -6244,7 +7028,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Fabiano Moura (fabiano.moura@autoglass.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009kJ9POAU": {
     "blocker": "",
@@ -6255,7 +7043,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Felipe Lopes (lopes.felipe@cloud-ace.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009kJ9ZOAU": {
     "blocker": "",
@@ -6266,7 +7058,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Rodolfo Stangherlin (rstangherlin@nilo.co)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009kJ9UOAU": {
     "blocker": "",
@@ -6286,7 +7082,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Fabiano Moura (fabiano.moura@autoglass.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009tGOrOAM": {
     "blocker": "",
@@ -6297,7 +7097,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Alan Pires Araujo (alan@santodigital.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009eQeGOAU": {
     "blocker": "",
@@ -6322,7 +7126,11 @@
     "partner_tech_contact": "Vanessa Moyses",
     "client_tech_contact": "Igor Gomes",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009eD6QOAU": {
     "blocker": "",
@@ -6333,7 +7141,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Marcio Ferreira Da Silva (marcio.ferreira@exa.com.br)",
     "nao_existe": true,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZLZXOA4": {
     "blocker": "",
@@ -6344,7 +7156,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Adriana Contreras (adrianacontreras@avidanti.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009stb1OAA": {
     "blocker": "",
@@ -6364,7 +7180,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Adriana Contreras (adrianacontreras@avidanti.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009tUuGOAU": {
     "blocker": "",
@@ -6384,7 +7204,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Daniel Ribeiro",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009e5aDOAQ": {
     "blocker": "",
@@ -6395,7 +7219,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZTuIOAW": {
     "blocker": "",
@@ -6406,7 +7234,11 @@
     "partner_tech_contact": "Vanessa Moyses",
     "client_tech_contact": "Marcelo Alexandre (marcelo.alexandre@braveo.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZJDMOA4": {
     "blocker": "",
@@ -6417,7 +7249,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Angelo Figaro (angelo.figaro@patria.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009e8coOAA": {
     "blocker": "",
@@ -6428,7 +7264,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZISzOAO": {
     "blocker": "",
@@ -6439,7 +7279,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Angelo Figaro (angelo.figaro@patria.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000006MVIDOA4": {
     "blocker": "",
@@ -6450,7 +7294,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Arnaldo Cesar Caetano Caetano (arnaldo@wps-sa.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009eD66OAE": {
     "blocker": "",
@@ -6461,7 +7309,11 @@
     "partner_tech_contact": "ademir.junior@gavb.com.br",
     "client_tech_contact": "",
     "nao_existe": true,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009dvPwOAI": {
     "blocker": "",
@@ -6481,7 +7333,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Rodrigo Ricardi",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009eD5NOAU": {
     "blocker": "",
@@ -6492,7 +7348,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Ricardo Bolognesi (ricardo.paula@onr.org.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZMQGOA4": {
     "blocker": "",
@@ -6503,7 +7363,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "",
     "nao_existe": false,
-    "dat_hygine_needed": true
+    "dat_hygine_needed": true,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZNKnOAO": {
     "blocker": "",
@@ -6514,7 +7378,11 @@
     "partner_tech_contact": "Vanessa Moyses",
     "client_tech_contact": "Marcos Igutti",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009e8efOAA": {
     "blocker": "",
@@ -6525,7 +7393,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Eduardo Tinoco (eduardo.tinoco@onr.org.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZMQQOA4": {
     "blocker": "",
@@ -6536,7 +7408,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Angelo Figaro (angelo.figaro@patria.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZOgBOAW": {
     "blocker": "",
@@ -6565,7 +7441,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Adriana Contreras (adrianacontreras@avidanti.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZQ8VOAW": {
     "blocker": "",
@@ -6576,18 +7456,26 @@
     "partner_tech_contact": "Fernanda Faria",
     "client_tech_contact": "Leandro Pereira (leandro.pereira@axiaagro.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZSW0OAO": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "SOW técnica com conformidade enviada ao parceiro; aguardando ajustes finais de métricas e DRP para assinatura.",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "Vanessa Moyses",
     "client_tech_contact": "Igor Gomes (igor.g@tenda.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZRKmOAO": {
     "blocker": "",
@@ -6598,18 +7486,26 @@
     "partner_tech_contact": "Diego Baldin",
     "client_tech_contact": "Ricardo Bolognesi (ricardo.paula@onr.org.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZMQuOAO": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Co-led the with QiNetwork for Pátria group technical stakeholders (Dagoberto Souza, Guilherme Toledo, Cristian Rojas, Kevin Knowles, Andre Moura) to evaluate Gemini Enterprise user capabilities and align on the group-wide activation plan",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
     "client_tech_contact": "Joao Perez (joaopedroperez@sek.io)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZTuSOAW": {
     "blocker": "",
@@ -6620,7 +7516,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Wilson de Lima Jnior (wilson.junior@alperseguros.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZJV9OAO": {
     "blocker": "",
@@ -6631,18 +7531,26 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Breno Rios Sa (breno.sa@athenasaude.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZSfWOAW": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Demo Avanzada - Cliente avalia padronização com GE para cobrir shortfall de $75k no Q4; aguardamos alinhamento com FSR.",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "Vanessa Moyses",
     "client_tech_contact": "Marcelo Alexandre (marcelo.alexandre@braveo.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZSmmOAG": {
     "blocker": "",
@@ -6653,7 +7561,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Breno Rios Sa (rodrigo.valario@athenasaude.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZKKuOAO": {
     "blocker": "",
@@ -6664,7 +7576,11 @@
     "partner_tech_contact": "Daniel de Almeida (lucas.feitoza@qinetwork.com.br)",
     "client_tech_contact": "Dagoberto Souza (angelo.figaro@patria.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZNzCOAW": {
     "blocker": "",
@@ -6675,7 +7591,11 @@
     "partner_tech_contact": "Lívia Serra",
     "client_tech_contact": "Wilson de Lima Jnior (wilson.junior@alperseguros.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZIvcOAG": {
     "blocker": "",
@@ -6686,7 +7606,11 @@
     "partner_tech_contact": "jardel.sliumba@santodigital.com.br",
     "client_tech_contact": "Michel De Souza (dup+michel.souza@myralis.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZB27OAG": {
     "blocker": "",
@@ -6706,7 +7630,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZQFgOAO": {
     "blocker": "",
@@ -6717,7 +7645,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Rodrigo Scaloppi (andre.silva@santodigital.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009e5a3OAA": {
     "blocker": "",
@@ -6728,7 +7660,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Jonathan Melo Da Silva (jonathan.silva.ext@athenasaude.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZEsnOAG": {
     "blocker": "",
@@ -6739,7 +7675,11 @@
     "partner_tech_contact": "Nao Existe",
     "client_tech_contact": "Adevilson Martins (semcontato@amorsaude.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZQQAOA4": {
     "blocker": "",
@@ -6750,7 +7690,11 @@
     "partner_tech_contact": "Vanessa Moyses",
     "client_tech_contact": "Marco Fontenelle",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZRufOAG": {
     "blocker": "",
@@ -6770,7 +7714,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Christian De Aguiar (christian.aguiar@winity.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZMiuOAG": {
     "blocker": "",
@@ -6781,7 +7729,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Michael Grace (mgrace@vtxmx.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZHuhOAG": {
     "blocker": "",
@@ -6792,7 +7744,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Rafael Fusco Siqueira Pinto Pinto (rafael@wps-sa.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZQ9sOAG": {
     "blocker": "",
@@ -6803,7 +7759,11 @@
     "partner_tech_contact": "Daniel de Almeida (daniel.almeida@santodigital.com.br)",
     "client_tech_contact": "Rodrigo Ricardi",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009tJZ8OAM": {
     "blocker": "",
@@ -6823,7 +7783,11 @@
     "partner_tech_contact": "cruz.lucas@cloud-ace.com",
     "client_tech_contact": "",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZRclOAG": {
     "blocker": "",
@@ -6834,7 +7798,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Ricardo Bolognesi (gil.matos@onr.org.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZQ9nOAG": {
     "blocker": "",
@@ -6845,7 +7813,11 @@
     "partner_tech_contact": "Daniel de Almeida (daniel.almeida@santodigital.com.br)",
     "client_tech_contact": "Rodrigo Ricardi",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZO3xOAG": {
     "blocker": "",
@@ -6856,7 +7828,11 @@
     "partner_tech_contact": "Vanessa Moyses (daniel.almeida@santodigital.com.br)",
     "client_tech_contact": "Igor Gomes (igor.g@tenda.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZMQLOA4": {
     "blocker": "",
@@ -6867,7 +7843,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZRdAOAW": {
     "blocker": "",
@@ -6878,7 +7858,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Marcelo Petercem",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZSXIOA4": {
     "blocker": "",
@@ -6889,7 +7873,11 @@
     "partner_tech_contact": "Vanessa Moyses",
     "client_tech_contact": "Marco Fontenelle",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZRKNOA4": {
     "blocker": "",
@@ -6900,7 +7888,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Marco Fontenelle",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009e7wOOAQ": {
     "blocker": "",
@@ -6911,7 +7903,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Alyne Klier (alyne.klier@bigbox.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZSXDOA4": {
     "blocker": "",
@@ -6922,7 +7918,11 @@
     "partner_tech_contact": "Vanessa Moyses",
     "client_tech_contact": "Lucas Lazarim (lucas.lazarim@microwork.inf.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZRukOAG": {
     "blocker": "",
@@ -6942,7 +7942,11 @@
     "partner_tech_contact": "Nao existe",
     "client_tech_contact": "Michael Grace (mgrace@vtxmx.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009tEFUOA2": {
     "blocker": "",
@@ -6955,14 +7959,18 @@
   },
   "aBJKf000004ZJMPOA4": {
     "blocker": "Tecnico",
-    "status_tecnico": "Mañana hace el primer training. Quieren 5. licencias adicionales. E fazer a connecao de Outlook. Yo la hago con el equipo tecnico",
+    "status_tecnico": "Aligned with SantoDigital (Thais Prado): awaiting finance release of 50 trial licenses for Atakarejo, after which a 30-min we will have 2 wheeks of followp, i will not participate in all of them",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "thais.macedo@santodigital.com.br",
     "client_tech_contact": "Eduardo Sampaio (eduardo.brayner@atakarejo.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZMizOAG": {
     "blocker": "",
@@ -6973,7 +7981,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZQQFOA4": {
     "blocker": "",
@@ -6984,7 +7996,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Fabio Biselli (fabiob@itmchannelmarketing.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZMQpOAO": {
     "blocker": "",
@@ -6995,7 +8011,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Adriana Contreras (adrianacontreras@avidanti.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZNZROA4": {
     "blocker": "",
@@ -7006,7 +8026,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "André Luis Da Silva (andre.silva@santodigital.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZFxjOAG": {
     "blocker": "",
@@ -7017,7 +8041,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Marcelo Estevez (marcelo.estevez@exa.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZB2lOAG": {
     "blocker": "",
@@ -7028,7 +8056,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Marcio Moreira Filho (marcio.moreira@exa.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZNKxOAO": {
     "blocker": "",
@@ -7039,7 +8071,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Igor Slavik (roberto.oguma@movti.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009eUqBOAU": {
     "blocker": "",
@@ -7446,25 +8482,33 @@
   },
   "aBJKf000009WCjqOAG": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Trial encerrado e 20 licenças Pay-as-you-go ativadas; o projeto segue em operação mensal com acompanhamento do parceiro e time FSM/FSR.\nohl - 21 sept Se configuraron agentes en Gemini Enterprise, uso de Canvas, conectores de Workspace/Databricks y cambio al modelo 3.8 Flash.\noh- 22 OCT - Pasa a 4.1",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
     "client_tech_contact": "Marcio Camurati (marcio.camurati@estapar.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": true,
+    "ex_deep_dive": false
   },
   "Estapar - Gemini Enterprise - Crossell #AWTSP #M26": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Trial encerrado e 20 licenças Pay-as-you-go ativadas; o projeto segue em operação mensal com acompanhamento do parceiro e time FSM/FSR.\nohl - 21 sept Se configuraron agentes en Gemini Enterprise, uso de Canvas, conectores de Workspace/Databricks y cambio al modelo 3.8 Flash.\noh- 22 OCT - Pasa a 4.1",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
     "client_tech_contact": "Marcio Camurati (marcio.camurati@estapar.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": true,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZKiVOAW": {
     "blocker": "",
@@ -7475,7 +8519,11 @@
     "partner_tech_contact": "roberto.oguma@movti.com.br",
     "client_tech_contact": "Helton Germano (helton.germano@aasp.org.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZLP9OAO": {
     "blocker": "",
@@ -7486,7 +8534,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Romulo Simas (romulo.simas@movti.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Migration of VMs": {
     "blocker": "",
@@ -7497,7 +8549,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Romulo Simas (romulo.simas@movti.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZKLOOA4": {
     "blocker": "",
@@ -7508,7 +8564,11 @@
     "partner_tech_contact": "a.dantas@sauter.digital",
     "client_tech_contact": "Guilherme Lima (a.rocha@sauter.digital)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Gemini Enterprise - 300 users": {
     "blocker": "",
@@ -7519,7 +8579,11 @@
     "partner_tech_contact": "a.dantas@sauter.digital",
     "client_tech_contact": "Guilherme Lima (a.rocha@sauter.digital)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZLwLOAW": {
     "blocker": "",
@@ -7530,7 +8594,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Pedro Ivo Faria Do Amaral (pivoamaral@gmail.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "[CVC] Anthropic Models on GCP": {
     "blocker": "",
@@ -7541,7 +8609,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Pedro Ivo Faria Do Amaral (pivoamaral@gmail.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009ofjwOAA": {
     "blocker": "",
@@ -7566,7 +8638,11 @@
     "partner_tech_contact": "Lucas Cruz (cruz.lucas@cloud-ace.com)",
     "client_tech_contact": "Marcos Moia (cruz.lucas@cloud-ace.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "[Salon Line] Terraform - AI": {
     "blocker": "",
@@ -7577,29 +8653,41 @@
     "partner_tech_contact": "Lucas Cruz (cruz.lucas@cloud-ace.com)",
     "client_tech_contact": "Marcos Moia (cruz.lucas@cloud-ace.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009e43VOAQ": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Asumio el workload el 19 de oct, en etapa de persecucion",
     "partner_tech_email": "bruno.pinho@servinformacion.com",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "bruno.pinho@servinformacion.com",
     "client_tech_contact": "Bruno Pinho (bruno.pinho@servinformacion.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "SalonLine - Gemini Enterprise": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Asumio el workload el 19 de oct, en etapa de persecucion",
     "partner_tech_email": "bruno.pinho@servinformacion.com",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "bruno.pinho@servinformacion.com",
     "client_tech_contact": "Bruno Pinho (bruno.pinho@servinformacion.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009e3dAOAQ": {
     "blocker": "",
@@ -7650,7 +8738,11 @@
     "partner_tech_contact": "alexandre.alencar@ipnet.cloud",
     "client_tech_contact": "Jeferson Correa (jefersonc@cpqd.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "CPQD | GCP - Incremental Project": {
     "blocker": "",
@@ -7661,7 +8753,11 @@
     "partner_tech_contact": "alexandre.alencar@ipnet.cloud",
     "client_tech_contact": "Jeferson Correa (jefersonc@cpqd.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZR8bOAG": {
     "blocker": "",
@@ -7672,7 +8768,11 @@
     "partner_tech_contact": "Caio Barbosa",
     "client_tech_contact": "Marcos Souza (marcos.souza@matera.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Matera - Agent Platform (OCI Baremetal LLM VMs to Model Garden)": {
     "blocker": "",
@@ -7683,7 +8783,11 @@
     "partner_tech_contact": "Caio Barbosa",
     "client_tech_contact": "Marcos Souza (marcos.souza@matera.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZR8gOAG": {
     "blocker": "",
@@ -7694,7 +8798,11 @@
     "partner_tech_contact": "Caio Barbosa",
     "client_tech_contact": "Marcos Souza (marcos.souza@matera.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Matera - Agent Platform (Claude Models)": {
     "blocker": "",
@@ -7705,7 +8813,11 @@
     "partner_tech_contact": "Caio Barbosa",
     "client_tech_contact": "Marcos Souza (marcos.souza@matera.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZQGyOAO": {
     "blocker": "",
@@ -7716,7 +8828,11 @@
     "partner_tech_contact": "victor.tosta@ipnet.cloud",
     "client_tech_contact": "Marcos Souza (victor.tosta@ipnet.cloud)",
     "nao_existe": false,
-    "dat_hygine_needed": true
+    "dat_hygine_needed": true,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "[Matera] Gemini Enterprise": {
     "blocker": "",
@@ -7727,29 +8843,41 @@
     "partner_tech_contact": "victor.tosta@ipnet.cloud",
     "client_tech_contact": "Marcos Souza (victor.tosta@ipnet.cloud)",
     "nao_existe": false,
-    "dat_hygine_needed": true
+    "dat_hygine_needed": true,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZKmgOAG": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "O cliente está analisando os próximos passos para definição da estratégia e continuidade do projeto.\ndeployment kickoff with the partner was initiated and the customer's Gemini Enterprise tenant is provisioned, setting the next milestone at 50% license activation",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "cruz.lucas@cloud-ace.com",
     "client_tech_contact": "Fernando Machado Ouverney Diniz (fernando.ouverney@petz.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": true,
+    "ex_deep_dive": false
   },
   "Petz - Gemini Enterprise": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "O cliente está analisando os próximos passos para definição da estratégia e continuidade do projeto.\ndeployment kickoff with the partner was initiated and the customer's Gemini Enterprise tenant is provisioned, setting the next milestone at 50% license activation",
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "cruz.lucas@cloud-ace.com",
     "client_tech_contact": "Fernando Machado Ouverney Diniz (fernando.ouverney@petz.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": true,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZKdQOAW": {
     "blocker": "",
@@ -7760,7 +8888,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Fernando Machado Ouverney Diniz (fernando.ouverney@petz.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Petz - Agent Platform - Antigravity & Embedding": {
     "blocker": "",
@@ -7771,7 +8903,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Fernando Machado Ouverney Diniz (fernando.ouverney@petz.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZOgQOAW": {
     "blocker": "",
@@ -7782,7 +8918,11 @@
     "partner_tech_contact": "vanessa.mello@t-systems.com",
     "client_tech_contact": "Daniela Zanfolin Zanfolin (pietro.di.micio@sap.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "SAP RISE": {
     "blocker": "",
@@ -7793,7 +8933,11 @@
     "partner_tech_contact": "vanessa.mello@t-systems.com",
     "client_tech_contact": "Daniela Zanfolin Zanfolin (pietro.di.micio@sap.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009WCIpOAO": {
     "blocker": "",
@@ -7804,7 +8948,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Daniel Fernandes (daniel.fernandes@tvtem.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "TVTEM - Automação do Acervo de Mídia (CEDOC) e Redes Sociais com Vertex AI": {
     "blocker": "",
@@ -7815,7 +8963,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Daniel Fernandes (daniel.fernandes@tvtem.com)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009e9d5OAA": {
     "blocker": "",
@@ -7826,7 +8978,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Romulo Simas (romulo.simas@movti.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Band -  Website Migration": {
     "blocker": "",
@@ -7837,7 +8993,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Romulo Simas (romulo.simas@movti.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009e7C5OAI": {
     "blocker": "",
@@ -7848,7 +9008,11 @@
     "partner_tech_contact": "leticia.nobre@movti.com.br",
     "client_tech_contact": "Eduardo Endo (endo@vibra.digital)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Band Vibra - Website Infra": {
     "blocker": "",
@@ -7859,7 +9023,11 @@
     "partner_tech_contact": "leticia.nobre@movti.com.br",
     "client_tech_contact": "Eduardo Endo (endo@vibra.digital)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZReIOAW": {
     "blocker": "",
@@ -7879,7 +9047,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Fernando Jose Da Silva (alexandre.alencar@ipnet.cloud)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "[Zilor] SAP IaaS": {
     "blocker": "",
@@ -7890,7 +9062,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Fernando Jose Da Silva (alexandre.alencar@ipnet.cloud)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZKlsOAG": {
     "blocker": "",
@@ -7901,7 +9077,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Fernando Jose Da Silva (alexandre.alencar@ipnet.cloud)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Zilor - Gemini Enterprise": {
     "blocker": "",
@@ -7912,7 +9092,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Fernando Jose Da Silva (alexandre.alencar@ipnet.cloud)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZL8SOAW": {
     "blocker": "",
@@ -8873,7 +10057,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "infra - CMA Vela": {
     "blocker": "",
@@ -8884,7 +10072,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009e7VwOAI": {
     "blocker": "",
@@ -8913,7 +10105,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Alan Barros (alan.junior@sudoesteinformatica.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Sudoeste - Segurança": {
     "blocker": "",
@@ -8924,7 +10120,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Alan Barros (alan.junior@sudoesteinformatica.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009eCiwOAE": {
     "blocker": "",
@@ -8935,7 +10135,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Junior Barbosa (junior.barbosa@marata.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Maratá - secops": {
     "blocker": "",
@@ -8946,7 +10150,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Junior Barbosa (junior.barbosa@marata.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009eQ27OAE": {
     "blocker": "",
@@ -8957,7 +10165,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Leonardo Diniz (fbraz@magnumtires.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Magnum - SCC": {
     "blocker": "",
@@ -8968,7 +10180,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Leonardo Diniz (fbraz@magnumtires.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009eWYEOA2": {
     "blocker": "",
@@ -8979,7 +10195,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Wesley Bastos (wesley.junior@innovaro.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Innovaro - SecOps + Wiz": {
     "blocker": "",
@@ -8990,7 +10210,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Wesley Bastos (wesley.junior@innovaro.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009eA7lOAE": {
     "blocker": "",
@@ -9019,7 +10243,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Leonardo Diniz (fbraz@magnumtires.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Magnum - CloudAmor": {
     "blocker": "",
@@ -9030,7 +10258,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Leonardo Diniz (fbraz@magnumtires.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZDV2OAO": {
     "blocker": "",
@@ -9041,7 +10273,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Rodolfo Stangherlin (rstangherlin@nilo.co)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Nilo - SCC": {
     "blocker": "",
@@ -9052,7 +10288,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Rodolfo Stangherlin (rstangherlin@nilo.co)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009e7WQOAY": {
     "blocker": "",
@@ -9063,7 +10303,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Michel Soares (michel@innovaro.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Innovaro - SCC": {
     "blocker": "",
@@ -9074,7 +10318,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Michel Soares (michel@innovaro.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZUgHOAW": {
     "blocker": "",
@@ -9247,7 +10495,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Bernardo Murta (bernardo@dynamox.net)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009sksrOAA": {
     "blocker": "",
@@ -9339,7 +10591,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Celso Bueno (celso.bueno@leomadeiras.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJ4M0000008pOeWAI": {
     "blocker": "",
@@ -9427,7 +10683,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Lucas Bachmann Bachmann Feitoza (lucas.feitoza@qinetwork.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000008271KOAQ": {
     "blocker": "",
@@ -10095,7 +11355,11 @@
     "partner_tech_contact": "",
     "client_tech_contact": "Rogério Bassete (lucas.lazarim@microwork.inf.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJ4M0000008k5wWAA": {
     "blocker": "",
@@ -10376,7 +11640,11 @@
     "partner_tech_contact": "roberto.oguma@movti.com.br",
     "client_tech_contact": "Wiliam Pinho Pinho Da Silva Rodrigues (romulo.simas@movti.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Verzani | DR": {
     "blocker": "",
@@ -10387,7 +11655,11 @@
     "partner_tech_contact": "roberto.oguma@movti.com.br",
     "client_tech_contact": "Wiliam Pinho Pinho Da Silva Rodrigues (romulo.simas@movti.com.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZUyQOAW": {
     "blocker": "",
@@ -11086,7 +12358,11 @@
     "technical_win": false,
     "proposal_sent": false,
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "SAP RISE_BEMOL": {
     "blocker": "",
@@ -11096,7 +12372,11 @@
     "technical_win": false,
     "proposal_sent": false,
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJ4M0000008c1mWAA": {
     "blocker": "",
@@ -11604,23 +12884,31 @@
   },
   "aBJKf000004ZVbNOAW": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Parceiro QiNetwork integrado; foco agora no fechamento comercial e preparação para a implementação em novembro com FSR e Solis. Demo Session for Pátria leadership (including CTO Kevin Knowles, Dagoberto Souza, Guilherme Toledo, and Cristian Rojas), demonstrating user-perspective workflows, governance controls, and identifying the need for a structured adoption plan to activate idle licenses",
     "partner_tech_contact": "Vanessa Moyses",
     "client_tech_contact": "Delano Macêdo (delano.macedo@solisinvestimentos.com.br)",
     "technical_win": false,
     "proposal_sent": false,
     "nao_existe": false,
-    "dat_hygine_needed": true
+    "dat_hygine_needed": true,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": true,
+    "ex_deep_dive": false
   },
   "GE_Solis": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "Parceiro QiNetwork integrado; foco agora no fechamento comercial e preparação para a implementação em novembro com FSR e Solis. Demo Session for Pátria leadership (including CTO Kevin Knowles, Dagoberto Souza, Guilherme Toledo, and Cristian Rojas), demonstrating user-perspective workflows, governance controls, and identifying the need for a structured adoption plan to activate idle licenses",
     "partner_tech_contact": "Vanessa Moyses",
     "client_tech_contact": "Delano Macêdo (delano.macedo@solisinvestimentos.com.br)",
     "technical_win": false,
     "proposal_sent": false,
     "nao_existe": false,
-    "dat_hygine_needed": true
+    "dat_hygine_needed": true,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": true,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZVegOAG": {
     "blocker": "",
@@ -11630,7 +12918,11 @@
     "technical_win": false,
     "proposal_sent": false,
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZVeHOAW": {
     "blocker": "",
@@ -11640,7 +12932,11 @@
     "technical_win": false,
     "proposal_sent": false,
     "nao_existe": true,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "GE_WPS": {
     "blocker": "",
@@ -11650,7 +12946,11 @@
     "technical_win": false,
     "proposal_sent": false,
     "nao_existe": true,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZVeROAW": {
     "blocker": "",
@@ -11660,7 +12960,11 @@
     "technical_win": false,
     "proposal_sent": false,
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Crescimento WPS": {
     "blocker": "",
@@ -11670,7 +12974,11 @@
     "technical_win": false,
     "proposal_sent": false,
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZVXBOA4": {
     "blocker": "",
@@ -11680,7 +12988,11 @@
     "technical_win": false,
     "proposal_sent": false,
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "GE_Mobcall": {
     "blocker": "",
@@ -11690,7 +13002,11 @@
     "technical_win": false,
     "proposal_sent": false,
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZVeWOAW": {
     "blocker": "",
@@ -11733,7 +13049,11 @@
     "partner_tech_contact": "roberto.oguma@movti.com.br",
     "client_tech_contact": "Helton Germano (helton.germano@aasp.org.br)",
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009onjSOAQ": {
     "blocker": "",
@@ -11743,7 +13063,11 @@
     "technical_win": false,
     "proposal_sent": false,
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Mangum Tires (Reifen) - Infra Modernization": {
     "blocker": "",
@@ -11753,7 +13077,11 @@
     "technical_win": false,
     "proposal_sent": false,
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009onuzOAA": {
     "blocker": "",
@@ -11763,7 +13091,11 @@
     "technical_win": false,
     "proposal_sent": false,
     "nao_existe": false,
-    "dat_hygine_needed": true
+    "dat_hygine_needed": true,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Innovaro - Infra Modernization": {
     "blocker": "",
@@ -11773,7 +13105,11 @@
     "technical_win": false,
     "proposal_sent": false,
     "nao_existe": false,
-    "dat_hygine_needed": true
+    "dat_hygine_needed": true,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009kLL3OAM": {
     "blocker": "",
@@ -11815,7 +13151,11 @@
     "technical_win": false,
     "proposal_sent": false,
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Solis Migração2": {
     "blocker": "",
@@ -11825,7 +13165,11 @@
     "technical_win": false,
     "proposal_sent": false,
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000004ZVo7OAG": {
     "blocker": "",
@@ -11835,7 +13179,11 @@
     "technical_win": false,
     "proposal_sent": false,
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Migração Solis_1": {
     "blocker": "",
@@ -11845,7 +13193,11 @@
     "technical_win": false,
     "proposal_sent": false,
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "[BRASILTECPAR] #Gemini Enterprise Std | 3000 seats (Big Bet)": {
     "blocker": "",
@@ -11873,7 +13225,11 @@
     "technical_win": false,
     "proposal_sent": false,
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Google Translatos": {
     "blocker": "",
@@ -11883,7 +13239,11 @@
     "technical_win": false,
     "proposal_sent": false,
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "renanvaladares||SINAGRO PRODUTOS AGROPECUARIOS SA||Sinova #OUT #GCP #Gemini Enterprise #BR + Dados||SAP - Sinova": {
     "blocker": "",
@@ -11965,7 +13325,11 @@
     "technical_win": false,
     "proposal_sent": false,
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Infra MC1": {
     "blocker": "",
@@ -11975,7 +13339,11 @@
     "technical_win": false,
     "proposal_sent": false,
     "nao_existe": false,
-    "dat_hygine_needed": false
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009eaqROAQ": {
     "blocker": "",
@@ -11985,7 +13353,11 @@
     "nao_existe": false,
     "dat_hygine_needed": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Ricardo Paiva (rose.carreiro@metarj.com)"
+    "client_tech_contact": "Ricardo Paiva (rose.carreiro@metarj.com)",
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "FSB_EA + GE": {
     "blocker": "",
@@ -11995,7 +13367,11 @@
     "nao_existe": false,
     "dat_hygine_needed": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Ricardo Paiva (rose.carreiro@metarj.com)"
+    "client_tech_contact": "Ricardo Paiva (rose.carreiro@metarj.com)",
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009g3RgOAI": {
     "blocker": "",
@@ -12005,7 +13381,11 @@
     "nao_existe": false,
     "dat_hygine_needed": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Fabio Bellette (alexandre.alencar@ipnet.cloud)"
+    "client_tech_contact": "Fabio Bellette (alexandre.alencar@ipnet.cloud)",
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "[ZIlor] Arquitetura de IA": {
     "blocker": "",
@@ -12015,7 +13395,11 @@
     "nao_existe": false,
     "dat_hygine_needed": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Fabio Bellette (alexandre.alencar@ipnet.cloud)"
+    "client_tech_contact": "Fabio Bellette (alexandre.alencar@ipnet.cloud)",
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009te87OAA": {
     "blocker": "",
@@ -12025,7 +13409,11 @@
     "nao_existe": false,
     "dat_hygine_needed": false,
     "partner_tech_contact": "franz.ribeiro@leega.com.br",
-    "client_tech_contact": "Franz Beckenbauer Beckenbauer Ribeiro (franz.ribeiro@leega.com.br)"
+    "client_tech_contact": "Franz Beckenbauer Beckenbauer Ribeiro (franz.ribeiro@leega.com.br)",
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "Pos Commit - PSF DA": {
     "blocker": "",
@@ -12035,7 +13423,11 @@
     "nao_existe": false,
     "dat_hygine_needed": false,
     "partner_tech_contact": "franz.ribeiro@leega.com.br",
-    "client_tech_contact": "Franz Beckenbauer Beckenbauer Ribeiro (franz.ribeiro@leega.com.br)"
+    "client_tech_contact": "Franz Beckenbauer Beckenbauer Ribeiro (franz.ribeiro@leega.com.br)",
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "aBJKf000009g3cUOAQ": {
     "blocker": "",
@@ -12045,7 +13437,11 @@
     "nao_existe": false,
     "dat_hygine_needed": false,
     "partner_tech_contact": "Vanessa Moyses",
-    "client_tech_contact": "Cristian Rojas"
+    "client_tech_contact": "Cristian Rojas",
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   },
   "CEP_Patria": {
     "blocker": "",
@@ -12055,6 +13451,25 @@
     "nao_existe": false,
     "dat_hygine_needed": false,
     "partner_tech_contact": "Vanessa Moyses",
-    "client_tech_contact": "Cristian Rojas"
+    "client_tech_contact": "Cristian Rojas",
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
+  },
+  "Serttel - Commit": {
+    "blocker": "",
+    "status_tecnico": "",
+    "partner_tech_email": "",
+    "technical_win": false,
+    "proposal_sent": false,
+    "partner_tech_contact": "",
+    "client_tech_contact": "Leonardo José Nunes (leonardo.nunes@serttel.com.br)",
+    "nao_existe": false,
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   }
 }

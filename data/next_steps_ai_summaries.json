@@ -40,8 +40,8 @@
     "summary": "09/10/2023: Após período de trial do Cloud Armor, cliente realizou a subscrição do CAMP."
   },
   "aBJKf000009eMfyOAE": {
-    "history_hash": "0619f74848b51a6fe78948f8a8ff8143",
-    "summary": "30/06: EBC em São Paulo agendado para 22/07; sem novas atualizações registradas no histórico."
+    "history_hash": "9782c19dc87233aacc779845a9ce6349",
+    "summary": "30/06 - EBC agendado para 22/07 em São Paulo; foco atual na preparação e logística para o evento."
   },
   "aBJKf000009tK9aOAE": {
     "history_hash": "9ca63b03f6d7dc92311b38e003b26748",
@@ -1690,5 +1690,9 @@
   "aBJKf000009g3RgOAI": {
     "history_hash": "fc412d51d6d39b63188d092ffa96c3f1",
     "summary": "29/10: Arquitetura de referência validada e falhas na entrega da IPNet identificadas; próxima etapa é reunião técnica para realinhamento da proposta."
+  },
+  "aBJKf000009onvJOAQ": {
+    "history_hash": "510c53d08197bc065c8dff77bd2b1f9b",
+    "summary": "13/05: Aguardando aprovação interna do Commit para prosseguir com o desenvolvimento da carga de trabalho."
   }
 }

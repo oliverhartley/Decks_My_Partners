@@ -47,14 +47,16 @@
   "aBJKf000009tcKpOAI": {
     "notes": "",
     "attachments": [],
-    "status_tecnico": "",
-    "updated_at": "2026-10-28T08:01:08.418925"
+    "status_tecnico": "Cliente avançou nas negociações; aguardo agendamento de reunião estratégica com Jardel para definir os próximos passos do projeto.\nEl real problema era que el cliente no entendia que el costo de la infra que se hizo para la PoC (Camaras) aumentara tanto para el productivo (1276 Camaras). Se explico que el costo mas importante es el sotorage. Yo aporte con una idea de los videos mas antiguos hacer un proceso con vision AI y eliminar todos los periodos sin movimiento. Lo cla el cliente le gusto.. Propuesta entregada",
+    "updated_at": "2026-11-04T08:00:27.173500",
+    "deep_dive": true
   },
   "aBJKf000009tOUvOAM": {
     "notes": "",
     "attachments": [],
-    "status_tecnico": "Já está no Cloud Connect, poderia ser 4.3",
-    "updated_at": "2026-10-28T19:10:58.251804"
+    "status_tecnico": "SantoDigital ajustará a proposta e Roberta agendará reunião com o cliente para viabilizar infraestrutura de 1.000 câmeras.\nohl - Vliente (Cristiano Cruz le gusta la propuesta y es la que va a apoyar para el Cierre). El cierre Propuesta se espera para la primera semana de Nov",
+    "updated_at": "2026-11-04T08:00:27.173500",
+    "deep_dive": true
   },
   "aBJKf000000GouMOAS": {
     "notes": "",
@@ -455,9 +457,11 @@
     "notes": "",
     "attachments": [],
     "client_technical_contact": "Fernando Machado Ouverney Diniz (fernando.ouverney@petz.com.br)",
-    "updated_at": "2026-10-20T13:03:57.190485",
+    "updated_at": "2026-11-04T08:00:27.173500",
     "partner_technical_contact": "cruz.lucas@cloud-ace.com",
-    "partner_technical_email": "cruz.lucas@cloud-ace.com"
+    "partner_technical_email": "cruz.lucas@cloud-ace.com",
+    "status_tecnico": "O cliente está analisando os próximos passos para definição da estratégia e continuidade do projeto.\ndeployment kickoff with the partner was initiated and the customer's Gemini Enterprise tenant is provisioned, setting the next milestone at 50% license activation",
+    "deep_dive": true
   },
   "aBJKf000009WCIpOAO": {
     "notes": "",
@@ -503,7 +507,8 @@
     "notes": "",
     "attachments": [],
     "client_technical_contact": "Bruno Pinho (bruno.pinho@servinformacion.com)",
-    "updated_at": "2026-10-20T13:03:57.190485"
+    "updated_at": "2026-11-04T08:00:27.173500",
+    "status_tecnico": "Asumio el workload el 19 de oct, en etapa de persecucion"
   },
   "aBJKf000009e9d5OAA": {
     "notes": "",
@@ -545,7 +550,9 @@
     "notes": "",
     "attachments": [],
     "client_technical_contact": "Marcio Camurati (marcio.camurati@estapar.com.br)",
-    "updated_at": "2026-10-20T13:03:57.190485"
+    "updated_at": "2026-11-04T08:00:27.173500",
+    "status_tecnico": "Trial encerrado e 20 licenças Pay-as-you-go ativadas; o projeto segue em operação mensal com acompanhamento do parceiro e time FSM/FSR.\nohl - 21 sept Se configuraron agentes en Gemini Enterprise, uso de Canvas, conectores de Workspace/Databricks y cambio al modelo 3.8 Flash.\noh- 22 OCT - Pasa a 4.1",
+    "deep_dive": true
   },
   "aBJKf000009WCjlOAG": {
     "notes": "",
@@ -1328,7 +1335,9 @@
     "notes": "",
     "attachments": [],
     "client_technical_contact": "Leonel Danczuk Danczuk (acosta@velalatam.com)",
-    "updated_at": "2026-10-20T13:03:57.190485"
+    "updated_at": "2026-11-04T08:00:27.173500",
+    "status_tecnico": "Se cambia la estrategia, del Wiz A la Carte a Wiz Go, que es de deployment rapito, permite hacer tambien el levantamiento para que el 2027 transformar al wiz a la carte. Next Step",
+    "deep_dive": true
   },
   "aBJ4M000000LAzYWAW": {
     "notes": "",
@@ -2193,9 +2202,9 @@
     "notes": "",
     "attachments": [],
     "partner_technical_contact": "thais.macedo@santodigital.com.br",
-    "updated_at": "2026-10-28T08:01:08.418925",
+    "updated_at": "2026-11-04T08:00:27.173500",
     "blocker_tecnico": "Tecnico",
-    "status_tecnico": "Mañana hace el primer training. Quieren 5. licencias adicionales. E fazer a connecao de Outlook. Yo la hago con el equipo tecnico"
+    "status_tecnico": "Aligned with SantoDigital (Thais Prado): awaiting finance release of 50 trial licenses for Atakarejo, after which a 30-min we will have 2 wheeks of followp, i will not participate in all of them"
   },
   "aBJKf000009eKGXOA2": {
     "notes": "",
@@ -2321,7 +2330,9 @@
     "notes": "",
     "attachments": [],
     "dat_hygine_needed": true,
-    "updated_at": "2026-10-28T19:10:58.251804"
+    "updated_at": "2026-11-04T08:00:27.173500",
+    "status_tecnico": "Problemas con el conector de Outlook. Problemas de Quotas y Consumo. Reunion se programara por el partner el la semana del2 de Nov",
+    "deep_dive": true
   },
   "aBJKf000009onuuOAA": {
     "notes": "",
@@ -2381,7 +2392,9 @@
     "notes": "",
     "attachments": [],
     "dat_hygine_needed": true,
-    "updated_at": "2026-10-28T19:10:58.251804"
+    "updated_at": "2026-11-04T08:00:27.173500",
+    "status_tecnico": "Parceiro QiNetwork integrado; foco agora no fechamento comercial e preparação para a implementação em novembro com FSR e Solis. Demo Session for Pátria leadership (including CTO Kevin Knowles, Dagoberto Souza, Guilherme Toledo, and Cristian Rojas), demonstrating user-perspective workflows, governance controls, and identifying the need for a structured adoption plan to activate idle licenses",
+    "deep_dive": true
   },
   "aBJKf000009kKUsOAM": {
     "notes": "",
@@ -2417,15 +2430,51 @@
   },
   "aBJKf000009kJ2iOAE": {
     "partner_technical_contact": "gwspst@nuvemshop.com.br",
-    "partner_technical_email": "gwspst@nuvemshop.com.br"
+    "partner_technical_email": "gwspst@nuvemshop.com.br",
+    "status_tecnico": "Conducted the technical account review on October 20, 2026 covering Gemini Enterprise seat adoption and GCP model usage, establishing the follow-up technical session with the customer for November 9, 2026 (Tiendanube + Google Cloud | Agent Platform).",
+    "deep_dive": true,
+    "updated_at": "2026-11-04T08:00:27.173500"
   },
   "aBJKf000009tOYOOA2": {
     "partner_technical_contact": "e.martins@sauter.digital",
-    "partner_technical_email": "e.martins@sauter.digital"
+    "partner_technical_email": "e.martins@sauter.digital",
+    "status_tecnico": "Cliente em Recuperação Judicial; buscando viabilização via AWT, pendente aprovação das condições comerciais.\nReuion por problema grave de Costos de BigQuery. Problema resuelto via reestructuracion de tablas y guardado de dats a clous storage. Plan enviado a sauter para implementacion.\nCongelamiento por blackfriday, Retomar primera semana de Octubre",
+    "deep_dive": true,
+    "updated_at": "2026-11-04T08:00:27.173500"
   },
   "aBJKf000004ZO3xOAG": {
     "partner_technical_contact": "Vanessa Moyses (daniel.almeida@santodigital.com.br)",
     "partner_technical_email": "daniel.almeida@santodigital.com.br",
     "updated_at": "2026-11-03T08:03:16.372145"
+  },
+  "aBJKf000009eLHlOAM": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "Propuesta de GE + Wiz 26 Empresas",
+    "updated_at": "2026-11-04T08:00:27.173500"
+  },
+  "aBJKf000009eQONOA2": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "Projeto em desenvolvimento interno pela equipe da Climatempo, sem bloqueios reportados até o momento.\n\nOHL- ou proposed a value-differentiation strategy for Gemini Enterprise vs. OpenAI while uncovering that Climatempo's Norwegian parent holding (StormGeo) had imposed strict top-down cost reviews across the account. StormGeo (Norwegian parent company) imposed a strict financial/cost audit, stalling new cloud and AI initiatives",
+    "updated_at": "2026-11-04T08:00:27.173500"
+  },
+  "aBJKf000004ZSfWOAW": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "Demo Avanzada - Cliente avalia padronização com GE para cobrir shortfall de $75k no Q4; aguardamos alinhamento com FSR.",
+    "updated_at": "2026-11-04T08:00:27.173500"
+  },
+  "aBJKf000004ZSW0OAO": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "SOW técnica com conformidade enviada ao parceiro; aguardando ajustes finais de métricas e DRP para assinatura.",
+    "updated_at": "2026-11-04T08:00:27.173500"
+  },
+  "aBJKf000004ZMQuOAO": {
+    "notes": "",
+    "attachments": [],
+    "status_tecnico": "Co-led the with QiNetwork for Pátria group technical stakeholders (Dagoberto Souza, Guilherme Toledo, Cristian Rojas, Kevin Knowles, Andre Moura) to evaluate Gemini Enterprise user capabilities and align on the group-wide activation plan",
+    "updated_at": "2026-11-04T08:00:27.173500"
   }
 }
