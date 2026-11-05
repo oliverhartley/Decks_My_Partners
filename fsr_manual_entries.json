@@ -34,37 +34,45 @@
   "Bemol_IA": {},
   "aBJKf000009eVIAOA2": {
     "dat_hygine_needed": true,
-    "updated_at": "2026-11-02T12:24:30.101690",
+    "updated_at": "2026-11-05T08:00:33.378807",
     "status_tec": "Oportunidade de Broadcast não é prioridade atual (foco na Copa do Mundo Feminina de 2027); em acompanhamento com Roberta Coelho e MadeinWeb (leonardo@madeinweb.com.br).",
-    "partner_tech_contact": "leonardo@madeinweb.com.br"
+    "partner_tech_contact": "leonardo@madeinweb.com.br",
+    "ex_deep_dive": true
   },
   "Broadcast_CBF": {
     "dat_hygine_needed": true,
-    "updated_at": "2026-10-28T19:10:58.251804"
+    "updated_at": "2026-11-05T08:00:33.378807",
+    "status_tec": "Oportunidade de Broadcast não é prioridade atual (foco na Copa do Mundo Feminina de 2027); em acompanhamento com Roberta Coelho e MadeinWeb (leonardo@madeinweb.com.br).",
+    "partner_tech_contact": "leonardo@madeinweb.com.br",
+    "ex_deep_dive": true
   },
   "aBJKf000009eQUGOA2": {
     "partner_tech_contact": "mnatalia@madeinweb.com.br",
-    "updated_at": "2026-10-28T19:10:58.251804",
-    "dat_hygine_needed": true
+    "updated_at": "2026-11-05T08:00:33.378807",
+    "dat_hygine_needed": true,
+    "ex_deep_dive": true
   },
   "CBF_IA": {
     "partner_tech_contact": "mnatalia@madeinweb.com.br",
-    "updated_at": "2026-10-28T19:10:58.251804",
-    "dat_hygine_needed": true
+    "updated_at": "2026-11-05T08:00:33.378807",
+    "dat_hygine_needed": true,
+    "ex_deep_dive": true
   },
   "aBJKf000009eMfyOAE": {},
   "Infratakeover_CIBRA": {},
   "aBJKf000009eMKMOA2": {
     "partner_tech_contact": "Roberta Coelho (etelvina.mendes@venhapranuvem.com.br)",
-    "updated_at": "2026-10-28T19:10:58.251804",
+    "updated_at": "2026-11-05T08:04:09.760002",
     "status_tecnico": "Já está no Cloud Connect, poderia ser 4.3",
-    "dat_hygine_needed": true
+    "dat_hygine_needed": true,
+    "next_steps": "Falta ativivar mais usuarios falar con etelvina para proponer AI trining con 50 pessoas"
   },
   "Cibra_GE": {
     "partner_tech_contact": "Roberta Coelho (etelvina.mendes@venhapranuvem.com.br)",
-    "updated_at": "2026-10-28T19:10:58.251804",
+    "updated_at": "2026-11-05T08:04:09.760002",
     "status_tecnico": "Já está no Cloud Connect, poderia ser 4.3",
-    "dat_hygine_needed": true
+    "dat_hygine_needed": true,
+    "next_steps": "Falta ativivar mais usuarios falar con etelvina para proponer AI trining con 50 pessoas"
   },
   "aBJKf000009tOftOAE": {
     "dat_hygine_needed": true,
@@ -114,13 +122,15 @@
   "NovoAtacarejo_Ge App": {},
   "aBJKf000009tcKpOAI": {
     "status_tecnico": "Cliente avançou nas negociações; aguardo agendamento de reunião estratégica com Jardel para definir os próximos passos do projeto.\nEl real problema era que el cliente no entendia que el costo de la infra que se hizo para la PoC (Camaras) aumentara tanto para el productivo (1276 Camaras). Se explico que el costo mas importante es el sotorage. Yo aporte con una idea de los videos mas antiguos hacer un proceso con vision AI y eliminar todos los periodos sin movimiento. Lo cla el cliente le gusto.. Propuesta entregada",
-    "updated_at": "2026-11-04T08:00:27.173500",
-    "deep_dive": true
+    "updated_at": "2026-11-05T08:00:33.378807",
+    "deep_dive": true,
+    "next_steps": "OPing jardel perguntar plo SOW \"novo\"\nPedir jardel falar de GE pros que nao esato usando. Antigravity"
   },
   "Migração Monuv_": {
     "status_tecnico": "Cliente avançou nas negociações; aguardo agendamento de reunião estratégica com Jardel para definir os próximos passos do projeto.\nEl real problema era que el cliente no entendia que el costo de la infra que se hizo para la PoC (Camaras) aumentara tanto para el productivo (1276 Camaras). Se explico que el costo mas importante es el sotorage. Yo aporte con una idea de los videos mas antiguos hacer un proceso con vision AI y eliminar todos los periodos sin movimiento. Lo cla el cliente le gusto.. Propuesta entregada",
-    "updated_at": "2026-11-04T08:00:27.173500",
-    "deep_dive": true
+    "updated_at": "2026-11-05T08:00:33.378807",
+    "deep_dive": true,
+    "next_steps": "OPing jardel perguntar plo SOW \"novo\"\nPedir jardel falar de GE pros que nao esato usando. Antigravity"
   },
   "aBJKf000009tOUvOAM": {
     "status_tecnico": "SantoDigital ajustará a proposta e Roberta agendará reunião com o cliente para viabilizar infraestrutura de 1.000 câmeras.\nohl - Vliente (Cristiano Cruz le gusta la propuesta y es la que va a apoyar para el Cierre). El cierre Propuesta se espera para la primera semana de Nov",
@@ -133,11 +143,13 @@
   "SolarBR_SAP_IaaS": {},
   "aBJKf000009eKGXOA2": {
     "partner_tech_contact": "dathayde@kyndryl.com",
-    "updated_at": "2026-10-27T13:34:17.966150"
+    "updated_at": "2026-11-05T08:00:33.378807",
+    "next_steps": "Solar falar con eles para pedir que podemos fazer"
   },
   "SolarBR_GeminiApp": {
     "partner_tech_contact": "dathayde@kyndryl.com",
-    "updated_at": "2026-10-27T13:34:17.966150"
+    "updated_at": "2026-11-05T08:00:33.378807",
+    "next_steps": "Solar falar con eles para pedir que podemos fazer"
   },
   "aBJKf000009eFahOAE": {},
   "RedeBahia_Movetocloud": {},
@@ -1337,11 +1349,19 @@
   "Projeto Amazonia Legal": {},
   "aBJKf000004ZMQuOAO": {
     "status_tecnico": "Co-led the with QiNetwork for Pátria group technical stakeholders (Dagoberto Souza, Guilherme Toledo, Cristian Rojas, Kevin Knowles, Andre Moura) to evaluate Gemini Enterprise user capabilities and align on the group-wide activation plan",
-    "updated_at": "2026-11-04T08:00:27.173500"
+    "updated_at": "2026-11-05T08:00:33.378807",
+    "next_steps": "asinou o contrato en la semana pasada. sao migracoes dee 12 DC, mais tem Cloude. Defnir conectores y",
+    "partner_impl_date": "Next Week",
+    "partner_prod_date": "15-dic",
+    "deep_dive": true
   },
   "GE_SEK": {
     "status_tecnico": "Co-led the with QiNetwork for Pátria group technical stakeholders (Dagoberto Souza, Guilherme Toledo, Cristian Rojas, Kevin Knowles, Andre Moura) to evaluate Gemini Enterprise user capabilities and align on the group-wide activation plan",
-    "updated_at": "2026-11-04T08:00:27.173500"
+    "updated_at": "2026-11-05T08:00:33.378807",
+    "next_steps": "asinou o contrato en la semana pasada. sao migracoes dee 12 DC, mais tem Cloude. Defnir conectores y",
+    "partner_impl_date": "Next Week",
+    "partner_prod_date": "15-dic",
+    "deep_dive": true
   },
   "aBJKf000004ZTuSOAW": {},
   "CEP_Alper": {},
@@ -1359,11 +1379,21 @@
   "SECOPS+SCC_Athena": {},
   "aBJKf000004ZKKuOAO": {
     "partner_tech_contact": "Daniel de Almeida (lucas.feitoza@qinetwork.com.br)",
-    "updated_at": "2026-10-27T14:41:22.852580"
+    "updated_at": "2026-11-05T08:04:09.760002",
+    "status_tecnico": "reunio 16 de octubro con kevin CTO do cliente. Existe un cronograma de adocao. Masi estao en procesos de auditorias internas. Se configuraao outlook y microsoft SSO",
+    "next_steps": "Sao 200 Std y 500 Frotline. pelo lado do usuario y de seguridad, que pasa se se cria un agnete. pedir una listagen de testes pra comprovacao",
+    "partner_impl_date": "esta implementado",
+    "partner_prod_date": "46339",
+    "deep_dive": true
   },
   "Recommit Patria/ GE": {
     "partner_tech_contact": "Daniel de Almeida (lucas.feitoza@qinetwork.com.br)",
-    "updated_at": "2026-10-27T14:41:22.852580"
+    "updated_at": "2026-11-05T08:04:09.760002",
+    "status_tecnico": "reunio 16 de octubro con kevin CTO do cliente. Existe un cronograma de adocao. Masi estao en procesos de auditorias internas. Se configuraao outlook y microsoft SSO",
+    "next_steps": "Sao 200 Std y 500 Frotline. pelo lado do usuario y de seguridad, que pasa se se cria un agnete. pedir una listagen de testes pra comprovacao",
+    "partner_impl_date": "esta implementado",
+    "partner_prod_date": "46339",
+    "deep_dive": true
   },
   "aBJKf000004ZNzCOAW": {},
   "WIZ_Alper": {},
@@ -1475,8 +1505,14 @@
   "SCC_Rio Galeao": {},
   "aBJKf000009e7wOOAQ": {},
   "BIG BOX #INFRA": {},
-  "aBJKf000004ZSXDOA4": {},
-  "Agentplatform_Lazarim": {},
+  "aBJKf000004ZSXDOA4": {
+    "partner_tech_contact": "Vanessa Moyses",
+    "updated_at": "2026-11-05T08:04:09.760002"
+  },
+  "Agentplatform_Lazarim": {
+    "partner_tech_contact": "Vanessa Moyses",
+    "updated_at": "2026-11-05T08:04:09.760002"
+  },
   "aBJKf000004ZRukOAG": {
     "client_tech_contact": "Christian De Aguiar (christian.aguiar@winity.com.br)",
     "updated_at": "2026-10-20T13:03:57.190485"
@@ -3755,15 +3791,19 @@
   "Consumo de API": {},
   "aBJKf000004ZVbNOAW": {
     "dat_hygine_needed": true,
-    "updated_at": "2026-11-04T08:00:27.173500",
+    "updated_at": "2026-11-05T08:04:09.760002",
     "status_tecnico": "Parceiro QiNetwork integrado; foco agora no fechamento comercial e preparação para a implementação em novembro com FSR e Solis. Demo Session for Pátria leadership (including CTO Kevin Knowles, Dagoberto Souza, Guilherme Toledo, and Cristian Rojas), demonstrating user-perspective workflows, governance controls, and identifying the need for a structured adoption plan to activate idle licenses",
-    "deep_dive": true
+    "deep_dive": true,
+    "next_steps": "esta deificil por causa da eleicao, o negocio ta mais dificil, estamos fozando uma resposta pra bem ou pra nao.",
+    "partner_tech_contact": "Vanessa Moyses"
   },
   "GE_Solis": {
     "dat_hygine_needed": true,
-    "updated_at": "2026-11-04T08:00:27.173500",
+    "updated_at": "2026-11-05T08:04:09.760002",
     "status_tecnico": "Parceiro QiNetwork integrado; foco agora no fechamento comercial e preparação para a implementação em novembro com FSR e Solis. Demo Session for Pátria leadership (including CTO Kevin Knowles, Dagoberto Souza, Guilherme Toledo, and Cristian Rojas), demonstrating user-perspective workflows, governance controls, and identifying the need for a structured adoption plan to activate idle licenses",
-    "deep_dive": true
+    "deep_dive": true,
+    "next_steps": "esta deificil por causa da eleicao, o negocio ta mais dificil, estamos fozando uma resposta pra bem ou pra nao.",
+    "partner_tech_contact": "Vanessa Moyses"
   },
   "aBJKf000004ZVegOAG": {},
   "aBJKf000004ZVeHOAW": {
@@ -3799,10 +3839,22 @@
   "Cloud SQL": {},
   "aBJKf000004ZLRDOA4": {},
   "Apsen Farmaceutica - GCP": {},
-  "aBJKf000004ZVoCOAW": {},
-  "Solis Migração2": {},
-  "aBJKf000004ZVo7OAG": {},
-  "Migração Solis_1": {},
+  "aBJKf000004ZVoCOAW": {
+    "partner_tech_contact": "Vanessa Moyses",
+    "updated_at": "2026-11-05T08:04:09.760002"
+  },
+  "Solis Migração2": {
+    "partner_tech_contact": "Vanessa Moyses",
+    "updated_at": "2026-11-05T08:04:09.760002"
+  },
+  "aBJKf000004ZVo7OAG": {
+    "partner_tech_contact": "Vanessa Moyses",
+    "updated_at": "2026-11-05T08:04:09.760002"
+  },
+  "Migração Solis_1": {
+    "partner_tech_contact": "Vanessa Moyses",
+    "updated_at": "2026-11-05T08:04:09.760002"
+  },
   "aBJKf000004ZW0hOAG": {},
   "Google Translatos": {},
   "renanvaladares||SINAGRO PRODUTOS AGROPECUARIOS SA||Sinova #OUT #GCP #Gemini Enterprise #BR + Dados||SAP - Sinova": {},
@@ -3828,5 +3880,11 @@
   "aBJKf000009te87OAA": {},
   "Pos Commit - PSF DA": {},
   "aBJKf000009g3cUOAQ": {},
-  "CEP_Patria": {}
+  "CEP_Patria": {},
+  "aBJKf000009g4E9OAI": {},
+  "Migração OCI_Braveo_Onda 1": {},
+  "aBJKf000009g4BeOAI": {},
+  "[Torra] Analytics - Big Query Expansion": {},
+  "aBJKf000009ebkFOAQ": {},
+  "Gemini_Unimed Palmas": {}
 }

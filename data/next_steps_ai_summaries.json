@@ -44,8 +44,8 @@
     "summary": "30/06 - EBC agendado para 22/07 em São Paulo; foco atual na preparação e logística para o evento."
   },
   "aBJKf000009tK9aOAE": {
-    "history_hash": "9ca63b03f6d7dc92311b38e003b26748",
-    "summary": "28/08: Após revisão de roadmap pela nova CTO e processo de RFP, projeto aguarda aprovação final da Diretoria."
+    "history_hash": "c5cb575e416ccd1e4319934afc7fa56e",
+    "summary": "28/08: O projeto está em fase final, aguardando aprovação da Diretoria para definir o parceiro e dar continuidade ao RFP."
   },
   "aBJKf000009tOYOOA2": {
     "history_hash": "8d71d400ba54bf7cf67b120fde65e85f",
@@ -816,8 +816,8 @@
     "summary": "18/08: Projetos paralisados por cancelamento extrajudicial; comercial avalia atualização de datas ou encerramento dos workloads."
   },
   "aBJKf0000082JXhOAM": {
-    "history_hash": "966f24d4dc80f66fa9902e75d530d04a",
-    "summary": "18/08: Projetos paralisados por cancelamento extrajudicial; comercial avalia atualização de datas ou encerramento dos workloads."
+    "history_hash": "0febd64b91d0bb58471416e756c19443",
+    "summary": "18/08: Projetos paralisados por carta extrajudicial; área comercial avalia se atualizará cronograma ou cancelará os workloads no sistema."
   },
   "aBJKf000004ZIi4OAG": {
     "history_hash": "ee477a2f814e080d38e04bafd849f487",
@@ -1200,7 +1200,7 @@
     "summary": "19/10: Proposta com FSP enviada ao cliente; aguardando retorno para dar continuidade ao projeto e validar a implementação da plataforma."
   },
   "aBJKf000004ZR8bOAG": {
-    "history_hash": "7649e2ed3ac49095f62ba9b633748a42",
+    "history_hash": "051240d54a41035621fa67b937b60fe0",
     "summary": "[2026-10-19] [2026-10-19] Slip +30d (-> 2026-11-18): Meeting in person with Caio Barbosa (CE) to deep dive"
   },
   "aBJKf000004ZKiVOAW": {
@@ -1360,8 +1360,8 @@
     "summary": "[2026-10-13] Cliente está adotando o uso de Agent Platform gradualmente e irá aumentar o consumo com a evolução do projeto de Analytics Modernization"
   },
   "aBJKf000009olynOAA": {
-    "history_hash": "ee5c16d1b14bd6bf270a7e3bf79241e8",
-    "summary": "[2026-10-13] Reunião com cliente para avaliar o uso do Agent Platform para acessar modelos da Anthropic via Gateway de modelos"
+    "history_hash": "a4d230061e29b4bd2a6d57f7be0afcda",
+    "summary": "13/10: Em avaliação técnica do uso do Agent Platform para conexão com modelos da Anthropic via Gateway de modelos."
   },
   "aBJKf000009eBBvOAM": {
     "history_hash": "a7626598f761e964a55b44ace0a6721e",
@@ -1380,8 +1380,8 @@
     "summary": "Cliente participou do evento da Movit dia 10/09 e agora BDR esta buscando proxima agenda"
   },
   "aBJKf000009eQ22OAE": {
-    "history_hash": "6fa125f6fe7a830fc0d67783c9576485",
-    "summary": "[2026-10-07] Enviei mensagem a partner Etelvina, aguardando retorno para alinhamento de datas"
+    "history_hash": "4c885605f5552db8f884ebb1755f2203",
+    "summary": "07/10: Aguardamos retorno da parceira Etelvina para alinhar as próximas datas e avançar com o agendamento da reunião técnica."
   },
   "aBJKf000004ZDV2OAO": {
     "history_hash": "cf4fb284116a4d86d9d4de3e48a03fdd",
@@ -1392,8 +1392,8 @@
     "summary": "[2026-09-09] Cliente irá amanhã no evento de Segurança da Movit, estão interessado em saber mais do tema."
   },
   "aBJKf000004ZLZXOA4": {
-    "history_hash": "cca7cab7c378d0d98ed4b9ad62489c0b",
-    "summary": "13/10: Contrato em fase final de negociação; o início da migração depende exclusivamente da assinatura do documento."
+    "history_hash": "6474af392427492fca25d7544ba7ecbe",
+    "summary": "[2026-10-13] Fase final de negociação do contrato, pendente assinatura para início de migração."
   },
   "aBJKf000009kMUVOA2": {
     "history_hash": "df18402b5b1b526130e7a4c42f863ba4",
@@ -1624,8 +1624,8 @@
     "summary": "28/10: Oportunidade Broadcast em pausa; o próximo passo é alinhar cronograma e estrutura comercial com Roberta Coelho (FSR) e MadeinWeb."
   },
   "aBJKf000009eaqROAQ": {
-    "history_hash": "25caa24fe43d861856682c6fc7486bb8",
-    "summary": "29/10: Em definição o workshop de casos de uso IA para o Tec Win e alinhamento com Datalakers sobre arquitetura e agentes."
+    "history_hash": "d5d8555e226b80f99fbdb937f2cb5bab",
+    "summary": "29/10: Em definição o workshop de casos de uso IA e sync com Datalakers para alinhamento da arquitetura e agentes BQ."
   },
   "aBJKf000009kPgGOAU": {
     "history_hash": "4e139784ea109b7c7a0778884b1ee37e",
@@ -1640,8 +1640,8 @@
     "summary": "28/10: Oportunidade será encerrada pela MadeinWeb, dado que o workload não terá evolução ou continuidade."
   },
   "aBJKf000009kJ3DOAU": {
-    "history_hash": "a52cb6b182425c286a0423d7f242a9de",
-    "summary": "28/10: O projeto foi cancelado após alinhamento com o parceiro, encerrando as atividades da implementação."
+    "history_hash": "b3c81fd2974abda5670c07aaf815392d",
+    "summary": "28/10: Projeto cancelado após alinhamento com o parceiro, sem necessidade de novas implementações ou ações pendentes."
   },
   "aBJKf000004ZSW0OAO": {
     "history_hash": "865108d8b0e8579dd11d6ae5f27fc8ee",
@@ -1692,7 +1692,47 @@
     "summary": "29/10: Arquitetura de referência validada e falhas na entrega da IPNet identificadas; próxima etapa é reunião técnica para realinhamento da proposta."
   },
   "aBJKf000009onvJOAQ": {
-    "history_hash": "510c53d08197bc065c8dff77bd2b1f9b",
-    "summary": "13/05: Aguardando aprovação interna do Commit para prosseguir com o desenvolvimento da carga de trabalho."
+    "history_hash": "2c0a5114d4480f546c3c0558a8a4e7bc",
+    "summary": "03/11: Aguardando aprovação interna para viabilizar o avanço do Commit."
+  },
+  "aBJKf000009on9UOAQ": {
+    "history_hash": "a4b7b62b8de263557b872542afbaee6d",
+    "summary": "Aguardo retorno do cliente"
+  },
+  "aBJKf000009kMPzOAM": {
+    "history_hash": "7102793105d3e11fb43bc69277a561ba",
+    "summary": "05/11: Reunião agendada com o Principal Engineer Bernardo Murta para definir os próximos passos do projeto."
+  },
+  "aBJKf000009kNZXOA2": {
+    "history_hash": "6201ab3ebc8b892f9df22abe58a5fd7d",
+    "summary": "15/05: Projeto de medição em fase de assinatura contratual, com início do escopo previsto para daqui a duas semanas."
+  },
+  "aBJKf000009kNZgOAM": {
+    "history_hash": "0cadda58d50a6bad54f1e7b755771495",
+    "summary": "15/05: O workload foi descontinuado pelo parceiro; a próxima etapa é realizar o encerramento definitivo do registro no Salesforce."
+  },
+  "aBJKf000009kJ6QOAU": {
+    "history_hash": "b7b0841a27550b3cc41f2193232f9030",
+    "summary": "18/06: Workload encerrado por descontinuidade do projeto e falta de avanço na iniciativa; sem pendências adicionais."
+  },
+  "aBJKf000009onuuOAA": {
+    "history_hash": "dcddef699dc2da464dc4501e5f9f984c",
+    "summary": "04/11: Workload sem iniciativa ativa; pendente de validação com o time comercial para encerramento e higiene do registro no Salesforce."
+  },
+  "aBJKf000009om0yOAA": {
+    "history_hash": "3af22b28d6ef97ffa545a858da220781",
+    "summary": "14/05: Cliente priorizará consumo das licenças Gemini Enterprise atuais, sem novos projetos em Vertex AI; avalia-se encerramento da oportunidade."
+  },
+  "aBJKf000009kKUxOAM": {
+    "history_hash": "052cea2f9596df4162cc7d2e042e75e9",
+    "summary": "15/05: Registro identificado como duplicado e em fase de revisão para consolidação, visando o saneamento do pipeline da oportunidade de renovação."
+  },
+  "aBJKf000009g4BeOAI": {
+    "history_hash": "5b0e94c647abbdd1cc7374f66effba67",
+    "summary": "22/05: DAF para POC de novas fontes no BigQuery aguarda aprovação para viabilizar o início da implementação."
+  },
+  "aBJKf000004ZKlsOAG": {
+    "history_hash": "d3e38eaa7072b9232680314a5b177613",
+    "summary": "01/11: GE ativado pelo parceiro IPNET; aguardamos consumo total para migração à versão 4.3 e consolidação do run rate."
   }
 }

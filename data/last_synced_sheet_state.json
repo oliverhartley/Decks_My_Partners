@@ -44,7 +44,7 @@
     "partner_impl_date": "",
     "partner_prod_date": "",
     "deep_dive": false,
-    "ex_deep_dive": false,
+    "ex_deep_dive": true,
     "next_steps": ""
   },
   "Infratakeover_CIBRA": {
@@ -125,7 +125,7 @@
     "partner_prod_date": "",
     "deep_dive": true,
     "ex_deep_dive": false,
-    "next_steps": ""
+    "next_steps": "OPing jardel perguntar plo SOW \"novo\"\nPedir jardel falar de GE pros que nao esato usando. Antigravity"
   },
   "GrupoCVLB_Enriquecimento de catalogo&Veomarketing_JornadaIA": {
     "blocker": "",
@@ -174,7 +174,7 @@
     "partner_impl_date": "",
     "partner_prod_date": "",
     "deep_dive": false,
-    "ex_deep_dive": false,
+    "ex_deep_dive": true,
     "next_steps": ""
   },
   "DM_Migração bancoAWS_GCP_GrupoCVLB": {
@@ -201,7 +201,7 @@
     "partner_prod_date": "",
     "deep_dive": false,
     "ex_deep_dive": false,
-    "next_steps": ""
+    "next_steps": "Solar falar con eles para pedir que podemos fazer"
   },
   "JornadaIA_Alvoar_marketing&sales": {
     "blocker": "",
@@ -341,7 +341,7 @@
     "partner_prod_date": "",
     "deep_dive": false,
     "ex_deep_dive": false,
-    "next_steps": ""
+    "next_steps": "Falta ativivar mais usuarios falar con etelvina para proponer AI trining con 50 pessoas"
   },
   "COMPANHIA DE SANEAMENTO DE ALAGOAS - InfraMod": {
     "blocker": "",
@@ -1686,7 +1686,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Bernardo Murta (bernardo@dynamox.net)",
+    "client_tech_contact": "Bernardo Henrique Pereira Murta (bernardo@dynamox.net)",
     "nao_existe": false,
     "dat_hygine_needed": false,
     "partner_impl_date": "",
@@ -1738,7 +1738,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Bernardo Murta (bernardo@dynamox.net)",
+    "client_tech_contact": "Bernardo Henrique Pereira Murta (bernardo@dynamox.net)",
     "nao_existe": false,
     "dat_hygine_needed": true,
     "partner_impl_date": "",
@@ -1786,7 +1786,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Bernardo Murta (bernardo@dynamox.net)",
+    "client_tech_contact": "Bernardo Henrique Pereira Murta (bernardo@dynamox.net)",
     "nao_existe": true,
     "dat_hygine_needed": false,
     "partner_impl_date": "",
@@ -1838,7 +1838,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Bernardo Murta (bernardo@dynamox.net)",
+    "client_tech_contact": "Bernardo Henrique Pereira Murta (bernardo@dynamox.net)",
     "nao_existe": true,
     "dat_hygine_needed": false,
     "partner_impl_date": "",
@@ -2549,11 +2549,11 @@
     "client_tech_contact": "Joao Perez (joaopedroperez@sek.io)",
     "nao_existe": false,
     "dat_hygine_needed": false,
-    "partner_impl_date": "",
-    "partner_prod_date": "",
-    "deep_dive": false,
+    "partner_impl_date": "Next Week",
+    "partner_prod_date": "15-dic",
+    "deep_dive": true,
     "ex_deep_dive": false,
-    "next_steps": ""
+    "next_steps": "asinou o contrato en la semana pasada. sao migracoes dee 12 DC, mais tem Cloude. Defnir conectores y"
   },
   "Crescimento Infra_WPS": {
     "blocker": "",
@@ -2675,7 +2675,7 @@
   },
   "Recommit Patria/ GE": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "reunio 16 de octubro con kevin CTO do cliente. Existe un cronograma de adocao. Masi estao en procesos de auditorias internas. Se configuraao outlook y microsoft SSO",
     "partner_tech_email": "lucas.feitoza@qinetwork.com.br",
     "technical_win": false,
     "proposal_sent": false,
@@ -2683,11 +2683,11 @@
     "client_tech_contact": "Dagoberto Souza (angelo.figaro@patria.com.br)",
     "nao_existe": false,
     "dat_hygine_needed": false,
-    "partner_impl_date": "",
-    "partner_prod_date": "",
-    "deep_dive": false,
+    "partner_impl_date": "esta implementado",
+    "partner_prod_date": "46339",
+    "deep_dive": true,
     "ex_deep_dive": false,
-    "next_steps": ""
+    "next_steps": "Sao 200 Std y 500 Frotline. pelo lado do usuario y de seguridad, que pasa se se cria un agnete. pedir una listagen de testes pra comprovacao"
   },
   "WIZ_Alper": {
     "blocker": "",
@@ -3593,8 +3593,8 @@
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
-    "partner_tech_contact": "",
-    "client_tech_contact": "",
+    "partner_tech_contact": "Vanessa Moyses",
+    "client_tech_contact": "Mayra Ciranda Cultural (mayra.nunes@cirandacultural.com.br)",
     "nao_existe": false,
     "dat_hygine_needed": false,
     "partner_impl_date": "",
@@ -5653,7 +5653,7 @@
     "partner_impl_date": "",
     "partner_prod_date": "",
     "deep_dive": false,
-    "ex_deep_dive": false,
+    "ex_deep_dive": true,
     "next_steps": ""
   },
   "aBJKf000009eQUGOA2": {
@@ -5669,7 +5669,7 @@
     "partner_impl_date": "",
     "partner_prod_date": "",
     "deep_dive": false,
-    "ex_deep_dive": false,
+    "ex_deep_dive": true,
     "next_steps": ""
   },
   "aBJKf000009eMfyOAE": {
@@ -5702,7 +5702,7 @@
     "partner_prod_date": "",
     "deep_dive": false,
     "ex_deep_dive": false,
-    "next_steps": ""
+    "next_steps": "Falta ativivar mais usuarios falar con etelvina para proponer AI trining con 50 pessoas"
   },
   "aBJKf000009tOftOAE": {
     "blocker": "",
@@ -5832,7 +5832,7 @@
     "partner_prod_date": "",
     "deep_dive": true,
     "ex_deep_dive": false,
-    "next_steps": ""
+    "next_steps": "OPing jardel perguntar plo SOW \"novo\"\nPedir jardel falar de GE pros que nao esato usando. Antigravity"
   },
   "aBJKf000009tOUvOAM": {
     "blocker": "",
@@ -5896,7 +5896,7 @@
     "partner_prod_date": "",
     "deep_dive": false,
     "ex_deep_dive": false,
-    "next_steps": ""
+    "next_steps": "Solar falar con eles para pedir que podemos fazer"
   },
   "aBJKf000009eFahOAE": {
     "blocker": "",
@@ -6929,7 +6929,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Bernardo Murta (bernardo@dynamox.net)",
+    "client_tech_contact": "Bernardo Henrique Pereira Murta (bernardo@dynamox.net)",
     "nao_existe": false,
     "dat_hygine_needed": false,
     "partner_impl_date": "",
@@ -7393,7 +7393,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Bernardo Murta (bernardo@dynamox.net)",
+    "client_tech_contact": "Bernardo Henrique Pereira Murta (bernardo@dynamox.net)",
     "nao_existe": false,
     "dat_hygine_needed": false,
     "partner_impl_date": "",
@@ -7441,7 +7441,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Bernardo Murta (bernardo@dynamox.net)",
+    "client_tech_contact": "Bernardo Henrique Pereira Murta (bernardo@dynamox.net)",
     "nao_existe": false,
     "dat_hygine_needed": true,
     "partner_impl_date": "",
@@ -7489,7 +7489,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Bernardo Murta (bernardo@dynamox.net)",
+    "client_tech_contact": "Bernardo Henrique Pereira Murta (bernardo@dynamox.net)",
     "nao_existe": true,
     "dat_hygine_needed": false,
     "partner_impl_date": "",
@@ -7553,7 +7553,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Bernardo Murta (bernardo@dynamox.net)",
+    "client_tech_contact": "Bernardo Henrique Pereira Murta (bernardo@dynamox.net)",
     "nao_existe": true,
     "dat_hygine_needed": false,
     "partner_impl_date": "",
@@ -8192,11 +8192,11 @@
     "client_tech_contact": "Joao Perez (joaopedroperez@sek.io)",
     "nao_existe": false,
     "dat_hygine_needed": false,
-    "partner_impl_date": "",
-    "partner_prod_date": "",
-    "deep_dive": false,
+    "partner_impl_date": "Next Week",
+    "partner_prod_date": "15-dic",
+    "deep_dive": true,
     "ex_deep_dive": false,
-    "next_steps": ""
+    "next_steps": "asinou o contrato en la semana pasada. sao migracoes dee 12 DC, mais tem Cloude. Defnir conectores y"
   },
   "aBJKf000004ZTuSOAW": {
     "blocker": "",
@@ -8264,7 +8264,7 @@
   },
   "aBJKf000004ZKKuOAO": {
     "blocker": "",
-    "status_tecnico": "",
+    "status_tecnico": "reunio 16 de octubro con kevin CTO do cliente. Existe un cronograma de adocao. Masi estao en procesos de auditorias internas. Se configuraao outlook y microsoft SSO",
     "partner_tech_email": "lucas.feitoza@qinetwork.com.br",
     "technical_win": false,
     "proposal_sent": false,
@@ -8272,11 +8272,11 @@
     "client_tech_contact": "Dagoberto Souza (angelo.figaro@patria.com.br)",
     "nao_existe": false,
     "dat_hygine_needed": false,
-    "partner_impl_date": "",
-    "partner_prod_date": "",
-    "deep_dive": false,
+    "partner_impl_date": "esta implementado",
+    "partner_prod_date": "46339",
+    "deep_dive": true,
     "ex_deep_dive": false,
-    "next_steps": ""
+    "next_steps": "Sao 200 Std y 500 Frotline. pelo lado do usuario y de seguridad, que pasa se se cria un agnete. pedir una listagen de testes pra comprovacao"
   },
   "aBJKf000004ZNzCOAW": {
     "blocker": "",
@@ -8702,8 +8702,8 @@
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
-    "partner_tech_contact": "",
-    "client_tech_contact": "",
+    "partner_tech_contact": "Vanessa Moyses",
+    "client_tech_contact": "Mayra Ciranda Cultural (mayra.nunes@cirandacultural.com.br)",
     "nao_existe": false,
     "dat_hygine_needed": false,
     "partner_impl_date": "",
@@ -11463,7 +11463,7 @@
     "technical_win": false,
     "proposal_sent": false,
     "partner_tech_contact": "",
-    "client_tech_contact": "Bernardo Murta (bernardo@dynamox.net)",
+    "client_tech_contact": "Bernardo Henrique Pereira Murta (bernardo@dynamox.net)",
     "nao_existe": false,
     "dat_hygine_needed": false,
     "partner_impl_date": "",
@@ -14130,7 +14130,7 @@
     "partner_prod_date": "",
     "deep_dive": true,
     "ex_deep_dive": false,
-    "next_steps": ""
+    "next_steps": "esta deificil por causa da eleicao, o negocio ta mais dificil, estamos fozando uma resposta pra bem ou pra nao."
   },
   "GE_Solis": {
     "blocker": "",
@@ -14145,7 +14145,7 @@
     "partner_prod_date": "",
     "deep_dive": true,
     "ex_deep_dive": false,
-    "next_steps": ""
+    "next_steps": "esta deificil por causa da eleicao, o negocio ta mais dificil, estamos fozando uma resposta pra bem ou pra nao."
   },
   "aBJKf000004ZVegOAG": {
     "blocker": "",
@@ -14755,5 +14755,95 @@
     "deep_dive": false,
     "ex_deep_dive": false,
     "next_steps": ""
+  },
+  "aBJKf000009g4E9OAI": {
+    "blocker": "",
+    "status_tecnico": "",
+    "next_steps": "",
+    "proposal_sent": false,
+    "technical_win": false,
+    "nao_existe": false,
+    "dat_hygine_needed": false,
+    "partner_tech_contact": "Vanessa Moyses",
+    "client_tech_contact": "Hugo Conrado Tavares Gomides (marcelo.alexandre@braveo.com.br)",
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
+  },
+  "Migração OCI_Braveo_Onda 1": {
+    "blocker": "",
+    "status_tecnico": "",
+    "next_steps": "",
+    "proposal_sent": false,
+    "technical_win": false,
+    "nao_existe": false,
+    "dat_hygine_needed": false,
+    "partner_tech_contact": "Vanessa Moyses",
+    "client_tech_contact": "Hugo Conrado Tavares Gomides (marcelo.alexandre@braveo.com.br)",
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
+  },
+  "aBJKf000009g4BeOAI": {
+    "blocker": "",
+    "status_tecnico": "",
+    "next_steps": "",
+    "proposal_sent": false,
+    "technical_win": false,
+    "nao_existe": false,
+    "dat_hygine_needed": false,
+    "partner_tech_contact": "Franz Beckenbauer Ribeiro (franz.ribeiro@leega.com.br)",
+    "client_tech_contact": "André Soares (andre.soares@lojastorra.com.br)",
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
+  },
+  "[Torra] Analytics - Big Query Expansion": {
+    "blocker": "",
+    "status_tecnico": "",
+    "next_steps": "",
+    "proposal_sent": false,
+    "technical_win": false,
+    "nao_existe": false,
+    "dat_hygine_needed": false,
+    "partner_tech_contact": "Franz Beckenbauer Ribeiro (franz.ribeiro@leega.com.br)",
+    "client_tech_contact": "André Soares (andre.soares@lojastorra.com.br)",
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
+  },
+  "aBJKf000009ebkFOAQ": {
+    "blocker": "",
+    "status_tecnico": "",
+    "next_steps": "",
+    "proposal_sent": false,
+    "technical_win": false,
+    "nao_existe": false,
+    "dat_hygine_needed": false,
+    "partner_tech_contact": "",
+    "client_tech_contact": "Thamiris Pedreti (charles@unimedpalmas.com.br)",
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
+  },
+  "Gemini_Unimed Palmas": {
+    "blocker": "",
+    "status_tecnico": "",
+    "next_steps": "",
+    "proposal_sent": false,
+    "technical_win": false,
+    "nao_existe": false,
+    "dat_hygine_needed": false,
+    "partner_tech_contact": "",
+    "client_tech_contact": "Thamiris Pedreti (charles@unimedpalmas.com.br)",
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   }
 }

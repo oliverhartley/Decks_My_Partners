@@ -48,8 +48,9 @@
     "notes": "",
     "attachments": [],
     "status_tecnico": "Cliente avançou nas negociações; aguardo agendamento de reunião estratégica com Jardel para definir os próximos passos do projeto.\nEl real problema era que el cliente no entendia que el costo de la infra que se hizo para la PoC (Camaras) aumentara tanto para el productivo (1276 Camaras). Se explico que el costo mas importante es el sotorage. Yo aporte con una idea de los videos mas antiguos hacer un proceso con vision AI y eliminar todos los periodos sin movimiento. Lo cla el cliente le gusto.. Propuesta entregada",
-    "updated_at": "2026-11-04T08:00:27.173500",
-    "deep_dive": true
+    "updated_at": "2026-11-05T08:00:33.378807",
+    "deep_dive": true,
+    "next_steps": "OPing jardel perguntar plo SOW \"novo\"\nPedir jardel falar de GE pros que nao esato usando. Antigravity"
   },
   "aBJKf000009tOUvOAM": {
     "notes": "",
@@ -2196,7 +2197,12 @@
     "notes": "",
     "attachments": [],
     "partner_technical_contact": "Daniel de Almeida (lucas.feitoza@qinetwork.com.br)",
-    "updated_at": "2026-10-27T14:41:22.852580"
+    "updated_at": "2026-11-05T08:04:09.760002",
+    "status_tecnico": "reunio 16 de octubro con kevin CTO do cliente. Existe un cronograma de adocao. Masi estao en procesos de auditorias internas. Se configuraao outlook y microsoft SSO",
+    "next_steps": "Sao 200 Std y 500 Frotline. pelo lado do usuario y de seguridad, que pasa se se cria un agnete. pedir una listagen de testes pra comprovacao",
+    "partner_implementation_date": "esta implementado",
+    "partner_production_date": "46339",
+    "deep_dive": true
   },
   "aBJKf000004ZJMPOA4": {
     "notes": "",
@@ -2210,22 +2216,25 @@
     "notes": "",
     "attachments": [],
     "partner_technical_contact": "dathayde@kyndryl.com",
-    "updated_at": "2026-10-27T13:34:17.966150"
+    "updated_at": "2026-11-05T08:00:33.378807",
+    "next_steps": "Solar falar con eles para pedir que podemos fazer"
   },
   "aBJKf000009eQUGOA2": {
     "notes": "",
     "attachments": [],
     "partner_technical_contact": "mnatalia@madeinweb.com.br",
-    "updated_at": "2026-10-28T19:10:58.251804",
-    "dat_hygine_needed": true
+    "updated_at": "2026-11-05T08:00:33.378807",
+    "dat_hygine_needed": true,
+    "ex_deep_dive": true
   },
   "aBJKf000009eMKMOA2": {
     "notes": "",
     "attachments": [],
     "partner_technical_contact": "Roberta Coelho (etelvina.mendes@venhapranuvem.com.br)",
-    "updated_at": "2026-10-28T19:10:58.251804",
+    "updated_at": "2026-11-05T08:04:09.760002",
     "status_tecnico": "Já está no Cloud Connect, poderia ser 4.3",
-    "dat_hygine_needed": true
+    "dat_hygine_needed": true,
+    "next_steps": "Falta ativivar mais usuarios falar con etelvina para proponer AI trining con 50 pessoas"
   },
   "aBJKf000004ZQ9nOAG": {
     "notes": "",
@@ -2269,9 +2278,10 @@
     "notes": "",
     "attachments": [],
     "dat_hygine_needed": true,
-    "updated_at": "2026-10-28T19:10:58.251804",
+    "updated_at": "2026-11-05T08:00:33.378807",
     "partner_technical_contact": "leonardo@madeinweb.com.br",
-    "partner_technical_email": "leonardo@madeinweb.com.br"
+    "partner_technical_email": "leonardo@madeinweb.com.br",
+    "ex_deep_dive": true
   },
   "aBJKf000009kPgGOAU": {
     "notes": "",
@@ -2392,9 +2402,11 @@
     "notes": "",
     "attachments": [],
     "dat_hygine_needed": true,
-    "updated_at": "2026-11-04T08:00:27.173500",
+    "updated_at": "2026-11-05T08:04:09.760002",
     "status_tecnico": "Parceiro QiNetwork integrado; foco agora no fechamento comercial e preparação para a implementação em novembro com FSR e Solis. Demo Session for Pátria leadership (including CTO Kevin Knowles, Dagoberto Souza, Guilherme Toledo, and Cristian Rojas), demonstrating user-perspective workflows, governance controls, and identifying the need for a structured adoption plan to activate idle licenses",
-    "deep_dive": true
+    "deep_dive": true,
+    "next_steps": "esta deificil por causa da eleicao, o negocio ta mais dificil, estamos fozando uma resposta pra bem ou pra nao.",
+    "partner_technical_contact": "Vanessa Moyses"
   },
   "aBJKf000009kKUsOAM": {
     "notes": "",
@@ -2475,6 +2487,28 @@
     "notes": "",
     "attachments": [],
     "status_tecnico": "Co-led the with QiNetwork for Pátria group technical stakeholders (Dagoberto Souza, Guilherme Toledo, Cristian Rojas, Kevin Knowles, Andre Moura) to evaluate Gemini Enterprise user capabilities and align on the group-wide activation plan",
-    "updated_at": "2026-11-04T08:00:27.173500"
+    "updated_at": "2026-11-05T08:00:33.378807",
+    "next_steps": "asinou o contrato en la semana pasada. sao migracoes dee 12 DC, mais tem Cloude. Defnir conectores y",
+    "partner_implementation_date": "Next Week",
+    "partner_production_date": "15-dic",
+    "deep_dive": true
+  },
+  "aBJKf000004ZVo7OAG": {
+    "notes": "",
+    "attachments": [],
+    "partner_technical_contact": "Vanessa Moyses",
+    "updated_at": "2026-11-05T08:04:09.760002"
+  },
+  "aBJKf000004ZVoCOAW": {
+    "notes": "",
+    "attachments": [],
+    "partner_technical_contact": "Vanessa Moyses",
+    "updated_at": "2026-11-05T08:04:09.760002"
+  },
+  "aBJKf000004ZSXDOA4": {
+    "notes": "",
+    "attachments": [],
+    "partner_technical_contact": "Vanessa Moyses",
+    "updated_at": "2026-11-05T08:04:09.760002"
   }
 }
