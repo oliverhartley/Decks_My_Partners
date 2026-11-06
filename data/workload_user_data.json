@@ -48,9 +48,9 @@
     "notes": "",
     "attachments": [],
     "status_tecnico": "Cliente avançou nas negociações; aguardo agendamento de reunião estratégica com Jardel para definir os próximos passos do projeto.\nEl real problema era que el cliente no entendia que el costo de la infra que se hizo para la PoC (Camaras) aumentara tanto para el productivo (1276 Camaras). Se explico que el costo mas importante es el sotorage. Yo aporte con una idea de los videos mas antiguos hacer un proceso con vision AI y eliminar todos los periodos sin movimiento. Lo cla el cliente le gusto.. Propuesta entregada",
-    "updated_at": "2026-11-05T08:00:33.378807",
+    "updated_at": "2026-11-06T08:00:30.739921",
     "deep_dive": true,
-    "next_steps": "OPing jardel perguntar plo SOW \"novo\"\nPedir jardel falar de GE pros que nao esato usando. Antigravity"
+    "next_steps": "JA presioner Jardel Pelo SOW Esta pesperando Ok do Cliente\nPedir jardel falar de GE pros que nao esato usando. Antigravity"
   },
   "aBJKf000009tOUvOAM": {
     "notes": "",
@@ -458,11 +458,12 @@
     "notes": "",
     "attachments": [],
     "client_technical_contact": "Fernando Machado Ouverney Diniz (fernando.ouverney@petz.com.br)",
-    "updated_at": "2026-11-04T08:00:27.173500",
-    "partner_technical_contact": "cruz.lucas@cloud-ace.com",
+    "updated_at": "2026-11-06T08:00:30.739921",
+    "partner_technical_contact": "pedro.loureiro@geoambiente.com.br",
     "partner_technical_email": "cruz.lucas@cloud-ace.com",
     "status_tecnico": "O cliente está analisando os próximos passos para definição da estratégia e continuidade do projeto.\ndeployment kickoff with the partner was initiated and the customer's Gemini Enterprise tenant is provisioned, setting the next milestone at 50% license activation",
-    "deep_dive": true
+    "deep_dive": true,
+    "next_steps": "Estamos abriendo la posibilidad de adelantar el enablement, conmigo haciendo entrenamientos"
   },
   "aBJKf000009WCIpOAO": {
     "notes": "",
@@ -508,8 +509,9 @@
     "notes": "",
     "attachments": [],
     "client_technical_contact": "Bruno Pinho (bruno.pinho@servinformacion.com)",
-    "updated_at": "2026-11-04T08:00:27.173500",
-    "status_tecnico": "Asumio el workload el 19 de oct, en etapa de persecucion"
+    "updated_at": "2026-11-06T08:00:30.739921",
+    "status_tecnico": "Asumio el workload el 19 de oct, en etapa de persecucion",
+    "deep_dive": true
   },
   "aBJKf000009e9d5OAA": {
     "notes": "",
@@ -1336,9 +1338,10 @@
     "notes": "",
     "attachments": [],
     "client_technical_contact": "Leonel Danczuk Danczuk (acosta@velalatam.com)",
-    "updated_at": "2026-11-04T08:00:27.173500",
+    "updated_at": "2026-11-06T08:00:30.739921",
     "status_tecnico": "Se cambia la estrategia, del Wiz A la Carte a Wiz Go, que es de deployment rapito, permite hacer tambien el levantamiento para que el 2027 transformar al wiz a la carte. Next Step",
-    "deep_dive": true
+    "deep_dive": true,
+    "next_steps": "Se cambia la Estrategia de WIz, from Wiz a la carte to Wiz Go. Si bien son 26 enpresas la idea es poder iniciar con aurum."
   },
   "aBJ4M000000LAzYWAW": {
     "notes": "",
@@ -2196,10 +2199,10 @@
   "aBJKf000004ZKKuOAO": {
     "notes": "",
     "attachments": [],
-    "partner_technical_contact": "Daniel de Almeida (lucas.feitoza@qinetwork.com.br)",
-    "updated_at": "2026-11-05T08:04:09.760002",
+    "partner_technical_contact": "lucas.feitoza@qinetwork.com.br",
+    "updated_at": "2026-11-06T08:00:30.739921",
     "status_tecnico": "reunio 16 de octubro con kevin CTO do cliente. Existe un cronograma de adocao. Masi estao en procesos de auditorias internas. Se configuraao outlook y microsoft SSO",
-    "next_steps": "Sao 200 Std y 500 Frotline. pelo lado do usuario y de seguridad, que pasa se se cria un agnete. pedir una listagen de testes pra comprovacao",
+    "next_steps": "Validando 18 ítems de evidencia acordados con el CTO (Kevin) para liberar a 700 usuarios la próxima semana.\n• Licencias: Mix de 200 Standard y 500 Frontline. Duda técnica sobre pérdida de historial/agentes al cambiar de licencia.",
     "partner_implementation_date": "esta implementado",
     "partner_production_date": "46339",
     "deep_dive": true
@@ -2216,8 +2219,9 @@
     "notes": "",
     "attachments": [],
     "partner_technical_contact": "dathayde@kyndryl.com",
-    "updated_at": "2026-11-05T08:00:33.378807",
-    "next_steps": "Solar falar con eles para pedir que podemos fazer"
+    "updated_at": "2026-11-06T08:00:30.739921",
+    "next_steps": "Solar falar con eles para pedir que podemos fazer",
+    "deep_dive": true
   },
   "aBJKf000009eQUGOA2": {
     "notes": "",
@@ -2231,10 +2235,11 @@
     "notes": "",
     "attachments": [],
     "partner_technical_contact": "Roberta Coelho (etelvina.mendes@venhapranuvem.com.br)",
-    "updated_at": "2026-11-05T08:04:09.760002",
+    "updated_at": "2026-11-06T08:00:30.739921",
     "status_tecnico": "Já está no Cloud Connect, poderia ser 4.3",
     "dat_hygine_needed": true,
-    "next_steps": "Falta ativivar mais usuarios falar con etelvina para proponer AI trining con 50 pessoas"
+    "next_steps": "Falta ativivar mais usuarios falar con etelvina para proponer AI trining con 50 pessoas",
+    "deep_dive": true
   },
   "aBJKf000004ZQ9nOAG": {
     "notes": "",
@@ -2376,7 +2381,8 @@
     "notes": "",
     "attachments": [],
     "status_tecnico": "Processo de adoção iniciado - Deveria ser 4.3",
-    "updated_at": "2026-10-28T19:10:58.251804"
+    "updated_at": "2026-11-06T08:00:30.739921",
+    "deep_dive": true
   },
   "aBJKf000004ZJNQOA4": {
     "notes": "",
@@ -2402,11 +2408,11 @@
     "notes": "",
     "attachments": [],
     "dat_hygine_needed": true,
-    "updated_at": "2026-11-05T08:04:09.760002",
+    "updated_at": "2026-11-06T08:00:30.739921",
     "status_tecnico": "Parceiro QiNetwork integrado; foco agora no fechamento comercial e preparação para a implementação em novembro com FSR e Solis. Demo Session for Pátria leadership (including CTO Kevin Knowles, Dagoberto Souza, Guilherme Toledo, and Cristian Rojas), demonstrating user-perspective workflows, governance controls, and identifying the need for a structured adoption plan to activate idle licenses",
     "deep_dive": true,
-    "next_steps": "esta deificil por causa da eleicao, o negocio ta mais dificil, estamos fozando uma resposta pra bem ou pra nao.",
-    "partner_technical_contact": "Vanessa Moyses"
+    "next_steps": "• Alcance propuesto: Migración menor de workloads + subsidio para 200 licencias de Gemini Enterprise.\n• Bloqueo: Desaceleración tras las elecciones en Brasil. El CTO (Alex) debía dar respuesta el viernes pasado pero sigue sin confirmar.",
+    "partner_technical_contact": "lucas.feitoza@qinetwork.com.br"
   },
   "aBJKf000009kKUsOAM": {
     "notes": "",
@@ -2469,7 +2475,8 @@
     "notes": "",
     "attachments": [],
     "status_tecnico": "Projeto em desenvolvimento interno pela equipe da Climatempo, sem bloqueios reportados até o momento.\n\nOHL- ou proposed a value-differentiation strategy for Gemini Enterprise vs. OpenAI while uncovering that Climatempo's Norwegian parent holding (StormGeo) had imposed strict top-down cost reviews across the account. StormGeo (Norwegian parent company) imposed a strict financial/cost audit, stalling new cloud and AI initiatives",
-    "updated_at": "2026-11-04T08:00:27.173500"
+    "updated_at": "2026-11-06T08:00:30.739921",
+    "deep_dive": true
   },
   "aBJKf000004ZSfWOAW": {
     "notes": "",
@@ -2487,11 +2494,12 @@
     "notes": "",
     "attachments": [],
     "status_tecnico": "Co-led the with QiNetwork for Pátria group technical stakeholders (Dagoberto Souza, Guilherme Toledo, Cristian Rojas, Kevin Knowles, Andre Moura) to evaluate Gemini Enterprise user capabilities and align on the group-wide activation plan",
-    "updated_at": "2026-11-05T08:00:33.378807",
-    "next_steps": "asinou o contrato en la semana pasada. sao migracoes dee 12 DC, mais tem Cloude. Defnir conectores y",
+    "updated_at": "2026-11-06T08:00:30.739921",
+    "next_steps": "632 licencias de Gemini Enterprise (40 Standard y 592 Frontline) para reemplazar Claude.\n• Fechas: Se proyectan 2 a 4 semanas de implementación tras el kickoff (meta de implementación hacia el 15 de diciembre). También impactados por capacidad de data centers.",
     "partner_implementation_date": "Next Week",
     "partner_production_date": "15-dic",
-    "deep_dive": true
+    "deep_dive": true,
+    "partner_technical_contact": "lucas.feitoza@qinetwork.com.br"
   },
   "aBJKf000004ZVo7OAG": {
     "notes": "",

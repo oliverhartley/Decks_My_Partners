@@ -125,7 +125,7 @@
     "partner_prod_date": "",
     "deep_dive": true,
     "ex_deep_dive": false,
-    "next_steps": "OPing jardel perguntar plo SOW \"novo\"\nPedir jardel falar de GE pros que nao esato usando. Antigravity"
+    "next_steps": "JA presioner Jardel Pelo SOW Esta pesperando Ok do Cliente\nPedir jardel falar de GE pros que nao esato usando. Antigravity"
   },
   "GrupoCVLB_Enriquecimento de catalogo&Veomarketing_JornadaIA": {
     "blocker": "",
@@ -199,7 +199,7 @@
     "dat_hygine_needed": false,
     "partner_impl_date": "",
     "partner_prod_date": "",
-    "deep_dive": false,
+    "deep_dive": true,
     "ex_deep_dive": false,
     "next_steps": "Solar falar con eles para pedir que podemos fazer"
   },
@@ -339,7 +339,7 @@
     "dat_hygine_needed": true,
     "partner_impl_date": "",
     "partner_prod_date": "",
-    "deep_dive": false,
+    "deep_dive": true,
     "ex_deep_dive": false,
     "next_steps": "Falta ativivar mais usuarios falar con etelvina para proponer AI trining con 50 pessoas"
   },
@@ -1675,7 +1675,7 @@
     "dat_hygine_needed": false,
     "partner_impl_date": "",
     "partner_prod_date": "",
-    "deep_dive": false,
+    "deep_dive": true,
     "ex_deep_dive": false,
     "next_steps": ""
   },
@@ -1691,7 +1691,7 @@
     "dat_hygine_needed": false,
     "partner_impl_date": "",
     "partner_prod_date": "",
-    "deep_dive": false,
+    "deep_dive": true,
     "ex_deep_dive": false,
     "next_steps": ""
   },
@@ -2545,7 +2545,7 @@
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
-    "partner_tech_contact": "",
+    "partner_tech_contact": "lucas.feitoza@qinetwork.com.br",
     "client_tech_contact": "Joao Perez (joaopedroperez@sek.io)",
     "nao_existe": false,
     "dat_hygine_needed": false,
@@ -2553,7 +2553,7 @@
     "partner_prod_date": "15-dic",
     "deep_dive": true,
     "ex_deep_dive": false,
-    "next_steps": "asinou o contrato en la semana pasada. sao migracoes dee 12 DC, mais tem Cloude. Defnir conectores y"
+    "next_steps": "632 licencias de Gemini Enterprise (40 Standard y 592 Frontline) para reemplazar Claude.\n• Fechas: Se proyectan 2 a 4 semanas de implementación tras el kickoff (meta de implementación hacia el 15 de diciembre). También impactados por capacidad de data centers."
   },
   "Crescimento Infra_WPS": {
     "blocker": "",
@@ -2679,7 +2679,7 @@
     "partner_tech_email": "lucas.feitoza@qinetwork.com.br",
     "technical_win": false,
     "proposal_sent": false,
-    "partner_tech_contact": "Daniel de Almeida (lucas.feitoza@qinetwork.com.br)",
+    "partner_tech_contact": "lucas.feitoza@qinetwork.com.br",
     "client_tech_contact": "Dagoberto Souza (angelo.figaro@patria.com.br)",
     "nao_existe": false,
     "dat_hygine_needed": false,
@@ -2687,7 +2687,7 @@
     "partner_prod_date": "46339",
     "deep_dive": true,
     "ex_deep_dive": false,
-    "next_steps": "Sao 200 Std y 500 Frotline. pelo lado do usuario y de seguridad, que pasa se se cria un agnete. pedir una listagen de testes pra comprovacao"
+    "next_steps": "Validando 18 ítems de evidencia acordados con el CTO (Kevin) para liberar a 700 usuarios la próxima semana.\n• Licencias: Mix de 200 Standard y 500 Frontline. Duda técnica sobre pérdida de historial/agentes al cambiar de licencia."
   },
   "WIZ_Alper": {
     "blocker": "",
@@ -5700,7 +5700,7 @@
     "dat_hygine_needed": true,
     "partner_impl_date": "",
     "partner_prod_date": "",
-    "deep_dive": false,
+    "deep_dive": true,
     "ex_deep_dive": false,
     "next_steps": "Falta ativivar mais usuarios falar con etelvina para proponer AI trining con 50 pessoas"
   },
@@ -5832,7 +5832,7 @@
     "partner_prod_date": "",
     "deep_dive": true,
     "ex_deep_dive": false,
-    "next_steps": "OPing jardel perguntar plo SOW \"novo\"\nPedir jardel falar de GE pros que nao esato usando. Antigravity"
+    "next_steps": "JA presioner Jardel Pelo SOW Esta pesperando Ok do Cliente\nPedir jardel falar de GE pros que nao esato usando. Antigravity"
   },
   "aBJKf000009tOUvOAM": {
     "blocker": "",
@@ -5894,7 +5894,7 @@
     "dat_hygine_needed": false,
     "partner_impl_date": "",
     "partner_prod_date": "",
-    "deep_dive": false,
+    "deep_dive": true,
     "ex_deep_dive": false,
     "next_steps": "Solar falar con eles para pedir que podemos fazer"
   },
@@ -6792,7 +6792,7 @@
     "partner_prod_date": "",
     "deep_dive": true,
     "ex_deep_dive": false,
-    "next_steps": ""
+    "next_steps": "Se cambia la Estrategia de WIz, from Wiz a la carte to Wiz Go. Si bien son 26 enpresas la idea es poder iniciar con aurum."
   },
   "aBJKf000009kIJsOAM": {
     "blocker": "",
@@ -7382,7 +7382,7 @@
     "dat_hygine_needed": false,
     "partner_impl_date": "",
     "partner_prod_date": "",
-    "deep_dive": false,
+    "deep_dive": true,
     "ex_deep_dive": false,
     "next_steps": ""
   },
@@ -7398,7 +7398,7 @@
     "dat_hygine_needed": false,
     "partner_impl_date": "",
     "partner_prod_date": "",
-    "deep_dive": false,
+    "deep_dive": true,
     "ex_deep_dive": false,
     "next_steps": ""
   },
@@ -8188,7 +8188,7 @@
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
-    "partner_tech_contact": "",
+    "partner_tech_contact": "lucas.feitoza@qinetwork.com.br",
     "client_tech_contact": "Joao Perez (joaopedroperez@sek.io)",
     "nao_existe": false,
     "dat_hygine_needed": false,
@@ -8196,7 +8196,7 @@
     "partner_prod_date": "15-dic",
     "deep_dive": true,
     "ex_deep_dive": false,
-    "next_steps": "asinou o contrato en la semana pasada. sao migracoes dee 12 DC, mais tem Cloude. Defnir conectores y"
+    "next_steps": "632 licencias de Gemini Enterprise (40 Standard y 592 Frontline) para reemplazar Claude.\n• Fechas: Se proyectan 2 a 4 semanas de implementación tras el kickoff (meta de implementación hacia el 15 de diciembre). También impactados por capacidad de data centers."
   },
   "aBJKf000004ZTuSOAW": {
     "blocker": "",
@@ -8268,7 +8268,7 @@
     "partner_tech_email": "lucas.feitoza@qinetwork.com.br",
     "technical_win": false,
     "proposal_sent": false,
-    "partner_tech_contact": "Daniel de Almeida (lucas.feitoza@qinetwork.com.br)",
+    "partner_tech_contact": "lucas.feitoza@qinetwork.com.br",
     "client_tech_contact": "Dagoberto Souza (angelo.figaro@patria.com.br)",
     "nao_existe": false,
     "dat_hygine_needed": false,
@@ -8276,7 +8276,7 @@
     "partner_prod_date": "46339",
     "deep_dive": true,
     "ex_deep_dive": false,
-    "next_steps": "Sao 200 Std y 500 Frotline. pelo lado do usuario y de seguridad, que pasa se se cria un agnete. pedir una listagen de testes pra comprovacao"
+    "next_steps": "Validando 18 ítems de evidencia acordados con el CTO (Kevin) para liberar a 700 usuarios la próxima semana.\n• Licencias: Mix de 200 Standard y 500 Frontline. Duda técnica sobre pérdida de historial/agentes al cambiar de licencia."
   },
   "aBJKf000004ZNzCOAW": {
     "blocker": "",
@@ -9460,7 +9460,7 @@
     "dat_hygine_needed": false,
     "partner_impl_date": "",
     "partner_prod_date": "",
-    "deep_dive": false,
+    "deep_dive": true,
     "ex_deep_dive": false,
     "next_steps": ""
   },
@@ -9476,7 +9476,7 @@
     "dat_hygine_needed": false,
     "partner_impl_date": "",
     "partner_prod_date": "",
-    "deep_dive": false,
+    "deep_dive": true,
     "ex_deep_dive": false,
     "next_steps": ""
   },
@@ -9658,7 +9658,7 @@
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
-    "partner_tech_contact": "cruz.lucas@cloud-ace.com",
+    "partner_tech_contact": "pedro.loureiro@geoambiente.com.br",
     "client_tech_contact": "Fernando Machado Ouverney Diniz (fernando.ouverney@petz.com.br)",
     "nao_existe": false,
     "dat_hygine_needed": false,
@@ -9666,7 +9666,7 @@
     "partner_prod_date": "",
     "deep_dive": true,
     "ex_deep_dive": false,
-    "next_steps": ""
+    "next_steps": "Estamos abriendo la posibilidad de adelantar el enablement, conmigo haciendo entrenamientos"
   },
   "Petz - Gemini Enterprise": {
     "blocker": "",
@@ -9674,7 +9674,7 @@
     "partner_tech_email": "",
     "technical_win": false,
     "proposal_sent": false,
-    "partner_tech_contact": "cruz.lucas@cloud-ace.com",
+    "partner_tech_contact": "pedro.loureiro@geoambiente.com.br",
     "client_tech_contact": "Fernando Machado Ouverney Diniz (fernando.ouverney@petz.com.br)",
     "nao_existe": false,
     "dat_hygine_needed": false,
@@ -9682,7 +9682,7 @@
     "partner_prod_date": "",
     "deep_dive": true,
     "ex_deep_dive": false,
-    "next_steps": ""
+    "next_steps": "Estamos abriendo la posibilidad de adelantar el enablement, conmigo haciendo entrenamientos"
   },
   "aBJKf000004ZKdQOAW": {
     "blocker": "",
@@ -14120,7 +14120,7 @@
   "aBJKf000004ZVbNOAW": {
     "blocker": "",
     "status_tecnico": "Parceiro QiNetwork integrado; foco agora no fechamento comercial e preparação para a implementação em novembro com FSR e Solis. Demo Session for Pátria leadership (including CTO Kevin Knowles, Dagoberto Souza, Guilherme Toledo, and Cristian Rojas), demonstrating user-perspective workflows, governance controls, and identifying the need for a structured adoption plan to activate idle licenses",
-    "partner_tech_contact": "Vanessa Moyses",
+    "partner_tech_contact": "lucas.feitoza@qinetwork.com.br",
     "client_tech_contact": "Delano Macêdo (delano.macedo@solisinvestimentos.com.br)",
     "technical_win": false,
     "proposal_sent": false,
@@ -14130,12 +14130,12 @@
     "partner_prod_date": "",
     "deep_dive": true,
     "ex_deep_dive": false,
-    "next_steps": "esta deificil por causa da eleicao, o negocio ta mais dificil, estamos fozando uma resposta pra bem ou pra nao."
+    "next_steps": "• Alcance propuesto: Migración menor de workloads + subsidio para 200 licencias de Gemini Enterprise.\n• Bloqueo: Desaceleración tras las elecciones en Brasil. El CTO (Alex) debía dar respuesta el viernes pasado pero sigue sin confirmar."
   },
   "GE_Solis": {
     "blocker": "",
     "status_tecnico": "Parceiro QiNetwork integrado; foco agora no fechamento comercial e preparação para a implementação em novembro com FSR e Solis. Demo Session for Pátria leadership (including CTO Kevin Knowles, Dagoberto Souza, Guilherme Toledo, and Cristian Rojas), demonstrating user-perspective workflows, governance controls, and identifying the need for a structured adoption plan to activate idle licenses",
-    "partner_tech_contact": "Vanessa Moyses",
+    "partner_tech_contact": "lucas.feitoza@qinetwork.com.br",
     "client_tech_contact": "Delano Macêdo (delano.macedo@solisinvestimentos.com.br)",
     "technical_win": false,
     "proposal_sent": false,
@@ -14145,7 +14145,7 @@
     "partner_prod_date": "",
     "deep_dive": true,
     "ex_deep_dive": false,
-    "next_steps": "esta deificil por causa da eleicao, o negocio ta mais dificil, estamos fozando uma resposta pra bem ou pra nao."
+    "next_steps": "• Alcance propuesto: Migración menor de workloads + subsidio para 200 licencias de Gemini Enterprise.\n• Bloqueo: Desaceleración tras las elecciones en Brasil. El CTO (Alex) debía dar respuesta el viernes pasado pero sigue sin confirmar."
   },
   "aBJKf000004ZVegOAG": {
     "blocker": "",
