@@ -44,8 +44,8 @@
     "summary": "03/11 - Projeto encontra-se em pausa (on-hold); aguarda definições para retomada das atividades conforme cronograma estratégico."
   },
   "aBJKf000009tK9aOAE": {
-    "history_hash": "c5cb575e416ccd1e4319934afc7fa56e",
-    "summary": "28/08: O projeto está em fase final, aguardando aprovação da Diretoria para definir o parceiro e dar continuidade ao RFP."
+    "history_hash": "e1f2a4a274b0ad6ec736d55744897f24",
+    "summary": "[2026-11-04] Reuniao feita com a Datalakers - projeto encontra no inicio da definicao de escopo do data lake e da arquitetura medalhao"
   },
   "aBJKf000009tOYOOA2": {
     "history_hash": "8d71d400ba54bf7cf67b120fde65e85f",
@@ -128,8 +128,8 @@
     "summary": "14/07/2025: Retail Search operante e carga no BigQuery iniciada pela Avenue; dúvidas de importação GA4 endereçadas, aguardando retomada do desenvolvimento."
   },
   "aBJKf000009tcKpOAI": {
-    "history_hash": "3004d67ced2b80f854ff6555d0848f5c",
-    "summary": "19/10: SantoDigital ajustará a proposta e Roberta agendará reunião com o cliente para viabilizar a infraestrutura de 1.000 câmeras."
+    "history_hash": "8a0682bba717670807e7a124d29720e9",
+    "summary": "[2026-11-05] Esperando que Jardel tenho o OK do cliente para fazer o novo SOW"
   },
   "aBJKf000006ACUTOA4": {
     "history_hash": "3f53f1c6dd5df3370b3be59b0492e319",
@@ -280,16 +280,16 @@
     "summary": "17/06: Reunião agendada com o cliente para detalhamento técnico da demanda, visando avançar no escopo do projeto."
   },
   "aBJKf000009e7pHOAQ": {
-    "history_hash": "50c32f760ae9a4029cada684043c302a",
-    "summary": "28/10: SOW revisada pelo cliente e Google; projeto aguarda aprovação do PSF para iniciar a execução da fase atual."
+    "history_hash": "5f8a04c7634fd852e2f733e18c9034db",
+    "summary": "[2026-11-05] Reunião de kickoff com a Leega e o cliente agendada provisoriamente para 6/Nov."
   },
   "aBJKf0000082CeCOAU": {
     "history_hash": "958c11b30436d2fb7732be8b586601d9",
     "summary": "06/03: Agenda definida para 19/03 visando iniciar a implementação do Backup DR."
   },
   "aBJKf000009kKHPOA2": {
-    "history_hash": "8a6f82099299d76b38f15682801c33e0",
-    "summary": "30/10: Cliente executa a migração via Dataflow e BigQuery com a ferramenta própria já desenvolvida e em fase de implementação final."
+    "history_hash": "58c0a09488bd31ed8aef898445e9c0bd",
+    "summary": "[2026-11-05] Sync com cliente realizado nesta semana, a migração já iniciou, já refletindo na redução do Firestore e aumento de Cloud SQL e outros serviços para..."
   },
   "aBJKf0000082HgrOAE": {
     "history_hash": "49c5bb1f447567cafde8f54f4b06337f",
@@ -600,8 +600,8 @@
     "summary": "[2026-10-08] 08/10 [VF] - Após imersão no Cresol Google Day (17/09), realizado sync em 05/10 com QI Network (Lucas Feitoza) e FSR estruturando o apoio técnico d..."
   },
   "aBJKf000009kKoOOAU": {
-    "history_hash": "c2269cd3fc033abb2dd45e08d75f92bb",
-    "summary": "28/10: Migração executada pelo cliente com atraso devido a demandas internas; aguarda-se retomada para conclusão das etapas pendentes."
+    "history_hash": "2c0e42f206064ae6ca7760397d9b1f91",
+    "summary": "[2026-10-28] Migração executada pelo cliente e sofreu impacto com demandas internas."
   },
   "aBJKf000009oRYbOAM": {
     "history_hash": "bdee3a26569de6b240226bf3114747f9",
@@ -1040,8 +1040,8 @@
     "summary": "Cliente segue em negociação sobre a parcela do workload a ser migrada."
   },
   "aBJKf000009t97eOAA": {
-    "history_hash": "8f7228e17b94da1896e192c9f0399d39",
-    "summary": "06/10: O projeto está em fase final de negociação contratual, aguardando a formalização do fechamento com o cliente."
+    "history_hash": "dd42b4221f65345d24d147b6fc460be3",
+    "summary": "[2026-11-05] Reunião de kickoff do projeto agendada para 6/Nov. Capacity request no Horizon ainda não aprovado."
   },
   "aBJKf000004ZEsnOAG": {
     "history_hash": "93a8258ae0ada4a0282ab3fef95e57a2",
@@ -1392,8 +1392,8 @@
     "summary": "[2026-09-09] Cliente irá amanhã no evento de Segurança da Movit, estão interessado em saber mais do tema."
   },
   "aBJKf000004ZLZXOA4": {
-    "history_hash": "8ccb92c7df1ba3f958070e62106946cb",
-    "summary": "13/10: Contrato em fase final de negociação; aguarda-se assinatura para iniciar a migração do projeto."
+    "history_hash": "65f7b9bb3819551aea73a3a0e6a25f39",
+    "summary": "[2026-11-05] Kick-off do projeto agendado para dia 6/Nov. Ainda pendente aprovação de capacity request no Horizon."
   },
   "aBJKf000009kMUVOA2": {
     "history_hash": "df18402b5b1b526130e7a4c42f863ba4",
@@ -1624,12 +1624,12 @@
     "summary": "28/10: Oportunidade Broadcast em pausa; o próximo passo é alinhar cronograma e estrutura comercial com Roberta Coelho (FSR) e MadeinWeb."
   },
   "aBJKf000009eaqROAQ": {
-    "history_hash": "d5d8555e226b80f99fbdb937f2cb5bab",
-    "summary": "29/10: Em definição o workshop de casos de uso IA e sync com Datalakers para alinhamento da arquitetura e agentes BQ."
+    "history_hash": "0f532e710df871a60fb035f00298d652",
+    "summary": "[2026-11-04] 03/10 - Reuniao com FSB para levantamenteo de escopo para workshop"
   },
   "aBJKf000009kPgGOAU": {
-    "history_hash": "e0ac69aa4599481f46b0866b6171ab30",
-    "summary": "28/10: Workload atualizada para refletir aumento de receita por término de contrato e reajuste; aguardando conclusão do processo de revisão."
+    "history_hash": "7949b3b5484919e5370e00b9fe86c8df",
+    "summary": "05/11: Workload atualizada para refletir aumento de receita; o resultado de outubro ficou abaixo do esperado, exigindo nova análise."
   },
   "aBJKf000009kJ2xOAE": {
     "history_hash": "8f7d153c7d540d5e6e46d9c473b8a641",
@@ -1700,8 +1700,8 @@
     "summary": "04/11: Cliente avalia a Google Cloud Agent Platform; próximo passo é contatar Edson Figueira para suporte aos testes e alinhamento estratégico."
   },
   "aBJKf000009kMPzOAM": {
-    "history_hash": "94d05bbe8237e75397e5c85a627b500e",
-    "summary": "04/11: Contrato e faturamento migrados; foco atual na expansão do consumo via Vertex AI, com acompanhamento contínuo junto ao cliente."
+    "history_hash": "a0628442f32aeaf8401d6386ec8d0af9",
+    "summary": "[2026-11-04] Contrato assinado e faturamento migrado para o Google, focado na expansão de consumo via Vertex AI Model Garden. Próximo passo: acompanhar a evoluç..."
   },
   "aBJKf000009kNZXOA2": {
     "history_hash": "48d7745da0881a07f7938e4d458911ac",
@@ -1736,7 +1736,15 @@
     "summary": "04/11: GE ativado em 01/11; aguarda consumo pleno para transição à versão 4.3 conforme atingimento do run rate de receita."
   },
   "aBJKf000004ZJNQOA4": {
-    "history_hash": "c156138c84075ce4816b3a7b1a2d057a",
-    "summary": "23/06: Kickoff agendado para 06/nov; o projeto aguarda aprovação do capacity request no Horizon para avançar."
+    "history_hash": "b568462e9ca2c38e431084f59581b9c9",
+    "summary": "[2026-11-05] Reunião de kickoff do projeto agendada para 6/Nov. Capacity request no Horizon ainda não aprovado."
+  },
+  "aBJKf000009kMPaOAM": {
+    "history_hash": "6e328e3b611e63fd8725d68aabefcb62",
+    "summary": "[2026-08-29] [2026-11-06] [fpilon] Cronograma de migracao e producao atualizado para Q4"
+  },
+  "aBJKf000009kJ6LOAU": {
+    "history_hash": "5430ed16406632aa8de42b621e91dde0",
+    "summary": "[2026-06-28] [2026-11-06] [fpilon] Cronograma de implementacao e go-live atualizado para Q4"
   }
 }

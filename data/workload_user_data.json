@@ -2199,8 +2199,8 @@
   "aBJKf000004ZKKuOAO": {
     "notes": "",
     "attachments": [],
-    "partner_technical_contact": "lucas.feitoza@qinetwork.com.br",
-    "updated_at": "2026-11-06T08:00:30.739921",
+    "partner_technical_contact": "Daniel de Almeida (lucas.feitoza@qinetwork.com.br)",
+    "updated_at": "2026-11-07T08:00:41.573964",
     "status_tecnico": "reunio 16 de octubro con kevin CTO do cliente. Existe un cronograma de adocao. Masi estao en procesos de auditorias internas. Se configuraao outlook y microsoft SSO",
     "next_steps": "Validando 18 ítems de evidencia acordados con el CTO (Kevin) para liberar a 700 usuarios la próxima semana.\n• Licencias: Mix de 200 Standard y 500 Frontline. Duda técnica sobre pérdida de historial/agentes al cambiar de licencia.",
     "partner_implementation_date": "esta implementado",
@@ -2408,11 +2408,11 @@
     "notes": "",
     "attachments": [],
     "dat_hygine_needed": true,
-    "updated_at": "2026-11-06T08:00:30.739921",
+    "updated_at": "2026-11-07T08:00:41.573964",
     "status_tecnico": "Parceiro QiNetwork integrado; foco agora no fechamento comercial e preparação para a implementação em novembro com FSR e Solis. Demo Session for Pátria leadership (including CTO Kevin Knowles, Dagoberto Souza, Guilherme Toledo, and Cristian Rojas), demonstrating user-perspective workflows, governance controls, and identifying the need for a structured adoption plan to activate idle licenses",
     "deep_dive": true,
     "next_steps": "• Alcance propuesto: Migración menor de workloads + subsidio para 200 licencias de Gemini Enterprise.\n• Bloqueo: Desaceleración tras las elecciones en Brasil. El CTO (Alex) debía dar respuesta el viernes pasado pero sigue sin confirmar.",
-    "partner_technical_contact": "lucas.feitoza@qinetwork.com.br"
+    "partner_technical_contact": "Vanessa Moyses (lucas.feitoza@qinetwork.com.br)"
   },
   "aBJKf000009kKUsOAM": {
     "notes": "",
