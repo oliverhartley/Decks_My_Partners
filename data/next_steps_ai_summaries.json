@@ -600,8 +600,8 @@
     "summary": "[2026-10-08] 08/10 [VF] - Após imersão no Cresol Google Day (17/09), realizado sync em 05/10 com QI Network (Lucas Feitoza) e FSR estruturando o apoio técnico d..."
   },
   "aBJKf000009kKoOOAU": {
-    "history_hash": "2c0e42f206064ae6ca7760397d9b1f91",
-    "summary": "[2026-10-28] Migração executada pelo cliente e sofreu impacto com demandas internas."
+    "history_hash": "440e4a052c27bee9a03071f8f8b0c1fe",
+    "summary": "06/11: Migração reprogramada para 15/12/2026 devido a demandas internas do cliente; o foco atual é a conclusão do processo."
   },
   "aBJKf000009oRYbOAM": {
     "history_hash": "bdee3a26569de6b240226bf3114747f9",
@@ -1628,8 +1628,8 @@
     "summary": "[2026-11-04] 03/10 - Reuniao com FSB para levantamenteo de escopo para workshop"
   },
   "aBJKf000009kPgGOAU": {
-    "history_hash": "7949b3b5484919e5370e00b9fe86c8df",
-    "summary": "05/11: Workload atualizada para refletir aumento de receita; o resultado de outubro ficou abaixo do esperado, exigindo nova análise."
+    "history_hash": "78822c1aaefa0da18f186cc9edc07bb9",
+    "summary": "[2026-11-06] [2026-11-06] [fpilon] Estagio ajustado para 4.1 Pre-Ramp e novas datas de go-live Q4"
   },
   "aBJKf000009kJ2xOAE": {
     "history_hash": "8f7d153c7d540d5e6e46d9c473b8a641",
@@ -1740,11 +1740,11 @@
     "summary": "[2026-11-05] Reunião de kickoff do projeto agendada para 6/Nov. Capacity request no Horizon ainda não aprovado."
   },
   "aBJKf000009kMPaOAM": {
-    "history_hash": "6e328e3b611e63fd8725d68aabefcb62",
-    "summary": "[2026-08-29] [2026-11-06] [fpilon] Cronograma de migracao e producao atualizado para Q4"
+    "history_hash": "7eebba838f7a9dfbad49b7cbb22ea172",
+    "summary": "06/11: Cronograma de migração e produção atualizado para o Q4; a equipe segue conforme o novo planejamento estabelecido."
   },
   "aBJKf000009kJ6LOAU": {
-    "history_hash": "5430ed16406632aa8de42b621e91dde0",
-    "summary": "[2026-06-28] [2026-11-06] [fpilon] Cronograma de implementacao e go-live atualizado para Q4"
+    "history_hash": "5bd11dfe4bd4534987824a1136ac2ba9",
+    "summary": "[2026-11-06] [2026-11-06] [fpilon] Cronograma de implementacao e go-live atualizado para Q4"
   }
 }
