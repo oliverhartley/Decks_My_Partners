@@ -3,7 +3,7 @@
   "title": "FSR Management Dashboard - Oliver Hartley",
   "url": "https://docs.google.com/spreadsheets/d/1JbaDkmltkqu6aaAKRszEwVFRsJxUSCofCWUKtwcjAhs/edit",
   "total_workloads": 190,
-  "total_arr": 35041916.32,
+  "total_arr": 35111916.32,
   "partnered_count": 150,
   "unpartnered_count": 40,
   "followup_csv": "/usr/local/google/home/oliverhartley/jetski-workspace/fsr-wkld-decks/fsr_decks_data/rollup_oliver_followup.csv",
@@ -63,10 +63,12 @@
     102,
     105,
     109,
+    116,
     123,
     126,
     140,
     141,
+    163,
     191
   ],
   "true_ex_deep_dives": [

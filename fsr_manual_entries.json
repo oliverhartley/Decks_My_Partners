@@ -1380,11 +1380,15 @@
   "Projeto Saude_Athena": {},
   "aBJKf000004ZSfWOAW": {
     "status_tecnico": "Demo Avanzada - Cliente avalia padronização com GE para cobrir shortfall de $75k no Q4; aguardamos alinhamento com FSR.",
-    "updated_at": "2026-11-04T08:00:27.173500"
+    "updated_at": "2026-11-10T08:17:53.482920",
+    "next_steps": "Entro como parceiro pra fazer adocao. no meio do caminho o CTO Parou tudo pra criar politica de uso de AI. CTO e conhecido da ski 1. O proceso retomou faiz 2 semanas. Fizerao un agent de advogacia y agora esta testando o pesoaul juridico. Agora queren fazer uma automatizacao, mais nao eveloiu.",
+    "deep_dive": true
   },
   "GE_Q4_Braveo": {
     "status_tecnico": "Demo Avanzada - Cliente avalia padronização com GE para cobrir shortfall de $75k no Q4; aguardamos alinhamento com FSR.",
-    "updated_at": "2026-11-04T08:00:27.173500"
+    "updated_at": "2026-11-10T08:17:53.482920",
+    "next_steps": "Entro como parceiro pra fazer adocao. no meio do caminho o CTO Parou tudo pra criar politica de uso de AI. CTO e conhecido da ski 1. O proceso retomou faiz 2 semanas. Fizerao un agent de advogacia y agora esta testando o pesoaul juridico. Agora queren fazer uma automatizacao, mais nao eveloiu.",
+    "deep_dive": true
   },
   "aBJKf000004ZSmmOAG": {},
   "SECOPS+SCC_Athena": {},
@@ -1478,13 +1482,15 @@
   },
   "aBJKf000009e8euOAA": {
     "status_tecnico": "Já está no Cloud Connect, poderia ser 4.3",
-    "updated_at": "2026-10-28T19:10:58.251804",
-    "partner_tech_contact": "cruz.lucas@cloud-ace.com"
+    "updated_at": "2026-11-10T08:17:53.482920",
+    "partner_tech_contact": "cruz.lucas@cloud-ace.com",
+    "deep_dive": true
   },
   "Gemini Ent Braveo": {
     "status_tecnico": "Já está no Cloud Connect, poderia ser 4.3",
-    "updated_at": "2026-10-28T19:10:58.251804",
-    "partner_tech_contact": "cruz.lucas@cloud-ace.com"
+    "updated_at": "2026-11-10T08:17:53.482920",
+    "partner_tech_contact": "cruz.lucas@cloud-ace.com",
+    "deep_dive": true
   },
   "aBJKf000004ZRclOAG": {},
   "GE_ONR": {},

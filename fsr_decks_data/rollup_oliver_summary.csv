@@ -1,28 +1,28 @@
 📊 EXECUTIVE SUMMARY & ROLLUP SCORECARD — OLIVER HARTLEY FSR PORTFOLIO,,,,,,,,,,
-"Partner Engineer (PE): Oliver Hartley | Supporting CE: Diego Baldini | Scope: Felipe Pilon, Roberta Coelho, Vanessa Moyses, Ana Luiza Gama | Last Update: 9 - Nov 2026",,,,,,,,,,
+"Partner Engineer (PE): Oliver Hartley | Supporting CE: Diego Baldini | Scope: Felipe Pilon, Roberta Coelho, Vanessa Moyses, Ana Luiza Gama | Last Update: 10 - Nov 2026",,,,,,,,,,
 ,,,,,,,,,,
 1. FSR PORTFOLIO OVERVIEW & PERFORMANCE,,,,,,,,,,
 FSR Name,Supporting CE,FSR Email,Total Workloads (#),Total Pipeline ARR ($ USD),Partnered Workloads (#),Partnered ARR ($ USD),Unpartnered Workloads (#),Unpartnered ARR ($ USD),% Partnered (ARR),Tracking Tab
 Felipe Pilon,Diego Baldini,fpilon@google.com,77,"$17,210,840.00",52,"$12,070,840.00",25,"$5,140,000.00",70.1%,All_Workloads_Follow_up
 Roberta Coelho,Diego Baldini,robertacoelho@google.com,24,"$5,449,076.32",23,"$4,996,688.32",1,"$452,388.00",91.7%,All_Workloads_Follow_up
 Vanessa Moyses,Diego Baldini,vmmoyses@google.com,67,"$7,860,100.00",57,"$6,917,000.00",10,"$943,100.00",88.0%,All_Workloads_Follow_up
-Ana Luiza Gama,Diego Baldini,anagama@google.com,22,"$4,521,900.00",18,"$2,583,900.00",4,"$1,938,000.00",57.1%,All_Workloads_Follow_up
-TOTAL (All 4 FSRs),Diego Baldini,oliverhartley@google.com,190,"$35,041,916.32",150,"$26,568,428.32",40,"$8,473,488.00",75.8%,-
+Ana Luiza Gama,Diego Baldini,anagama@google.com,22,"$4,591,900.00",18,"$2,653,900.00",4,"$1,938,000.00",57.8%,All_Workloads_Follow_up
+TOTAL (All 4 FSRs),Diego Baldini,oliverhartley@google.com,190,"$35,111,916.32",150,"$26,638,428.32",40,"$8,473,488.00",75.9%,-
 ,,,,,,,,,,
 2. PIPELINE BY COMMERCIAL PROGRESS STAGE,,,,,,,,,,
 Commercial Stage,Stage Definition,Workloads (#),Pipeline ARR ($ USD),ARR Share (%),Primary Acceleration Action,,,,,
 00-01,00-01: Qualify & Refine,0,$0.00,0.0%,"Complete discovery, align use case, introduce delivery partner early",,,,,
-02,02: Tech Eval / Solution Dev,67,"$12,190,272.00",34.8%,"Accelerate architecture sizing, PoC validation with Diego Baldini",,,,,
-03,03: Proposal & Negotiation,84,"$16,358,044.32",46.7%,"Finalize commercial proposal, commit validation, consumption pull-in",,,,,
-04+,04+: Implementation & Won,39,"$6,493,600.00",18.5%,"Monitor go-live milestones, unblock technical delivery & support tickets",,,,,
-TOTAL,All Active Stages,190,"$35,041,916.32",100.0%,Full Oliver FSR Commercial Portfolio,,,,,
+02,02: Tech Eval / Solution Dev,67,"$12,190,272.00",34.7%,"Accelerate architecture sizing, PoC validation with Diego Baldini",,,,,
+03,03: Proposal & Negotiation,83,"$15,228,044.32",43.4%,"Finalize commercial proposal, commit validation, consumption pull-in",,,,,
+04+,04+: Implementation & Won,40,"$7,693,600.00",21.9%,"Monitor go-live milestones, unblock technical delivery & support tickets",,,,,
+TOTAL,All Active Stages,190,"$35,111,916.32",100.0%,Full Oliver FSR Commercial Portfolio,,,,,
 ,,,,,,,,,,
 3. TOP PARTNER ENGAGEMENT & DELIVERY CONCENTRATION (TOP 15),,,,,,,,,,
 Partner Organization,Standing / Tier,Workloads (#),Pipeline ARR ($ USD),ARR Share (%),Delivery Alignment,,,,,
-⚠️ Unpartnered Deals,⚠️ No Partner Attached,40,"$8,473,488.00",24.2%,Immediate partner matchmaking,,,,,
+⚠️ Unpartnered Deals,⚠️ No Partner Attached,40,"$8,473,488.00",24.1%,Immediate partner matchmaking,,,,,
 MADEINWEB S/A,Active Delivery Partner,16,"$3,536,159.00",10.1%,Co-selling & delivery tracking,,,,,
-Qinetwork Solucoes Tecnologicas Ltda. ME.,Active Delivery Partner,22,"$3,278,001.00",9.4%,Co-selling & delivery tracking,,,,,
-MOVTI CLOUD SOLUTIONS LTDA,Active Delivery Partner,21,"$2,767,832.00",7.9%,Co-selling & delivery tracking,,,,,
+Qinetwork Solucoes Tecnologicas Ltda. ME.,Active Delivery Partner,22,"$3,278,001.00",9.3%,Co-selling & delivery tracking,,,,,
+MOVTI CLOUD SOLUTIONS LTDA,Active Delivery Partner,21,"$2,837,832.00",8.1%,Co-selling & delivery tracking,,,,,
 KYNDRYL BRASIL SERVICOS LTDA.,Active Delivery Partner,4,"$2,166,880.00",6.2%,Co-selling & delivery tracking,,,,,
 COMPASS.UOL TECNOLOGIA LTDA AVENUE CODE,Active Delivery Partner,3,"$1,950,000.00",5.6%,Co-selling & delivery tracking,,,,,
 SAUTER TECNOLOGIA E SERVICOS LTDA,Active Delivery Partner,12,"$1,767,200.00",5.0%,Co-selling & delivery tracking,,,,,
@@ -38,7 +38,7 @@ TELEFONICA CLOUD E TECNOLOGIA DO BRASIL S.A. (fka IPNET SERVICOS EM NUVEM E DESE
 4. TOP 15 STRATEGIC WORKLOADS (RANKED BY ARR),,,,,,,,,,
 Workload Name,Customer Account,FSR Name,ARR ($ USD),Opportunity Stage,Workload Progress,Partner Name,Target Production Date,,,
 "=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000009kMPfOAM/view"", ""infra - CMA Vela"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00002TFXgdQAH/view"", ""Vela LATAM"")",Felipe Pilon,"$1,500,000.00",01 - Refine,0-2: Tech Eval/Solution Dev,SERVIBRASIL SOLUCOES EM TECNOLOGIA DA INFORMACAO LTDA.,2027-04-13,,,
-"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf0000082JXcOAM/view"", ""MIgração 2026"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001hc1cdQAA/view"", ""MC1 Tecnologia Ltda"")",Felipe Pilon,"$1,200,000.00",03 - Proposal/Negotiation,4.3: Migrated/Implemented,COMPASS.UOL TECNOLOGIA LTDA AVENUE CODE,2026-11-26,,,
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf0000082JXcOAM/view"", ""MIgração 2026"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001hc1cdQAA/view"", ""MC1 Tecnologia Ltda"")",Felipe Pilon,"$1,200,000.00",03 - Proposal/Negotiation,4.2: Ramping / Deliver,COMPASS.UOL TECNOLOGIA LTDA AVENUE CODE,2026-11-26,,,
 "=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000009eDZSOA2/view"", ""SolarBR_SAP_IaaS"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001nUZ1mQAG/view"", ""Solar Coca Cola"")",Roberta Coelho,"$1,024,000.00",04 - Migration/Implementation,4.1: Pre Ramp / Mobilize,KYNDRYL BRASIL SERVICOS LTDA.,2026-11-20,,,
 "=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000004ZLwLOAW/view"", ""[CVC] Anthropic Models on GCP"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001hKHCfQAO/view"", ""CVC CORP"")",Ana Luiza Gama,"$900,000.00",02 - Tech Eval/Solution Dev,3:  Proposal / Negotiation,⚠️ Unpartnered,2027-05-01,,,
 "=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000009eYz7OAE/view"", ""SAP RISE_BEMOL"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001p3DXIQA2/view"", ""Bemol.com.br"")",Roberta Coelho,"$800,000.00",03 - Proposal/Negotiation,0-2: Tech Eval/Solution Dev,SOFTWAREONE COMERCIO E SERVICOS DE INFORMATICA LTDA,2027-03-17,,,
@@ -47,8 +47,8 @@ Workload Name,Customer Account,FSR Name,ARR ($ USD),Opportunity Stage,Workload P
 "=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf0000082JXhOAM/view"", ""Image Recognition"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001hc1cdQAA/view"", ""MC1 Tecnologia Ltda"")",Felipe Pilon,"$600,000.00",03 - Proposal/Negotiation,3:  Proposal / Negotiation,COMPASS.UOL TECNOLOGIA LTDA AVENUE CODE,2027-01-30,,,
 "=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000004ZOgQOAW/view"", ""SAP RISE"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001hY0BlQAK/view"", ""RODOBENS ADMINISTRADORA E CORRETORA DE SEGUROS LTDA."")",Ana Luiza Gama,"$600,000.00",02 - Tech Eval/Solution Dev,0-2: Tech Eval/Solution Dev,T-SYSTEMS DO BRASIL LTDA,2027-01-01,,,
 "=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000009kLXYOA2/view"", ""Gemini Platform"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00002TFXgdQAH/view"", ""Vela LATAM"")",Felipe Pilon,"$600,000.00",01 - Refine,3:  Proposal / Negotiation,MOVTI CLOUD SOLUTIONS LTDA,2026-11-27,,,
+"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000004ZKiVOAW/view"", ""[AASP] Gemini Enterprise"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001huASyQAM/view"", ""ASSOCIAÇÃO DOS ADVOGADOS DE SAO PAULO"")",Ana Luiza Gama,"$570,000.00",03 - Proposal/Negotiation,3:  Proposal / Negotiation,MOVTI CLOUD SOLUTIONS LTDA,2026-11-20,,,
 "=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000009tWEvOAM/view"", ""SolarBR_Data2AI"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001nUZ1mQAG/view"", ""Solar Coca Cola"")",Roberta Coelho,"$550,000.00",02 - Tech Eval/Solution Dev,0-2: Tech Eval/Solution Dev,KYNDRYL BRASIL SERVICOS LTDA.,2027-01-22,,,
-"=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000004ZKiVOAW/view"", ""[AASP] Gemini Enterprise"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001huASyQAM/view"", ""ASSOCIAÇÃO DOS ADVOGADOS DE SAO PAULO"")",Ana Luiza Gama,"$500,000.00",03 - Proposal/Negotiation,3:  Proposal / Negotiation,MOVTI CLOUD SOLUTIONS LTDA,2026-11-20,,,
 "=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000009eD6QOAU/view"", ""Crescimento_FS"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001hkAMdQAM/view"", ""FS Security Serviços de Tecnologia Ltda."")",Vanessa Moyses,"$500,000.00",04 - Migration/Implementation,4.2: Ramping / Deliver,SOMOS NUVEM DO BRASIL SERVIÇOS DE INTERNET LTDA,2026-12-31,,,
 "=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000009kIJsOAM/view"", ""Kdl - Car - Infra VM"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00002Jm9xQQAR/view"", ""Vela LATAM"")",Felipe Pilon,"$500,000.00",01 - Refine,3:  Proposal / Negotiation,KYNDRYL BRASIL SERVICOS LTDA.,2026-12-15,,,
 "=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Workload__c/aBJKf000009eVIAOA2/view"", ""Broadcast_CBF"")","=HYPERLINK(""https://vector.lightning.force.com/lightning/r/Account/0014M00001hqeqJQAQ/view"", ""CBF - CONFEDERAÇÃO BRASILEIRA DE FUTEBOL"")",Roberta Coelho,"$465,852.00",02 - Tech Eval/Solution Dev,0-2: Tech Eval/Solution Dev,MADEINWEB S/A,2026-12-23,,,
