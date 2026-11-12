@@ -14845,5 +14845,21 @@
     "partner_prod_date": "",
     "deep_dive": false,
     "ex_deep_dive": false
+  },
+  "Vela LATAM - Gemini Platform": {
+    "blocker": "",
+    "status_tecnico": "Se cambia la estrategia, del Wiz A la Carte a Wiz Go, que es de deployment rapito, permite hacer tambien el levantamiento para que el 2027 transformar al wiz a la carte. Next Step",
+    "partner_tech_email": "",
+    "technical_win": false,
+    "proposal_sent": false,
+    "partner_tech_contact": "",
+    "client_tech_contact": "Leonel Danczuk Danczuk (acosta@velalatam.com)",
+    "nao_existe": false,
+    "dat_hygine_needed": false,
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": true,
+    "ex_deep_dive": false,
+    "next_steps": "Se cambia la Estrategia de WIz, from Wiz a la carte to Wiz Go. Si bien son 26 enpresas la idea es poder iniciar con aurum."
   }
 }
