@@ -14861,5 +14861,35 @@
     "deep_dive": true,
     "ex_deep_dive": false,
     "next_steps": "Se cambia la Estrategia de WIz, from Wiz a la carte to Wiz Go. Si bien son 26 enpresas la idea es poder iniciar con aurum."
+  },
+  "aBJHq0000004O79OAE": {
+    "blocker": "",
+    "status_tecnico": "",
+    "next_steps": "",
+    "proposal_sent": false,
+    "technical_win": false,
+    "nao_existe": false,
+    "dat_hygine_needed": false,
+    "partner_tech_contact": "",
+    "client_tech_contact": "Cristiano Cruz",
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
+  },
+  "1stWave_VideoAnalytics_FOGAS": {
+    "blocker": "",
+    "status_tecnico": "",
+    "next_steps": "",
+    "proposal_sent": false,
+    "technical_win": false,
+    "nao_existe": false,
+    "dat_hygine_needed": false,
+    "partner_tech_contact": "",
+    "client_tech_contact": "Cristiano Cruz",
+    "partner_impl_date": "",
+    "partner_prod_date": "",
+    "deep_dive": false,
+    "ex_deep_dive": false
   }
 }

@@ -128,7 +128,7 @@
     "summary": "14/07/2025: Retail Search operante e carga no BigQuery iniciada pela Avenue; dúvidas de importação GA4 endereçadas, aguardando retomada do desenvolvimento."
   },
   "aBJKf000009tcKpOAI": {
-    "history_hash": "8a0682bba717670807e7a124d29720e9",
+    "history_hash": "1de1fc9d403681aae1d9da6e9d5e7867",
     "summary": "[2026-11-05] Esperando que Jardel tenho o OK do cliente para fazer o novo SOW"
   },
   "aBJKf000006ACUTOA4": {
@@ -1746,5 +1746,9 @@
   "aBJKf000009kJ6LOAU": {
     "history_hash": "5bd11dfe4bd4534987824a1136ac2ba9",
     "summary": "[2026-11-06] [2026-11-06] [fpilon] Cronograma de implementacao e go-live atualizado para Q4"
+  },
+  "aBJHq0000004O79OAE": {
+    "history_hash": "d19417e48f62813152bed6d04c722ce9",
+    "summary": "13/11: O projeto encontra-se pendente de validação pelo PSF, aguardando esta etapa para prosseguir com as próximas ações."
   }
 }
